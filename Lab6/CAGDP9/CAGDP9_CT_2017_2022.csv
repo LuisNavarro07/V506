@@ -1,0 +1,311 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2017,2018,2019,2020,2021,2022
+ "09000","Connecticut",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",273875070,274582807,274219351,258625032,268846677,276668755
+ "09000","Connecticut",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",246281003,247769657,248269601,233644458,244014136,251611863
+ "09000","Connecticut",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",396712,379175,420275,368288,317474,341406
+ "09000","Connecticut",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",157690,150818,147403,187646,125384,108388
+ "09000","Connecticut",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",4340594,4344050,4399693,4700974,4333836,3800709
+ "09000","Connecticut",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",7547691,7497959,7490306,6634022,7180471,6511897
+ "09000","Connecticut",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",28374251,31432746,32168309,30278145,32064081,33735650
+ "09000","Connecticut",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",20076428,22738234,23784610,21624083,23744431,25590556
+ "09000","Connecticut",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",8297823,8697889,8388491,8670107,8358505,8235369
+ "09000","Connecticut",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",14667332,14279187,13672412,13395858,13708104,13348705
+ "09000","Connecticut",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",14634190,15189718,15211358,14280842,14236724,13609398
+ "09000","Connecticut",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",5580563,5481378,5260505,5347855,5838302,5829109
+ "09000","Connecticut",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",14113856,14919774,16720422,16218903,17912508,19188803
+ "09000","Connecticut",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",81940181,78251011,75368705,71736907,71777455,73919838
+ "09000","Connecticut",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",46917082,41093032,38339737,35397793,35016508,36734592
+ "09000","Connecticut",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",35023099,37215395,37108379,36434569,36870978,37282078
+ "09000","Connecticut",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",32497864,33298695,33993515,31970944,34947153,38206176
+ "09000","Connecticut",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",18522075,19035979,19552509,18357599,20551105,22250073
+ "09000","Connecticut",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",6581987,6816176,7125213,6756789,6796823,7686929
+ "09000","Connecticut",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",7393802,7447879,7327922,6871964,7568367,8260232
+ "09000","Connecticut",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",27656061,28188371,28959058,27813741,28968359,30229332
+ "09000","Connecticut",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",6067764,6156464,6390428,6022886,6232715,6689064
+ "09000","Connecticut",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",21588298,22032037,22567948,21792083,22737648,23539450
+ "09000","Connecticut",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",9128379,9020960,9369473,6505050,8443693,9336337
+ "09000","Connecticut",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",2396882,2449056,2369812,1779129,2422497,3036400
+ "09000","Connecticut",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",6731497,6572330,6997689,4725719,6023465,6326245
+ "09000","Connecticut",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",5245639,5422907,5364451,4566438,4856155,4964045
+ "09000","Connecticut",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",27594067,26816727,25962373,24979654,24870155,25105404
+ "09000","Connecticut",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",554401,530006,566493,559452,444573,453206
+ "09000","Connecticut",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",29301522,29462479,28862551,27666191,27930607,26940797
+ "09000","Connecticut",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",9921157,9825646,9660357,10047339,10163188,9603801
+ "09000","Connecticut",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",42488107,46358651,48856759,46447251,49882636,52793802
+ "09000","Connecticut",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",36476343,39454867,40212476,37436922,39658719,40556484
+ "09000","Connecticut",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",209804659,208329364,208076519,196222464,204383896,211080374
+ "09001","Fairfield, CT",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",91838477,90874828,88934335,83855524,87235525,90361060
+ "09001","Fairfield, CT",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",86466401,85512812,83659140,78810100,82256173,85371078
+ "09001","Fairfield, CT",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",51772,37498,51770,30456,19025,21111
+ "09001","Fairfield, CT",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",15137,11202,10769,48675,31200,26061
+ "09001","Fairfield, CT",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",551608,1031019,1123119,812970,1009508,816171
+ "09001","Fairfield, CT",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",2127857,2110049,2074367,1739573,2013019,1866350
+ "09001","Fairfield, CT",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",7261878,7304672,6710380,6533412,7408663,7528513
+ "09001","Fairfield, CT",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",3682345,4253074,4344017,4006084,4488786,4727200
+ "09001","Fairfield, CT",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",3579532,3055778,2371785,2536234,2928464,2824065
+ "09001","Fairfield, CT",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",7048306,6809371,6533896,6363326,6645532,6538885
+ "09001","Fairfield, CT",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",4731381,4923818,4908942,4516826,4459499,4439015
+ "09001","Fairfield, CT",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",2175457,1729556,1286270,1594016,1409467,1406825
+ "09001","Fairfield, CT",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",6324371,7058200,8051100,7920508,8623804,9092107
+ "09001","Fairfield, CT",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",30779088,28471735,26400254,25729755,25266469,26397382
+ "09001","Fairfield, CT",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",19726386,16490428,14962734,13984653,13063736,14444955
+ "09001","Fairfield, CT",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",11052703,12017988,11482485,11811553,12328562,12015169
+ "09001","Fairfield, CT",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",13840191,14269808,14500075,13258626,14606907,16153494
+ "09001","Fairfield, CT",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",7790073,8114629,8329427,7641804,8601820,9318503
+ "09001","Fairfield, CT",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",3297752,3378700,3465888,3095311,3250545,3642691
+ "09001","Fairfield, CT",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",2752366,2776466,2707622,2518258,2739733,3170737
+ "09001","Fairfield, CT",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",6798292,7008862,7173040,6814515,7161829,7496002
+ "09001","Fairfield, CT",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",1094845,1098972,1117541,1038869,1052055,1143094
+ "09001","Fairfield, CT",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",5703447,5910041,6055751,5776308,6111280,6353716
+ "09001","Fairfield, CT",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",3113598,3056656,3215122,2087072,2461805,2625789
+ "09001","Fairfield, CT",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1091217,1119010,1080943,653627,781385,843523
+ "09001","Fairfield, CT",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",2022381,1937876,2133216,1432545,1679522,1781833
+ "09001","Fairfield, CT",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",1647465,1741048,1786898,1522493,1527110,1604601
+ "09001","Fairfield, CT",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",5372075,5361883,5274856,5043498,4984706,4997523
+ "09001","Fairfield, CT",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",66909,48706,62343,81506,51724,48861
+ "09001","Fairfield, CT",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",11779687,11730322,11435130,10877814,11099650,10973463
+ "09001","Fairfield, CT",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",2727065,2763249,2410872,2415713,2428968,2227054
+ "09001","Fairfield, CT",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",13586249,14358159,14727071,14418013,16006709,16571443
+ "09001","Fairfield, CT",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",9456644,9463646,8850142,8341834,9461894,9414667
+ "09001","Fairfield, CT",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",77009757,76049883,74805739,70465236,72812478,75969949
+ "09003","Hartford, CT",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",85794244,85758376,86102668,79709107,83341632,85951890
+ "09003","Hartford, CT",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",77818930,77928158,78460091,72194880,75982180,78410787
+ "09003","Hartford, CT",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",33685,21580,33835,30032,30882,21631
+ "09003","Hartford, CT",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",14049,7157,7006,10077,8071,7183
+ "09003","Hartford, CT",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",206443,201499,200143,187448,188157,148772
+ "09003","Hartford, CT",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",1765849,1785363,1828571,1641927,1788196,1643058
+ "09003","Hartford, CT",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",8510260,9731362,10454893,9798653,10506392,11380251
+ "09003","Hartford, CT",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",7031454,8035322,8609243,7850893,8752654,9662824
+ "09003","Hartford, CT",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",1478806,1696012,1845602,1951818,1764962,1743109
+ "09003","Hartford, CT",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",3797731,3694631,3539650,3420301,3404581,3284953
+ "09003","Hartford, CT",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",3627223,3819576,3804953,3558613,3533166,3280908
+ "09003","Hartford, CT",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",1670003,1844127,1967601,1746300,2071066,2090788
+ "09003","Hartford, CT",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",5336501,5341230,5680304,5208380,5608501,6136279
+ "09003","Hartford, CT",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",32076868,30112082,28971795,26439614,27221039,27856040
+ "09003","Hartford, CT",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",22863030,20624711,19502577,17617866,18104428,18393022
+ "09003","Hartford, CT",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",9213837,9495134,9478246,8830144,9125070,9467936
+ "09003","Hartford, CT",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",9714753,10114656,10552517,10100519,10748637,11417696
+ "09003","Hartford, CT",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",5645459,5869090,6090016,5780250,6159482,6532067
+ "09003","Hartford, CT",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",1925424,2140251,2403163,2451626,2497065,2709251
+ "09003","Hartford, CT",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",2143869,2107233,2069129,1889911,2101066,2194163
+ "09003","Hartford, CT",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",7442042,7665420,7840072,7451677,7780552,8079678
+ "09003","Hartford, CT",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",887010,899752,917489,830134,848536,892960
+ "09003","Hartford, CT",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",6555033,6765737,6922690,6622390,6933257,7187801
+ "09003","Hartford, CT",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",2161015,2102883,2195265,1465316,1896149,2086303
+ "09003","Hartford, CT",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",365720,389478,395466,272566,382928,468909
+ "09003","Hartford, CT",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",1795294,1713572,1799828,1192826,1513814,1620967
+ "09003","Hartford, CT",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",1462509,1516934,1463119,1249355,1350906,1362282
+ "09003","Hartford, CT",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",7975313,7830912,7646484,7504034,7372705,7556856
+ "09003","Hartford, CT",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",47734,28707,40679,40079,39046,28598
+ "09003","Hartford, CT",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",7424953,7512182,7339321,6975789,6934553,6561029
+ "09003","Hartford, CT",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",1876446,2045452,2167444,1933484,2257993,2235411
+ "09003","Hartford, CT",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",13846761,15078316,16142813,15018988,16126364,17523098
+ "09003","Hartford, CT",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",10323843,11543679,12319018,11472341,12326610,13007058
+ "09003","Hartford, CT",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",67495087,66391099,66149801,60730304,63666754,65416955
+ "09005","Litchfield, CT",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",8067891,8150107,8315237,8093020,8736437,9056222
+ "09005","Litchfield, CT",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",7252628,7347173,7530267,7333862,7991430,8300367
+ "09005","Litchfield, CT",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),4291,6487
+ "09005","Litchfield, CT",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",26278,27965,27463,37597,(D),(D)
+ "09005","Litchfield, CT",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "09005","Litchfield, CT",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",644177,(D),(D),576324,578313,(D)
+ "09005","Litchfield, CT",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),1203176,1261666,1219441
+ "09005","Litchfield, CT",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",800438,835234,831563,770076,771920,756986
+ "09005","Litchfield, CT",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),434704,491312,464069
+ "09005","Litchfield, CT",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "09005","Litchfield, CT",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",744593,744511,715424,743145,819234,727438
+ "09005","Litchfield, CT",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",123276,135781,139639,147328,172006,167008
+ "09005","Litchfield, CT",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",123739,116995,128257,139689,180316,194172
+ "09005","Litchfield, CT",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1938878,1942181,1979577,1845574,1870696,1939533
+ "09005","Litchfield, CT",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",371288,316081,310211,348533,299412,320879
+ "09005","Litchfield, CT",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1567590,1628008,1671925,1497165,1574412,1621070
+ "09005","Litchfield, CT",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",650165,665274,666466,627486,727211,837577
+ "09005","Litchfield, CT",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",359974,370992,377793,342204,408913,466385
+ "09005","Litchfield, CT",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",79837,83993,73756,88632,97061,111616
+ "09005","Litchfield, CT",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",210354,210328,214504,197707,222231,260427
+ "09005","Litchfield, CT",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",869777,889261,927211,920361,952386,975167
+ "09005","Litchfield, CT",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",188260,189001,207257,194907,202916,214481
+ "09005","Litchfield, CT",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",681517,700271,719886,725479,749485,760652
+ "09005","Litchfield, CT",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",430956,409926,517151,568139,871380,1207134
+ "09005","Litchfield, CT",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",182693,161298,258089,387756,631751,971933
+ "09005","Litchfield, CT",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",248263,248532,260059,183674,246344,254433
+ "09005","Litchfield, CT",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",256932,264017,258246,218914,240721,241221
+ "09005","Litchfield, CT",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",815263,803024,785309,759572,747220,758145
+ "09005","Litchfield, CT",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "09005","Litchfield, CT",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "09005","Litchfield, CT",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "09005","Litchfield, CT",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),1341861,1438102,1407145
+ "09005","Litchfield, CT",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1818183,1885216,1913412,(D),(D),(D)
+ "09005","Litchfield, CT",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",5434445,5462103,5616990,(D),(D),(D)
+ "09007","Middlesex, CT",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",9484913,9725221,9772486,9146260,9351538,9680844
+ "09007","Middlesex, CT",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",8365975,8677027,8756153,8166485,8386882,8718219
+ "09007","Middlesex, CT",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),29514,47406,28745,27161,16901
+ "09007","Middlesex, CT",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",1436,1345,1300,1228,1001,(D)
+ "09007","Middlesex, CT",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",472959,276880,227696,248154,240061,208305
+ "09007","Middlesex, CT",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),499443,467902,421811,446996,(D)
+ "09007","Middlesex, CT",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",1558028,1873138,1945296,1646950,1829980,2041064
+ "09007","Middlesex, CT",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",1384101,1659632,1696121,1445550,1666322,1879973
+ "09007","Middlesex, CT",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",173927,213476,249000,201134,165319,164859
+ "09007","Middlesex, CT",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",436313,426951,429522,424252,410105,386105
+ "09007","Middlesex, CT",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",640418,670934,687504,627034,601355,604954
+ "09007","Middlesex, CT",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",84077,106955,134580,111832,160929,162760
+ "09007","Middlesex, CT",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",136849,131268,141271,146189,186287,203385
+ "09007","Middlesex, CT",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1912328,2052727,1987508,2058071,1808969,1853928
+ "09007","Middlesex, CT",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",514781,471474,449517,426828,435348,477684
+ "09007","Middlesex, CT",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1397547,1582718,1539585,1633462,1374656,1376667
+ "09007","Middlesex, CT",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",780478,787855,857406,842088,954402,1062874
+ "09007","Middlesex, CT",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",507497,493711,509490,516004,581148,646440
+ "09007","Middlesex, CT",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",71714,81164,137507,107706,109492,165021
+ "09007","Middlesex, CT",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",201268,213032,212632,218421,261911,256621
+ "09007","Middlesex, CT",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",1156280,1173867,1183395,1126882,1118462,1156795
+ "09007","Middlesex, CT",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",200442,203355,208297,191172,199920,213321
+ "09007","Middlesex, CT",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",955837,970514,975062,935775,918454,943297
+ "09007","Middlesex, CT",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",445038,413595,419543,292356,400785,441086
+ "09007","Middlesex, CT",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",110560,113025,105175,77731,110267,136056
+ "09007","Middlesex, CT",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",334478,300610,314319,214577,290454,305593
+ "09007","Middlesex, CT",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",232652,236075,235947,198207,224777,220623
+ "09007","Middlesex, CT",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1118938,1048742,1017261,979980,966139,964606
+ "09007","Middlesex, CT",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),30858,48631,29976,28156,(D)
+ "09007","Middlesex, CT",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",1076731,1097641,1116550,1051510,1011637,991684
+ "09007","Middlesex, CT",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",557036,383732,362215,359332,400571,370265
+ "09007","Middlesex, CT",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",1694877,2004761,2086762,1791764,2013132,2241365
+ "09007","Middlesex, CT",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",2068583,2402783,2458422,2098280,2302928,2464914
+ "09007","Middlesex, CT",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",6297392,6276187,6300118,6067964,6089598,6263155
+ "09009","New Haven, CT",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",49698505,50711147,51494190,49996059,52016888,52659909
+ "09009","New Haven, CT",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",44027695,45132582,46056813,44719476,46785312,47403937
+ "09009","New Haven, CT",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",75510,76965,77205,91378,83214,17184
+ "09009","New Haven, CT",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",64025,65927,65067,30728,18751,19237
+ "09009","New Haven, CT",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",573414,781035,830195,1098702,903311,824100
+ "09009","New Haven, CT",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",1722682,1685907,1674160,1597449,1638577,1403250
+ "09009","New Haven, CT",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",5348308,5638708,5900958,5482112,5421617,5488594
+ "09009","New Haven, CT",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",4235456,4258905,4323194,4014683,4162208,4237516
+ "09009","New Haven, CT",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",1112851,1377456,1574252,1464156,1262368,1256238
+ "09009","New Haven, CT",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",2345668,2355506,2224148,2247066,2290526,2175677
+ "09009","New Haven, CT",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",3187014,3274785,3306643,3149300,3151942,2951267
+ "09009","New Haven, CT",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",933880,1048487,1138075,1197107,1422558,1441203
+ "09009","New Haven, CT",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",1682964,1721704,2121194,2201373,2603320,2749357
+ "09009","New Haven, CT",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",10629858,11063629,11072163,11030807,11190243,11245578
+ "09009","New Haven, CT",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",2719451,2562119,2505483,2417110,2585082,2462432
+ "09009","New Haven, CT",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",7910406,8507272,8574577,8623792,8612161,8794531
+ "09009","New Haven, CT",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",5813910,5685709,5607500,5430701,5991783,6624270
+ "09009","New Haven, CT",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",3047094,3032269,3063568,2952703,3511732,3868092
+ "09009","New Haven, CT",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",1100696,942431,862586,848285,667450,860146
+ "09009","New Haven, CT",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1666120,1709289,1677521,1626749,1787849,1887443
+ "09009","New Haven, CT",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",8920502,8952358,9222181,9012255,9376990,9886024
+ "09009","New Haven, CT",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",3393552,3465137,3634886,3484388,3641498,3922221
+ "09009","New Haven, CT",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",5526950,5486960,5586282,5527893,5735251,5962403
+ "09009","New Haven, CT",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",1631982,1665909,1751138,1261901,1766356,1819209
+ "09009","New Haven, CT",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",328981,344377,335185,224715,277941,318634
+ "09009","New Haven, CT",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",1303000,1321573,1415647,1036795,1486969,1501121
+ "09009","New Haven, CT",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",1097979,1111730,1083789,925245,1006257,1020198
+ "09009","New Haven, CT",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",5670810,5579735,5441165,5280322,5243979,5269155
+ "09009","New Haven, CT",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",139535,142907,142234,119198,99158,34419
+ "09009","New Haven, CT",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",5532683,5629860,5526211,5394473,5440080,5124180
+ "09009","New Haven, CT",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",1507294,1829600,1968404,2293530,2318955,2255239
+ "09009","New Haven, CT",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",7031272,7361043,8012233,7664251,7980285,8180784
+ "09009","New Haven, CT",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",7210525,7466657,7714321,7198929,7162462,6886229
+ "09009","New Haven, CT",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",36817170,37666085,38342967,37518225,39611236,40502203
+ "09011","New London, CT",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",18942592,19248308,19209683,17957743,18262159,18792350
+ "09011","New London, CT",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",14463508,15195493,15447371,14545199,14652363,15242747
+ "09011","New London, CT",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",138648,162560,133671,141146,115299,198000
+ "09011","New London, CT",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",15126,14248,13599,22816,16426,13690
+ "09011","New London, CT",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1935007,1533458,1498389,1701097,1467024,1314562
+ "09011","New London, CT",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",425531,396284,428509,320719,378096,352657
+ "09011","New London, CT",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",3326543,4369025,4543035,4332948,4378095,4774670
+ "09011","New London, CT",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",2372083,3083512,3360961,2951995,3280798,3675751
+ "09011","New London, CT",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",954461,1285270,1182729,1385251,1111963,1126508
+ "09011","New London, CT",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",524779,487443,463451,452396,450305,454192
+ "09011","New London, CT",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",975454,998780,1016514,937246,886283,871563
+ "09011","New London, CT",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",322541,315933,289245,265505,308773,281518
+ "09011","New London, CT",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",329664,369552,399435,408303,501468,590899
+ "09011","New London, CT",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",2484458,2473128,2612529,2459793,2281578,2351451
+ "09011","New London, CT",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",366743,346787,330279,328593,331136,354414
+ "09011","New London, CT",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",2117715,2126839,2284546,2132744,1950780,1996466
+ "09011","New London, CT",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",1166721,1225396,1245112,1197764,1338124,1453045
+ "09011","New London, CT",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",865097,837918,863035,831631,946985,1033872
+ "09011","New London, CT",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",75112,152182,141340,136511,140871,151192
+ "09011","New London, CT",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",226512,235972,240999,230011,250472,268461
+ "09011","New London, CT",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",1533560,1547034,1639674,1572186,1667583,1701569
+ "09011","New London, CT",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",205461,199535,198379,185244,186379,196824
+ "09011","New London, CT",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",1328099,1347535,1441487,1387201,1481650,1505107
+ "09011","New London, CT",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",992287,1021863,899108,538158,666330,740681
+ "09011","New London, CT",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",271805,276547,143950,114032,161737,199799
+ "09011","New London, CT",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",720482,745291,753099,423182,503850,541331
+ "09011","New London, CT",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",293189,291719,279679,228848,259710,263886
+ "09011","New London, CT",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",4479083,4055643,3768872,3421315,3615253,3556199
+ "09011","New London, CT",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",153774,176674,147334,165032,132468,214003
+ "09011","New London, CT",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",1500233,1485780,1478502,1388849,1335526,1324486
+ "09011","New London, CT",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",2257548,1849355,1787510,1965750,1773682,1593987
+ "09011","New London, CT",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",3656207,4739523,4942873,4740178,4871572,5351859
+ "09011","New London, CT",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",3905848,4940998,5120851,4812466,4885408,5352752
+ "09011","New London, CT",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",10557660,10259915,10333728,9739292,9774949,9916399
+ "09013","Tolland, CT",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",5337593,5404431,5492343,5107898,5212167,5351325
+ "09013","Tolland, CT",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",3808034,3881418,4055857,3681886,3828918,3915012
+ "09013","Tolland, CT",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),23919,37455
+ "09013","Tolland, CT",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",6783,6721,6597,12281,(D),(D)
+ "09013","Tolland, CT",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "09013","Tolland, CT",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",234896,215788,215562,206231,195076,186796
+ "09013","Tolland, CT",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),429948,399194,401234
+ "09013","Tolland, CT",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",238406,255583,262658,252007,228967,238702
+ "09013","Tolland, CT",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),177832,169960,162659
+ "09013","Tolland, CT",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "09013","Tolland, CT",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",369801,385914,392862,385463,417949,367723
+ "09013","Tolland, CT",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",85045,105833,103562,112439,122095,117251
+ "09013","Tolland, CT",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",98124,96329,102361,100850,105456,113113
+ "09013","Tolland, CT",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1360488,1375745,1486284,1279707,1318796,1377389
+ "09013","Tolland, CT",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",251906,191730,196638,173393,174197,186065
+ "09013","Tolland, CT",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1108583,1185358,1291410,1107769,1146159,1192835
+ "09013","Tolland, CT",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",282713,300777,304195,277928,319323,357958
+ "09013","Tolland, CT",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",196634,205607,205477,186834,215635,237788
+ "09013","Tolland, CT",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",4883,6431,6488,7588,8515,16517
+ "09013","Tolland, CT",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",81196,88741,92183,83588,95293,104641
+ "09013","Tolland, CT",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",421757,429357,434828,398229,399055,413565
+ "09013","Tolland, CT",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",27875,26465,31373,30247,34780,37084
+ "09013","Tolland, CT",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",393882,402900,403412,367921,364144,376331
+ "09013","Tolland, CT",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",199918,195563,201910,163419,212775,245837
+ "09013","Tolland, CT",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",37290,37295,37728,37955,57572,78246
+ "09013","Tolland, CT",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",162628,158271,164179,125530,155559,168883
+ "09013","Tolland, CT",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",155430,159265,156118,137417,150480,153675
+ "09013","Tolland, CT",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1529559,1523143,1437612,1425245,1384303,1437473
+ "09013","Tolland, CT",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "09013","Tolland, CT",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "09013","Tolland, CT",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "09013","Tolland, CT",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),530860,503893,512800
+ "09013","Tolland, CT",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",654327,659150,716508,(D),(D),(D)
+ "09013","Tolland, CT",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",3153707,3222217,3339616,(D),(D),(D)
+ "09015","Windham, CT",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",4710856,4713386,4906700,4758386,4697941,4827252
+ "09015","Windham, CT",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",4077830,4099729,4316160,4194288,4141503,4261279
+ "09015","Windham, CT",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),13049,13829,22161
+ "09015","Windham, CT",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",14856,16086,15435,25389,20355,17562
+ "09015","Windham, CT",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",518594,434468,438411,559930,446038,417108
+ "09015","Windham, CT",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),(D),129989,142197,120713
+ "09015","Windham, CT",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",862719,931651,950192,852677,858938,915526
+ "09015","Windham, CT",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",332145,357939,358481,333814,393379,421118
+ "09015","Windham, CT",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",530574,573715,591827,518800,465547,494412
+ "09015","Windham, CT",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",120545,123105,122117,124132,128833,134229
+ "09015","Windham, CT",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",358307,371401,378517,363214,367296,366529
+ "09015","Windham, CT",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",186284,194253,203263,169643,172691,164133
+ "09015","Windham, CT",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",81644,83869,95794,93508,103960,110825
+ "09015","Windham, CT",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",758216,768798,882617,895717,856629,915490
+ "09015","Windham, CT",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",103498,97022,97214,99890,99734,100423
+ "09015","Windham, CT",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",654717,671985,786326,796722,757663,816158
+ "09015","Windham, CT",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",248932,249662,261751,236438,256363,287228
+ "09015","Windham, CT",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",110248,111933,114393,107731,121276,138972
+ "09015","Windham, CT",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",26568,31026,34485,21130,25824,30495
+ "09015","Windham, CT",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",112116,106808,113021,106797,109193,118268
+ "09015","Windham, CT",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",513850,522447,538692,516510,510957,519764
+ "09015","Windham, CT",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",70318,74247,75206,67925,66631,69080
+ "09015","Windham, CT",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",443532,448191,463487,448620,444365,450717
+ "09015","Windham, CT",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",153587,154566,170397,129893,172148,189291
+ "09015","Windham, CT",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",8616,7960,13042,14006,27189,39600
+ "09015","Windham, CT",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",144971,146605,157368,115887,145085,150464
+ "09015","Windham, CT",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",99482,102119,100654,85960,96194,97560
+ "09015","Windham, CT",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",633025,613729,590971,564707,557069,566537
+ "09015","Windham, CT",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),38671,34290,40045
+ "09015","Windham, CT",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",478852,494487,500497,487391,496126,500636
+ "09015","Windham, CT",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",704878,628856,641876,727917,617153,579685
+ "09015","Windham, CT",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",944362,1015581,1045640,945433,961289,1024598
+ "09015","Windham, CT",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1038390,1095798,1124350,1021040,1035605,1074880
+ "09015","Windham, CT",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",3039440,3004133,3191759,3172217,3105739,3186606
+"Note: See the included footnote file."
+"CAGDP9: Real GDP by county and metropolitan area 1/"
+"Last updated: December 7, 2023 -- new statistics for 2022, revised statistics for 2017-2021."
+"U.S. Bureau of Economic Analysis"

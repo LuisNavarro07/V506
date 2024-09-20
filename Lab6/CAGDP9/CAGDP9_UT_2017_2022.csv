@@ -1,0 +1,1025 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2017,2018,2019,2020,2021,2022
+ "49000","Utah",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",172075043,182106012,192698684,194753700,209975165,213898311
+ "49000","Utah",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",150926482,160846740,170911153,172821525,187801856,191032628
+ "49000","Utah",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",859368,934412,971100,915383,800960,1051605
+ "49000","Utah",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",3211667,3206839,3427814,3792952,3867743,3587343
+ "49000","Utah",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",2347130,2485468,2740765,3545296,4056988,4324677
+ "49000","Utah",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",11447229,12156120,12890808,14164225,15320126,14910666
+ "49000","Utah",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",18035936,19628433,20803014,20613389,23083754,23059535
+ "49000","Utah",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",11464372,12214996,12123414,12545330,13560820,13967556
+ "49000","Utah",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",6571564,7405294,8642470,8009514,9454616,9097427
+ "49000","Utah",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",8901638,9082336,9141342,9585333,9630237,9066664
+ "49000","Utah",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",12871984,13664041,14203217,14665997,15050485,15079166
+ "49000","Utah",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",6257628,6573632,6763098,6225279,6692244,7140825
+ "49000","Utah",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",7828375,8391120,9829124,10558102,12390658,14138820
+ "49000","Utah",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",38043652,40438747,43010547,42345753,45972939,43970106
+ "49000","Utah",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",15374933,15807904,17607709,17679320,19424943,17457793
+ "49000","Utah",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",22668719,24649416,25372308,24620454,26489941,26540959
+ "49000","Utah",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",18142194,20196926,22156748,22828493,25254043,28209220
+ "49000","Utah",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",10831838,12523505,14014646,14666816,16523264,18888675
+ "49000","Utah",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",2280598,2400692,2525102,2674914,2866501,3178652
+ "49000","Utah",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",5029758,5273527,5619010,5505001,5892737,6210383
+ "49000","Utah",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",12239533,12869919,13460096,13351867,14326750,15266279
+ "49000","Utah",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",2475965,2633925,2802326,2781750,2947624,3033213
+ "49000","Utah",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",9763569,10235825,10656896,10569211,11379000,12235163
+ "49000","Utah",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",6017389,6366021,6691189,5364324,6620498,7284548
+ "49000","Utah",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1554485,1586582,1584048,1279096,1562848,1908191
+ "49000","Utah",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",4462904,4779107,5105543,4083970,5056122,5384218
+ "49000","Utah",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",4722758,4868787,4921555,5039822,5197948,5136196
+ "49000","Utah",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",21148561,21262049,21795313,21943125,22236917,22933533
+ "49000","Utah",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",4071035,4138234,4397429,4712730,4672610,4668079
+ "49000","Utah",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",21773623,22743415,23333180,24242488,24674183,24149611
+ "49000","Utah",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",8604758,9059146,9503226,9764232,10749117,11465170
+ "49000","Utah",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",25864311,28022703,30599163,31122663,35398941,36888474
+ "49000","Utah",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",33554200,35922801,38092141,39565628,43115498,42666132
+ "49000","Utah",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",117372282,124923088,132817495,133284587,144719422,148455254
+ "49001","Beaver, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",387886,347795,370267,353475,428744,504761
+ "49001","Beaver, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",337481,296682,318461,303061,377279,450798
+ "49001","Beaver, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",70938,27365,63434,42781,107460,158265
+ "49001","Beaver, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",43274,44705,26589,15109,12477,10313
+ "49001","Beaver, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",80771,70208,70762,91277,105251,122904
+ "49001","Beaver, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",11996,12999,12996,14481,14489,19588
+ "49001","Beaver, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",17701,18133,18531,16805,15155,14863
+ "49001","Beaver, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",2053,2954,3445,2602,2956,2766
+ "49001","Beaver, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",15648,15184,15089,14214,12206,12103
+ "49001","Beaver, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1035,(D),(D),(D),(D),(D)
+ "49001","Beaver, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",20168,21548,21523,21926,24191,23944
+ "49001","Beaver, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",27792,31011,30187,27963,23493,22492
+ "49001","Beaver, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",1173,624,386,810,579,1182
+ "49001","Beaver, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",33814,37215,(D),37983,36173,32839
+ "49001","Beaver, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),5477,5366
+ "49001","Beaver, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),34719,(D),30673,27438
+ "49001","Beaver, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),(D),2862,(D),3507,(D)
+ "49001","Beaver, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",1478,1683,1839,1774,(D),1832
+ "49001","Beaver, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49001","Beaver, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),780,(D),(D),1480,(D)
+ "49001","Beaver, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),(D),4043,3711,4063,4317
+ "49001","Beaver, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",705,187,125,55,9,13
+ "49001","Beaver, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),3924,3664,4065,4315
+ "49001","Beaver, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",13759,14683,17910,15571,21665,21733
+ "49001","Beaver, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49001","Beaver, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49001","Beaver, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",7999,8388,8096,8567,(D),8339
+ "49001","Beaver, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",50405,51067,51786,50361,51471,53041
+ "49001","Beaver, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",114213,72775,88411,56635,116297,164113
+ "49001","Beaver, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",21203,(D),(D),(D),(D),(D)
+ "49001","Beaver, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",108563,101238,100953,118820,128201,144940
+ "49001","Beaver, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",18874,18763,18933,17599,15734,15946
+ "49001","Beaver, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",143909,104060,119942,88701,147625,202328
+ "49001","Beaver, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",193572,192200,198379,212718,228329,243273
+ "49003","Box Elder, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2261288,2267245,2335201,2395897,2462442,2610519
+ "49003","Box Elder, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",2066113,2072035,2132710,2190427,2252960,2398069
+ "49003","Box Elder, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",95719,10648,104418,114025,7160,45369
+ "49003","Box Elder, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",7199,6185,8510,10901,12426,4750
+ "49003","Box Elder, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",12620,11380,(D),20102,21916,20028
+ "49003","Box Elder, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",134360,144264,159229,182566,210220,210231
+ "49003","Box Elder, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",973035,971309,953565,976103,1110711,1253247
+ "49003","Box Elder, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",816459,831562,784101,819286,947446,1094285
+ "49003","Box Elder, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",156577,139527,169514,157447,164867,161553
+ "49003","Box Elder, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",78336,72006,57888,60271,58232,57809
+ "49003","Box Elder, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",118959,127388,134208,126639,114643,113490
+ "49003","Box Elder, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",111172,111063,109807,120881,138363,124474
+ "49003","Box Elder, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",25968,27795,31346,30858,33422,37233
+ "49003","Box Elder, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",247207,305437,274511,273281,261087,238654
+ "49003","Box Elder, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",29370,27812,30452,39887,35782,31545
+ "49003","Box Elder, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",217837,277951,244006,232956,224931,206844
+ "49003","Box Elder, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",70317,81377,(D),75892,78234,85485
+ "49003","Box Elder, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",34116,37993,(D),(D),(D),(D)
+ "49003","Box Elder, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",257,308,(D),(D),(D),(D)
+ "49003","Box Elder, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",35944,43068,41541,34831,35654,33700
+ "49003","Box Elder, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",89845,97405,103942,96272,99816,107484
+ "49003","Box Elder, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",4404,4849,5625,5346,5966,6656
+ "49003","Box Elder, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",85441,92556,98311,90918,93834,100806
+ "49003","Box Elder, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",43546,47516,49503,43986,53723,56828
+ "49003","Box Elder, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",5861,6088,5926,5427,8330,10259
+ "49003","Box Elder, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",37685,41428,43577,38556,45382,46615
+ "49003","Box Elder, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",57830,55231,54836,62303,66445,63879
+ "49003","Box Elder, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",195175,195213,202471,205529,209676,212875
+ "49003","Box Elder, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",102918,17032,111680,123701,19381,51526
+ "49003","Box Elder, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",197295,199297,191468,186431,172383,170810
+ "49003","Box Elder, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",123792,122452,(D),140830,160100,144347
+ "49003","Box Elder, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",999003,999069,984744,1006819,1144019,1290391
+ "49003","Box Elder, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1210314,1135213,1223368,1282592,1331100,1507103
+ "49003","Box Elder, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",855800,936544,910169,910054,925028,901992
+ "49005","Cache, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",5322111,5812994,5942126,5962375,6379526,6371260
+ "49005","Cache, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",4509884,5002232,5119583,5153910,5566407,5533565
+ "49005","Cache, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",99940,124651,(D),94922,88634,98022
+ "49005","Cache, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",3179,3977,4166,3970,4647,(D)
+ "49005","Cache, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",12886,14700,(D),24804,27838,(D)
+ "49005","Cache, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",283094,303415,328342,411052,409590,402434
+ "49005","Cache, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",1147718,1393669,1363351,1429511,1616282,1493457
+ "49005","Cache, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",432431,470188,470414,563543,827415,591131
+ "49005","Cache, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",715286,923446,892952,867064,798196,903198
+ "49005","Cache, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",167182,173820,180604,199500,208558,209332
+ "49005","Cache, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",393307,421127,441137,467750,484289,487337
+ "49005","Cache, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",98276,97357,81963,82157,80503,74356
+ "49005","Cache, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",74273,81619,93569,100035,116519,132704
+ "49005","Cache, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1043013,1104787,1104315,931247,1026545,(D)
+ "49005","Cache, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",156258,116046,121674,128793,142064,139488
+ "49005","Cache, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",886755,991281,984737,802543,884573,(D)
+ "49005","Cache, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",515720,593971,672534,708901,734644,746048
+ "49005","Cache, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",319263,379263,437598,473544,534061,585322
+ "49005","Cache, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",31230,34922,41698,40791,95161,75877
+ "49005","Cache, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",165227,179782,193421,194814,113803,93111
+ "49005","Cache, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",377880,391912,422125,412381,453895,483775
+ "49005","Cache, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",26343,29853,34841,33734,36752,41340
+ "49005","Cache, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",351537,362046,387233,378603,417102,442352
+ "49005","Cache, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",145990,148473,149188,124385,153947,167442
+ "49005","Cache, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",40076,38115,32091,23393,29459,34731
+ "49005","Cache, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",105914,110343,116976,100837,124310,132698
+ "49005","Cache, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",147426,151547,154943,166344,168514,166307
+ "49005","Cache, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",812228,811347,823245,809694,816437,840682
+ "49005","Cache, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",103118,128628,(D),98932,93243,(D)
+ "49005","Cache, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",560488,594897,621640,667332,692906,696739
+ "49005","Cache, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",111162,112038,(D),106515,107800,(D)
+ "49005","Cache, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",1221991,1475387,1456528,1529015,1731888,1622261
+ "49005","Cache, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1533930,1825023,(D),1947202,2124282,(D)
+ "49005","Cache, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",2975953,3178642,(D),3209251,3445318,(D)
+ "49007","Carbon, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",945663,990700,1099917,1145823,1060616,967164
+ "49007","Carbon, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",810333,856933,967635,1015778,930730,835290
+ "49007","Carbon, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",2760,1444,598,443,623,1454
+ "49007","Carbon, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",258623,307208,388849,448060,347493,265366
+ "49007","Carbon, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",31288,32889,35266,43863,50903,57317
+ "49007","Carbon, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",32064,31125,28982,28328,36149,32454
+ "49007","Carbon, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",32979,38181,41417,43384,45580,44312
+ "49007","Carbon, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",27068,31543,34288,36039,40152,(D)
+ "49007","Carbon, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",5912,6639,7129,7345,5448,(D)
+ "49007","Carbon, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",39450,39189,38193,39041,37907,34742
+ "49007","Carbon, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",59758,63121,63930,67531,74925,65451
+ "49007","Carbon, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",36807,45295,44910,31446,37375,40587
+ "49007","Carbon, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",4479,3756,5508,5905,4325,4727
+ "49007","Carbon, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",151668,130096,152106,147346,133160,134799
+ "49007","Carbon, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",12300,11851,12143,12878,12836,12567
+ "49007","Carbon, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",139368,118204,140015,134477,120307,122240
+ "49007","Carbon, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",37987,38109,41000,39098,36599,37081
+ "49007","Carbon, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",15125,17596,17749,17011,(D),(D)
+ "49007","Carbon, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",3019,2463,5984,7321,(D),(D)
+ "49007","Carbon, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",19844,18053,17461,15141,16192,16449
+ "49007","Carbon, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",73833,74544,74342,72854,76080,79467
+ "49007","Carbon, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49007","Carbon, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49007","Carbon, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",17842,19091,20005,17251,20313,21296
+ "49007","Carbon, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1732,1760,1560,1341,1692,1861
+ "49007","Carbon, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",16109,17331,18444,15908,18618,19434
+ "49007","Carbon, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",30795,32500,32681,35805,31997,29668
+ "49007","Carbon, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",135330,133771,132416,130553,130326,133934
+ "49007","Carbon, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",261384,308727,389629,448715,348250,266715
+ "49007","Carbon, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",99208,102289,102060,106479,112800,100133
+ "49007","Carbon, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",68095,78206,80158,74704,87585,97137
+ "49007","Carbon, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",37459,41948,46896,49252,49984,49057
+ "49007","Carbon, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",326427,378084,459893,519457,429295,340275
+ "49007","Carbon, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",483906,478646,507923,499453,503939,504764
+ "49009","Daggett, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",155981,164115,123813,116723,91490,103876
+ "49009","Daggett, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",140073,150714,110873,103393,78155,90903
+ "49009","Daggett, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),3221,2866
+ "49009","Daggett, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",153,0,0,0,(D),(D)
+ "49009","Daggett, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",34047,(D),(D),23151,13730,23595
+ "49009","Daggett, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49009","Daggett, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),181,192
+ "49009","Daggett, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),75,90
+ "49009","Daggett, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",38,57,61,36,106,103
+ "49009","Daggett, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",23,30,29,1,0,1
+ "49009","Daggett, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",(D),1728,(D),(D),(D),(D)
+ "49009","Daggett, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),99413,(D),(D),(D),(D)
+ "49009","Daggett, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",44,(D),57,41,37,63
+ "49009","Daggett, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",14246,11803,14342,14278,12402,(D)
+ "49009","Daggett, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",0,0,0,0,(D),(D)
+ "49009","Daggett, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",14246,11803,14342,14278,(D),12639
+ "49009","Daggett, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",754,966,977,865,729,439
+ "49009","Daggett, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),93,107
+ "49009","Daggett, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,(D),(D)
+ "49009","Daggett, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49009","Daggett, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",70,132,213,(D),(D),(D)
+ "49009","Daggett, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",70,109,104,52,46,51
+ "49009","Daggett, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",0,23,113,(D),(D),(D)
+ "49009","Daggett, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",6007,(D),(D),6781,8450,8800
+ "49009","Daggett, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),1626,1788
+ "49009","Daggett, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),6784,6964
+ "49009","Daggett, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49009","Daggett, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",15908,13397,12979,13379,13407,12928
+ "49009","Daggett, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49009","Daggett, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),1758,(D),(D),(D),(D)
+ "49009","Daggett, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49009","Daggett, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),277,(D),(D),220,253
+ "49009","Daggett, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",5934,6060,(D),6493,(D),(D)
+ "49009","Daggett, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",134140,144643,(D),97132,(D),(D)
+ "49011","Davis, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",14039771,14830604,15495430,15802970,16549249,16232965
+ "49011","Davis, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",10601622,11396772,11943906,12124147,12836157,12535973
+ "49011","Davis, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",5166,5505,9640,8712,6368,11258
+ "49011","Davis, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",25255,28085,22075,57798,43674,24554
+ "49011","Davis, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",57693,84548,104497,189705,251444,227209
+ "49011","Davis, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",1097615,1102048,1109860,1157094,1234728,1128239
+ "49011","Davis, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",1893537,2249319,2548819,2259596,2532110,2378297
+ "49011","Davis, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",1178350,1231861,1204806,1237651,1168809,1186915
+ "49011","Davis, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",715187,1000966,1303483,960384,1310061,1171462
+ "49011","Davis, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",391495,387424,370027,382110,385937,338622
+ "49011","Davis, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1010740,1075993,1153068,1187415,1225561,1219366
+ "49011","Davis, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",420925,402196,391477,433034,413058,401690
+ "49011","Davis, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",177756,172205,187994,233391,298873,262158
+ "49011","Davis, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",2326576,2504806,2541342,2516814,2649718,2599326
+ "49011","Davis, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",315183,297524,322043,399760,415393,363713
+ "49011","Davis, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",2011393,2208860,2219780,2114386,2231669,2235679
+ "49011","Davis, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",1306711,1353858,1414970,1599142,1671716,1747363
+ "49011","Davis, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",880877,906244,972864,1129235,1154833,1245426
+ "49011","Davis, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",110516,123350,106203,104807,127937,91494
+ "49011","Davis, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",315318,324371,335323,364122,388796,406472
+ "49011","Davis, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",993664,1096782,1127395,1179643,1131421,1209043
+ "49011","Davis, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",227434,285937,265578,308406,197110,201973
+ "49011","Davis, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",766230,810620,862080,870780,936508,1009651
+ "49011","Davis, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",416729,429558,449889,373157,440553,490035
+ "49011","Davis, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",138575,131123,126279,111454,115791,139134
+ "49011","Davis, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",278154,298410,323526,261610,324574,351110
+ "49011","Davis, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",477760,496785,502096,519458,535965,517155
+ "49011","Davis, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",3438149,3433473,3551147,3676973,3714672,3701553
+ "49011","Davis, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",30422,33590,31713,66431,49943,37583
+ "49011","Davis, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",1402235,1463128,1521242,1567643,1609691,1557224
+ "49011","Davis, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",478617,486474,495215,619096,659378,624253
+ "49011","Davis, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",2071293,2423485,2739646,2497038,2836029,2649558
+ "49011","Davis, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",3021574,3389045,3696672,3505201,3838287,3565961
+ "49011","Davis, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",7580048,8003925,8238635,8596509,8980769,8975762
+ "49013","Duchesne, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1040002,997960,1075345,1036561,1077577,1066994
+ "49013","Duchesne, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",894465,854760,927626,882508,925167,912042
+ "49013","Duchesne, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",23697,33526,42513,34413,23672,26525
+ "49013","Duchesne, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",338300,327096,334308,309113,310398,280553
+ "49013","Duchesne, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",7529,10163,12143,20614,25893,23780
+ "49013","Duchesne, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",55914,32607,28245,29767,37401,50126
+ "49013","Duchesne, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",13419,14669,13938,14349,14981,16152
+ "49013","Duchesne, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",9952,10785,9784,9853,11630,12968
+ "49013","Duchesne, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",3468,3883,4157,4507,3330,3152
+ "49013","Duchesne, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",26143,29445,27457,24195,27369,26456
+ "49013","Duchesne, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",52763,54731,62525,63125,63181,63056
+ "49013","Duchesne, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",68588,68859,75949,67711,64999,62666
+ "49013","Duchesne, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),112239
+ "49013","Duchesne, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",176267,148233,187309,177660,169587,166857
+ "49013","Duchesne, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",11615,12017,13313,14212,14005,12060
+ "49013","Duchesne, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",164651,136147,174013,163393,155517,154825
+ "49013","Duchesne, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",21342,23474,25408,24654,28148,29899
+ "49013","Duchesne, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",8564,9332,10556,10956,(D),13215
+ "49013","Duchesne, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),5171,5617,(D),(D),(D)
+ "49013","Duchesne, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),8965,9242,(D),10683,(D)
+ "49013","Duchesne, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",26089,24680,25275,25271,25015,25078
+ "49013","Duchesne, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),108,(D),(D),(D),(D)
+ "49013","Duchesne, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),24572,(D),(D),(D),(D)
+ "49013","Duchesne, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",12841,13191,13861,11991,16003,17135
+ "49013","Duchesne, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",238,203,(D),226,672,(D)
+ "49013","Duchesne, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",12603,12988,(D),11765,15332,(D)
+ "49013","Duchesne, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),23763
+ "49013","Duchesne, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",145538,143274,147866,152731,152103,155245
+ "49013","Duchesne, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",361998,359766,375384,341509,329731,303044
+ "49013","Duchesne, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",78906,84197,89818,87078,90254,89237
+ "49013","Duchesne, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",76117,78981,88010,87836,90332,85936
+ "49013","Duchesne, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),126828
+ "49013","Duchesne, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",431330,407809,418153,388343,386325,370416
+ "49013","Duchesne, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",463134,447214,509189,491189,535279,541112
+ "49015","Emery, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",922623,859234,914102,952301,1082995,1203860
+ "49015","Emery, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",863783,803466,864053,905714,1032176,1152894
+ "49015","Emery, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",5583,15729,11977,18808,12496,12427
+ "49015","Emery, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",67429,78532,88206,78245,99198,94169
+ "49015","Emery, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",624005,539302,577842,623823,736746,835372
+ "49015","Emery, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",20287,23508,23311,26331,28783,49177
+ "49015","Emery, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",2773,3526,2721,3436,3896,2628
+ "49015","Emery, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",1924,2175,2072,1970,(D),2026
+ "49015","Emery, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",849,1342,649,1474,(D),734
+ "49015","Emery, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49015","Emery, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",20976,22551,24403,24982,24181,23341
+ "49015","Emery, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",2995,2786,2704,3280,3414,3175
+ "49015","Emery, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49015","Emery, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",62857,53821,64329,61995,53272,54786
+ "49015","Emery, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",3722,3446,3870,4143,4808,5245
+ "49015","Emery, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",59134,50365,60465,57837,48406,49464
+ "49015","Emery, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",5744,6650,7528,7102,7944,8598
+ "49015","Emery, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",4878,5593,6545,6089,6280,6405
+ "49015","Emery, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49015","Emery, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49015","Emery, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",2538,7290,8433,8706,8182,8980
+ "49015","Emery, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49015","Emery, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49015","Emery, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",10601,11522,12955,9534,12705,12770
+ "49015","Emery, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",121,102,117,85,369,672
+ "49015","Emery, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",10480,11420,12838,9449,12333,12119
+ "49015","Emery, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",12347,12289,11536,12517,11547,14874
+ "49015","Emery, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",58840,55768,50061,46787,51070,50685
+ "49015","Emery, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",73012,93886,100177,96402,110904,105938
+ "49015","Emery, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49015","Emery, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",627000,542090,580540,627116,740165,838545
+ "49015","Emery, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49015","Emery, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",96072,120929,126154,126458,143825,157151
+ "49015","Emery, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",767711,682484,737776,778954,888003,995390
+ "49017","Garfield, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",240871,254253,273096,265355,303921,347748
+ "49017","Garfield, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",198871,215602,234442,225100,262913,307254
+ "49017","Garfield, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",20374,26142,14061,20032,18657,24618
+ "49017","Garfield, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",2526,2376,2778,2467,(D),2591
+ "49017","Garfield, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",3353,2986,3821,3813,3365,3272
+ "49017","Garfield, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",5734,5379,7374,9997,5633,11838
+ "49017","Garfield, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",3604,3909,3731,3018,(D),2763
+ "49017","Garfield, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49017","Garfield, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),354,(D)
+ "49017","Garfield, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",945,967,850,886,972,1363
+ "49017","Garfield, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",9235,10562,12208,12158,11332,10802
+ "49017","Garfield, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",2745,3738,4703,4919,5521,6652
+ "49017","Garfield, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),81461,77814
+ "49017","Garfield, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",36470,39664,40625,37758,39136,38157
+ "49017","Garfield, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",2733,2777,3007,2959,3238,2911
+ "49017","Garfield, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",33738,36893,37615,34791,35888,35247
+ "49017","Garfield, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",1847,2959,3503,3524,4277,38255
+ "49017","Garfield, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),2237,2741,2620,3367,(D)
+ "49017","Garfield, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "49017","Garfield, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),726,771,902,928,(D)
+ "49017","Garfield, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",13610,13856,14612,14596,15252,16498
+ "49017","Garfield, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49017","Garfield, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49017","Garfield, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",63299,69081,72031,53404,71031,72591
+ "49017","Garfield, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),1694,(D),2172,2838
+ "49017","Garfield, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),70317,(D),68799,69684
+ "49017","Garfield, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(D),(D),(D),(D),4299,4006
+ "49017","Garfield, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",42000,38684,38736,40199,41243,40846
+ "49017","Garfield, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",22900,28401,16958,22984,(D),27235
+ "49017","Garfield, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",10180,11527,13045,13033,12290,12140
+ "49017","Garfield, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",6098,6714,8513,8716,8808,9718
+ "49017","Garfield, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),79923
+ "49017","Garfield, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",32238,37651,28458,36269,30651,41078
+ "49017","Garfield, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",166632,177983,205336,188991,232692,264898
+ "49019","Grand, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",580017,616428,658759,615047,660479,673728
+ "49019","Grand, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",501643,532867,570757,529471,572942,579290
+ "49019","Grand, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",463,2113,5036,4024,3004,4405
+ "49019","Grand, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",40173,37038,41395,42294,45375,35538
+ "49019","Grand, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),10051,12002,20132,25371,22934
+ "49019","Grand, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",40200,36496,47296,50337,39199,38241
+ "49019","Grand, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",15221,16446,17385,16375,16520,16943
+ "49019","Grand, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",4762,3934,5196,4255,5065,5648
+ "49019","Grand, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",10459,12495,12175,12118,11467,11335
+ "49019","Grand, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),7343,7485,7183,7492,7090
+ "49019","Grand, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",47547,48940,47223,47490,50408,49296
+ "49019","Grand, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",19140,20969,21270,25596,21445,21683
+ "49019","Grand, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",5924,5659,6520,6553,7129,7808
+ "49019","Grand, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",120625,126132,146738,114968,113434,115777
+ "49019","Grand, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",7936,7856,8558,9819,8891,8502
+ "49019","Grand, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",112688,118293,138241,105038,104457,107227
+ "49019","Grand, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",20891,21406,22234,26470,30079,37454
+ "49019","Grand, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),16597,19693,24958
+ "49019","Grand, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49019","Grand, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",8866,9033,(D),(D),(D),(D)
+ "49019","Grand, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",30327,32859,34631,35705,39803,43286
+ "49019","Grand, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",2799,2880,2996,2188,3051,2830
+ "49019","Grand, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",27527,29980,31636,33529,36757,40465
+ "49019","Grand, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",132750,153120,147335,118557,161827,169490
+ "49019","Grand, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",20450,20493,19971,16329,23856,26946
+ "49019","Grand, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",112300,132619,127357,102209,137805,142313
+ "49019","Grand, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",13827,14234,14403,14048,13639,13724
+ "49019","Grand, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",78374,83561,88004,85518,87542,94631
+ "49019","Grand, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",40636,39112,46235,46189,48250,40060
+ "49019","Grand, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),56282,54724,54679,57908,56399
+ "49019","Grand, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),31022,33263,45579,46567,44368
+ "49019","Grand, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",21145,22115,23898,22906,23591,24626
+ "49019","Grand, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",96057,92044,111010,113161,103976,94791
+ "49019","Grand, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",405586,440832,459819,416493,469343,485680
+ "49021","Iron, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1582096,1754625,1906080,1935440,2060385,2211325
+ "49021","Iron, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1261463,1425514,1564597,1591852,1704083,1834394
+ "49021","Iron, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",27583,88727,117043,74540,55983,70596
+ "49021","Iron, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",20788,18098,17973,24023,24812,19087
+ "49021","Iron, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",66280,63984,67726,96655,115949,134893
+ "49021","Iron, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",97683,111919,128116,145051,185774,259221
+ "49021","Iron, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",208276,217054,227277,243570,235550,239858
+ "49021","Iron, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",61949,67996,69664,74842,85812,91974
+ "49021","Iron, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",146327,149038,157605,168714,149737,148043
+ "49021","Iron, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",35729,36493,37784,40496,40743,38377
+ "49021","Iron, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",149356,158780,170082,180509,180476,174458
+ "49021","Iron, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",29909,32860,34893,42542,53400,48770
+ "49021","Iron, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",12490,11724,11478,12905,20020,23898
+ "49021","Iron, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",299978,340760,375225,361047,357994,345606
+ "49021","Iron, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",85139,88372,101158,107653,111448,110533
+ "49021","Iron, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",214840,252547,274150,253356,246517,235040
+ "49021","Iron, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",63223,72397,85090,93504,112682,124857
+ "49021","Iron, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",32048,37405,46957,53930,63639,75876
+ "49021","Iron, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",4851,6070,5064,6627,8807,9163
+ "49021","Iron, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",26324,28930,33015,33049,40399,40266
+ "49021","Iron, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",115190,122098,128379,129460,144369,159128
+ "49021","Iron, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",7784,8263,8942,9160,10209,11199
+ "49021","Iron, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",107406,113835,119434,120295,134154,147923
+ "49021","Iron, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",74649,89551,104291,78746,106348,121352
+ "49021","Iron, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",11770,13991,16490,12500,23256,32710
+ "49021","Iron, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",62878,75560,87802,66247,82940,88696
+ "49021","Iron, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",60331,62262,61750,66997,67297,68795
+ "49021","Iron, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",320633,329218,341756,343950,356923,377416
+ "49021","Iron, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",48371,106050,133665,98665,81053,90665
+ "49021","Iron, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",185084,195256,207799,220944,221154,212796
+ "49021","Iron, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",96188,96859,102635,139018,169183,183586
+ "49021","Iron, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",220765,228798,238811,256502,254985,262574
+ "49021","Iron, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",354330,434603,488012,489798,506864,597134
+ "49021","Iron, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",907133,991039,1076896,1102161,1196834,1235920
+ "49023","Juab, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",405585,478706,498977,513331,616048,684092
+ "49023","Juab, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",357013,428743,449083,464984,566679,631894
+ "49023","Juab, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",9693,32578,13045,6358,52221,35458
+ "49023","Juab, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",13240,5619,9308,15099,26262,45479
+ "49023","Juab, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",54645,94615,(D),120413,138623,195543
+ "49023","Juab, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",26197,31216,25021,28270,35137,34089
+ "49023","Juab, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",91018,98505,110600,127635,140302,144377
+ "49023","Juab, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",57194,53971,68083,83029,101528,110041
+ "49023","Juab, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",33824,44579,42465,44729,39250,34857
+ "49023","Juab, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",7551,7523,6073,4722,5112,5253
+ "49023","Juab, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",15395,17696,20376,23062,23371,23064
+ "49023","Juab, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49023","Juab, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),4003,4571,(D)
+ "49023","Juab, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",36628,41868,46253,42644,43050,42529
+ "49023","Juab, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),5323,6315,8461,7594,6747
+ "49023","Juab, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),36559,39927,34075,35362,35724
+ "49023","Juab, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",15662,17599,20535,(D),(D),33281
+ "49023","Juab, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",12478,14357,15749,(D),(D),23950
+ "49023","Juab, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,(D),(D),(D)
+ "49023","Juab, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",3183,3241,4782,6064,7032,(D)
+ "49023","Juab, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),29023
+ "49023","Juab, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49023","Juab, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49023","Juab, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",9730,10772,(D),8426,10886,12133
+ "49023","Juab, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),348,1093,1877
+ "49023","Juab, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),8079,9813,10338
+ "49023","Juab, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(D),(D),(D),13522,13735,13403
+ "49023","Juab, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",48571,49984,49933,48496,49795,52496
+ "49023","Juab, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",22934,37543,22550,22394,79717,80594
+ "49023","Juab, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",22945,25208,26354,27627,28318,28147
+ "49023","Juab, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49023","Juab, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),131687,144917,(D)
+ "49023","Juab, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",140148,167177,158669,179014,256984,260708
+ "49023","Juab, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",216865,261557,290098,286249,312108,374188
+ "49025","Kane, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",325938,349795,360363,376284,432351,417970
+ "49025","Kane, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",272032,298962,309247,323433,378469,362211
+ "49025","Kane, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),4103,4923,9425,14151,7385
+ "49025","Kane, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",23171,16426,10346,25422,(D),(D)
+ "49025","Kane, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),9816,12174,18635,22397,20177
+ "49025","Kane, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",13788,23536,17867,21455,36029,36664
+ "49025","Kane, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",10849,9085,8529,9852,17151,(D)
+ "49025","Kane, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),15237,10347
+ "49025","Kane, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),1984,(D)
+ "49025","Kane, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),2002,2320
+ "49025","Kane, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",19037,19304,19884,19828,19452,19079
+ "49025","Kane, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",5220,4632,(D),(D),(D),(D)
+ "49025","Kane, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",2107,3469,3649,3826,4467,5084
+ "49025","Kane, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",63860,69385,71190,71127,78368,(D)
+ "49025","Kane, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",7398,7158,7429,7524,7482,6930
+ "49025","Kane, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",56462,62254,63784,63624,70921,(D)
+ "49025","Kane, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",8667,(D),11058,12235,14088,14766
+ "49025","Kane, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",5030,5682,(D),(D),8563,9507
+ "49025","Kane, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,(D),(D),(D),157,160
+ "49025","Kane, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",3636,(D),4287,4305,5375,5140
+ "49025","Kane, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",6227,6761,6412,7613,7113,7046
+ "49025","Kane, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",54,54,68,66,58,65
+ "49025","Kane, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",6173,6707,6344,7547,7054,6981
+ "49025","Kane, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",68995,77658,83442,70373,92435,90447
+ "49025","Kane, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",6652,6688,6788,6617,13895,14495
+ "49025","Kane, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",62343,70966,76649,63694,77908,75304
+ "49025","Kane, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",39993,43661,54478,49245,52364,48543
+ "49025","Kane, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",53907,50840,51122,52866,54016,56038
+ "49025","Kane, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),20420,15027,34496,(D),(D)
+ "49025","Kane, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),21461,21396
+ "49025","Kane, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),14439,(D),(D),(D),(D)
+ "49025","Kane, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",12956,12539,12151,13667,21740,(D)
+ "49025","Kane, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),53073,41419,65194,(D),79067
+ "49025","Kane, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),245887,267710,258220,(D),282957
+ "49027","Millard, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",855418,824251,857335,875059,903018,963314
+ "49027","Millard, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",780051,756479,792920,813696,836895,895025
+ "49027","Millard, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",22129,42372,81901,65828,52359,94037
+ "49027","Millard, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",55161,47839,50795,58727,58222,55002
+ "49027","Millard, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",421014,387756,374023,402178,426029,412449
+ "49027","Millard, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",15295,12748,11413,11560,14713,42238
+ "49027","Millard, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",25218,25220,23831,25990,24793,24154
+ "49027","Millard, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",14911,15350,13700,14423,13074,12394
+ "49027","Millard, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",10307,9870,10140,11596,11765,11806
+ "49027","Millard, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),28544
+ "49027","Millard, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",32417,35994,38489,38975,37457,36372
+ "49027","Millard, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",38000,24414,30863,34443,31290,28812
+ "49027","Millard, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",2005,2026,2515,2368,2443,2607
+ "49027","Millard, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",55944,63662,(D),57118,57326,56045
+ "49027","Millard, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),7878,7970,7705
+ "49027","Millard, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),57414,49172,49287,48277
+ "49027","Millard, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",30577,35658,37341,38519,40935,43968
+ "49027","Millard, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49027","Millard, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49027","Millard, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",23050,26858,27995,29362,31022,31822
+ "49027","Millard, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),28568,29225,(D),(D),41848
+ "49027","Millard, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49027","Millard, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49027","Millard, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",11561,(D),12245,10042,11566,12966
+ "49027","Millard, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",351,(D),(D),411,671,998
+ "49027","Millard, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",11210,(D),(D),9627,10890,11975
+ "49027","Millard, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",13483,12857,13035,14011,13930,14104
+ "49027","Millard, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",75367,67774,64433,61512,66277,68204
+ "49027","Millard, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",77289,89617,130127,123382,109829,150295
+ "49027","Millard, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),64792
+ "49027","Millard, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",459014,412128,405009,436820,457467,441465
+ "49027","Millard, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",27223,27246,26320,28353,27213,26698
+ "49027","Millard, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",117802,127553,164872,160642,149101,215784
+ "49027","Millard, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",662249,629012,629065,653698,688376,675576
+ "49029","Morgan, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",279914,303073,313948,349083,390773,363878
+ "49029","Morgan, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",246404,269456,278237,311807,352124,324096
+ "49029","Morgan, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",5876,5587,1728,1421,3777,1051
+ "49029","Morgan, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",5625,3928,15248,17483,18555,(D)
+ "49029","Morgan, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",3885,5556,(D),12549,15713,(D)
+ "49029","Morgan, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",47866,60886,56190,62255,62459,49805
+ "49029","Morgan, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",29574,31320,25169,23708,22967,(D)
+ "49029","Morgan, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",27444,29006,22877,21289,20456,22075
+ "49029","Morgan, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",2130,2315,2298,2429,2522,(D)
+ "49029","Morgan, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",26826,30609,38121,45379,52316,46033
+ "49029","Morgan, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",14869,18272,20019,19679,19904,19027
+ "49029","Morgan, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",3169,3035,2624,7395,10420,8111
+ "49029","Morgan, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",817,509,(D),(D),1496,1667
+ "49029","Morgan, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",63557,58878,58195,64763,73277,(D)
+ "49029","Morgan, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",15657,11163,10997,15620,14110,9872
+ "49029","Morgan, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",47900,47989,47474,49150,59398,(D)
+ "49029","Morgan, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",19929,24048,26479,(D),38339,39738
+ "49029","Morgan, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",15137,19177,20649,23318,33030,35689
+ "49029","Morgan, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49029","Morgan, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49029","Morgan, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",7320,9854,9769,8994,11495,9882
+ "49029","Morgan, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",339,509,549,530,986,839
+ "49029","Morgan, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",6981,9344,9219,8462,10497,9033
+ "49029","Morgan, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",4882,5301,5359,4734,8171,13775
+ "49029","Morgan, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1054,1514,1409,1425,4024,10686
+ "49029","Morgan, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",3828,3788,3950,3313,4236,3637
+ "49029","Morgan, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",12208,11875,(D),(D),13777,13216
+ "49029","Morgan, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",33510,33617,35713,37298,38704,40003
+ "49029","Morgan, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",11501,9487,17670,19726,22971,(D)
+ "49029","Morgan, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",41696,48870,58205,65220,72361,65219
+ "49029","Morgan, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",7054,8586,(D),19987,26210,(D)
+ "49029","Morgan, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",30391,31838,(D),(D),24351,(D)
+ "49029","Morgan, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",88941,101774,98696,105354,107981,89634
+ "49029","Morgan, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",157463,167718,179535,206447,244156,234790
+ "49031","Piute, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",79559,82953,74611,67464,57457,69777
+ "49031","Piute, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",71323,76234,65787,60802,50788,62879
+ "49031","Piute, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",54170,55836,42679,39680,30731,39595
+ "49031","Piute, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,0,0,96,299,318
+ "49031","Piute, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "49031","Piute, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49031","Piute, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49031","Piute, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49031","Piute, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",0,42,82,106,156,146
+ "49031","Piute, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",62,41,49,8,0,1
+ "49031","Piute, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",(D),1261,(D),(D),(D),(D)
+ "49031","Piute, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49031","Piute, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",137,129,170,176,183,275
+ "49031","Piute, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",8725,9598,(D),9324,9057,(D)
+ "49031","Piute, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49031","Piute, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),10082,(D),(D),8269
+ "49031","Piute, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),628,(D),678,(D),(D)
+ "49031","Piute, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49031","Piute, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "49031","Piute, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49031","Piute, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49031","Piute, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",169,185,258,190,139,154
+ "49031","Piute, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49031","Piute, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",633,1113,(D),662,1124,1424
+ "49031","Piute, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",236,615,154,(D),(D),(D)
+ "49031","Piute, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",397,500,(D),(D),(D),(D)
+ "49031","Piute, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49031","Piute, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",8236,6777,8673,6668,6640,6647
+ "49031","Piute, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",54170,55836,42679,39792,31030,39935
+ "49031","Piute, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),1302,(D),(D),(D),(D)
+ "49031","Piute, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49031","Piute, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49031","Piute, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",56760,58689,(D),42907,(D),(D)
+ "49031","Piute, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",14564,17470,(D),17477,(D),(D)
+ "49033","Rich, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",131815,137593,138681,144275,150520,140929
+ "49033","Rich, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",117891,124447,125104,130903,136842,127340
+ "49033","Rich, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),21233,19169
+ "49033","Rich, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",764,1090,1441,1717,1872,657
+ "49033","Rich, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",466,1692,4038,7892,6249,8286
+ "49033","Rich, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",9409,9439,12630,11924,14083,11208
+ "49033","Rich, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),987,983
+ "49033","Rich, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49033","Rich, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",29,140,128,(D),(D),(D)
+ "49033","Rich, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),127,129,(D),233
+ "49033","Rich, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",4141,4912,4705,5168,6162,6054
+ "49033","Rich, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",3088,(D),1500,2465,(D),1948
+ "49033","Rich, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),126,85,(D),(D),(D)
+ "49033","Rich, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",53346,55309,(D),53481,63064,(D)
+ "49033","Rich, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49033","Rich, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),49918,(D),(D),56222
+ "49033","Rich, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",2936,2983,3588,3273,4368,4595
+ "49033","Rich, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49033","Rich, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49033","Rich, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",2391,2183,2774,2533,3272,3325
+ "49033","Rich, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),873,907,(D),(D),(D)
+ "49033","Rich, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),312,285
+ "49033","Rich, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",1521,(D),(D),(D),(D),(D)
+ "49033","Rich, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",8075,9205,9180,8600,10806,10685
+ "49033","Rich, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",660,998,1175,1313,1455,1671
+ "49033","Rich, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",7415,8209,8012,7291,9360,9032
+ "49033","Rich, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",4690,(D),(D),4402,4297,4357
+ "49033","Rich, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",13923,13162,13585,13417,13738,13687
+ "49033","Rich, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),23179,20010
+ "49033","Rich, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),4831,5296,(D),6283
+ "49033","Rich, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",3554,(D),5499,10269,(D),10138
+ "49033","Rich, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",683,(D),(D),861,(D),(D)
+ "49033","Rich, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",39089,43000,46394,44340,38657,32622
+ "49033","Rich, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",78802,81492,78968,86439,98017,95137
+ "49035","Salt Lake, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",90203042,95359475,101001575,100538997,109311585,110953294
+ "49035","Salt Lake, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",80434144,85526907,90948306,90576969,99303768,100538164
+ "49035","Salt Lake, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",20913,26115,19928,23287,21305,17312
+ "49035","Salt Lake, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",1232618,1300449,1372773,1597992,1652170,1445974
+ "49035","Salt Lake, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",400276,521425,628506,920189,1065310,1007295
+ "49035","Salt Lake, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",4764475,5156268,5673555,6014320,6407678,6448955
+ "49035","Salt Lake, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",7945956,8385729,8866298,8343620,9829217,9747975
+ "49035","Salt Lake, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",4831801,4941503,4863498,4912852,5448932,5692347
+ "49035","Salt Lake, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",3114155,3437872,3980418,3386192,4335576,4063410
+ "49035","Salt Lake, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",5695954,5757384,5907473,6326914,6382999,5997237
+ "49035","Salt Lake, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",6362440,6650911,6872151,7051103,7293035,7300234
+ "49035","Salt Lake, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",4133017,4374558,4642666,4037136,4427818,5030843
+ "49035","Salt Lake, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",4145688,4409613,5172079,5379663,6111831,7099201
+ "49035","Salt Lake, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",24026420,25832360,27387919,26878666,29323543,27548593
+ "49035","Salt Lake, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",13066341,13744156,15338260,14996538,16384472,14683795
+ "49035","Salt Lake, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",10960079,12098667,12010293,11846301,12899099,12882295
+ "49035","Salt Lake, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",11331993,12340984,13249367,13623314,15354026,17328413
+ "49035","Salt Lake, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",6433592,7316354,7907085,8322293,9739187,11116286
+ "49035","Salt Lake, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",1921753,1959898,2061296,2193231,2266210,2503925
+ "49035","Salt Lake, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",2976648,3064548,3279875,3120708,3360837,3724897
+ "49035","Salt Lake, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",5525131,5702067,5972937,5925096,6531296,6901824
+ "49035","Salt Lake, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",950421,1006254,1124833,1139936,1352155,1333020
+ "49035","Salt Lake, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",4574710,4695665,4846852,4783401,5174870,5566441
+ "49035","Salt Lake, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",2677197,2826944,2971585,2308628,2837747,3158835
+ "49035","Salt Lake, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",689420,732244,735013,555169,651015,799644
+ "49035","Salt Lake, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",1987777,2094731,2235828,1752667,2184995,2363208
+ "49035","Salt Lake, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",2172065,2239744,2239790,2194564,2282864,2243751
+ "49035","Salt Lake, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",9768898,9833015,10054794,9965179,10042370,10451780
+ "49035","Salt Lake, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",1253531,1326463,1392958,1621574,1673992,1463930
+ "49035","Salt Lake, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",12058394,12406880,12777140,13380181,13679925,13307270
+ "49035","Salt Lake, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",4533293,4896582,5271807,4958897,5497943,6027832
+ "49035","Salt Lake, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",12091644,12795073,14018226,13694202,15917608,16682177
+ "49035","Salt Lake, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",13963962,14868315,15936537,16018806,17907880,17645460
+ "49035","Salt Lake, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",66470182,70658398,75011121,74561531,81404062,82926780
+ "49037","San Juan, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",466332,443331,470867,445508,484337,498364
+ "49037","San Juan, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",348377,332304,360727,339714,378834,389337
+ "49037","San Juan, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",2574,3491,5803,16020,2137,4724
+ "49037","San Juan, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",104630,84494,86985,69132,116922,110313
+ "49037","San Juan, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",9960,11375,(D),21984,25865,26194
+ "49037","San Juan, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",18142,18265,19260,13993,14186,23269
+ "49037","San Juan, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",6500,8294,10676,12154,12845,13174
+ "49037","San Juan, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),2774,3079,3274
+ "49037","San Juan, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),9407,9794,9921
+ "49037","San Juan, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),2247,(D),(D),(D)
+ "49037","San Juan, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",12381,13166,13759,12546,11942,11513
+ "49037","San Juan, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),2677,2762,3318,2909,(D)
+ "49037","San Juan, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49037","San Juan, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",79327,66741,79489,81789,72663,73094
+ "49037","San Juan, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",4693,4728,5378,7002,6470,5476
+ "49037","San Juan, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",74634,61979,74093,74690,66099,67621
+ "49037","San Juan, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",6123,(D),8013,8172,9593,9850
+ "49037","San Juan, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),4723,(D),(D),(D),7646
+ "49037","San Juan, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49037","San Juan, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",2001,2198,2441,2320,2770,(D)
+ "49037","San Juan, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",51727,52358,53192,52624,59106,63661
+ "49037","San Juan, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",5663,(D),(D),(D),(D),4246
+ "49037","San Juan, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",46063,(D),(D),(D),(D),59439
+ "49037","San Juan, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",37646,46330,48200,29412,35501,39237
+ "49037","San Juan, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),453,(D),(D)
+ "49037","San Juan, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),28950,(D),(D)
+ "49037","San Juan, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(D),15400,15142,(D),14852,(D)
+ "49037","San Juan, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",117955,111019,110137,105715,105719,109270
+ "49037","San Juan, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",107204,87899,92522,85064,118135,114020
+ "49037","San Juan, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),15986,(D),(D),(D)
+ "49037","San Juan, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),14054,(D),25246,28690,(D)
+ "49037","San Juan, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49037","San Juan, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",131846,114247,122176,110680,143939,147968
+ "49037","San Juan, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",216530,218413,238966,229040,235177,241567
+ "49039","Sanpete, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",785789,867113,830018,861414,914800,1018245
+ "49039","Sanpete, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",615515,676109,631666,670599,723751,810713
+ "49039","Sanpete, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",151406,165989,75936,100006,100639,160182
+ "49039","Sanpete, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",5927,6083,3393,4150,12294,12943
+ "49039","Sanpete, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),6464,8034,14476,18788,(D)
+ "49039","Sanpete, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",37291,36757,35795,42013,55412,67193
+ "49039","Sanpete, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",86126,95666,114282,121430,138934,145000
+ "49039","Sanpete, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",52532,59273,62086,61028,62994,64470
+ "49039","Sanpete, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",33594,36382,52373,60612,76157,80872
+ "49039","Sanpete, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),7480,8037,9406,9357,(D)
+ "49039","Sanpete, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",41925,44494,45729,48428,48012,47222
+ "49039","Sanpete, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",15854,13980,13917,14352,17000,14171
+ "49039","Sanpete, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",41109,56502,75804,69424,70092,72574
+ "49039","Sanpete, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",110997,121602,126051,132046,130749,127931
+ "49039","Sanpete, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",12851,11991,12614,24294,23187,20446
+ "49039","Sanpete, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",98146,109681,113499,107425,107257,107288
+ "49039","Sanpete, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",18124,22280,18955,19171,23529,22893
+ "49039","Sanpete, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),14625,11955,11508,13700,13578
+ "49039","Sanpete, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),802,(D),927,1062,1332
+ "49039","Sanpete, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",8062,6889,(D),6739,8724,8020
+ "49039","Sanpete, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",51869,53859,54650,50007,51058,53332
+ "49039","Sanpete, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",15172,15427,16407,(D),(D),14646
+ "49039","Sanpete, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",36697,38433,38235,(D),(D),38702
+ "49039","Sanpete, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",16757,17710,18778,12791,14909,15400
+ "49039","Sanpete, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1371,1363,1446,1291,1795,2124
+ "49039","Sanpete, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",15386,16347,17332,11492,13098,13267
+ "49039","Sanpete, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",27072,27529,26743,28642,28010,27723
+ "49039","Sanpete, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",170274,190958,197796,190995,191733,208117
+ "49039","Sanpete, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",157333,172057,79357,104169,113142,174745
+ "49039","Sanpete, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),51977,53784,57879,57414,(D)
+ "49039","Sanpete, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),20420,21890,28535,35399,(D)
+ "49039","Sanpete, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",127236,152103,189810,191098,209964,218607
+ "49039","Sanpete, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",280751,304395,233469,270795,311317,400209
+ "49039","Sanpete, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",334764,371635,395697,398329,411105,404927
+ "49041","Sevier, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1050188,1076758,1127974,1146397,1155947,1239529
+ "49041","Sevier, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",937662,949398,1001254,1021262,1029079,1106227
+ "49041","Sevier, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",100600,(D),93901,88308,66279,56954
+ "49041","Sevier, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",277890,234531,244638,298646,242684,344122
+ "49041","Sevier, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",6486,(D),6154,8206,13129,16928
+ "49041","Sevier, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",32218,28090,31563,34791,35200,43040
+ "49041","Sevier, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",61788,89628,136263,93008,154309,142462
+ "49041","Sevier, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",24552,27527,26898,27092,31281,33181
+ "49041","Sevier, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",37236,61253,106323,61805,118397,106362
+ "49041","Sevier, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),30690,(D),(D)
+ "49041","Sevier, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",80255,85117,87285,90064,87153,85422
+ "49041","Sevier, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",94320,95657,92317,96650,96806,84307
+ "49041","Sevier, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",4568,4017,4310,4091,4946,5571
+ "49041","Sevier, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",112780,120749,122316,117925,119868,(D)
+ "49041","Sevier, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",17728,16375,17536,20533,20749,18775
+ "49041","Sevier, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",95052,104465,104815,97282,99008,(D)
+ "49041","Sevier, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",27408,33721,35444,36482,39374,41446
+ "49041","Sevier, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",18499,23444,25837,26872,28606,31129
+ "49041","Sevier, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,0,(D)
+ "49041","Sevier, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",8909,10279,9625,9637,10776,(D)
+ "49041","Sevier, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),65393,(D),58957,(D),68375
+ "49041","Sevier, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),1677,(D),(D),(D),(D)
+ "49041","Sevier, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),63715,(D),(D),(D),(D)
+ "49041","Sevier, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",27893,27811,29189,24774,30421,31517
+ "49041","Sevier, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",821,780,926,783,1670,2408
+ "49041","Sevier, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",27072,27031,28264,23992,28730,29111
+ "49041","Sevier, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",22226,22570,23630,25501,26138,28372
+ "49041","Sevier, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",112526,127371,126764,125425,127097,133258
+ "49041","Sevier, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",378490,(D),339064,389833,311445,400915
+ "49041","Sevier, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),120817,(D),(D)
+ "49041","Sevier, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",100806,(D),98486,104770,109665,100759
+ "49041","Sevier, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",66356,93838,141066,97550,159949,148319
+ "49041","Sevier, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",472496,(D),513007,529202,501840,582797
+ "49041","Sevier, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",465166,(D),488660,493274,526217,516359
+ "49043","Summit, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",3418250,3617976,3618764,3541393,4229844,4363032
+ "49043","Summit, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",3192283,3393536,3390126,3326196,4018720,4145751
+ "49043","Summit, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",20600,22369,18955,23977,11814,12503
+ "49043","Summit, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",35716,32857,29899,32782,39495,25653
+ "49043","Summit, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",11105,13538,15768,24915,30539,30031
+ "49043","Summit, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",233297,223468,220040,217749,352221,404972
+ "49043","Summit, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",103497,116912,126904,129558,142290,153488
+ "49043","Summit, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",86120,95971,94660,95121,103088,109277
+ "49043","Summit, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",17377,20937,32207,34395,39134,44107
+ "49043","Summit, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",70408,77541,77175,98290,111077,113798
+ "49043","Summit, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",252776,276848,286602,277377,292783,293768
+ "49043","Summit, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",42601,43655,36252,46871,66836,57104
+ "49043","Summit, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",68337,84047,99128,118783,125890,136606
+ "49043","Summit, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1003472,1119818,1036846,1089613,1335463,1253100
+ "49043","Summit, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",109909,88157,104464,115369,152053,135156
+ "49043","Summit, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",893562,1032668,932000,973631,1182391,1117474
+ "49043","Summit, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",368794,396577,413717,411040,525532,605634
+ "49043","Summit, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",263292,287925,297590,305958,399496,460785
+ "49043","Summit, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",35158,35389,38625,31916,37741,58060
+ "49043","Summit, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",70344,73248,77522,72937,88028,88787
+ "49043","Summit, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",138346,149811,160127,153575,159483,178094
+ "49043","Summit, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",21325,22588,25606,23129,23787,27114
+ "49043","Summit, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",117021,127226,134500,130460,135717,150989
+ "49043","Summit, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",749098,736268,770727,612893,734685,797009
+ "49043","Summit, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",350771,326253,316562,270873,319233,361319
+ "49043","Summit, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",398327,409921,453875,340861,414516,434394
+ "49043","Summit, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",94237,100569,100308,94467,96824,98175
+ "49043","Summit, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",225968,224500,228670,215436,212967,219187
+ "49043","Summit, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",56316,55139,48850,56540,51580,38572
+ "49043","Summit, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",323184,354394,363668,376184,404310,407972
+ "49043","Summit, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",53705,57213,52100,71928,97449,87419
+ "49043","Summit, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",171834,200905,225800,247464,267444,289241
+ "49043","Summit, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",393109,395377,395586,402962,547694,597270
+ "49043","Summit, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",2799173,2998120,2994503,2923090,3469932,3545661
+ "49045","Tooele, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1751142,1800683,1821760,1983656,2175541,2125272
+ "49045","Tooele, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1382934,1434977,1436762,1595266,1778726,1710089
+ "49045","Tooele, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",2423,11860,1342,438,16043,30958
+ "49045","Tooele, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",37527,31593,44441,63327,57299,39425
+ "49045","Tooele, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",15473,16136,16115,21967,23192,20848
+ "49045","Tooele, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",130608,138524,143170,177210,250041,231330
+ "49045","Tooele, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",245833,231017,271319,365117,420516,388789
+ "49045","Tooele, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",185641,174629,180187,268294,314376,276527
+ "49045","Tooele, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",60192,56395,92158,100418,110864,116543
+ "49045","Tooele, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",17980,18568,17152,18441,17436,18277
+ "49045","Tooele, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",113455,116422,129589,141464,152525,142767
+ "49045","Tooele, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",128651,121716,109687,114750,123614,112533
+ "49045","Tooele, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",21749,19807,22006,21179,24972,29053
+ "49045","Tooele, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",263637,324705,280014,279813,278332,259918
+ "49045","Tooele, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",19937,19095,23876,29726,29930,28472
+ "49045","Tooele, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",243701,305779,255936,249719,248032,231086
+ "49045","Tooele, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",189404,173103,156920,156986,160710,174615
+ "49045","Tooele, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),52119,(D),60837,63619
+ "49045","Tooele, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),1041,(D),1081,2937
+ "49045","Tooele, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",146316,127777,104405,101103,100189,109609
+ "49045","Tooele, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",92827,103387,114694,108946,118758,125699
+ "49045","Tooele, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",10748,13598,18589,19533,21795,22357
+ "49045","Tooele, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",82079,89778,96034,89301,96827,103216
+ "49045","Tooele, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",53922,56308,56738,49456,61878,65101
+ "49045","Tooele, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",12245,11843,9776,8176,10483,9961
+ "49045","Tooele, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",41678,44458,46914,41236,51345,55008
+ "49045","Tooele, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",69445,72669,73951,80854,81293,80741
+ "49045","Tooele, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",368208,365698,384945,388990,398013,417062
+ "49045","Tooele, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",39950,43096,46439,64837,72104,69159
+ "49045","Tooele, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",131435,134991,146600,159743,169832,160871
+ "49045","Tooele, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",144124,137859,125825,136778,146853,133401
+ "49045","Tooele, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",267582,250845,293423,386501,445659,417101
+ "49045","Tooele, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",416390,412379,460588,605596,743537,690520
+ "49045","Tooele, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",966544,1022917,975974,992903,1041422,1025713
+ "49047","Uintah, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1713241,1649069,1719688,1633276,1645488,1772587
+ "49047","Uintah, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1486102,1418080,1489239,1404640,1428118,1547968
+ "49047","Uintah, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",4368,2832,14570,8322,8487,15158
+ "49047","Uintah, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",507508,457111,467477,382893,384632,423598
+ "49047","Uintah, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",173896,172951,173063,187087,170188,245691
+ "49047","Uintah, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",74304,63632,61194,64608,78246,85851
+ "49047","Uintah, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",11926,12891,16620,21834,24362,28898
+ "49047","Uintah, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",9815,10448,13275,18003,19145,24556
+ "49047","Uintah, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",2110,2447,3357,3856,5230,4392
+ "49047","Uintah, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",67044,61679,76682,95892,121538,107658
+ "49047","Uintah, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",104097,113276,120520,119416,112214,108271
+ "49047","Uintah, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",69871,74249,72229,61745,66360,63228
+ "49047","Uintah, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",25226,15754,15567,14945,16049,17068
+ "49047","Uintah, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",276983,261690,283199,264131,242445,241910
+ "49047","Uintah, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",16237,16911,18240,20300,22007,24839
+ "49047","Uintah, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",260747,244736,264915,243649,220184,216712
+ "49047","Uintah, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",28082,31598,35836,33022,40377,40323
+ "49047","Uintah, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",18123,20548,24947,21377,28186,28887
+ "49047","Uintah, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,(D),(D),112,(D),793
+ "49047","Uintah, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",9958,(D),(D),11502,(D),10927
+ "49047","Uintah, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",59941,62997,66094,61831,65522,69809
+ "49047","Uintah, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",6194,6307,6960,6104,7702,7659
+ "49047","Uintah, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",53746,56691,59130,55732,57799,62138
+ "49047","Uintah, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",33145,36341,37457,32322,40677,41224
+ "49047","Uintah, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1021,1165,1198,1278,3004,4363
+ "49047","Uintah, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",32124,35177,36259,31041,37671,36931
+ "49047","Uintah, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",49711,51797,50391,49751,49756,46602
+ "49047","Uintah, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",227139,231096,230630,228263,217660,224431
+ "49047","Uintah, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",511876,460002,481457,390585,392513,439326
+ "49047","Uintah, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",171141,174862,197430,215964,234118,216401
+ "49047","Uintah, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",243767,247249,245286,248090,236171,307494
+ "49047","Uintah, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",37152,28770,32456,37104,40782,46644
+ "49047","Uintah, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",598106,536551,559177,480001,499834,559348
+ "49047","Uintah, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",887996,882499,931009,920032,925344,985493
+ "49049","Utah, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",25069858,27107467,29611528,30961139,33412370,34604155
+ "49049","Utah, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",22891497,24955150,27400669,28689009,31100914,32211830
+ "49049","Utah, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",29479,23790,13904,14690,19725,39488
+ "49049","Utah, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",27956,31600,38770,41450,76345,64786
+ "49049","Utah, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",226795,289228,327321,482247,562615,656472
+ "49049","Utah, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",2574535,2859429,2987038,3457471,3594788,3144308
+ "49049","Utah, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",2570447,2681812,2795354,2976156,3138605,3200034
+ "49049","Utah, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",1698313,1789908,1763181,1802855,1869555,1923091
+ "49049","Utah, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",872134,891838,1032324,1173529,1268722,1277487
+ "49049","Utah, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1310619,1407943,1313878,1197232,1086538,1010665
+ "49049","Utah, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",2473655,2642532,2704512,2868618,2897173,2968313
+ "49049","Utah, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",235595,248716,263541,280699,327076,335237
+ "49049","Utah, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",2751897,3021802,3572831,4038542,4911657,5592689
+ "49049","Utah, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",3859197,3937358,4556697,4587024,5235931,5246528
+ "49049","Utah, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",705768,696046,768567,916684,1217347,1132542
+ "49049","Utah, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",3153429,3242188,3791119,3667880,4010025,4110784
+ "49049","Utah, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",2778777,3504364,4328901,4346431,4571523,5140378
+ "49049","Utah, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",1986334,2557384,3270806,3228062,3286318,3844211
+ "49049","Utah, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",125499,176017,193698,213339,230459,323961
+ "49049","Utah, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",666943,771675,867804,906992,1048564,992169
+ "49049","Utah, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",2674621,2851448,2998632,2952501,3129865,3369505
+ "49049","Utah, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",1076660,1104064,1145818,1088429,1132227,1212253
+ "49049","Utah, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",1597961,1747616,1853266,1865250,1999331,2159201
+ "49049","Utah, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",637529,702585,756480,650390,805307,904219
+ "49049","Utah, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",114739,127221,145446,125967,171964,240008
+ "49049","Utah, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",522790,575367,611155,524540,633965,668508
+ "49049","Utah, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",740396,759766,783269,854038,879817,878945
+ "49049","Utah, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",2178362,2154038,2215281,2278151,2324623,2406128
+ "49049","Utah, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",57434,55494,53076,56571,96938,104491
+ "49049","Utah, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",3784274,4050545,4014604,4057573,3977294,3974697
+ "49049","Utah, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",462390,537911,590768,761583,888111,990520
+ "49049","Utah, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",5322344,5702158,6357708,6997616,8007445,8705265
+ "49049","Utah, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",5202417,5597622,5836724,6501529,6838017,6430761
+ "49049","Utah, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",17689080,19357841,21568814,22184958,24263594,25818798
+ "49051","Wasatch, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1004858,1019126,1139902,1116261,1259299,1267180
+ "49051","Wasatch, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",879235,887525,1001859,975497,1112576,1114005
+ "49051","Wasatch, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",3954,3016,(D),647,1598,818
+ "49051","Wasatch, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",3513,2364,1741,551,504,(D)
+ "49051","Wasatch, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",8011,10186,(D),19871,23750,(D)
+ "49051","Wasatch, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",265255,235588,272279,255417,327907,283895
+ "49051","Wasatch, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",30245,33932,40283,41173,45869,(D)
+ "49051","Wasatch, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",17813,19173,20629,21836,24692,23117
+ "49051","Wasatch, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",12433,14767,19722,19387,21209,(D)
+ "49051","Wasatch, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",21048,21717,23354,23897,26100,24688
+ "49051","Wasatch, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",82575,95640,94812,94254,92916,91506
+ "49051","Wasatch, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",15583,14869,16448,19257,21039,19250
+ "49051","Wasatch, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",22758,19336,22743,26053,28458,34675
+ "49051","Wasatch, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",187354,168878,207320,213576,203249,(D)
+ "49051","Wasatch, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",15823,17467,31742,33138,28808,23661
+ "49051","Wasatch, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",171531,151315,174857,179687,173773,(D)
+ "49051","Wasatch, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",79414,89449,99581,97366,128833,151013
+ "49051","Wasatch, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",51306,55406,62199,68722,89549,100752
+ "49051","Wasatch, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",238,1405,4098,4336,8400,15459
+ "49051","Wasatch, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",27870,32648,33421,24692,31649,36293
+ "49051","Wasatch, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",60793,62928,66426,70655,72948,84298
+ "49051","Wasatch, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",7574,7955,8197,7832,9337,10186
+ "49051","Wasatch, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",53219,54973,58231,62838,63605,74115
+ "49051","Wasatch, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",57074,85881,96785,64463,90060,98013
+ "49051","Wasatch, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",10772,14153,15450,14399,21525,25335
+ "49051","Wasatch, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",46302,71717,81317,49922,68275,72427
+ "49051","Wasatch, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",41658,43776,46261,48034,49980,49121
+ "49051","Wasatch, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",125623,131583,138059,140703,146893,153482
+ "49051","Wasatch, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",7467,5379,(D),1204,2167,(D)
+ "49051","Wasatch, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",103623,117328,118207,118209,119035,116236
+ "49051","Wasatch, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",23594,25046,(D),38994,44627,(D)
+ "49051","Wasatch, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",53003,53338,63116,67147,74291,(D)
+ "49051","Wasatch, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",302968,274869,(D),298141,376377,(D)
+ "49051","Wasatch, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",576267,612749,(D),677676,735534,(D)
+ "49053","Washington, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",6234717,6619509,6886456,7219195,7853248,7944998
+ "49053","Washington, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",5615483,5972677,6218917,6547324,7156801,7211341
+ "49053","Washington, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),2141,2500,2089
+ "49053","Washington, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",55693,90426,100179,142229,206405,186637
+ "49053","Washington, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),(D),72221,85977,84941
+ "49053","Washington, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",752046,752684,730752,882076,999666,951006
+ "49053","Washington, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",296947,330612,327522,341930,361893,360784
+ "49053","Washington, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",225707,250831,239071,246358,257653,259350
+ "49053","Washington, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",71240,79781,88462,95637,104307,101525
+ "49053","Washington, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",213177,206555,195403,207550,216023,226362
+ "49053","Washington, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",579447,624848,667405,692035,722583,717318
+ "49053","Washington, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",327832,381372,376531,339907,349482,306602
+ "49053","Washington, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",202404,208448,224158,213569,242904,272945
+ "49053","Washington, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1465936,1501515,1624587,1712842,1769120,1767264
+ "49053","Washington, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",193078,183693,200975,274802,246189,207829
+ "49053","Washington, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1272857,1318394,1424088,1435727,1521634,1560817
+ "49053","Washington, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),(D),(D),491472,579367,632262
+ "49053","Washington, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",244208,295949,293316,321823,379719,432758
+ "49053","Washington, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),16671,20090,13818
+ "49053","Washington, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",125013,137003,154369,153630,180397,186579
+ "49053","Washington, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",717731,763274,810317,830284,900211,964187
+ "49053","Washington, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",31355,36896,41458,41933,45597,49177
+ "49053","Washington, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",686376,726363,768816,788316,854573,914961
+ "49053","Washington, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",363257,386450,405454,339769,426118,453785
+ "49053","Washington, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",59117,65307,63229,50093,67651,78407
+ "49053","Washington, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",304140,321156,342158,289658,358346,375490
+ "49053","Washington, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",227993,239598,250997,275521,292397,300865
+ "49053","Washington, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",619234,646878,667624,672509,697997,735600
+ "49053","Washington, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),145404,210480,190174
+ "49053","Washington, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",792624,831169,861680,898537,937524,942330
+ "49053","Washington, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),412465,436621,393602
+ "49053","Washington, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",499351,539192,551380,556017,604326,630054
+ "49053","Washington, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),1369626,1573756,1501574
+ "49053","Washington, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),5175689,5579431,5710667
+ "49055","Wayne, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",98369,99888,105276,106138,109640,107335
+ "49055","Wayne, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",78518,80591,85489,85943,89685,86780
+ "49055","Wayne, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",7045,(D),11744,13768,11819,11171
+ "49055","Wayne, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",10510,311,3220,3283,(D),(D)
+ "49055","Wayne, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1635,1545,1670,1830,1604,1277
+ "49055","Wayne, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",12131,14027,13679,16891,16517,17134
+ "49055","Wayne, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",369,(D),442,271,(D),(D)
+ "49055","Wayne, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),306,(D),(D),227,264
+ "49055","Wayne, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49055","Wayne, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),1499,1387,(D),1440
+ "49055","Wayne, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",5742,6122,6508,6273,6619,6621
+ "49055","Wayne, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",1096,1065,(D),(D),1150,(D)
+ "49055","Wayne, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "49055","Wayne, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",14891,16434,(D),15336,15859,15490
+ "49055","Wayne, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),637
+ "49055","Wayne, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),15880,(D),(D),14877
+ "49055","Wayne, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",2017,(D),3560,3392,3546,2829
+ "49055","Wayne, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",1892,3400,(D),(D),(D),2227
+ "49055","Wayne, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "49055","Wayne, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",125,(D),(D),(D),(D),596
+ "49055","Wayne, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",5914,6370,6594,7207,7555,8355
+ "49055","Wayne, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",64,30,8,51,85,94
+ "49055","Wayne, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",5850,6340,6587,7157,7470,8260
+ "49055","Wayne, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",12531,14068,15358,11907,17222,17218
+ "49055","Wayne, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1503,1344,1166,1001,1423,1615
+ "49055","Wayne, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",11028,12721,14181,10896,15786,15599
+ "49055","Wayne, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",2693,2642,2505,2845,2906,(D)
+ "49055","Wayne, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",19851,19301,19799,20200,19968,20642
+ "49055","Wayne, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",17555,(D),14883,16907,(D),(D)
+ "49055","Wayne, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),8000,7651,(D),8050
+ "49055","Wayne, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",2731,2610,(D),(D),2753,(D)
+ "49055","Wayne, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),1238,(D),(D),1138,1351
+ "49055","Wayne, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",30055,26286,28899,34043,31746,29509
+ "49055","Wayne, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",48463,54275,56585,52067,58201,57710
+ "49057","Weber, UT",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",10722720,11381880,11942660,12312416,12730833,13096916
+ "49057","Weber, UT",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",9034289,9666566,10186636,10475457,10831661,11152501
+ "49057","Weber, UT",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",29697,33949,50755,51579,39552,56646
+ "49057","Weber, UT",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",7317,9808,15341,17599,25221,25543
+ "49057","Weber, UT",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",32583,33694,37570,50697,48616,45860
+ "49057","Weber, UT",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",658443,684545,701394,792476,818599,828669
+ "49057","Weber, UT",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",2209946,2545464,2717766,2932026,2967675,3176048
+ "49057","Weber, UT",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",1681132,2080723,2158517,2215791,2185000,2381464
+ "49057","Weber, UT",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",528814,464710,559101,710944,774202,788939
+ "49057","Weber, UT",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",653148,676227,692819,736822,753982,715086
+ "49057","Weber, UT",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",791857,890760,936867,954912,970848,968840
+ "49057","Weber, UT",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",214738,227257,223148,247340,255067,232655
+ "49057","Weber, UT",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",131651,133107,141600,136798,152526,171128
+ "49057","Weber, UT",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1847878,1862317,2043432,1997233,2063396,2030662
+ "49057","Weber, UT",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",547286,406304,431855,476313,501709,453800
+ "49057","Weber, UT",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1300592,1461198,1618110,1524991,1565614,1583566
+ "49057","Weber, UT",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",813474,867670,898713,920039,988884,1075376
+ "49057","Weber, UT",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",409062,443027,465643,489753,553812,640961
+ "49057","Weber, UT",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",36017,45128,47547,47197,60166,69532
+ "49057","Weber, UT",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",368394,379610,385742,383537,377774,371342
+ "49057","Weber, UT",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",994339,1050891,1072728,1022131,1074868,1150940
+ "49057","Weber, UT",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",69015,75722,82678,70820,75457,77707
+ "49057","Weber, UT",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",925323,975154,989962,951378,999460,1073343
+ "49057","Weber, UT",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",309454,311124,317149,269549,324376,360643
+ "49057","Weber, UT",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",75862,76182,74575,61758,72958,91169
+ "49057","Weber, UT",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",233592,234942,242559,207783,251397,269915
+ "49057","Weber, UT",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",339765,342776,341659,358845,359783,359361
+ "49057","Weber, UT",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1688432,1715673,1756863,1836994,1899339,1944711
+ "49057","Weber, UT",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",37015,43720,66013,69022,64136,81928
+ "49057","Weber, UT",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",1445004,1566550,1628746,1691348,1724382,1684093
+ "49057","Weber, UT",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",247321,260953,260669,297725,303393,278280
+ "49057","Weber, UT",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",2341597,2678857,2859691,3069373,3120095,3346308
+ "49057","Weber, UT",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",2905404,3273147,3482846,3794591,3852728,4085005
+ "49057","Weber, UT",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",6128885,6394260,6705051,6693436,6987078,7084460
+"Note: See the included footnote file."
+"CAGDP9: Real GDP by county and metropolitan area 1/"
+"Last updated: December 7, 2023 -- new statistics for 2022, revised statistics for 2017-2021."
+"U.S. Bureau of Economic Analysis"

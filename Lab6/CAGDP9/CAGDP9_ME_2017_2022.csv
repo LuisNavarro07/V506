@@ -1,0 +1,583 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2017,2018,2019,2020,2021,2022
+ "23000","Maine",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",63000596,64806287,66351151,67420598,70869930,72413523
+ "23000","Maine",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",54614966,56442887,58020972,59135519,62437695,63783228
+ "23000","Maine",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",909589,894061,914397,877768,870356,966118
+ "23000","Maine",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",44877,51446,37144,67636,52275,33321
+ "23000","Maine",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",992187,965827,962410,1045000,987409,1070966
+ "23000","Maine",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",2208606,2256082,2283869,2273390,2409195,2270948
+ "23000","Maine",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",5933666,6097337,6271529,6684118,6817230,6837745
+ "23000","Maine",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",2913169,3102735,3063877,3106018,3390726,3462850
+ "23000","Maine",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",3020498,2994774,3208368,3583449,3423797,3371319
+ "23000","Maine",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",3420105,3455307,3424997,3516263,3536342,3263651
+ "23000","Maine",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",5347882,5545729,5741068,5858750,5883797,5789183
+ "23000","Maine",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",1458594,1416885,1404389,1380204,1473924,1405585
+ "23000","Maine",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",1116952,1244364,1327999,1300248,1521615,1678125
+ "23000","Maine",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",13422712,13857448,14218099,15665872,16015036,16313301
+ "23000","Maine",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",4215566,4183275,4342847,4813507,4872959,4707727
+ "23000","Maine",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",9207147,9677431,9877076,10853929,11144069,11614861
+ "23000","Maine",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",6427800,6964676,7344705,7567718,8713300,9528183
+ "23000","Maine",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",3383752,3679073,3883167,3969833,4485555,4866585
+ "23000","Maine",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",1159177,1303678,1519092,1611670,2206992,2396655
+ "23000","Maine",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1884871,1982675,1950600,1997829,2074067,2317504
+ "23000","Maine",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",8437760,8626402,8973144,8958953,9214539,9392304
+ "23000","Maine",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",1006250,1043260,1108004,1011057,1023244,1094820
+ "23000","Maine",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",7431510,7583080,7864826,7948942,8192643,8298196
+ "23000","Maine",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",3476876,3598890,3655878,2576710,3595023,4032628
+ "23000","Maine",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",635241,669983,686053,513000,688019,881473
+ "23000","Maine",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",2841635,2928971,2969962,2063664,2907039,3156524
+ "23000","Maine",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",1417359,1474191,1483616,1394628,1459025,1472325
+ "23000","Maine",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",8385630,8364627,8333666,8292480,8446803,8645433
+ "23000","Maine",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",954466,945672,950977,946624,922880,998345
+ "23000","Maine",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",8767987,9000275,9160943,9370218,9415258,9052007
+ "23000","Maine",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",2450781,2382708,2366756,2423660,2459887,2476424
+ "23000","Maine",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",7050618,7340222,7596271,7986608,8324514,8479465
+ "23000","Maine",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",9096739,9299437,9506385,9899408,10149624,10105364
+ "23000","Maine",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",45518228,47143109,48513757,49238383,52286390,53679434
+ "23001","Androscoggin, ME",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",4503370,4703346,4811181,5018298,5044783,4975728
+ "23001","Androscoggin, ME",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",4095737,4287467,4398650,4610408,4630147,4545266
+ "23001","Androscoggin, ME",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",94985,129072,79413,83903,93833,132299
+ "23001","Androscoggin, ME",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",5869,9006,7570,15056,13201,8631
+ "23001","Androscoggin, ME",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",62883,61613,66551,74864,61086,67102
+ "23001","Androscoggin, ME",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",188734,199482,193353,202898,188458,173838
+ "23001","Androscoggin, ME",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",495748,496619,514500,543558,552789,553837
+ "23001","Androscoggin, ME",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",139051,141926,147103,153138,153302,145514
+ "23001","Androscoggin, ME",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",356697,354649,367350,390399,399568,409314
+ "23001","Androscoggin, ME",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",190393,194927,193844,209589,199599,186492
+ "23001","Androscoggin, ME",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",411339,428490,461567,502738,536609,484042
+ "23001","Androscoggin, ME",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",216449,259330,270254,293127,296941,265537
+ "23001","Androscoggin, ME",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",104434,113945,121279,117536,133707,142687
+ "23001","Androscoggin, ME",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",776334,794155,834005,957981,825914,807756
+ "23001","Androscoggin, ME",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",254950,234329,246212,268400,286168,261353
+ "23001","Androscoggin, ME",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",521384,560430,588424,690594,540073,547508
+ "23001","Androscoggin, ME",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",500382,534199,549342,563958,592519,615863
+ "23001","Androscoggin, ME",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",233284,239606,244177,243172,256511,278637
+ "23001","Androscoggin, ME",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",100356,115204,124277,141978,141779,137934
+ "23001","Androscoggin, ME",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",166742,179484,181254,180330,194917,199233
+ "23001","Androscoggin, ME",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",821451,827065,855093,834449,890688,851682
+ "23001","Androscoggin, ME",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",105344,111817,119739,119956,124652,128084
+ "23001","Androscoggin, ME",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",716107,715228,735299,714406,765985,723488
+ "23001","Androscoggin, ME",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",137504,149832,160144,122242,155251,168644
+ "23001","Androscoggin, ME",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",12246,14340,16267,12522,16400,20575
+ "23001","Androscoggin, ME",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",125258,135495,143887,109729,138872,148259
+ "23001","Androscoggin, ME",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",89231,90393,88430,83857,87877,89409
+ "23001","Androscoggin, ME",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",407632,415930,412720,408674,415294,431419
+ "23001","Androscoggin, ME",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",100854,138119,87196,100006,107979,142894
+ "23001","Androscoggin, ME",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",601732,623385,654861,711693,735886,670107
+ "23001","Androscoggin, ME",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",279332,321017,336846,367959,358108,332680
+ "23001","Androscoggin, ME",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",600183,610444,635546,661325,685608,694418
+ "23001","Androscoggin, ME",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",785337,833392,797382,848067,850030,877909
+ "23001","Androscoggin, ME",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",3310400,3454137,3600380,3761720,3779458,3665753
+ "23003","Aroostook, ME",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2535379,2579493,2574766,2606029,2599922,2633769
+ "23003","Aroostook, ME",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",2074263,2118474,2119531,2155281,2132960,2163437
+ "23003","Aroostook, ME",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),172707,136996,153785,179852
+ "23003","Aroostook, ME",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,0,0,0,0,(D)
+ "23003","Aroostook, ME",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),64744,65240,52674,(D)
+ "23003","Aroostook, ME",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",64157,62313,59767,65487,61339,58161
+ "23003","Aroostook, ME",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",325129,358121,311588,357044,311167,305596
+ "23003","Aroostook, ME",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",139977,152237,112196,133561,128811,122441
+ "23003","Aroostook, ME",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",185152,205917,200188,223825,178757,181377
+ "23003","Aroostook, ME",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),83973,87699,83750,(D)
+ "23003","Aroostook, ME",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",238172,250186,260302,273483,261030,265224
+ "23003","Aroostook, ME",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",112585,96649,93481,94206,104707,97757
+ "23003","Aroostook, ME",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",41061,43597,45508,42255,47700,51921
+ "23003","Aroostook, ME",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",435164,443521,469738,492625,498322,503693
+ "23003","Aroostook, ME",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",127578,126444,135208,151519,151927,147069
+ "23003","Aroostook, ME",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",307586,317143,334564,341036,346323,356656
+ "23003","Aroostook, ME",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",85767,90365,90679,85794,97361,110327
+ "23003","Aroostook, ME",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",38472,39346,39544,39635,44577,51840
+ "23003","Aroostook, ME",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",17911,19209,20269,20537,24776,24335
+ "23003","Aroostook, ME",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",29384,31813,30921,25870,28466,34127
+ "23003","Aroostook, ME",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",336183,339508,348708,353213,347907,340475
+ "23003","Aroostook, ME",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",14707,14735,15172,13613,13295,14145
+ "23003","Aroostook, ME",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",321476,324773,333537,339615,334628,326339
+ "23003","Aroostook, ME",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",75134,74825,74210,55283,70206,76335
+ "23003","Aroostook, ME",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",4037,4678,4661,3920,4645,5131
+ "23003","Aroostook, ME",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",71098,70148,69550,51359,65558,71203
+ "23003","Aroostook, ME",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",46013,46219,46778,45040,45405,45106
+ "23003","Aroostook, ME",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",461115,461041,455303,451047,467176,470395
+ "23003","Aroostook, ME",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),172707,136996,153785,(D)
+ "23003","Aroostook, ME",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),344307,361203,344798,(D)
+ "23003","Aroostook, ME",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),158504,159726,157994,(D)
+ "23003","Aroostook, ME",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",366190,401767,356706,399419,357453,354812
+ "23003","Aroostook, ME",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),541926,561209,526387,(D)
+ "23003","Aroostook, ME",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),1577200,1594108,1606682,(D)
+ "23005","Cumberland, ME",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",21366628,22084886,22603000,23298915,24945935,25706204
+ "23005","Cumberland, ME",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",19586328,20358644,20932075,21649210,23281592,23977719
+ "23005","Cumberland, ME",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",46770,46325,37318,42793,42769,48916
+ "23005","Cumberland, ME",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",8890,3368,1066,1911,1536,1084
+ "23005","Cumberland, ME",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",173255,182865,141358,165878,209807,278826
+ "23005","Cumberland, ME",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",597040,586811,540349,531272,577691,613442
+ "23005","Cumberland, ME",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",1645811,1667888,1778168,1995603,2015085,1955768
+ "23005","Cumberland, ME",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",584097,637012,649946,616078,638130,621067
+ "23005","Cumberland, ME",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",1061714,1031222,1128241,1379108,1377073,1334921
+ "23005","Cumberland, ME",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1635408,1659705,1616431,1663026,1703573,1588469
+ "23005","Cumberland, ME",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1531703,1596928,1655430,1727508,1789446,1730003
+ "23005","Cumberland, ME",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",457543,420907,412636,367469,394732,396916
+ "23005","Cumberland, ME",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",487645,557037,611761,598119,684302,752429
+ "23005","Cumberland, ME",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",5288318,5374316,5472067,6197299,6513907,6686135
+ "23005","Cumberland, ME",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",2502448,2450951,2567407,2809902,2836190,2815194
+ "23005","Cumberland, ME",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",2785871,2924743,2904727,3388224,3678924,3873038
+ "23005","Cumberland, ME",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",3164729,3525414,3751188,3882364,4502684,4864249
+ "23005","Cumberland, ME",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",1769791,1987510,2124963,2231057,2517987,2683138
+ "23005","Cumberland, ME",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",723669,826567,890841,908982,1148246,1195152
+ "23005","Cumberland, ME",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",671270,711717,736575,743587,845619,985425
+ "23005","Cumberland, ME",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",3012807,3118290,3296239,3280802,3352852,3489485
+ "23005","Cumberland, ME",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",386632,413640,436710,378882,384617,420030
+ "23005","Cumberland, ME",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",2626175,2704581,2859464,2902878,2969269,3070171
+ "23005","Cumberland, ME",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",1109461,1171303,1178127,795425,1091151,1225536
+ "23005","Cumberland, ME",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",208678,226453,217188,167598,226928,299332
+ "23005","Cumberland, ME",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",900783,944884,960810,627779,864129,928678
+ "23005","Cumberland, ME",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",426947,452224,458925,424741,455456,456579
+ "23005","Cumberland, ME",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1780300,1726822,1672648,1653447,1671991,1736190
+ "23005","Cumberland, ME",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",55660,49614,38268,44589,44156,49690
+ "23005","Cumberland, ME",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",3167111,3256334,3269209,3387385,3489967,3316434
+ "23005","Cumberland, ME",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",630798,603793,554067,533131,604542,677191
+ "23005","Cumberland, ME",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",2133456,2224229,2388705,2595784,2695823,2694041
+ "23005","Cumberland, ME",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",2298511,2304187,2354121,2564341,2632018,2618285
+ "23005","Cumberland, ME",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",17287817,18054102,18577457,19085811,20649165,21359375
+ "23007","Franklin, ME",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1034899,1085986,1107223,1119554,1124108,1085180
+ "23007","Franklin, ME",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",894206,944230,968993,985347,986396,943409
+ "23007","Franklin, ME",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",19821,17519,20856,18281,17125,18681
+ "23007","Franklin, ME",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,0,0,0,0,(D)
+ "23007","Franklin, ME",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",93620,104878,(D),(D),103618,54341
+ "23007","Franklin, ME",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",31908,34477,35704,38319,39067,36281
+ "23007","Franklin, ME",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",149843,150801,162009,150410,155888,146761
+ "23007","Franklin, ME",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",23366,26868,23150,24188,26093,26398
+ "23007","Franklin, ME",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",126477,123842,139033,126130,129386,119159
+ "23007","Franklin, ME",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",25114,25236,25087,25722,22719,21076
+ "23007","Franklin, ME",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",94762,102226,110889,109421,107187,107207
+ "23007","Franklin, ME",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",13676,12046,13908,13849,(D),(D)
+ "23007","Franklin, ME",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",4052,(D),4374,4080,5490,6201
+ "23007","Franklin, ME",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",207573,237540,215156,266709,237565,239957
+ "23007","Franklin, ME",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",38463,38113,40140,47068,48208,45017
+ "23007","Franklin, ME",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",169110,199574,174906,219564,189221,194982
+ "23007","Franklin, ME",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",50114,48510,(D),(D),(D),55213
+ "23007","Franklin, ME",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),14890,15966,(D),23925,31403
+ "23007","Franklin, ME",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),4271,(D),(D),(D),5540
+ "23007","Franklin, ME",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",31327,29360,21509,15562,(D),18792
+ "23007","Franklin, ME",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",110077,(D),119331,121857,129340,(D)
+ "23007","Franklin, ME",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "23007","Franklin, ME",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),106180,(D),(D),(D),125913
+ "23007","Franklin, ME",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",73971,75755,83970,66711,86738,98847
+ "23007","Franklin, ME",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),29778,34192,25960,34816,43269
+ "23007","Franklin, ME",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),45977,49778,40779,51924,55625
+ "23007","Franklin, ME",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",19675,20622,20480,18637,19743,19683
+ "23007","Franklin, ME",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",140693,141776,138292,134399,137850,142167
+ "23007","Franklin, ME",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",19821,17519,20856,18281,17125,(D)
+ "23007","Franklin, ME",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",119876,127441,135868,135064,129869,128284
+ "23007","Franklin, ME",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",107296,116895,(D),(D),(D),(D)
+ "23007","Franklin, ME",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",153895,(D),166388,154494,161267,152668
+ "23007","Franklin, ME",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",201573,202838,218526,207358,212440,(D)
+ "23007","Franklin, ME",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",692634,741353,750600,777581,773744,(D)
+ "23009","Hancock, ME",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2454603,2430035,2615758,2452614,2615896,2694161
+ "23009","Hancock, ME",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",2208876,2184966,2372878,2210165,2368055,2438432
+ "23009","Hancock, ME",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",137449,114785,112560,135169,118682,122312
+ "23009","Hancock, ME",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",601,673,458,1756,1464,625
+ "23009","Hancock, ME",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",24912,25223,27848,29548,39234,42710
+ "23009","Hancock, ME",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",120650,129869,136719,127209,117859,113116
+ "23009","Hancock, ME",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",86313,84926,85032,88730,95580,100678
+ "23009","Hancock, ME",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",56702,54975,50567,51494,57380,62040
+ "23009","Hancock, ME",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",29612,29950,34462,37260,38228,38702
+ "23009","Hancock, ME",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",77961,78589,76374,76621,75100,68255
+ "23009","Hancock, ME",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",231031,238155,243878,227712,221365,218762
+ "23009","Hancock, ME",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",36882,32939,30978,27358,34346,35594
+ "23009","Hancock, ME",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",36126,37584,38964,39585,47610,51379
+ "23009","Hancock, ME",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",607630,557828,706321,650673,664242,678143
+ "23009","Hancock, ME",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",120310,126342,128572,140846,136089,125861
+ "23009","Hancock, ME",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",487320,431058,578785,510146,528607,553501
+ "23009","Hancock, ME",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",264534,287669,315275,310382,357711,380650
+ "23009","Hancock, ME",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",213674,231746,253752,248237,270335,288647
+ "23009","Hancock, ME",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",5211,5917,8805,10007,28515,26227
+ "23009","Hancock, ME",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",45649,50010,52834,52337,60557,66980
+ "23009","Hancock, ME",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",244542,241074,245130,248365,245752,240777
+ "23009","Hancock, ME",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",23478,24640,25932,23239,24403,26775
+ "23009","Hancock, ME",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",221064,216429,219185,225146,221351,213980
+ "23009","Hancock, ME",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",268400,279243,274812,176888,279778,320061
+ "23009","Hancock, ME",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",41928,45509,46745,35453,46956,57081
+ "23009","Hancock, ME",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",226472,233745,228107,141366,232961,263253
+ "23009","Hancock, ME",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",71844,76670,77321,71993,75281,74993
+ "23009","Hancock, ME",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",245727,245062,242999,242289,247931,255828
+ "23009","Hancock, ME",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",138051,115461,113015,136949,120164,122824
+ "23009","Hancock, ME",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",308991,316727,320089,304315,296438,287119
+ "23009","Hancock, ME",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",61794,58157,58804,56847,73524,78284
+ "23009","Hancock, ME",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",122439,122488,123937,128296,142870,151605
+ "23009","Hancock, ME",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",345015,330410,335132,351955,332329,334667
+ "23009","Hancock, ME",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1863861,1854509,2037520,1858366,2035574,2103688
+ "23011","Kennebec, ME",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",5510136,5666529,5810662,5854307,6204142,6281131
+ "23011","Kennebec, ME",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",4135751,4285542,4417790,4473320,4768897,4803348
+ "23011","Kennebec, ME",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),23501,20424,26498
+ "23011","Kennebec, ME",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",7025,9957,8115,14000,10312,5988
+ "23011","Kennebec, ME",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",26494,25550,27051,30119,23397,27936
+ "23011","Kennebec, ME",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",129234,115858,163524,170147,188314,154858
+ "23011","Kennebec, ME",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",291216,310550,327142,360473,348876,345274
+ "23011","Kennebec, ME",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",130974,145890,161884,171984,178731,184317
+ "23011","Kennebec, ME",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",160242,164682,165229,188709,170064,161129
+ "23011","Kennebec, ME",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",359109,373713,371620,384754,378332,339628
+ "23011","Kennebec, ME",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",545422,554833,571033,560804,546592,545195
+ "23011","Kennebec, ME",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),106774,117019,108956
+ "23011","Kennebec, ME",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",100523,101663,103650,97022,109975,128565
+ "23011","Kennebec, ME",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",828540,890536,869113,929763,1070470,1117448
+ "23011","Kennebec, ME",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",172266,179469,187452,209915,210932,200944
+ "23011","Kennebec, ME",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",656274,711212,681248,719150,859351,917502
+ "23011","Kennebec, ME",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",495392,522240,544430,557195,637684,625021
+ "23011","Kennebec, ME",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",230493,243768,261901,258063,290317,321163
+ "23011","Kennebec, ME",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",107664,111983,106773,112870,150077,162322
+ "23011","Kennebec, ME",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",157235,166472,175373,185907,199187,148297
+ "23011","Kennebec, ME",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",847855,866051,903051,907966,920282,949738
+ "23011","Kennebec, ME",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",147124,150304,166251,159134,156267,171387
+ "23011","Kennebec, ME",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",700731,715747,736711,748836,764086,778326
+ "23011","Kennebec, ME",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",220927,230245,234035,175129,245287,282609
+ "23011","Kennebec, ME",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",20924,23646,26603,21936,27045,36953
+ "23011","Kennebec, ME",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",200003,206607,207469,153224,218240,246017
+ "23011","Kennebec, ME",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",155813,162943,159917,156605,157310,159148
+ "23011","Kennebec, ME",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1374385,1381170,1393297,1381891,1436913,1479621
+ "23011","Kennebec, ME",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),37779,30893,32505
+ "23011","Kennebec, ME",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",904531,928615,942363,945668,924993,885529
+ "23011","Kennebec, ME",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),136849,140247,136982
+ "23011","Kennebec, ME",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",391739,412297,431009,458566,458837,471571
+ "23011","Kennebec, ME",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),569121,570101,532461
+ "23011","Kennebec, ME",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),3904989,4198556,4270068
+ "23013","Knox, ME",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1812399,1791382,1923446,1855140,1953915,2010661
+ "23013","Knox, ME",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1619873,1596120,1725112,1659627,1761118,1809855
+ "23013","Knox, ME",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",130696,125095,123785,114378,90503,101403
+ "23013","Knox, ME",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "23013","Knox, ME",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",7081,6662,6684,8219,6634,6449
+ "23013","Knox, ME",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",88649,82382,92397,89178,94014,86400
+ "23013","Knox, ME",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",159028,161784,166889,173524,191901,201241
+ "23013","Knox, ME",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",120096,126126,129747,132814,149939,158088
+ "23013","Knox, ME",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",38932,35676,37162,40782,42072,43291
+ "23013","Knox, ME",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",57753,61054,67312,70055,67837,58520
+ "23013","Knox, ME",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",166504,173469,181818,172380,162177,160975
+ "23013","Knox, ME",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",24914,26064,25617,21761,22016,23765
+ "23013","Knox, ME",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",31706,34926,36778,40575,48369,55330
+ "23013","Knox, ME",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",408142,379159,470260,451440,472183,474183
+ "23013","Knox, ME",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",105419,106525,113123,130169,127495,114968
+ "23013","Knox, ME",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",302722,272401,357764,321268,344845,360103
+ "23013","Knox, ME",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",148491,148218,147257,150955,181732,193481
+ "23013","Knox, ME",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",74305,72370,73357,71847,90650,96571
+ "23013","Knox, ME",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",15525,14065,17021,23985,29676,28938
+ "23013","Knox, ME",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",58661,61764,57016,55787,62431,68645
+ "23013","Knox, ME",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",201270,206260,213400,215490,233157,242662
+ "23013","Knox, ME",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",14366,15181,16787,13302,15335,18032
+ "23013","Knox, ME",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",186904,191076,196598,202228,217849,224629
+ "23013","Knox, ME",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",142433,138780,141921,102179,143033,162557
+ "23013","Knox, ME",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",42408,37889,41115,35003,45339,58026
+ "23013","Knox, ME",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",100025,100860,100829,67216,97738,104993
+ "23013","Knox, ME",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",53205,52659,49478,48807,49637,49268
+ "23013","Knox, ME",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",192526,195237,198404,195492,193140,201168
+ "23013","Knox, ME",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",130696,125095,123785,114378,90503,101403
+ "23013","Knox, ME",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",224258,234532,249254,242709,230248,219896
+ "23013","Knox, ME",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",31995,32723,32299,29977,28605,30129
+ "23013","Knox, ME",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",190734,196683,203613,213896,239761,255465
+ "23013","Knox, ME",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",378373,369217,383334,377553,377275,389155
+ "23013","Knox, ME",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1241500,1226882,1341577,1281989,1383292,1420148
+ "23015","Lincoln, ME",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1167189,1162295,1257829,1185202,1273690,1333169
+ "23015","Lincoln, ME",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1051593,1046048,1142467,1072967,1160084,1215312
+ "23015","Lincoln, ME",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),38214,43959
+ "23015","Lincoln, ME",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,0,0,0,(D),(D)
+ "23015","Lincoln, ME",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1428,1275,(D),(D),(D),(D)
+ "23015","Lincoln, ME",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",68805,73346,71264,66387,68327,64160
+ "23015","Lincoln, ME",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "23015","Lincoln, ME",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",42507,45881,47052,48467,52049,52375
+ "23015","Lincoln, ME",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "23015","Lincoln, ME",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "23015","Lincoln, ME",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",111545,117113,121917,112975,108054,106201
+ "23015","Lincoln, ME",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),12535,11772,(D),13925,13178
+ "23015","Lincoln, ME",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",19350,21802,23016,24154,29648,31605
+ "23015","Lincoln, ME",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",333114,306245,395504,365569,385737,403869
+ "23015","Lincoln, ME",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",63402,68604,70372,82444,82471,77650
+ "23015","Lincoln, ME",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",269712,237316,325805,283140,303382,327014
+ "23015","Lincoln, ME",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",101303,102436,104694,103424,123086,144244
+ "23015","Lincoln, ME",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",51378,51864,51311,48020,59516,67087
+ "23015","Lincoln, ME",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",12731,15095,17542,20559,21672,28352
+ "23015","Lincoln, ME",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",37194,35511,35966,35212,42064,49331
+ "23015","Lincoln, ME",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",127086,(D),134958,133624,142236,(D)
+ "23015","Lincoln, ME",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",21082,22674,23372,20993,21907,24375
+ "23015","Lincoln, ME",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",106004,(D),111584,112651,120356,(D)
+ "23015","Lincoln, ME",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",109282,108202,110411,84038,119865,132848
+ "23015","Lincoln, ME",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",27852,29075,30195,26056,31919,39559
+ "23015","Lincoln, ME",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",81430,79135,80232,57962,88003,93536
+ "23015","Lincoln, ME",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",35654,37723,38131,36284,31936,32656
+ "23015","Lincoln, ME",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",115596,116242,115422,112230,113761,118015
+ "23015","Lincoln, ME",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "23015","Lincoln, ME",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "23015","Lincoln, ME",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),13809,(D),(D),(D),(D)
+ "23015","Lincoln, ME",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "23015","Lincoln, ME",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",176584,188023,181024,(D),(D),188710
+ "23015","Lincoln, ME",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",875010,858100,961224,(D),(D),1026675
+ "23017","Oxford, ME",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1671821,1739078,1720119,1769583,1797210,1800279
+ "23017","Oxford, ME",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1464050,1532294,1515217,1567812,1590528,1588194
+ "23017","Oxford, ME",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",28499,31347,36666,31473,36377,42993
+ "23017","Oxford, ME",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",1307,2167,1560,2836,2322,1568
+ "23017","Oxford, ME",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",95021,90371,88662,104755,88172,111215
+ "23017","Oxford, ME",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",80939,81137,91210,81427,84751,71509
+ "23017","Oxford, ME",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",258114,263406,270566,285506,253116,223670
+ "23017","Oxford, ME",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",120399,126037,115241,123742,118005,107308
+ "23017","Oxford, ME",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",137715,137321,155859,162102,133659,114242
+ "23017","Oxford, ME",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",23007,21766,20967,22233,20657,18273
+ "23017","Oxford, ME",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",154706,160913,163796,158458,145756,146314
+ "23017","Oxford, ME",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",35466,32472,31359,30907,33454,30338
+ "23017","Oxford, ME",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",20724,22149,23858,22553,28641,32973
+ "23017","Oxford, ME",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",327418,370213,322932,403579,391693,373791
+ "23017","Oxford, ME",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",45814,47787,47634,55247,59697,55680
+ "23017","Oxford, ME",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",281604,322537,275090,348197,331756,317966
+ "23017","Oxford, ME",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",75117,80221,82060,84107,97149,105740
+ "23017","Oxford, ME",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",36499,38151,37642,38831,47981,51236
+ "23017","Oxford, ME",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",17701,19389,22245,22163,22918,24332
+ "23017","Oxford, ME",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",20917,22686,22291,23178,26105,29845
+ "23017","Oxford, ME",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",177284,179880,181927,190771,212511,214582
+ "23017","Oxford, ME",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",26203,25448,25093,22408,23728,25842
+ "23017","Oxford, ME",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",151081,154434,156840,168388,188818,188776
+ "23017","Oxford, ME",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",146065,155385,159625,111242,156856,175725
+ "23017","Oxford, ME",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",72666,75317,72654,48878,51849,61127
+ "23017","Oxford, ME",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",73399,80063,86951,62435,106272,115999
+ "23017","Oxford, ME",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",40385,40921,40976,38963,41988,42571
+ "23017","Oxford, ME",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",207771,206810,204927,201996,206874,212421
+ "23017","Oxford, ME",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",29806,33529,38201,34363,38693,44487
+ "23017","Oxford, ME",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",177713,182653,184688,180676,166396,164631
+ "23017","Oxford, ME",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",130487,122834,120002,135457,121472,141471
+ "23017","Oxford, ME",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",278837,285528,294336,308129,280858,254220
+ "23017","Oxford, ME",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",368858,378024,399995,400807,376408,339847
+ "23017","Oxford, ME",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1095192,1154270,1115440,1166944,1213533,1249103
+ "23019","Penobscot, ME",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",6360893,6599941,6762485,6783030,7003554,7141018
+ "23019","Penobscot, ME",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",5349594,5576252,5750296,5790814,5995559,6095466
+ "23019","Penobscot, ME",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",41040,45177,49801,39522,43212,44059
+ "23019","Penobscot, ME",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",13,1603,623,592,631,354
+ "23019","Penobscot, ME",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",162631,145104,162858,166562,167326,179533
+ "23019","Penobscot, ME",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",191731,223383,227426,215472,244308,226224
+ "23019","Penobscot, ME",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",235248,252376,286402,285235,283400,276555
+ "23019","Penobscot, ME",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",155090,173935,189298,173616,176501,179131
+ "23019","Penobscot, ME",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",80158,78963,97156,112759,107904,99419
+ "23019","Penobscot, ME",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",307933,325993,316355,318435,320808,301903
+ "23019","Penobscot, ME",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",700262,715262,743262,724685,707411,703344
+ "23019","Penobscot, ME",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",227346,208780,204278,201626,215385,210418
+ "23019","Penobscot, ME",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",118183,133799,138377,137912,165292,179154
+ "23019","Penobscot, ME",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1105132,1193176,1215471,1346130,1296758,1307988
+ "23019","Penobscot, ME",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",292817,299668,300747,330222,332447,309457
+ "23019","Penobscot, ME",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",812315,893952,915378,1016711,964776,1000379
+ "23019","Penobscot, ME",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",549524,587426,624813,694391,783808,871599
+ "23019","Penobscot, ME",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",200822,208756,216413,216909,245966,262403
+ "23019","Penobscot, ME",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",83389,94353,110479,133854,365754,399272
+ "23019","Penobscot, ME",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",265313,284387,298454,344800,200317,239601
+ "23019","Penobscot, ME",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",1225400,1259487,1291188,1293035,1316823,1318329
+ "23019","Penobscot, ME",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",70472,71611,74674,70744,71391,74405
+ "23019","Penobscot, ME",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",1154928,1187880,1216503,1222341,1245494,1243949
+ "23019","Penobscot, ME",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",344495,341188,347156,234078,317356,354345
+ "23019","Penobscot, ME",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",58284,62776,64405,32106,48302,57607
+ "23019","Penobscot, ME",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",286211,278456,282808,201880,269009,296957
+ "23019","Penobscot, ME",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",140656,143735,143749,135740,143517,146508
+ "23019","Penobscot, ME",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1011299,1023771,1012504,993005,1009193,1047048
+ "23019","Penobscot, ME",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",41053,46765,50448,40128,43858,44405
+ "23019","Penobscot, ME",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",1008195,1041365,1059010,1042760,1027728,1005103
+ "23019","Penobscot, ME",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",389977,353894,366939,367887,382488,389780
+ "23019","Penobscot, ME",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",353431,385984,425170,423535,447046,451179
+ "23019","Penobscot, ME",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",468032,522367,564025,540707,572253,547558
+ "23019","Penobscot, ME",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",4881562,5053570,5185615,5249424,5422694,5548988
+ "23021","Piscataquis, ME",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",521879,551021,545062,607670,605552,602110
+ "23021","Piscataquis, ME",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",424445,453867,448352,543461,549518,544467
+ "23021","Piscataquis, ME",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",6199,6233,7034,(D),7558,7416
+ "23021","Piscataquis, ME",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",1848,2166,1572,2701,(D),1190
+ "23021","Piscataquis, ME",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",36624,(D),(D),(D),(D),43545
+ "23021","Piscataquis, ME",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",13544,18765,21047,20151,16374,11683
+ "23021","Piscataquis, ME",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",90043,87464,91855,130700,143164,136434
+ "23021","Piscataquis, ME",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",64113,68239,71385,82616,(D),(D)
+ "23021","Piscataquis, ME",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",25930,19313,20559,48593,(D),(D)
+ "23021","Piscataquis, ME",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),4072,(D),(D),(D),(D)
+ "23021","Piscataquis, ME",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",49324,52323,(D),56138,53527,55385
+ "23021","Piscataquis, ME",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",12585,11309,11672,11211,11848,11114
+ "23021","Piscataquis, ME",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",3997,(D),4980,4353,4925,5179
+ "23021","Piscataquis, ME",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",122709,142442,123296,157358,140822,(D)
+ "23021","Piscataquis, ME",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",11568,11994,10980,13156,13783,12123
+ "23021","Piscataquis, ME",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",111141,130489,112319,144233,127029,(D)
+ "23021","Piscataquis, ME",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",15492,18761,(D),21078,26328,30168
+ "23021","Piscataquis, ME",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),7064,(D),7520,(D),(D)
+ "23021","Piscataquis, ME",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),2002,2480,2455,3263,(D)
+ "23021","Piscataquis, ME",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",9008,9712,10376,11122,(D),14904
+ "23021","Piscataquis, ME",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",40901,40739,37718,61370,67881,65580
+ "23021","Piscataquis, ME",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "23021","Piscataquis, ME",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "23021","Piscataquis, ME",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(D),18661,19591,14722,21952,24414
+ "23021","Piscataquis, ME",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1922,1997,2042,1521,2357,3099
+ "23021","Piscataquis, ME",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),16664,17548,13201,19595,21340
+ "23021","Piscataquis, ME",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",9007,9745,10172,9545,9478,9632
+ "23021","Piscataquis, ME",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",97434,97167,96720,65006,56823,58539
+ "23021","Piscataquis, ME",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",8047,8403,8590,(D),(D),8440
+ "23021","Piscataquis, ME",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),56398,57676,(D),(D),(D)
+ "23021","Piscataquis, ME",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",49209,(D),(D),(D),(D),54675
+ "23021","Piscataquis, ME",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",94040,(D),96812,135231,148233,141611
+ "23021","Piscataquis, ME",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",111633,114630,121521,(D),(D),156838
+ "23021","Piscataquis, ME",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",312811,339246,326866,(D),(D),388680
+ "23023","Sagadahoc, ME",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1813622,1784586,1721282,1817756,2174938,2369611
+ "23023","Sagadahoc, ME",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1640431,1609639,1544191,1630151,1979409,2178319
+ "23023","Sagadahoc, ME",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),9863,10039
+ "23023","Sagadahoc, ME",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,0,0,0,(D),(D)
+ "23023","Sagadahoc, ME",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",4629,2994,3238,5346,3843,4784
+ "23023","Sagadahoc, ME",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",88373,76602,65108,92774,93131,85758
+ "23023","Sagadahoc, ME",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "23023","Sagadahoc, ME",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",717600,725919,725050,727551,930131,1064441
+ "23023","Sagadahoc, ME",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "23023","Sagadahoc, ME",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",29734,31177,32569,30945,31008,28432
+ "23023","Sagadahoc, ME",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",111698,117159,117126,128075,123904,125844
+ "23023","Sagadahoc, ME",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "23023","Sagadahoc, ME",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",10484,11660,13303,11638,13946,17200
+ "23023","Sagadahoc, ME",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",359426,316627,254468,310083,421520,(D)
+ "23023","Sagadahoc, ME",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",45182,47599,48473,52174,51043,46840
+ "23023","Sagadahoc, ME",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",314244,268791,205220,257205,370075,(D)
+ "23023","Sagadahoc, ME",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",121727,127711,126865,123491,140402,147834
+ "23023","Sagadahoc, ME",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",92975,95766,92525,90314,95894,106659
+ "23023","Sagadahoc, ME",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",2336,2180,3375,3277,5382,6220
+ "23023","Sagadahoc, ME",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",26416,29750,30938,29885,38807,35294
+ "23023","Sagadahoc, ME",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",69986,72620,76768,80624,81490,85402
+ "23023","Sagadahoc, ME",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",11023,11684,11860,11375,9049,9796
+ "23023","Sagadahoc, ME",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",58963,60936,64910,69259,72467,75630
+ "23023","Sagadahoc, ME",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",59301,59653,61382,47406,64698,71702
+ "23023","Sagadahoc, ME",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",7196,8405,8621,7086,9957,14509
+ "23023","Sagadahoc, ME",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",52105,51256,52768,40335,54773,57541
+ "23023","Sagadahoc, ME",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",37757,37008,39501,37380,42163,43096
+ "23023","Sagadahoc, ME",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",173191,174908,176913,187404,196429,193248
+ "23023","Sagadahoc, ME",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "23023","Sagadahoc, ME",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",141432,148336,149747,158951,154829,154263
+ "23023","Sagadahoc, ME",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "23023","Sagadahoc, ME",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "23023","Sagadahoc, ME",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),1167585
+ "23023","Sagadahoc, ME",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),1014087
+ "23025","Somerset, ME",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1719082,1709871,1680232,1764016,1747410,1757724
+ "23025","Somerset, ME",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1539126,1528267,1502676,1591208,1575763,1582999
+ "23025","Somerset, ME",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",68932,67694,75810,67220,65237,60708
+ "23025","Somerset, ME",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",14,34,78,130,113,180
+ "23025","Somerset, ME",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",125991,115322,127491,134830,104316,131394
+ "23025","Somerset, ME",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",137253,114635,115257,127365,133108,112996
+ "23025","Somerset, ME",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",298550,283416,262757,264998,264755,250889
+ "23025","Somerset, ME",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",49611,54765,47601,53736,66406,60011
+ "23025","Somerset, ME",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",248938,228436,215122,210508,193500,187387
+ "23025","Somerset, ME",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",41756,37943,35318,33812,33581,33078
+ "23025","Somerset, ME",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",137755,141294,146601,156384,154947,155729
+ "23025","Somerset, ME",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",46431,41817,38105,37426,42213,38023
+ "23025","Somerset, ME",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",14638,17056,18394,16729,17034,17449
+ "23025","Somerset, ME",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",304129,345792,317996,395965,370310,372173
+ "23025","Somerset, ME",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",39038,39046,37608,43436,45538,39286
+ "23025","Somerset, ME",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",265091,306897,280431,352710,324819,333382
+ "23025","Somerset, ME",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",98126,99270,97955,99679,114338,126680
+ "23025","Somerset, ME",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",32419,32384,36278,36565,41099,45113
+ "23025","Somerset, ME",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",16221,16945,15535,19882,23486,25148
+ "23025","Somerset, ME",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",49486,49948,46202,43741,50373,56897
+ "23025","Somerset, ME",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",183854,180304,183264,183672,189666,194926
+ "23025","Somerset, ME",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",17659,18336,20707,18642,18578,19353
+ "23025","Somerset, ME",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",166195,161964,162534,165030,171096,175580
+ "23025","Somerset, ME",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",46776,48158,48555,37233,50636,53444
+ "23025","Somerset, ME",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",8706,8593,8924,6738,10095,10943
+ "23025","Somerset, ME",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",38070,39564,39631,30498,40520,42483
+ "23025","Somerset, ME",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",34922,35662,35923,34088,34902,35257
+ "23025","Somerset, ME",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",179956,181593,177554,173227,172059,175211
+ "23025","Somerset, ME",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",68946,67729,75891,67359,65358,60895
+ "23025","Somerset, ME",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",179511,179186,181717,189880,188213,188507
+ "23025","Somerset, ME",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",172421,157132,165413,171959,146402,169323
+ "23025","Somerset, ME",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",313188,300418,281013,281625,281654,267970
+ "23025","Somerset, ME",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",504748,465632,453463,460682,464505,425602
+ "23025","Somerset, ME",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1034378,1062510,1049012,1129503,1110532,1157584
+ "23027","Waldo, ME",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1365513,1321071,1439870,1416690,1477812,1536413
+ "23027","Waldo, ME",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1255860,1211925,1332730,1311662,1369898,1426244
+ "23027","Waldo, ME",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),14462,11719,12035,13546
+ "23027","Waldo, ME",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",1138,1253,979,1438,1286,1056
+ "23027","Waldo, ME",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",3944,3694,3598,8654,7049,3754
+ "23027","Waldo, ME",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",57468,62659,69127,61744,64087,60067
+ "23027","Waldo, ME",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",107342,115193,107847,128438,143648,138758
+ "23027","Waldo, ME",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",46699,56411,33137,39304,43574,40890
+ "23027","Waldo, ME",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",60643,58585,75262,89796,100829,99025
+ "23027","Waldo, ME",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",229236,202968,209500,218019,221585,204545
+ "23027","Waldo, ME",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",97148,100348,99004,100556,96182,96817
+ "23027","Waldo, ME",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "23027","Waldo, ME",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",13826,15791,16929,16968,23410,26390
+ "23027","Waldo, ME",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",322178,283904,359179,341214,342000,(D)
+ "23027","Waldo, ME",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",68616,62371,58912,70589,70203,64187
+ "23027","Waldo, ME",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",253562,221467,301519,271229,272416,(D)
+ "23027","Waldo, ME",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",155041,160826,(D),(D),(D),266689
+ "23027","Waldo, ME",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",30509,33931,(D),(D),(D),(D)
+ "23027","Waldo, ME",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",4674,4827,(D),(D),(D),(D)
+ "23027","Waldo, ME",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",119858,122074,54644,50537,52590,61402
+ "23027","Waldo, ME",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",140663,142100,147168,147525,149190,153265
+ "23027","Waldo, ME",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",16405,17341,19343,20252,17496,18799
+ "23027","Waldo, ME",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",124258,124757,127810,127247,131710,134474
+ "23027","Waldo, ME",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",58510,54724,57887,40210,58872,66325
+ "23027","Waldo, ME",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",17876,13020,16217,13937,19947,25117
+ "23027","Waldo, ME",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",40634,41690,41681,26248,38892,41280
+ "23027","Waldo, ME",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",35071,37086,38342,36603,37329,37573
+ "23027","Waldo, ME",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",109653,109140,107148,105043,107956,110179
+ "23027","Waldo, ME",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),15413,13163,13314,14561
+ "23027","Waldo, ME",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",326384,303180,308505,318632,317741,301500
+ "23027","Waldo, ME",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "23027","Waldo, ME",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",121168,130966,124671,145506,166563,163904
+ "23027","Waldo, ME",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),192451,203178,220952,213297
+ "23027","Waldo, ME",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),1140206,1108399,1148615,1213433
+ "23029","Washington, ME",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1017939,1018497,1066649,1094157,1094552,1070328
+ "23029","Washington, ME",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",830573,831462,882972,902013,908762,879976
+ "23029","Washington, ME",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),65115,(D),86275,86438,72519
+ "23029","Washington, ME",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",1685,2192,1649,3141,1754,1231
+ "23029","Washington, ME",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),47780,(D),54246,45411,23155
+ "23029","Washington, ME",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",29264,28794,32230,31238,36016,31422
+ "23029","Washington, ME",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",122428,126747,141001,151853,159866,155607
+ "23029","Washington, ME",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",21549,23135,25980,23218,(D),(D)
+ "23029","Washington, ME",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",100879,103610,115014,128827,(D),(D)
+ "23029","Washington, ME",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",32616,32679,32580,31490,31897,31035
+ "23029","Washington, ME",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",91250,96540,(D),94882,85735,85183
+ "23029","Washington, ME",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",20190,19744,19449,18932,20155,18200
+ "23029","Washington, ME",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",9732,11047,10933,11881,13492,14559
+ "23029","Washington, ME",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",195762,200379,209040,217437,217750,219625
+ "23029","Washington, ME",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",41488,43214,41374,47263,48996,45199
+ "23029","Washington, ME",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",154274,157138,167883,170234,168771,174803
+ "23029","Washington, ME",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",41048,40641,44564,44642,48822,56859
+ "23029","Washington, ME",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",19793,19138,19259,18515,19957,21860
+ "23029","Washington, ME",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",7841,8095,12012,13710,14458,19224
+ "23029","Washington, ME",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",13414,13411,13446,12718,14645,16369
+ "23029","Washington, ME",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",115398,115471,117796,118118,117504,127280
+ "23029","Washington, ME",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",10152,10784,11701,10755,11060,10902
+ "23029","Washington, ME",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",105246,104685,106088,107364,106442,116384
+ "23029","Washington, ME",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(D),27198,28493,21274,27882,31637
+ "23029","Washington, ME",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),2741,4185,3058,4596,7439
+ "23029","Washington, ME",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",22899,24459,24339,18238,23343,24497
+ "23029","Washington, ME",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",17227,17149,18058,17999,18788,19367
+ "23029","Washington, ME",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",187366,187037,183787,192175,185955,190695
+ "23029","Washington, ME",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),67317,(D),89438,88140,73687
+ "23029","Washington, ME",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",123866,129201,(D),126324,117537,116138
+ "23029","Washington, ME",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),67529,(D),73101,65596,41467
+ "23029","Washington, ME",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",132160,137784,151959,163756,173319,169958
+ "23029","Washington, ME",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),222852,(D),272201,283789,259390
+ "23029","Washington, ME",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),608556,(D),630692,626302,621448
+ "23031","York, ME",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",8145245,8578132,8709944,8780741,9224713,9451612
+ "23031","York, ME",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",6444259,6877658,6965265,6984970,7397036,7627802
+ "23031","York, ME",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",25552,21404,29667,26715,31495,31119
+ "23031","York, ME",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",16485,19063,13466,24017,17669,11389
+ "23031","York, ME",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",30437,28034,30495,36641,34545,37157
+ "23031","York, ME",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",320857,365569,369387,352320,402350,371034
+ "23031","York, ME",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",875250,932847,958401,957978,885279,914889
+ "23031","York, ME",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",501337,543095,537240,550386,543569,541958
+ "23031","York, ME",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",373913,389783,421230,407537,341847,372401
+ "23031","York, ME",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",307415,305565,319644,318906,320281,286812
+ "23031","York, ME",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",675262,700489,710533,752550,783875,802958
+ "23031","York, ME",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",102695,101267,101675,107922,111512,106321
+ "23031","York, ME",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",100471,113239,115801,114726,147903,165016
+ "23031","York, ME",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1801142,2022145,1982175,2182640,2167030,2160165
+ "23031","York, ME",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",286206,300381,309157,360824,371419,350043
+ "23031","York, ME",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1514937,1722321,1672854,1821068,1794621,1810337
+ "23031","York, ME",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",561012,591057,620559,633836,772810,933154
+ "23031","York, ME",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",338208,362951,373459,369008,429789,496622
+ "23031","York, ME",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",39807,43578,65177,78954,119072,148097
+ "23031","York, ME",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",182998,184596,182830,187451,227553,291580
+ "23031","York, ME",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",783002,797228,821622,788071,817008,841286
+ "23031","York, ME",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",137052,130414,135766,123123,125969,126991
+ "23031","York, ME",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",645950,666854,685881,665071,691192,714488
+ "23031","York, ME",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",640726,665726,675544,492212,706463,788894
+ "23031","York, ME",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",78296,85771,92024,71102,107204,142554
+ "23031","York, ME",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",562430,579976,583599,421115,599172,647157
+ "23031","York, ME",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",203954,213434,217436,198346,208215,211479
+ "23031","York, ME",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1700985,1700921,1744995,1795777,1828185,1823864
+ "23031","York, ME",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",42037,40520,42991,50863,48896,41960
+ "23031","York, ME",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",982677,1005929,1030363,1071193,1104049,1090503
+ "23031","York, ME",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",133133,129301,132167,144514,145984,143509
+ "23031","York, ME",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",975721,1045996,1074132,1072701,1029237,1073923
+ "23031","York, ME",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1238144,1339117,1370804,1360276,1338945,1327073
+ "23031","York, ME",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",5206115,5538609,5594619,5624821,6056854,6299836
+"Note: See the included footnote file."
+"CAGDP9: Real GDP by county and metropolitan area 1/"
+"Last updated: December 7, 2023 -- new statistics for 2022, revised statistics for 2017-2021."
+"U.S. Bureau of Economic Analysis"

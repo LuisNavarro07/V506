@@ -1,0 +1,141 @@
+---
+title: "V506 Fall 24 Lab 5 In Class Exercise"
+output:
+  html_document:
+
+---
+
+## Solutions to the Class Exercise 
+
+### 1. Load the required packages for the analysis: dplyr, ggplot, descriptr. Set your working directory or create a project. Either way, confirm that you are working from your working directory for this project. 
+
+
+```{r}
+# Clean the environment 
+rm(list=ls())
+
+# Set your working directory
+setwd("/Users/luisenriquenavarro/Library/CloudStorage/OneDrive-IndianaUniversity/V506/Fall24/Lab5")
+
+# Packages Required for the session 
+library(pacman)
+p_load(dplyr, ggplot2, rmarkdown, rio, here, descriptr)
+```
+
+
+### 2. Load the fastfood data and save it as a tibble object in R. 
+
+```{r, eval = TRUE, echo = TRUE}
+fastfood <- rio::import(file = "fastfood.csv", header = TRUE) %>% tibble()
+fastfood %>% head(n=10) 
+```
+
+
+### 3. Explore the Data 
+
+517 observations from 17 variables. Each observation represents an item from the menu of a fast food restaurant. 
+
+```{r}
+fastfood %>% str()
+fastfood %>% summary()
+#ds_auto_summary_stats(fastfood)
+```
+### 4 Scatter Plot Carbs and Fat
+
+```{r}
+fastfood %>% filter(restaurant == "Chick Fil-A" | restaurant == "Burger King" | restaurant == "Subway" | restaurant == "Dairy Queen") %>% 
+             ggplot(mapping = aes(x = total_carb, y = total_fat, fill = restaurant, color = restaurant)) + 
+                    geom_point(alpha = 0.5)+
+                    facet_wrap(~restaurant)+
+                    theme_classic()+
+                    labs(x = "Total Carbs", y = "Total Fat", title = "Correlation of Carbs and Fat in the Menu") + 
+                    theme(plot.title = element_text(angle = 0, size = 12, face = "bold"))+
+                    theme(axis.title.x = element_text(angle = 0, size = 10))+
+                    theme(axis.title.x = element_text(angle = 0, size = 10))+
+                    theme(legend.title = element_blank())
+```
+
+### 5. Scatter Sodium
+
+```{r}
+median_sodium <- median(fastfood$sodium, na.rm = TRUE)
+
+fastfood1 <-  fastfood %>% mutate(high_sodium = ifelse(sodium >= median_sodium, "High Sodium", "Low Sodium"))
+
+
+fastfood1 %>% ggplot(mapping = aes(x = total_carb, y = total_fat, fill = restaurant, color = restaurant)) + 
+                    geom_point(alpha = 0.5)+
+                    facet_wrap(~high_sodium)+
+                    theme_classic()+
+                    labs(x = "Total Carbs", y = "Total Fat", title = "Correlation of Carbs and Fat in the Menu") + 
+                    theme(plot.title = element_text(angle = 0, size = 12, face = "bold"))+
+                    theme(axis.title.x = element_text(angle = 0, size = 10))+
+                    theme(axis.title.x = element_text(angle = 0, size = 10))+
+                    theme(legend.title = element_blank())
+
+```
+
+### 6. Hypothesis Test Total Fat
+
+```{r}
+data1 <- fastfood1 %>% filter (restaurant == "Chick Fil-A") %>% select(total_fat)
+data2 <- fastfood1 %>% filter (restaurant == "Mcdonalds") %>% select(total_fat)
+
+t.test(data1, data2)
+```
+
+
+```{r}
+total_fat_restaurant <- fastfood1 %>% filter(restaurant == "Chick Fil-A" | restaurant == "Mcdonalds") %>% 
+                                        group_by(restaurant) %>% 
+                                        summarize(mean = mean(total_fat, na.rm = TRUE), 
+                                                  sd = sd(total_fat, na.rm = TRUE), 
+                                                  obs = n()) %>% 
+                                        mutate(mean_se = sd/sqrt(obs)) %>% 
+                                        mutate(margin_error = qt(0.975,df=obs)*mean_se) %>% 
+                                        mutate(ci_low = mean - margin_error) %>% 
+                                        mutate(ci_high = mean + margin_error)
+
+
+total_fat_restaurant %>% ggplot(mapping = aes(x = reorder(restaurant, mean), y = mean, fill = restaurant, color = restaurant)) +
+                          geom_bar(stat = "identity", alpha = 0.5) + 
+                          geom_errorbar(aes(ymin = ci_low, ymax = ci_high), width=1)+
+                          coord_flip()+
+                          labs(x = "Total Fat", title = "Mean of Total Fat in the Menu") + 
+                          theme_classic()+
+                          theme(plot.title = element_text(angle = 0, size = 12, face = "bold"))+
+                          theme(legend.title = element_blank())
+```   
+
+
+### 7. Hypothesis Test Sodium
+
+```{r}
+data1 <- fastfood1 %>% filter (high_sodium == "High Sodium") %>% select(cholesterol)
+data2 <- fastfood1 %>% filter (high_sodium == "Low Sodium") %>% select(cholesterol)
+
+t.test(data1, data2)
+```
+
+
+```{r}
+cholesterol_restaurant <- fastfood1 %>% group_by(high_sodium) %>% 
+                                        summarize(mean = mean(cholesterol, na.rm = TRUE), 
+                                                  sd = sd(cholesterol, na.rm = TRUE), 
+                                                  obs = n()) %>% 
+                                        mutate(mean_se = sd/sqrt(obs)) %>% 
+                                        mutate(margin_error = qt(0.975,df=obs)*mean_se) %>% 
+                                        mutate(ci_low = mean - margin_error) %>% 
+                                        mutate(ci_high = mean + margin_error)
+
+
+cholesterol_restaurant %>% ggplot(mapping = aes(x = reorder(high_sodium, mean), y = mean, fill = high_sodium, color = high_sodium)) +
+                          geom_bar(stat = "identity", alpha = 0.5) + 
+                          geom_errorbar(aes(ymin = ci_low, ymax = ci_high), width=1)+
+                          coord_flip()+
+                          labs(x = "Cholesterol", title = "Mean of Cholesterol in the Menu") + 
+                          theme_classic()+
+                          theme(plot.title = element_text(angle = 0, size = 12, face = "bold"))+
+                          theme(legend.title = element_blank())
+```
+

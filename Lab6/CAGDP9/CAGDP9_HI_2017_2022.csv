@@ -1,0 +1,175 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2017,2018,2019,2020,2021,2022
+ "15000","Hawaii",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",87436367,88836402,88945262,79592540,84121542,85211432
+ "15000","Hawaii",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",69194754,71148209,71419497,62247873,66714138,68251086
+ "15000","Hawaii",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",492806,453475,417055,416044,385110,325777
+ "15000","Hawaii",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",55064,65767,60546,70917,67025,61277
+ "15000","Hawaii",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1848522,1814239,1758848,1852992,1813609,1830422
+ "15000","Hawaii",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",5274449,5119053,5193547,5024443,4940276,4339558
+ "15000","Hawaii",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",1565904,1566091,1384421,1335186,1317721,1296311
+ "15000","Hawaii",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",424706,429711,430861,385934,416781,411599
+ "15000","Hawaii",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",1141198,1136829,956947,953586,905329,889699
+ "15000","Hawaii",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",2830470,2770947,2790822,2661674,2522384,2415311
+ "15000","Hawaii",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",6133770,6492390,6496063,5606085,5481663,5610010
+ "15000","Hawaii",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",4788346,4819064,5075470,3102161,4214181,4447755
+ "15000","Hawaii",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",1984963,2215102,2081383,1948617,2480716,2589739
+ "15000","Hawaii",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",18045590,18184806,18407474,17865164,18736468,18610267
+ "15000","Hawaii",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",3204174,3171914,3268233,3351835,3592314,3423929
+ "15000","Hawaii",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",14841416,15014074,15138781,14510044,15140105,15185800
+ "15000","Hawaii",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",7801100,8072137,7708360,7122390,7717714,8313279
+ "15000","Hawaii",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",3660598,3775651,3822575,3602104,4102297,4343113
+ "15000","Hawaii",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",1092637,1146626,1226530,1151502,1202935,1369230
+ "15000","Hawaii",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",3047864,3150053,2668958,2381334,2429112,2625757
+ "15000","Hawaii",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",6955067,7179150,7422698,7277817,7544408,7698007
+ "15000","Hawaii",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",956424,963731,966377,869777,919902,984212
+ "15000","Hawaii",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",5998643,6215554,6456923,6410302,6626410,6714730
+ "15000","Hawaii",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",9335414,10236931,10432932,6033716,7718277,9046800
+ "15000","Hawaii",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1009159,1076243,1130814,651207,880537,1137904
+ "15000","Hawaii",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",8326256,9160461,9302483,5382773,6835680,7908560
+ "15000","Hawaii",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",2083290,2162421,2176562,1850240,1927820,1961639
+ "15000","Hawaii",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",18241612,17691807,17530666,17317066,17400687,16953037
+ "15000","Hawaii",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",547869,519758,478080,488440,453562,388049
+ "15000","Hawaii",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",8964240,9261230,9285370,8272379,8009590,8034136
+ "15000","Hawaii",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",6636868,6632721,6832043,4976210,5992803,6229997
+ "15000","Hawaii",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",3550867,3775280,3456086,3275940,3764620,3835702
+ "15000","Hawaii",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",7388222,7206215,7058259,6847892,6710660,6020326
+ "15000","Hawaii",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",61806533,63945724,64367898,55391589,60014518,62319068
+ "15001","Hawaii, HI",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",8324824,8564258,8719351,7509986,8332736,8497948
+ "15001","Hawaii, HI",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",6999116,7192120,7310358,6139883,6988008,7150606
+ "15001","Hawaii, HI",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),246129,(D),201824,175675,153863
+ "15001","Hawaii, HI",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",312,237,(D),0,0,(D)
+ "15001","Hawaii, HI",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",229977,228948,219903,228710,226420,201552
+ "15001","Hawaii, HI",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),(D),(D),593650,512248
+ "15001","Hawaii, HI",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",90153,(D),(D),(D),106326,(D)
+ "15001","Hawaii, HI",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",32201,(D),(D),(D),30750,(D)
+ "15001","Hawaii, HI",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",57952,70475,66377,61232,75698,91230
+ "15001","Hawaii, HI",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),172923
+ "15001","Hawaii, HI",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",790478,865390,890927,820462,792379,807846
+ "15001","Hawaii, HI",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "15001","Hawaii, HI",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",152156,175697,175052,148734,(D),200014
+ "15001","Hawaii, HI",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1804783,1817028,(D),1658733,1990516,2061570
+ "15001","Hawaii, HI",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",155396,159965,(D),188191,193896,179306
+ "15001","Hawaii, HI",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1649387,1656970,1839830,1469234,1795837,1882694
+ "15001","Hawaii, HI",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",548914,557658,553776,511417,573012,(D)
+ "15001","Hawaii, HI",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",225477,225205,235251,226329,(D),281638
+ "15001","Hawaii, HI",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",36224,(D),(D),(D),(D),(D)
+ "15001","Hawaii, HI",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",287212,(D),(D),(D),(D),290971
+ "15001","Hawaii, HI",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),612425,634690,606543,655448,668664
+ "15001","Hawaii, HI",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),93807,101511
+ "15001","Hawaii, HI",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",493659,(D),(D),(D),561871,567256
+ "15001","Hawaii, HI",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",1090183,1151214,(D),(D),953017,1087109
+ "15001","Hawaii, HI",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),132140,84652,(D),(D)
+ "15001","Hawaii, HI",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "15001","Hawaii, HI",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",221085,227978,231871,207927,(D),(D)
+ "15001","Hawaii, HI",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1325708,1372093,1408850,1365973,1344943,1347220
+ "15001","Hawaii, HI",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),246364,(D),201804,175659,(D)
+ "15001","Hawaii, HI",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),980385
+ "15001","Hawaii, HI",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "15001","Hawaii, HI",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",242308,(D),(D),(D),(D),(D)
+ "15001","Hawaii, HI",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",970386,962306,885555,847096,879133,788012
+ "15001","Hawaii, HI",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",6028730,6229570,6423483,5292101,6109332,6370881
+ "15003","Honolulu, HI",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",65758319,66029819,65648269,59885935,62531675,63071690
+ "15003","Honolulu, HI",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",50369660,51095720,50938020,45288795,47817635,48792913
+ "15003","Honolulu, HI",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",165214,138299,68847,97366,84270,93484
+ "15003","Honolulu, HI",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",52120,61774,54434,66610,63020,57269
+ "15003","Honolulu, HI",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1303204,1271169,1232548,1312188,1268603,1300988
+ "15003","Honolulu, HI",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",3801825,3652169,3698401,3605950,3466659,3002188
+ "15003","Honolulu, HI",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",1329504,1286815,1135216,1099086,1054344,1009105
+ "15003","Honolulu, HI",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",334971,339446,341943,303439,325897,319063
+ "15003","Honolulu, HI",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",994533,948473,797194,800603,733395,696444
+ "15003","Honolulu, HI",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",2327723,2264727,2273275,2183299,2065852,1976674
+ "15003","Honolulu, HI",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",4167836,4347559,4280919,3625966,3566171,3660598
+ "15003","Honolulu, HI",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",3618311,3613795,3793009,2484319,3121649,3271147
+ "15003","Honolulu, HI",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",1661903,1859665,1713878,1629567,2051201,2160121
+ "15003","Honolulu, HI",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",13371527,13189862,13310602,12922332,13467934,13264707
+ "15003","Honolulu, HI",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",2832430,2794271,2869899,2924849,3121004,2980252
+ "15003","Honolulu, HI",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",10539097,10395618,10439449,9994543,10343514,10282919
+ "15003","Honolulu, HI",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",6378238,6599447,6244748,5816398,6261840,6737785
+ "15003","Honolulu, HI",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",3118529,3218186,3247781,3046508,3451143,3638094
+ "15003","Honolulu, HI",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",1008498,1061340,1144539,1070997,1112183,1268450
+ "15003","Honolulu, HI",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",2251212,2320151,1862735,1709585,1712678,1853058
+ "15003","Honolulu, HI",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",5559390,5636659,5791437,5696945,5881439,6003641
+ "15003","Honolulu, HI",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",771736,772126,766865,692133,722291,771925
+ "15003","Honolulu, HI",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",4787654,4864591,5025031,5006579,5160787,5232639
+ "15003","Honolulu, HI",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",5137341,5635888,5780171,3392527,4218726,5080389
+ "15003","Honolulu, HI",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",587353,635975,694603,393617,537428,709067
+ "15003","Honolulu, HI",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",4549988,4999847,5086307,2999584,3680703,4372817
+ "15003","Honolulu, HI",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",1495525,1544936,1547785,1310430,1349348,1374208
+ "15003","Honolulu, HI",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",15388659,14936289,14713456,14578892,14707397,14273924
+ "15003","Honolulu, HI",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",217334,200578,124946,165638,148907,152741
+ "15003","Honolulu, HI",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",6495559,6610853,6554096,5814838,5638426,5646296
+ "15003","Honolulu, HI",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",4921515,4884560,5023972,3811120,4370063,4546800
+ "15003","Honolulu, HI",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",2991408,3139263,2839792,2720558,3075690,3117472
+ "15003","Honolulu, HI",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",5348663,5139774,4961569,4870501,4668566,4165640
+ "15003","Honolulu, HI",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",45020997,45960090,45984485,40414738,43160788,44696563
+ "15007","Kauai, HI",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",3746756,4059100,4169841,3636464,3792141,3940174
+ "15007","Kauai, HI",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",3245782,3549409,3651300,3122547,3285272,3444406
+ "15007","Kauai, HI",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),32984,(D),(D),58479,36623
+ "15007","Kauai, HI",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",1771,2725,(D),0,0,(D)
+ "15007","Kauai, HI",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",91850,92950,92239,(D),97724,(D)
+ "15007","Kauai, HI",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),(D),(D),288718,268615
+ "15007","Kauai, HI",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",39130,(D),(D),(D),41424,(D)
+ "15007","Kauai, HI",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",10192,(D),(D),(D),13748,(D)
+ "15007","Kauai, HI",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",28938,32056,30849,25410,27574,31606
+ "15007","Kauai, HI",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),77843
+ "15007","Kauai, HI",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",340741,373233,386871,344454,332460,340826
+ "15007","Kauai, HI",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "15007","Kauai, HI",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",51791,56962,62171,55072,(D),71903
+ "15007","Kauai, HI",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",821974,914886,(D),955993,934826,(D)
+ "15007","Kauai, HI",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",72136,73668,(D),78687,87424,82504
+ "15007","Kauai, HI",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",749838,841390,807058,877364,847274,(D)
+ "15007","Kauai, HI",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",277814,291925,296737,(D),278412,(D)
+ "15007","Kauai, HI",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",97491,103689,112165,109029,(D),131219
+ "15007","Kauai, HI",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",17762,(D),(D),(D),(D),(D)
+ "15007","Kauai, HI",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",162561,(D),(D),(D),(D),140400
+ "15007","Kauai, HI",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),240113,254050,247207,245825,247593
+ "15007","Kauai, HI",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),17041,17959
+ "15007","Kauai, HI",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",214879,(D),(D),(D),228720,229551
+ "15007","Kauai, HI",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",768132,849672,(D),(D),619828,762758
+ "15007","Kauai, HI",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),98363,56637,(D),(D)
+ "15007","Kauai, HI",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "15007","Kauai, HI",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",96793,103040,105560,87930,(D),(D)
+ "15007","Kauai, HI",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",500974,509813,518689,512508,506317,494822
+ "15007","Kauai, HI",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),35729,(D),(D),58111,(D)
+ "15007","Kauai, HI",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),419624
+ "15007","Kauai, HI",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "15007","Kauai, HI",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",90922,(D),(D),(D),(D),(D)
+ "15007","Kauai, HI",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",304694,336988,389977,(D),386998,(D)
+ "15007","Kauai, HI",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",2941088,3212412,3260963,(D),2897204,(D)
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",9606468,10183573,10407877,8558733,9459908,9692556
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",8580196,9310715,9518924,7695756,8617473,8855193
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",27598,36027,(D),(D),65996,42453
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",861,1031,(D),4308,4006,(D)
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",223492,221173,214158,(D),220862,(D)
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",628903,596093,631221,591187,591249,556506
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",107117,135668,111133,109341,117088,124702
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",47341,46868,45993,40544,46273,46905
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",59775,88943,65104,68845,70793,77977
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",227838,223289,227233,202261,190964,187872
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",834716,906208,937346,815203,790653,800739
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",577761,604946,686199,313312,600595,611183
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",119113,122773,130335,115291,154751,157689
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",2047306,2263804,2205043,2329870,2344482,(D)
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",144213,143941,152329,159555,189257,181355
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1903094,2120307,2052523,2170160,2154363,(D)
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",596133,623113,612714,(D),603918,(D)
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",219101,228584,227333,220143,260156,291994
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",30153,35754,34817,(D),32933,(D)
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",346879,358830,350630,271841,311621,341507
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",579713,690030,742675,727265,761799,778210
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",77262,79833,84570,75375,86763,92818
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",502452,610277,658213,652176,675128,685381
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",2339759,2600158,2650553,1426040,1928682,2116876
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",208769,214803,205828,116255,148158,187587
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",2130990,2385223,2444359,1309343,1780629,1929365
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",269887,286468,291345,243953,269626,275203
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1026272,873605,889728,860127,843303,838137
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",28459,37054,83033,(D),70233,(D)
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",1062554,1129237,1164171,1017234,981477,988597
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",801252,825959,899761,(D),813251,(D)
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",226230,258554,241028,224669,270058,281042
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",764478,768164,821912,(D),776223,(D)
+ "15901","Maui + Kalawao, HI*",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",7815718,8542547,8696807,(D),7841176,(D)
+"Note: See the included footnote file."
+"CAGDP9: Real GDP by county and metropolitan area 1/"
+"Last updated: December 7, 2023 -- new statistics for 2022, revised statistics for 2017-2021."
+"U.S. Bureau of Economic Analysis"

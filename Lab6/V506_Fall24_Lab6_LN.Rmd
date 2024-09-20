@@ -1,0 +1,659 @@
+---
+title: "V506 Lab 6"
+author: "Luis Navarro"
+date: "Fall 2024"
+output:
+  slidy_presentation: default
+  #html_document:
+    #df_print: paged
+subtitle: Review of Critical Functions and Applied Data Analysis
+---
+
+```{r setup, include=FALSE} 
+knitr::opts_chunk$set(warning = FALSE, message = FALSE) 
+```
+
+
+# Readings for this lab 
+
+- [R Cookbook](https://rc2e.com/) Chapter 8, Chapter 10 (Complete)
+
+- [R for Data Science](https://r4ds.had.co.nz/index.html) Chapter 10, 11
+
+- [The Epidemiologist R Handbook](https://epirhandbook.com/en/) Chapter 29, 31, 40
+
+
+# Setup: Clean Environment and Load Libraries
+
+```{r, echo=TRUE, eval=TRUE}
+# Clean the environment 
+rm(list=ls())
+
+# Set your working directory
+setwd("/Users/luisenriquenavarro/Library/CloudStorage/OneDrive-IndianaUniversity/V506/Fall24/Lab6/")
+
+# Turn off the scientific notation and set significant digits to 4
+options(scipen = 999)
+options(digits=4)
+```
+
+# New Libraries 
+
+```{r, echo = TRUE, eval = FALSE}
+if(!require("gapminder")) {install.packages("gapminder")}
+if(!require("modelsummary")) {install.packages("modelsummary")}
+```
+
+
+```{r}
+# Packages Required for the session 
+library(pacman)
+p_load(dplyr, ggplot2, rmarkdown, rio, here, gapminder, modelsummary)
+```
+
+# Readings for this lab 
+
+- [R Cookbook](https://rc2e.com/) Chapter 12.
+
+- [R for Data Science](https://r4ds.had.co.nz/index.html) Chapter 10, 11 (Complete)
+
+- [The Epidemiologist R Handbook](https://epirhandbook.com/en/) Chapter 17, 18, 20, 29, 31, 40 (Complete). 
+
+
+
+# Election Results and Income
+
+- For this last lab, we will explore the relationship between election results and household income. 
+
+- We will use two public data sources: [MIT Election Lab](https://electionlab.mit.edu/data) and the [IRS Statistics of Income](https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-return-form-1040-statistics)
+
+- We will:
+
+    - Clean the data
+    - Merge the data
+    - Summarize the data
+    - Visualize the data
+    - Analyze the data
+
+- [Election data from MIT Election lab](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ): Presidential election results by county. 
+
+- [County GDP](https://apps.bea.gov/regional/downloadzip.htm): Data on county level real GDP.
+
+- [County Population](https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html): population by county-year. 
+
+- Files available in Canvas 
+
+# Clean the data: Election data
+
+- Using dplyr, let's transform the raw data from the internet into workable data frames. 
+
+```{r}
+# Load data
+lab6_path <- here('/Users/luisenriquenavarro/Library/CloudStorage/OneDrive-IndianaUniversity/V506/Fall24/Lab6')
+election_data <- rio::import(file = here(lab6_path,"countypres_2000-2020.csv"))
+```
+
+- Get data from the last two elections
+
+```{r}
+election_data <- election_data %>% 
+  # keep only data from the last two elections 
+  filter(year %in% c(2020)) %>% 
+  # for simplicity, we will only consider republican and democrat vote 
+  filter(party != "OTHER")
+```
+
+- Visualize the structure of the data 
+
+```{r}
+election_data %>% head(n = 10)
+```
+
+- Preserve the county data identifiers. 
+
+```{r}
+county_template <- election_data %>% 
+  select(state, county_name, county_fips, year) %>% 
+  group_by(state, county_fips, year) %>% 
+  summarize(county_name = first(county_name)) 
+```
+
+
+- Create a variable for the percentage of votes for each party at the county level. Also create a dummy variable equal to one if the majority of the county voted republican. 
+
+```{r}
+# use group by to compute variables by county and election (year)
+election_data_clean <- election_data %>% 
+  #filter(county_fips == 1003) %>% 
+  group_by(county_fips, year) %>% 
+  # compute the percentage of vote per candidate or party
+  mutate(percent_vote = candidatevotes/totalvotes) %>% 
+  # only keep year, state, county_fips, county_name, party, candidatevotes and total votes
+  select(year, county_fips, party, percent_vote) %>% 
+  # get variable that determines who got the majority of the vote 
+  # remember the variable is still grouped by county and year 
+  mutate(majority_vote = ifelse(percent_vote == max(percent_vote), party, NA)) %>% 
+  # keep only the observation from the majority votes 
+  filter(is.na(majority_vote)==FALSE) %>% 
+  # create a republican dummy variable 
+  mutate(republican = ifelse(majority_vote == "REPUBLICAN", 1,0)) %>% 
+  # keep only the variables we want
+  select(year, county_fips, percent_vote, republican) %>% 
+  ungroup()
+
+election_data_clean %>% 
+  slice_sample(n = 10)
+```
+
+
+
+# Clean the data: GDP
+
+- For this data, we will write a function that cleans the data, and use lapply to clean the two files with the same process. 
+
+```{r}
+gdp_data <-rio::import(here(lab6_path, "CAGDP9__ALL_AREAS_2017_2022.csv")) 
+```
+
+```{r}
+head(gdp_data)
+```
+
+```{r}
+# clean the gdp data 
+gdp_clean <- gdp_data %>% 
+    # keep only totals by county 
+  filter(Description == "All industry total ") %>% 
+  # drop national total 
+  filter(GeoFIPS != 0) %>% 
+  # drop irrelevant variables 
+  select(-c(Region, LineCode, IndustryClassification, Unit, Description, TableName)) %>% 
+  # data reshape long 
+  gather(key = "year", value = "real_gdp", -c(GeoFIPS, GeoName)) %>% 
+  # keep only observations from 2019
+  filter(year == 2019) %>% 
+  # rename fips variable 
+  rename(county_fips = GeoFIPS)
+
+```
+
+# Clean Population Data 
+
+
+
+
+- Some relevant variables to keep in mind: AGI_STUB is the income bracket. A00100 is the adjusted gross income. 
+
+- The following function manipulates the data from its raw form into a managable data set. Let's review it quickly. 
+
+```{r}
+clean_irs <- function(data){
+  
+  df <- irs_data16 %>% 
+    # rename relevant variables
+    rename(county_fips = COUNTYFIPS) %>% 
+    rename(state_fips = STATEFIPS) %>% 
+    rename(agi = A00100) %>% 
+    rename(returns = N1) %>% 
+    # keep relevant variables only 
+    select(county_fips, state_fips, year, agi_stub, agi, returns) %>% 
+    # remove observations with state aggregates 
+    filter(county_fips != 0) %>% 
+    # keep only observations with reported AGI
+    filter(agi_stub != 0)  %>% 
+    # compute the average income
+    group_by(county_fips, state_fips, year) %>% 
+    # first compute the distribution of returns by income threshold 
+    mutate(percent_returns = returns/sum(returns)) %>% 
+    # compute the weighted average manually 
+    mutate(income_weighted = agi*percent_returns) %>% 
+    mutate(avgw_income = sum(income_weighted))
+  
+  # formatting code of the fips variable. 
+  df <- df
+    # convert COUNTY FIPS into a three digit string 
+    mutate(fips_str = as.character(county_fips)) %>% 
+    # obtain the length new variable 
+    mutate(length_fips = nchar(fips_str)) %>% 
+    # complete the fips into a three digit string 
+    # case_when is generalized version of if_else
+    mutate(county_fips = case_when(
+      length_fips == 1 ~ paste("00", fips_str, sep = ''), 
+      length_fips == 2 ~ paste("0", fips_str, sep = ''), 
+      length_fips == 3 ~ fips_str)) %>% 
+    # do the same for state fips 
+    mutate(length_st = nchar(as.character(state_fips))) %>% 
+    mutate(state_fips = ifelse(length_st == 1, 
+                               paste("0", state_fips, sep = ''), 
+                               state_fips)) %>% 
+    # homogeneize county fips to the format of the vote data 
+    mutate(county_fips = paste(state_fips, county_fips, sep = '') %>% as.integer()) %>% 
+    # remove auxiliary variables 
+    select(-c(state_fips, fips_str, length_st, length_fips)) 
+  
+  
+}
+```
+
+
+
+```{r}
+read_irs_year <- function(year){
+  data <- rio::import(here(lab6_path, paste(as.character(year), "incyallagi.csv", sep = ''))) %>% 
+    mutate(year = 2000 + year)
+  return(data)
+}
+
+irs_data <- lapply(years, read_irs_year) %>% 
+  
+  
+  data.table() %>% 
+  mutate(income_threshold = case_when(
+    agi_stub == 0 ~ 'No AGI Stub (Total)',
+    agi_stub == 1 ~ 'Under $1',
+    agi_stub == 2 ~ '$1 under $10,000',
+    agi_stub == 3 ~ '$10,000 under $25,000',
+    agi_stub == 4 ~ '$20,000 under $50,000',
+    agi_stub == 5 ~ '$50,000 under $75,000',
+    agi_stub == 6 ~ '$75,000 under $100,000',
+    agi_stub == 7 ~ '$100,000 under $200,000',
+    agi_stub == 8 ~ '$200,000 or more',
+    TRUE ~ NA_character_  # Default case, in case there are unexpected values
+  )) %>% 
+   mutate(income_threshold = factor(income_threshold, levels = c(
+    'No AGI Stub (Total)',
+    'Under $1',
+    '$1 under $10,000',
+    '$10,000 under $25,000',
+    '$20,000 under $50,000',
+    '$50,000 under $75,000',
+    '$75,000 under $100,000',
+    '$100,000 under $200,000',
+    '$200,000 or more'
+  ), ordered = TRUE)) %>% 
+  relocate(STATEFIPS, STATE, COUNTYFIPS, agi_stub, income_threshold, year)
+
+```
+
+
+-  The gapminder data is part of the gapminder package, so we do not need the read.csv function:
+
+```{r,echo=TRUE,eval=TRUE}
+# syntax: create a df named gapminder_data with the gapminder dataset inside the gapminder library
+gapminder_data <- gapminder::gapminder
+```
+
+- Explore the dataset
+```{r,echo=TRUE,eval=TRUE}
+names(gapminder_data)
+dplyr::glimpse(gapminder_data)
+```
+
+- An Aside: The *modelsummary* package is excellent for summarizing data:
+
+```{r,echo=TRUE,eval=TRUE}
+datasummary_skim(gapminder_data)
+```
+
+- Unique countries in the dataset:
+
+```{r,echo=TRUE,eval=TRUE}
+df_unique <- unique(gapminder_data$country)
+```
+
+# Review of dplyr, pipes, merging
+
+- Create a panel, by country and year, with the average population. For this task, we can select continent, year, and population, and then grouping by continent and year, summarizing the variable *pop* (show the results for Europe). 
+
+```{r,echo=TRUE,eval=TRUE}
+gapminder %>% 
+  select(continent, year, pop) %>%
+  group_by(continent, year) %>% 
+  dplyr::summarize(avg_pop = mean(pop)) %>% 
+  dplyr::filter(continent == "Europe")
+```
+
+- Creating new data frame called gapminder_gdp, where I take the gapminder dataframe and create a new variable called gdp which is the population * the per capita gdp:
+
+```{r,echo=TRUE,eval=TRUE}
+gapminder_gdp = gapminder %>% 
+  dplyr::mutate(gdp = pop * gdpPercap)
+
+head(gapminder_gdp)
+```
+
+- Create a new data frame called *gapminder_avgs* which takes the *gapminder_gdp* df and groups by country, and then summarizes the gdp, gdp per capita, and population, as well as finding the max and min values of the gdp by country.
+
+```{r,echo=TRUE,eval=TRUE}
+gapminder_avgs = gapminder_gdp %>% 
+  dplyr::group_by(country) %>% 
+  dplyr::summarize(avg_gdp = mean(gdp), 
+            avg_percapgdp = mean(gdpPercap), 
+            avg_pop = mean(pop), 
+            max_gdp = max(gdp), 
+            min_gdp = min(gdp))
+
+head(gapminder_avgs)
+```
+
+# Read in a new data frame
+
+```{r,echo=TRUE,eval=TRUE}
+intwp = rio::import("intwp.csv")
+names(intwp)
+```
+
+
+```{r,echo=TRUE,eval=TRUE}
+summary(intwp)
+```
+
+```{r,echo=TRUE,eval=TRUE}
+intwp %>% head(n = 3)
+```
+
+- **Tip**: Rename and drop variables from your data set. 
+
+- *With dplyr* 
+
+- Rename Country.Code and drop Birth Rate and Population
+
+- Syntax: *rename(newname = oldname)*
+
+- Syntax: *select(-c(var1,var2,...))* in order to drop the variables in the vector. 
+
+```{r,echo=TRUE,eval=TRUE}
+intwp <- intwp %>% dplyr::rename(Code = Country.Code) %>%  #Rename 
+                   dplyr::select(-c(Birth.rate,Pop.2016)) # Drop Variables. 
+
+head(intwp, n=3)
+```
+
+- *With Base R*
+
+- Drop *X* column and rename country code. 
+
+```{r,echo=TRUE,eval=FALSE}
+# Base R
+intwp$X=NULL # Dropping a single column from my data frame
+names(intwp)[names(intwp)=="Country.Name.x"]= "Country" # renaming the "Country.Name.x" column to "Country"
+head(intwp, n = 3)
+```
+
+- Merge on the intwp data to the gapminder_avgs data
+
+```{r,echo=TRUE,eval=TRUE}
+merged_df = merge(gapminder_avgs, intwp, by.x = "country", by.y="Country")
+head(merged_df, n= 6)
+```
+
+- Notice that we can specify the key variable in each data frame using the *by.x* and *by.y* options.
+
+
+# More ggplot
+
+- Make a histogram of life expectancy:
+
+```{r,echo=TRUE,eval=TRUE}
+lifeexp_hist <- ggplot(data=gapminder, mapping = aes(x=lifeExp))+
+                geom_histogram(binwidth=2, col = "white", fill = "steelblue")+
+                labs(x="Life Expectancy", y = "Count", title = "Distribution of Life Expectancy")+
+                theme_bw()
+lifeexp_hist
+```
+
+- We can add a vertical line to indicate where the mean is. We can also annotate the chart to note what the mean is.
+
+- First: Compute the mean: 59.47 
+
+```{r,echo=TRUE,eval=TRUE}
+lifeExp.mean = mean(gapminder$lifeExp, na.rm = TRUE)
+meanlabel = paste("Mean = ",lifeExp.mean %>% 
+                            round(4) %>% 
+                            as.character(),
+                  sep="")
+meanlabel
+```
+
+- Add it to the graph. 
+```{r,echo=TRUE,eval=TRUE}
+lifeexp_hist_line <- lifeexp_hist + 
+                     geom_vline(xintercept= lifeExp.mean, 
+                                col = "navy", 
+                                linetype = "dashed", 
+                                alpha=.8, size =1) + 
+                     annotate(geom = "text", x = 52, y = 150, label = meanlabel)
+
+lifeexp_hist_line
+```
+
+# ggplot
+
+- Scatterplot comparing life expectancy with per capita GDP by continent:
+
+
+```{r,echo=TRUE,eval=TRUE}
+scatter_life_gdp <- ggplot(data=gapminder, aes(x=gdpPercap, y = lifeExp, col = continent))+
+                    geom_point(alpha = 0.5)+ 
+                    labs(x ="Per Capita GDP", y="Life Expectancy", title = "Life Expectancy and GDP Per Capita")+
+                    theme_bw() 
+scatter_life_gdp
+```
+
+
+- *Tip:* log transforming variables does not changes the relationship of the variables (monotonic transformation) and allows to visualize the correlation of the data when units differ from each other.  
+
+```{r,echo=TRUE,eval=TRUE}
+gapminder <- gapminder %>% mutate(lngdppc = log(gdpPercap))
+# Format Legend on Left Graph 
+scatter_life_gdp <- scatter_life_gdp + theme(legend.position = c(0.8,0.2)) + theme(legend.title = element_blank())
+scatter_life_loggdp <- ggplot(data=gapminder, aes(x=lngdppc, y = lifeExp, col = continent))+
+                      geom_point(alpha = 0.5) + 
+                      labs(x ="Log Per Capita GDP", y="Life Expectancy", title = "Life Expectancy and Log GDP Per Capita")+
+                      theme_bw() + theme(legend.position = "none")
+
+grid.arrange(scatter_life_gdp, scatter_life_loggdp, nrow =1)
+```
+
+
+- Let’s use *facet_wrap* to see life expectancy and per capita GDP by continent:
+
+```{r,echo=TRUE,eval=TRUE}
+scatter_life_loggdp + facet_wrap(~continent, nrow=3)+
+                   theme(axis.text.x=element_text(angle = 45, hjust = 1))
+```
+
+# Linear regression
+
+- We are not going to cover what a regression is, the mechanics, etc.
+- The goal is to demonstrate the R command so that you have a resource for when regressions are covered later in this course.
+- Simple linear regression using the *gapminder* data.
+- In R, a “formula” is denoted as “y ~ x” (similar to the “y = x”, just note that the tilde is used here).
+- A multivariate regression (the variation in y depends on more than one variable) can be done by adding the additional variables to the formula (y ~ x + z, for example).
+
+- The basic form of a simple linear regression is the following:
+
+$$y_i = \alpha + \beta x_i + e_i$$
+
+- Example: What is the correlation between per capita income and life expectancy? 
+
+- *Dependent Variable:* life expectancy (measured in years)
+- *Independent Variable:* natural log GDP per capita.  
+
+- Visual Intuition: 
+
+```{r,echo=TRUE,eval=TRUE}
+ggplot(data=gapminder, aes(x=lngdppc, y = lifeExp))+
+                    geom_point(alpha = 0.5, col = "steelblue2") + 
+                    geom_smooth(method = "lm", se = FALSE)+
+                    labs(x ="Log Per Capita GDP", y="Life Expectancy", title = "Life Expectancy and Log GDP Per Capita")+
+                    theme_bw() 
+```
+
+- The relationship between *y* and *x* can be modeled by a straight line with some error *e*.
+
+- Model Estimation:
+
+
+```{r,echo=TRUE,eval=TRUE}
+reg1 = lm(lifeExp ~ lngdppc, data = gapminder)
+summary(reg1)
+```
+
+- Interpretation: An increase in one unit in log GDP per capita, is associated with an increase of 8.4 years in life expectancy.
+
+- This model allows you to predict values of life expectancy for given levels of GDP per capita. 
+
+```{r,echo=TRUE,eval=TRUE}
+data.frame(reg1$model, 
+           PredictedLifeExpectancy= reg1$fitted.values, 
+           Residuals = reg1$residuals) %>%  
+           mutate(SquaredRes = Residuals^2) %>% arrange(by_group = SquaredRes) %>% head(n=10)
+```
+
+- The blue line in the graph above corresponds to the predicted life expectancy. 
+
+- Tip for intuition: for the simple linear regression model: 
+
+$$\beta_1 = \frac{cov(x,y)}{var(x)}$$
+
+- Regression coefficients capture the correlation of two variables, adjusting for the variance of the explanatory variable. 
+
+**Extra** 
+
+- Multivariate regression:
+
+```{r,echo=TRUE,eval=TRUE}
+reg2 = lm(lifeExp ~ lngdppc + year, data = gapminder)
+summary(reg2)
+```
+
+# Diagnostic Plots after you run a regression
+
+- After you run a regression, it is easy to see the diagnostic plots in R.
+- Using the plot() command will return the Residuals v. Fitted, Normal Q-Q, Scale-Location, and Residuals v. Leverage plots.
+- You need to run a regression and save the results (e.g., reg1 = lm(…)) because the saved results are the input for the plot() command.
+
+```{r,echo=TRUE,eval=TRUE}
+plot(reg1)
+```
+
+- The residual plot shows that $\hat{e}_i$ appears to be scattered around zero, the dashed horizontal line. A sign that there are no nonlinear relationships not captured by the model.
+- The normal QQ plot is used to visually assess the normality of the residuals (ideally points on the 45 degree line).
+- The scale-location plot shows the spread of the residuals over the fitted values (a test of homoskedasticity).
+- The residuals vs leverage plot allows you to detect influential observations or outliers that might change the results of the model significantly. These are the observations found *outside* of the Cook’s distance lines.
+
+# ANOVA
+
+- The Analysis of Variance (ANOVA) shows you the variation of the dependent variable broken into the variation of the regressors and the residuals.
+- The ANOVA also reports the test statistic F that compares the mean squares from the independent variables (explained variation) and the mean squares from the error term (unexplained variation). 
+
+```{r,echo=TRUE,eval=TRUE}
+aov_1 = aov(lifeExp ~ lngdppc, data = gapminder)
+aov(reg1)
+```
+
+```{r,echo=TRUE,eval=TRUE}
+summary(aov_1)
+```
+
+- The F value is equal to *Mean Sq LifeExp*/*Mean Sq Residuals*.
+- If the null hypothesis is true, any differences between the explained and unexplained variation are due to chance, therefore, the mean squares shout be roughly the same.
+
+```{r,echo=TRUE,eval=TRUE}
+aov_2 = aov(lifeExp ~ lngdppc + year, data = gapminder)
+summary(aov_2)
+```
+
+**What else can you do with the ANOVA?**
+
+- The sum of squares displayed in the ANOVA table allows you to compute the coefficient of determination ($R^2$), which is a measure of the variance in your outcome or dependent variable that is explained by the independent variable(s):
+
+$$R^2 = 1 - SSR/SST$$
+- Where $SSR$ is the sum of squared residuals and $SST$ is the total sum of squares.
+
+- For example, in *reg1*, $R^2 = 0.652$. This means that 65% of the variation in life expectancy can be explained by the variation in GDP per capita (log).
+
+$$R^2 = 1 - SSR/SST \Rightarrow 1 - 98814/(185335+98814) = 0.6522$$
+
+# Extra: Mean Estimation using lm function
+
+- Regression is way of computing conditional averages. 
+
+$$E[y |x] = \beta_0 + \beta_1 x$$
+
+- Example: unconditional average 
+
+- Suppose you want to estimate the sample mean of life expectancy, and obtain the standard error, confidence interval, and p-value of the point estimate. 
+
+- We have covered how to do that with the *t.test* function. 
+
+- One sample t-test where the null hypothesis is equal to zero. 
+
+```{r}
+t.test(gapminder$lifeExp, mu = 0)
+```
+- How is this related to linear regression? 
+
+$$E[y |x = 0] = \beta_0 $$
+
+- We can replicate this same calculation using the *lm* function to estimate a linear regression only using the intercept as explanatory variable. 
+
+```{r}
+lm(formula = lifeExp ~ 1, data = gapminder) %>% summary()
+```
+
+# Extra: Regression Based Two Sample T-Test. 
+
+- Example: compare life expectancy between countries with high population and low population. 
+
+- First, create a dummy variable that splits the sample between countries above the median population observed in the data. 
+
+```{r}
+median_pop <- median(gapminder$pop)
+gapminder <- gapminder %>% mutate(large_pop = ifelse(pop > median_pop, "Large Population", "Small Population"))
+```
+
+- With *t.test* command we estimate a two sample t-test that compares the average life expectancy for countries with large population. 
+
+```{r}
+# Store Samples Separately 
+large_pop <- gapminder %>% filter(large_pop == "Large Population") %>% select(lifeExp) 
+small_pop <- gapminder %>% filter(large_pop == "Small Population") %>% select(lifeExp) 
+```
+
+- Run t.test function. Look at the t-stat, the confidence interval 
+
+```{r}
+test <- t.test(large_pop, small_pop)
+test
+```
+
+- Mean Difference: 
+
+```{r}
+mean_large = test$estimate[1]
+mean_small = test$estimate[2]
+mean_difference = mean_large - mean_small
+mean_difference
+```
+
+
+- With *lm* function we just run a regression the dummy variable that splits the sample. 
+
+- Note the coefficient on the dummy captures the mean difference between the two. 
+
+```{r}
+lm(lifeExp ~ large_pop, data = gapminder) %>% summary()
+```
+- Using the fact that we are modelling the conditional mean of $y$ (life expectancy) on $x$ (GDP per capita)
+
+$$\beta_1 = E[Life Exp |LargePop = 1] -  E[Life Exp |LargePop = 0] $$
+
+- **NOTE** beware this interpretation is only valid for doing regression on dummy variables. With discrete and continuous variables intuition is similar but interpretation is slightly different. 
+
+- Useful to keep in mind the "calculus interpretation" of regression coefficients. 
+
+$$y = \beta_0 + \beta_1 x + e$$
+
+$$\beta_1 = \frac{dy}{dx}$$

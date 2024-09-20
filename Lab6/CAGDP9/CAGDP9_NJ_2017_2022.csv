@@ -1,0 +1,753 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2017,2018,2019,2020,2021,2022
+ "34000","New Jersey",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",590086737,606892203,617110702,595973431,629011319,646731343
+ "34000","New Jersey",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",527401115,543970709,553849241,535650259,569059673,585785027
+ "34000","New Jersey",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",936905,949748,1130076,1064285,945870,883167
+ "34000","New Jersey",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",359637,303213,465852,428261,419218,351972
+ "34000","New Jersey",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",9501558,9585985,9210751,10358540,10416996,8836254
+ "34000","New Jersey",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",21117534,20977690,21263485,20256675,20905650,18982029
+ "34000","New Jersey",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",46725278,54211331,54277039,52729385,52782693,52798339
+ "34000","New Jersey",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",16684421,19451919,18199880,16276057,17523025,17602098
+ "34000","New Jersey",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",30040857,34758252,36051314,36503885,35304137,35250177
+ "34000","New Jersey",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",48460192,49372429,50900084,49950171,49456542,47824429
+ "34000","New Jersey",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",37506893,38482515,39604337,37756333,38039516,34405474
+ "34000","New Jersey",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",22681517,23273230,23457693,19643883,23258169,25001289
+ "34000","New Jersey",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",24657265,26606003,27769404,28592444,34200658,37282367
+ "34000","New Jersey",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",131095294,130120932,129492620,131336666,137527506,146086774
+ "34000","New Jersey",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",37013528,36630063,35420655,37703599,40288738,41845818
+ "34000","New Jersey",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",94081766,93493404,94100541,93630285,97213367,104241717
+ "34000","New Jersey",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",96904533,100348082,104589861,103972348,113514119,122082791
+ "34000","New Jersey",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",55686394,58209661,60405917,60930993,66770597,72884123
+ "34000","New Jersey",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",18223234,19051966,20523736,21320955,21669551,22882832
+ "34000","New Jersey",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",22994905,23091291,23693048,21867967,25049469,26307931
+ "34000","New Jersey",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",55250828,56571889,58730342,55218036,58526906,61805201
+ "34000","New Jersey",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",7433137,7558955,7721638,6893348,7267119,7653792
+ "34000","New Jersey",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",47817692,49013227,51010912,48334502,51271130,54163833
+ "34000","New Jersey",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",20166262,20810709,20692838,14162660,18856881,21033733
+ "34000","New Jersey",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",5804730,6160171,5638819,3621201,4613960,5631016
+ "34000","New Jersey",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",14361533,14651572,15047137,10535174,14231942,15419833
+ "34000","New Jersey",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",12037418,12410081,12494892,10722874,11582330,12216008
+ "34000","New Jersey",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",62685623,62930018,63278628,60366166,60149370,61161613
+ "34000","New Jersey",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",1296542,1251367,1599196,1495343,1367326,1239556
+ "34000","New Jersey",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",85967085,87852878,90504072,87726842,87523773,82217129
+ "34000","New Jersey",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",32183075,32858624,32667255,30003127,33634182,33687526
+ "34000","New Jersey",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",71382543,80851994,82042407,81284308,86665254,89389152
+ "34000","New Jersey",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",69139354,76439195,77128381,74442608,75054033,72894291
+ "34000","New Jersey",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",458261760,467510179,476700354,461188782,493908684,512932734
+ "34001","Atlantic, NJ",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",13521560,13616155,13791800,12986077,14017564,14199892
+ "34001","Atlantic, NJ",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",11114434,11202194,11374380,10654974,11705759,11856407
+ "34001","Atlantic, NJ",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",171903,110628,(D),(D),98173,65193
+ "34001","Atlantic, NJ",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",12267,8084,7309,6675,8701,(D)
+ "34001","Atlantic, NJ",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",124031,131718,139257,170033,143849,123853
+ "34001","Atlantic, NJ",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",641280,696485,622637,599324,640244,596663
+ "34001","Atlantic, NJ",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",210522,263058,(D),(D),286425,(D)
+ "34001","Atlantic, NJ",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",62387,64237,(D),(D),72711,(D)
+ "34001","Atlantic, NJ",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",148135,198701,213343,224443,212887,150239
+ "34001","Atlantic, NJ",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",380745,370119,367225,370760,353998,351094
+ "34001","Atlantic, NJ",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1080440,1061756,1060316,1036267,1070680,967099
+ "34001","Atlantic, NJ",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",250742,257046,242084,198087,218137,229049
+ "34001","Atlantic, NJ",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",213635,208507,184546,183833,221002,243163
+ "34001","Atlantic, NJ",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",2494675,2470961,2391922,2602166,2668847,2792534
+ "34001","Atlantic, NJ",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",309633,302764,310743,349638,408363,440093
+ "34001","Atlantic, NJ",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",2185042,2168260,2080877,2252082,2259373,2351123
+ "34001","Atlantic, NJ",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",1102479,1164647,1226294,1228915,1389038,1495422
+ "34001","Atlantic, NJ",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",660684,698424,694137,717578,765827,815866
+ "34001","Atlantic, NJ",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",126043,145705,183354,187336,242013,268165
+ "34001","Atlantic, NJ",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",315753,320687,349656,325856,384893,415989
+ "34001","Atlantic, NJ",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",1650892,1669215,1742326,1593396,1645264,1728182
+ "34001","Atlantic, NJ",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",50503,51130,52469,46278,49758,52244
+ "34001","Atlantic, NJ",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",1600389,1618085,1689871,1547168,1595508,1675941
+ "34001","Atlantic, NJ",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",2466944,2474991,2681803,1994884,2708069,2824592
+ "34001","Atlantic, NJ",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",112444,130518,153002,124469,193069,187095
+ "34001","Atlantic, NJ",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",2354500,2344575,2529039,1869984,2512017,2634768
+ "34001","Atlantic, NJ",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",313878,312685,310680,260966,279274,281530
+ "34001","Atlantic, NJ",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",2407126,2414006,2417652,2329869,2318186,2350050
+ "34001","Atlantic, NJ",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",184170,118714,(D),(D),106540,(D)
+ "34001","Atlantic, NJ",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",1461185,1431834,1427417,1407203,1425276,1318074
+ "34001","Atlantic, NJ",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",374773,388791,381458,368668,360927,349931
+ "34001","Atlantic, NJ",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",424157,472534,(D),(D),508231,(D)
+ "34001","Atlantic, NJ",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1035972,1081016,1025653,1004675,1034039,894822
+ "34001","Atlantic, NJ",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",10078462,10121233,10348948,9650517,10673372,10975498
+ "34003","Bergen, NJ",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",76088755,78087858,79736564,76718191,80606535,81577758
+ "34003","Bergen, NJ",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",71020570,72990727,74607412,71855747,75734754,76616924
+ "34003","Bergen, NJ",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",8880,13788,16344,18437,10761,7479
+ "34003","Bergen, NJ",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",3765,3338,4798,4593,8120,6926
+ "34003","Bergen, NJ",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",605836,692869,578636,648148,562072,514667
+ "34003","Bergen, NJ",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",2577289,2569388,2601122,2388495,2331162,2081432
+ "34003","Bergen, NJ",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",4966576,5765884,5248676,4867076,4841844,4836749
+ "34003","Bergen, NJ",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",2634000,3315275,2965866,2542020,2647539,2596848
+ "34003","Bergen, NJ",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",2332576,2451191,2283356,2325980,2198908,2241889
+ "34003","Bergen, NJ",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",12455503,12700290,13349555,13530685,14341477,13725952
+ "34003","Bergen, NJ",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",5132740,5409640,5448742,4848257,4801082,4378663
+ "34003","Bergen, NJ",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",1648437,1708201,1600269,1534689,1678526,1703398
+ "34003","Bergen, NJ",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",3741390,4018875,4413850,4659716,5641079,6054211
+ "34003","Bergen, NJ",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",15336295,14970789,16029587,16201074,15931465,16522793
+ "34003","Bergen, NJ",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",2638411,2517502,2530271,2735549,2918581,3006902
+ "34003","Bergen, NJ",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",12697884,12454637,13506832,13468556,13008418,13512554
+ "34003","Bergen, NJ",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",12268467,12560291,12574143,11707440,12920507,13732644
+ "34003","Bergen, NJ",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",6386773,6668865,6757775,6451640,7268303,7921871
+ "34003","Bergen, NJ",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",2993980,3188034,3176035,2860610,2845611,2883783
+ "34003","Bergen, NJ",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",2887713,2705393,2642866,2394044,2775201,2885886
+ "34003","Bergen, NJ",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",8328334,8415510,8610712,8407042,9269264,9619300
+ "34003","Bergen, NJ",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",824692,901912,872660,755535,786552,803832
+ "34003","Bergen, NJ",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",7503642,7513138,7738489,7654433,8487312,8820589
+ "34003","Bergen, NJ",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",2441193,2619168,2547620,1699461,2119084,2433135
+ "34003","Bergen, NJ",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1025794,1128612,972530,675756,748102,898370
+ "34003","Bergen, NJ",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",1415399,1490766,1572633,1022794,1365322,1531920
+ "34003","Bergen, NJ",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",1505866,1556751,1580946,1342836,1443394,1488367
+ "34003","Bergen, NJ",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",5068185,5097830,5130803,4866121,4884839,4973920
+ "34003","Bergen, NJ",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",12645,17124,21138,23035,18647,14132
+ "34003","Bergen, NJ",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",17588244,18108242,18804143,18400389,19159916,18116318
+ "34003","Bergen, NJ",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",2254272,2401058,2179175,2181958,2238911,2215319
+ "34003","Bergen, NJ",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",8707966,9787159,9647187,9491311,10395408,10771279
+ "34003","Bergen, NJ",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",7556510,8348569,7874771,7280988,7191741,6910572
+ "34003","Bergen, NJ",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",63464060,64643782,66731974,64574739,68538838,69699479
+ "34005","Burlington, NJ",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",27798933,28075872,28460282,28420414,30121239,30630405
+ "34005","Burlington, NJ",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",23984882,24243066,24603224,24624700,26336980,26807060
+ "34005","Burlington, NJ",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",73338,48358,88556,60658,62513,51392
+ "34005","Burlington, NJ",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",2568,1722,2152,1558,1457,5145
+ "34005","Burlington, NJ",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",112877,114616,112014,147135,144236,122151
+ "34005","Burlington, NJ",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",997107,1000668,996866,976949,1014670,928269
+ "34005","Burlington, NJ",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",2079294,2222009,2254502,2159198,2295482,2323095
+ "34005","Burlington, NJ",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",1566316,1694387,1746626,1662998,1802616,1849234
+ "34005","Burlington, NJ",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",512977,527753,508399,496628,494614,477522
+ "34005","Burlington, NJ",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",2329870,2425804,2502003,2371609,2314798,2250067
+ "34005","Burlington, NJ",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",2223516,2187945,2266270,2196043,2253380,2044051
+ "34005","Burlington, NJ",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",717834,742470,794552,901729,1028615,1002274
+ "34005","Burlington, NJ",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",1129243,1167212,1305746,1371741,1679750,1917395
+ "34005","Burlington, NJ",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",6654440,6652829,6524234,6973053,7280064,7442458
+ "34005","Burlington, NJ",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",2204746,2159414,2043960,2298421,2415832,2253858
+ "34005","Burlington, NJ",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",4449694,4494482,4484000,4675986,4865377,5196761
+ "34005","Burlington, NJ",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",3706957,3697958,3691127,3809279,4354396,4683887
+ "34005","Burlington, NJ",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",2045967,2124545,2120806,2118334,2403284,2634531
+ "34005","Burlington, NJ",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",397687,389336,382957,495535,579360,599756
+ "34005","Burlington, NJ",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1263303,1184376,1187390,1201981,1379862,1458499
+ "34005","Burlington, NJ",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",2813991,2802479,2885336,2765948,2885615,3066531
+ "34005","Burlington, NJ",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",152567,162612,167294,148128,163349,170744
+ "34005","Burlington, NJ",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",2661423,2639806,2717982,2618022,2722267,2895852
+ "34005","Burlington, NJ",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",647392,665898,681011,471127,637341,695339
+ "34005","Burlington, NJ",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",142659,154113,160290,98960,133534,147977
+ "34005","Burlington, NJ",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",504733,511798,520745,372248,503918,547558
+ "34005","Burlington, NJ",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",496457,513325,511540,438156,460331,480900
+ "34005","Burlington, NJ",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",3814051,3832917,3857519,3797448,3793044,3832646
+ "34005","Burlington, NJ",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",75905,50081,90643,62179,63926,56179
+ "34005","Burlington, NJ",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",4553386,4614635,4768956,4567471,4569128,4292875
+ "34005","Burlington, NJ",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",830711,857095,906670,1048624,1172230,1123191
+ "34005","Burlington, NJ",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",3208537,3389535,3557962,3524861,3959277,4208781
+ "34005","Burlington, NJ",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",3152306,3272699,3338861,3199012,3373028,3293410
+ "34005","Burlington, NJ",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",20832576,20970987,21265236,21424205,22960820,23506664
+ "34007","Camden, NJ",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",24743652,25210544,25445882,24150451,25474699,25968516
+ "34007","Camden, NJ",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",21454048,21920615,22156242,21024425,22361044,22799753
+ "34007","Camden, NJ",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),27277,21862,17953,20699
+ "34007","Camden, NJ",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",(D),(D),490,297,1143,(D)
+ "34007","Camden, NJ",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",89504,92056,87454,102791,89634,(D)
+ "34007","Camden, NJ",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",978206,1019392,998171,984057,1029877,921609
+ "34007","Camden, NJ",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",1829777,2173915,2019319,1838786,2002449,2000772
+ "34007","Camden, NJ",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",963719,1195734,1133838,961531,1037766,1010047
+ "34007","Camden, NJ",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",866058,978180,885532,877438,964652,989536
+ "34007","Camden, NJ",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1312745,1396787,1466966,1412585,1380013,1367483
+ "34007","Camden, NJ",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1849347,1872943,1976381,1886650,1945650,1765435
+ "34007","Camden, NJ",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",728523,711217,697889,669486,710526,713612
+ "34007","Camden, NJ",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",552771,560956,544304,529438,553259,598075
+ "34007","Camden, NJ",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",4892534,4644282,4675289,4793869,5105675,(D)
+ "34007","Camden, NJ",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",766234,737496,751061,906769,1006756,917741
+ "34007","Camden, NJ",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",4126300,3906571,3923700,3883667,4094602,(D)
+ "34007","Camden, NJ",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",3591051,3700932,3884093,3870813,4205651,4336439
+ "34007","Camden, NJ",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",1774620,1773888,1772774,1741670,1896567,1980361
+ "34007","Camden, NJ",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",665589,761720,923817,997654,1054038,1034445
+ "34007","Camden, NJ",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1150842,1166440,1194598,1145421,1266477,1325620
+ "34007","Camden, NJ",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",3742266,3796326,3903495,3656656,3842396,4104966
+ "34007","Camden, NJ",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",283593,250955,281343,249453,284269,311734
+ "34007","Camden, NJ",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",3458673,3545565,3622027,3407358,3557802,3792735
+ "34007","Camden, NJ",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",1267690,1309994,1258041,740366,892646,1159440
+ "34007","Camden, NJ",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",719769,761635,688247,338169,331672,569764
+ "34007","Camden, NJ",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",547921,548496,568919,399058,551842,594642
+ "34007","Camden, NJ",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",591816,622705,622148,527853,607250,629148
+ "34007","Camden, NJ",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",3289604,3290302,3290385,3126634,3120536,3175911
+ "34007","Camden, NJ",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",27820,23024,27738,22132,18934,(D)
+ "34007","Camden, NJ",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",3162092,3270267,3443728,3299835,3327133,3132365
+ "34007","Camden, NJ",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",818026,803265,785356,771956,799851,(D)
+ "34007","Camden, NJ",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",2382547,2735770,2563807,2367061,2555887,2593895
+ "34007","Camden, NJ",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",2835802,3215382,3045375,2849117,3053396,(D)
+ "34007","Camden, NJ",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",18618246,18706215,19110925,18175037,19307758,(D)
+ "34009","Cape May, NJ",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",5398534,5417247,5335222,5221427,5557387,5466023
+ "34009","Cape May, NJ",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",4480799,4485174,4385788,4309963,4639875,4546112
+ "34009","Cape May, NJ",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),56304,59403
+ "34009","Cape May, NJ",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",(D),6183,7153,6175,(D),(D)
+ "34009","Cape May, NJ",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),(D),18869,14650,11838
+ "34009","Cape May, NJ",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",319596,323802,335360,325159,347244,318638
+ "34009","Cape May, NJ",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",90359,134509,(D),(D),(D),(D)
+ "34009","Cape May, NJ",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",17068,(D),(D),(D),(D),(D)
+ "34009","Cape May, NJ",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",73291,(D),134065,114038,97347,(D)
+ "34009","Cape May, NJ",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",97005,97451,99603,99003,98564,96980
+ "34009","Cape May, NJ",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",438858,455174,478147,448654,450205,413111
+ "34009","Cape May, NJ",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",22676,24768,24955,(D),(D),(D)
+ "34009","Cape May, NJ",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",40098,43226,44888,45354,51908,56965
+ "34009","Cape May, NJ",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",2033067,1956440,1738589,1964537,1912685,1849779
+ "34009","Cape May, NJ",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",101385,93965,98719,113053,122164,121765
+ "34009","Cape May, NJ",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1931681,1862554,1639498,1851045,1790003,1727429
+ "34009","Cape May, NJ",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",281796,(D),288255,(D),(D),(D)
+ "34009","Cape May, NJ",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",150284,152805,163973,(D),(D),193457
+ "34009","Cape May, NJ",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",12202,(D),15114,(D),(D),20360
+ "34009","Cape May, NJ",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",119310,117888,109387,103108,120387,(D)
+ "34009","Cape May, NJ",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",317584,311577,326088,298847,318663,322799
+ "34009","Cape May, NJ",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",6601,7268,8316,6899,8167,8914
+ "34009","Cape May, NJ",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",310983,304305,317757,291948,310479,313856
+ "34009","Cape May, NJ",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",639771,648310,689644,511268,804916,840643
+ "34009","Cape May, NJ",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",137249,133827,127955,95415,186340,219833
+ "34009","Cape May, NJ",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",502522,514468,561613,415771,617021,619322
+ "34009","Cape May, NJ",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",111891,113696,111306,93669,108234,113948
+ "34009","Cape May, NJ",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",917735,932044,949320,911639,918727,921331
+ "34009","Cape May, NJ",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "34009","Cape May, NJ",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",535862,552589,577605,547676,548801,509968
+ "34009","Cape May, NJ",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "34009","Cape May, NJ",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",130458,178435,(D),(D),(D),(D)
+ "34009","Cape May, NJ",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),483784
+ "34009","Cape May, NJ",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),4061889
+ "34011","Cumberland, NJ",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",6267992,6439811,6441352,6183632,6426886,6475732
+ "34011","Cumberland, NJ",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",5038658,5209918,5206779,5011631,5289536,5320384
+ "34011","Cumberland, NJ",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",209075,245185,242518,251873,239091,202756
+ "34011","Cumberland, NJ",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",42254,35210,44005,41353,41268,34333
+ "34011","Cumberland, NJ",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",60689,60283,(D),50020,48112,46481
+ "34011","Cumberland, NJ",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",275712,285635,283148,299088,310464,292325
+ "34011","Cumberland, NJ",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",963578,1042719,1015363,937142,994882,984089
+ "34011","Cumberland, NJ",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",483026,556574,535304,469025,499518,490879
+ "34011","Cumberland, NJ",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",480552,485715,479800,468485,495707,493777
+ "34011","Cumberland, NJ",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",471925,485185,445771,453607,454099,470151
+ "34011","Cumberland, NJ",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",501901,503335,528786,514555,522350,480474
+ "34011","Cumberland, NJ",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),193875,186879,203418,218430
+ "34011","Cumberland, NJ",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",134973,160045,158708,154864,180161,198537
+ "34011","Cumberland, NJ",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",900986,906660,907950,875718,943940,990954
+ "34011","Cumberland, NJ",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",91572,85287,86019,85938,87404,91950
+ "34011","Cumberland, NJ",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",809415,821521,822060,789859,856678,899150
+ "34011","Cumberland, NJ",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),(D),(D),278805,(D),(D)
+ "34011","Cumberland, NJ",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),112989
+ "34011","Cumberland, NJ",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",49318,20839,(D),(D),19352,(D)
+ "34011","Cumberland, NJ",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",116636,132267,142643,164010,191195,191093
+ "34011","Cumberland, NJ",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",783984,806371,828495,774536,799861,849529
+ "34011","Cumberland, NJ",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",29990,32178,31918,25122,25324,25803
+ "34011","Cumberland, NJ",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",753994,774187,796585,749503,774641,823855
+ "34011","Cumberland, NJ",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",127207,131463,138527,97021,(D),(D)
+ "34011","Cumberland, NJ",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",20665,25164,24024,14427,(D),(D)
+ "34011","Cumberland, NJ",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",106542,106323,114483,82521,116840,120725
+ "34011","Cumberland, NJ",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",114997,114539,113462,100698,108393,114199
+ "34011","Cumberland, NJ",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1229335,1230128,1234751,1172504,1139799,1158079
+ "34011","Cumberland, NJ",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",251330,279986,286749,293086,280293,237043
+ "34011","Cumberland, NJ",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",973826,988604,973137,967110,975454,948850
+ "34011","Cumberland, NJ",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),236940,251453,264610
+ "34011","Cumberland, NJ",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",1098550,1202610,1173817,1091222,1172660,1177278
+ "34011","Cumberland, NJ",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1490619,1608098,1584574,1528335,1584131,1505099
+ "34011","Cumberland, NJ",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",3548038,3602270,3622296,3483438,3705319,3817119
+ "34013","Essex, NJ",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",53055236,54629497,55753535,51267523,54972907,58576369
+ "34013","Essex, NJ",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",44994576,46511519,47539699,43425258,47214215,50578924
+ "34013","Essex, NJ",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",5569,(D),3139,1489,475,3523
+ "34013","Essex, NJ",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",2307,(D),3471,2307,2854,2444
+ "34013","Essex, NJ",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",773871,905737,868254,1224068,1074275,904168
+ "34013","Essex, NJ",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",1449160,1445394,1541171,1481442,1475393,1282321
+ "34013","Essex, NJ",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",2136448,2177636,2136637,2187912,2151010,2144654
+ "34013","Essex, NJ",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",856288,853286,819932,742685,779432,779062
+ "34013","Essex, NJ",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",1280160,1324352,1316855,1447379,1374287,1368310
+ "34013","Essex, NJ",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",2974116,2883804,3008416,2864953,2806329,2709395
+ "34013","Essex, NJ",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1994599,2059349,2167870,2045158,1874113,1657229
+ "34013","Essex, NJ",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",6737763,6840326,6923186,3335649,5680924,7669218
+ "34013","Essex, NJ",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",1819809,1946367,2009907,2055331,2478688,3020469
+ "34013","Essex, NJ",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",12337476,12752587,12502065,12933763,13492067,14125816
+ "34013","Essex, NJ",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",4905282,5069899,4917620,5392613,5477558,5397157
+ "34013","Essex, NJ",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",7432193,7682736,7584861,7541604,8014816,8722789
+ "34013","Essex, NJ",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",7149362,7576527,8281010,8356964,9043420,9621027
+ "34013","Essex, NJ",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",4184223,4527300,4915853,5107021,5663511,5925525
+ "34013","Essex, NJ",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",1489997,1635720,1795532,1972878,1885328,2066365
+ "34013","Essex, NJ",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1475142,1414525,1570815,1296534,1487146,1626835
+ "34013","Essex, NJ",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",5025251,5241029,5379950,4836056,4893511,5194453
+ "34013","Essex, NJ",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",796130,821678,834955,744372,782432,824025
+ "34013","Essex, NJ",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",4229121,4419396,4545160,4091952,4110710,4370163
+ "34013","Essex, NJ",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",1480094,1533017,1577464,1021789,1406786,1688552
+ "34013","Essex, NJ",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",420759,466410,443222,284928,388994,473749
+ "34013","Essex, NJ",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",1059335,1066813,1133723,736471,1017109,1214608
+ "34013","Essex, NJ",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",1108753,1142453,1153823,980502,1012635,1065036
+ "34013","Essex, NJ",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",8060660,8119276,8216066,7835521,7782065,8030539
+ "34013","Essex, NJ",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",7875,8642,6692,3856,3465,5679
+ "34013","Essex, NJ",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",4968715,4942135,5174696,4908975,4677860,4361581
+ "34013","Essex, NJ",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",7511634,7748365,7792818,4596938,6695009,8388994
+ "34013","Essex, NJ",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",3956257,4123205,4143348,4240052,4603054,5090905
+ "34013","Essex, NJ",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",3593483,3631454,3687125,3672352,3629833,3421383
+ "34013","Essex, NJ",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",41401093,42880108,43852699,39749482,43585845,47179512
+ "34015","Gloucester, NJ",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",13431268,14506982,15095492,13751454,14225585,13972860
+ "34015","Gloucester, NJ",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",11630815,12693149,13268768,12017499,12477710,12196341
+ "34015","Gloucester, NJ",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",97999,98263,122618,121311,106520,54712
+ "34015","Gloucester, NJ",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",6209,3740,3956,2207,2660,(D)
+ "34015","Gloucester, NJ",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),521259,619587,456870,357236,308111
+ "34015","Gloucester, NJ",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",760035,762091,723880,706967,693763,631303
+ "34015","Gloucester, NJ",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",1470249,2238672,2658028,1862857,1594990,1277538
+ "34015","Gloucester, NJ",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",538876,571209,575559,501030,470149,482498
+ "34015","Gloucester, NJ",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",931373,1646296,2046881,1324373,1088605,792917
+ "34015","Gloucester, NJ",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1598252,1653232,1629012,1610012,1620900,1597815
+ "34015","Gloucester, NJ",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1398833,1457685,1513585,1411861,1528366,1386596
+ "34015","Gloucester, NJ",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",380858,419482,533083,598291,665167,748262
+ "34015","Gloucester, NJ",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",197894,217857,238549,244807,323834,338918
+ "34015","Gloucester, NJ",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",2449530,2545533,2373510,2366387,2586254,(D)
+ "34015","Gloucester, NJ",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",187292,178899,186604,206808,229027,238525
+ "34015","Gloucester, NJ",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",2262238,2367028,2186453,2158598,2356095,(D)
+ "34015","Gloucester, NJ",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),959509,925125,872027,984789,(D)
+ "34015","Gloucester, NJ",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),396340,(D),460786,509502
+ "34015","Gloucester, NJ",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),53829,(D),52760,(D)
+ "34015","Gloucester, NJ",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",445884,472996,475120,434352,472031,492531
+ "34015","Gloucester, NJ",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",980623,1020299,1110939,1061141,1126361,1209724
+ "34015","Gloucester, NJ",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",50534,53768,56662,46924,44377,48401
+ "34015","Gloucester, NJ",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",930089,966526,1054294,1014344,1082212,1161557
+ "34015","Gloucester, NJ",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",426997,441718,441643,304864,425698,460406
+ "34015","Gloucester, NJ",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",93854,103781,85942,46022,63829,76676
+ "34015","Gloucester, NJ",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",333143,337961,355559,258541,361435,383749
+ "34015","Gloucester, NJ",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",310873,314629,317376,269928,295673,311169
+ "34015","Gloucester, NJ",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1800453,1813299,1825902,1730130,1746469,1777886
+ "34015","Gloucester, NJ",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",104207,101760,126220,123367,108932,(D)
+ "34015","Gloucester, NJ",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",2997085,3110839,3140628,3021427,3149931,2983262
+ "34015","Gloucester, NJ",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),940916,1152988,1057067,1022350,1053172
+ "34015","Gloucester, NJ",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",1668143,2462372,2905631,2119731,1930920,1605676
+ "34015","Gloucester, NJ",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",2334491,3118880,3531096,2743444,2452815,(D)
+ "34015","Gloucester, NJ",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",9296324,9550161,9699881,9192055,9898198,(D)
+ "34017","Hudson, NJ",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",45389568,47217581,47837910,45246499,47899086,50743664
+ "34017","Hudson, NJ",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",40950251,42806328,43459480,41083494,43701897,46460571
+ "34017","Hudson, NJ",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),432,459
+ "34017","Hudson, NJ",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",11000,14168,16471,12558,(D),(D)
+ "34017","Hudson, NJ",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "34017","Hudson, NJ",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",793376,780194,898847,946572,830963,694497
+ "34017","Hudson, NJ",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",1047017,1213592,1284839,1165756,1408134,1366396
+ "34017","Hudson, NJ",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",310711,373765,396833,326741,547995,569185
+ "34017","Hudson, NJ",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",736306,839924,887989,842456,853086,791926
+ "34017","Hudson, NJ",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "34017","Hudson, NJ",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",2638993,2752638,2914347,2865708,2422997,2150461
+ "34017","Hudson, NJ",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",2740751,2723552,2748458,2588062,2801620,2822191
+ "34017","Hudson, NJ",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",3214425,3771869,4152568,3640906,4114701,4471901
+ "34017","Hudson, NJ",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",16019078,16088891,15427254,15135018,16488470,18216862
+ "34017","Hudson, NJ",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",8904253,8587801,8004370,7984425,9019285,9902826
+ "34017","Hudson, NJ",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",7114825,7509118,7439397,7162254,7461926,8310268
+ "34017","Hudson, NJ",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",6609938,7186874,7726348,7357367,7961429,8777252
+ "34017","Hudson, NJ",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",3345929,3661965,4016200,4087818,3974998,4446533
+ "34017","Hudson, NJ",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",548925,823723,847335,851769,1053521,1258631
+ "34017","Hudson, NJ",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",2715084,2704606,2867141,2440623,2936938,3099285
+ "34017","Hudson, NJ",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",2472098,2685680,2880598,2637539,2786186,2955796
+ "34017","Hudson, NJ",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",389796,398423,440532,403126,420631,475782
+ "34017","Hudson, NJ",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",2082302,2287399,2440011,2234368,2365633,2479435
+ "34017","Hudson, NJ",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",1413121,1424895,1365807,892622,1217850,1392521
+ "34017","Hudson, NJ",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",522708,525326,400600,265617,307157,414077
+ "34017","Hudson, NJ",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",890413,899556,962983,625651,906348,979125
+ "34017","Hudson, NJ",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",700916,713047,729473,662452,715786,806880
+ "34017","Hudson, NJ",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",4439317,4411671,4379353,4163427,4203555,4290937
+ "34017","Hudson, NJ",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "34017","Hudson, NJ",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "34017","Hudson, NJ",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "34017","Hudson, NJ",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",4261442,4985327,5435097,4805309,5525496,5814748
+ "34017","Hudson, NJ",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "34017","Hudson, NJ",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "34019","Hunterdon, NJ",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",7714157,7522463,7693523,7301371,7564419,7633049
+ "34019","Hunterdon, NJ",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",6939139,6727430,6897975,6550269,6830606,6887257
+ "34019","Hunterdon, NJ",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",21321,29136,(D),(D),40740,31203
+ "34019","Hunterdon, NJ",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",16554,11306,54046,31872,(D),10790
+ "34019","Hunterdon, NJ",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",19855,19928,(D),(D),(D),31825
+ "34019","Hunterdon, NJ",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",514806,491016,503498,457358,459157,429726
+ "34019","Hunterdon, NJ",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",289367,314045,338185,349425,350397,330630
+ "34019","Hunterdon, NJ",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",179315,186488,199804,190324,191630,178493
+ "34019","Hunterdon, NJ",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",110052,127606,138453,159498,159162,152522
+ "34019","Hunterdon, NJ",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",491079,526887,576162,437204,396928,380954
+ "34019","Hunterdon, NJ",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",602961,576181,555980,525422,568445,540197
+ "34019","Hunterdon, NJ",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",58100,63834,66774,62362,69855,72184
+ "34019","Hunterdon, NJ",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",280208,303706,311690,309951,367516,397021
+ "34019","Hunterdon, NJ",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",2334230,2119523,2040545,2141941,2219735,2313573
+ "34019","Hunterdon, NJ",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",1003890,917822,809580,919704,993878,1077838
+ "34019","Hunterdon, NJ",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1330340,1201647,1230848,1222884,1227208,1238499
+ "34019","Hunterdon, NJ",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",1309311,1238441,1300398,1285312,1357452,1392402
+ "34019","Hunterdon, NJ",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",846075,855058,905028,903037,968712,1006520
+ "34019","Hunterdon, NJ",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",271891,193549,210310,214232,194034,175238
+ "34019","Hunterdon, NJ",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",191345,189011,184676,168553,191781,204595
+ "34019","Hunterdon, NJ",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",613460,621403,632964,568406,598697,614157
+ "34019","Hunterdon, NJ",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",59838,44123,46381,38512,43913,48295
+ "34019","Hunterdon, NJ",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",553623,577374,586656,530029,554842,565845
+ "34019","Hunterdon, NJ",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",202049,217670,241995,146967,189789,193901
+ "34019","Hunterdon, NJ",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",63530,72599,74596,41330,54605,55686
+ "34019","Hunterdon, NJ",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",138519,145080,167376,105607,135164,138190
+ "34019","Hunterdon, NJ",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",185836,195818,194240,166903,168279,176749
+ "34019","Hunterdon, NJ",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",775019,794822,795540,751218,735777,747687
+ "34019","Hunterdon, NJ",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",37875,39885,(D),(D),(D),43593
+ "34019","Hunterdon, NJ",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",1094040,1103501,1134222,962636,966203,921880
+ "34019","Hunterdon, NJ",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",77955,83760,(D),(D),(D),103785
+ "34019","Hunterdon, NJ",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",569574,617756,650253,660164,715765,720904
+ "34019","Hunterdon, NJ",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",842048,844757,(D),(D),(D),806787
+ "34019","Hunterdon, NJ",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",6097090,5882580,(D),(D),(D),6084001
+ "34021","Mercer, NJ",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",32454071,33563841,37149619,37990291,40960366,42923608
+ "34021","Mercer, NJ",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",28065588,29126813,32694034,33780231,36847197,38741382
+ "34021","Mercer, NJ",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",5739,3585,16760,11497,11234,11363
+ "34021","Mercer, NJ",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",9026,5549,19178,7765,3412,2875
+ "34021","Mercer, NJ",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",118828,112691,116880,157023,143080,134049
+ "34021","Mercer, NJ",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",706097,681649,663337,687977,782744,697431
+ "34021","Mercer, NJ",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",2602633,2806117,5525864,6833444,8088705,8833868
+ "34021","Mercer, NJ",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",488591,517072,522171,461346,499738,509592
+ "34021","Mercer, NJ",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",2114041,2288921,4997134,6366505,7580640,8311798
+ "34021","Mercer, NJ",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1974084,2037104,2322917,2438937,2718922,2575117
+ "34021","Mercer, NJ",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1409536,1416946,1406345,1364340,1446132,1314841
+ "34021","Mercer, NJ",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",745325,766254,767137,778584,804138,814472
+ "34021","Mercer, NJ",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",1511228,1649825,1549083,1542707,1828108,1965145
+ "34021","Mercer, NJ",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",6494587,6640690,6891327,7079342,7052206,7531219
+ "34021","Mercer, NJ",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",2687630,2865612,3028824,3145939,3082774,3293684
+ "34021","Mercer, NJ",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",3806957,3773038,3859165,3929253,3967632,4235343
+ "34021","Mercer, NJ",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",6801625,7235021,7531073,7642255,8478207,9148215
+ "34021","Mercer, NJ",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",4812727,4976807,4977826,5121869,5763286,6324008
+ "34021","Mercer, NJ",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",995536,1109367,1301212,1339604,1417120,1330433
+ "34021","Mercer, NJ",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",993361,1148956,1255722,1188891,1302855,1475865
+ "34021","Mercer, NJ",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",4375497,4448881,4556496,4277628,4427777,4661262
+ "34021","Mercer, NJ",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",2223533,2272247,2280723,2076346,2144943,2263105
+ "34021","Mercer, NJ",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",2151964,2176572,2276371,2203087,2284792,2400121
+ "34021","Mercer, NJ",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",708020,724312,708791,454769,597860,672580
+ "34021","Mercer, NJ",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",186121,195736,176570,100106,128103,142412
+ "34021","Mercer, NJ",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",521899,528599,532051,354352,469243,529471
+ "34021","Mercer, NJ",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",603363,603035,634415,558297,578802,601039
+ "34021","Mercer, NJ",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",4388483,4437630,4463036,4230300,4154376,4228077
+ "34021","Mercer, NJ",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",14765,9129,35745,20035,15885,15361
+ "34021","Mercer, NJ",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",3383620,3454348,3735252,3811698,4173317,3896639
+ "34021","Mercer, NJ",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",864152,878904,884017,935867,946622,947019
+ "34021","Mercer, NJ",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",4113861,4455703,7119601,8442436,9995110,10889342
+ "34021","Mercer, NJ",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",3323495,3496071,6203513,7510529,8849514,9496989
+ "34021","Mercer, NJ",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",24742093,25630717,26494246,26293422,28023520,29261367
+ "34023","Middlesex, NJ",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",61348124,63337034,63259457,61809078,66328634,67931037
+ "34023","Middlesex, NJ",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",55388320,57333665,57204288,56024610,60579387,62018554
+ "34023","Middlesex, NJ",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",6437,10739,29612,25379,25216,10619
+ "34023","Middlesex, NJ",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",1448,6570,12941,13063,18097,18023
+ "34023","Middlesex, NJ",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1247618,1304258,1482145,1585556,1522949,1250776
+ "34023","Middlesex, NJ",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",1849196,1870979,1871107,1796656,1900391,1762519
+ "34023","Middlesex, NJ",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",5376886,5919865,5478462,5426210,5578706,5616695
+ "34023","Middlesex, NJ",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",1556367,1816630,1760065,1633627,1854826,1806286
+ "34023","Middlesex, NJ",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",3820519,4103963,3719647,3795846,3730037,3812074
+ "34023","Middlesex, NJ",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",6604980,6649020,6735089,6582057,6377290,6131974
+ "34023","Middlesex, NJ",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",3601793,3450635,3433224,3252186,3433789,3091879
+ "34023","Middlesex, NJ",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",3372144,3664646,3608795,3582348,3828245,3645525
+ "34023","Middlesex, NJ",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",3156246,3199784,3363205,3536670,4405162,4658165
+ "34023","Middlesex, NJ",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",11303082,11157679,10975259,10686192,11650802,12312905
+ "34023","Middlesex, NJ",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",2631732,2509140,2151389,2154018,2262800,2395479
+ "34023","Middlesex, NJ",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",8671350,8650166,8833757,8540845,9398869,9928814
+ "34023","Middlesex, NJ",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",12072003,13109674,13100363,13141706,14869497,16496189
+ "34023","Middlesex, NJ",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",7145276,7745568,7843381,7974220,9143484,10038507
+ "34023","Middlesex, NJ",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",2221337,2572849,2371172,2366659,2360911,2942432
+ "34023","Middlesex, NJ",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",2705390,2793363,2881572,2801860,3337696,3523623
+ "34023","Middlesex, NJ",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",4341273,4476034,4598406,4418368,4734708,4965979
+ "34023","Middlesex, NJ",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",328742,319565,318496,283590,300933,322347
+ "34023","Middlesex, NJ",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",4012532,4156572,4280154,4135458,4434573,4644333
+ "34023","Middlesex, NJ",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",1174727,1175461,1194871,850631,1160237,1294514
+ "34023","Middlesex, NJ",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",245451,249758,237541,149548,207602,257861
+ "34023","Middlesex, NJ",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",929276,925714,957233,701020,952584,1037782
+ "34023","Middlesex, NJ",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",1280488,1344908,1332497,1195901,1304724,1390684
+ "34023","Middlesex, NJ",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",5959804,6004355,6055254,5789507,5777242,5940940
+ "34023","Middlesex, NJ",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",7885,17400,42545,38568,43556,28090
+ "34023","Middlesex, NJ",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",10206772,10101192,10171730,9839797,9820397,9228661
+ "34023","Middlesex, NJ",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",4619761,4969007,5090171,5165750,5347818,4888989
+ "34023","Middlesex, NJ",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",8533132,9123361,8833128,8948351,9925851,10191378
+ "34023","Middlesex, NJ",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",7233967,7807439,7393559,7259750,7523966,7395986
+ "34023","Middlesex, NJ",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",48154353,49525206,49811238,48765529,53055313,54632070
+ "34025","Monmouth, NJ",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",35467851,36546894,37066082,36197778,38647190,39884507
+ "34025","Monmouth, NJ",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",31833470,32903271,33415379,32755782,35241712,36449624
+ "34025","Monmouth, NJ",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",41195,44656,74800,64735,55778,61892
+ "34025","Monmouth, NJ",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",496,2176,3796,2317,3264,3747
+ "34025","Monmouth, NJ",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",225250,240839,260933,297618,272830,249158
+ "34025","Monmouth, NJ",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",2179184,2094681,2113442,1998870,2118650,1970637
+ "34025","Monmouth, NJ",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",1207061,1314676,1384401,1301726,1220399,1218797
+ "34025","Monmouth, NJ",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",618042,690481,676313,631818,646011,666105
+ "34025","Monmouth, NJ",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",589019,624406,707015,669088,573419,555647
+ "34025","Monmouth, NJ",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1714105,1718859,1752988,1761008,1681711,1624767
+ "34025","Monmouth, NJ",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",2822623,2927712,3106731,2949877,3025651,2731052
+ "34025","Monmouth, NJ",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",465657,503571,496782,496329,542249,546039
+ "34025","Monmouth, NJ",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",2109903,2440642,2376667,2382355,2810980,3045710
+ "34025","Monmouth, NJ",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",9055357,9086118,8872312,9204887,9600296,10183280
+ "34025","Monmouth, NJ",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",1676896,1723084,1682118,1829178,1986659,2040480
+ "34025","Monmouth, NJ",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",7378462,7362347,7189545,7373740,7609289,8140288
+ "34025","Monmouth, NJ",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",5057691,5321494,5529499,5630950,6373934,6833006
+ "34025","Monmouth, NJ",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",3441580,3580429,3688193,3733096,4212335,4579191
+ "34025","Monmouth, NJ",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",414806,501657,553629,621484,709326,752521
+ "34025","Monmouth, NJ",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1201306,1240212,1289638,1282991,1459877,1512488
+ "34025","Monmouth, NJ",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",4469368,4680541,4893736,4776040,5198386,5580999
+ "34025","Monmouth, NJ",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",498219,506194,516329,456818,475756,496713
+ "34025","Monmouth, NJ",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",3971149,4174439,4377715,4320606,4724694,5086860
+ "34025","Monmouth, NJ",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",1536410,1567504,1581154,1104365,1471850,1635405
+ "34025","Monmouth, NJ",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",485888,507676,493111,317834,441882,510092
+ "34025","Monmouth, NJ",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",1050522,1059861,1087938,786279,1029999,1126373
+ "34025","Monmouth, NJ",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",949168,968646,985090,821868,952939,998838
+ "34025","Monmouth, NJ",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",3634381,3644239,3651896,3446558,3420138,3451313
+ "34025","Monmouth, NJ",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",41691,46827,78587,67064,58817,65349
+ "34025","Monmouth, NJ",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",4536729,4646069,4857117,4710433,4708447,4354855
+ "34025","Monmouth, NJ",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",690907,744410,757632,793540,814431,794203
+ "34025","Monmouth, NJ",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",3316964,3754470,3763239,3684647,4018520,4234340
+ "34025","Monmouth, NJ",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",3427935,3455344,3572426,3365047,3404829,3258665
+ "34025","Monmouth, NJ",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",28405535,29448185,29842418,29391004,31837910,33209580
+ "34027","Morris, NJ",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",53752092,55584137,55919858,54816037,57825665,60488017
+ "34027","Morris, NJ",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",50069141,51940324,52228671,51215281,54226140,56895028
+ "34027","Morris, NJ",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",16931,10534,28847,19916,12581,18791
+ "34027","Morris, NJ",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",2667,2524,4019,2980,25006,21120
+ "34027","Morris, NJ",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",114211,138511,122960,195624,146649,126889
+ "34027","Morris, NJ",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",1604307,1493621,1587050,1457429,1634268,1538271
+ "34027","Morris, NJ",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",5223603,6190751,5910754,5520521,5768302,5664312
+ "34027","Morris, NJ",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",2005586,2360618,2366613,2137579,2330299,2436526
+ "34027","Morris, NJ",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",3218017,3829444,3545529,3389755,3445088,3253381
+ "34027","Morris, NJ",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",4062394,3959353,4174034,4072741,3842731,3702424
+ "34027","Morris, NJ",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",2846559,2869983,2819383,2996496,3026477,2754754
+ "34027","Morris, NJ",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",840516,851944,826054,791171,859145,884797
+ "34027","Morris, NJ",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",2003157,2063147,1946620,1952930,2294253,2527499
+ "34027","Morris, NJ",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",11452260,11539364,11319917,11426211,12780392,14062994
+ "34027","Morris, NJ",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",3830056,3759881,3967591,4358232,4919473,5246165
+ "34027","Morris, NJ",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",7622204,7781321,7348786,7058649,7849140,8807015
+ "34027","Morris, NJ",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",14636956,15244806,16131032,16577277,17034383,18468472
+ "34027","Morris, NJ",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",8425558,9174605,9405566,9968963,10735318,11891993
+ "34027","Morris, NJ",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",3626336,3281677,3952007,4216840,3632065,3805095
+ "34027","Morris, NJ",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",2585063,2782602,2786167,2425851,2639214,2737025
+ "34027","Morris, NJ",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",4178236,4252800,4447846,4119899,4357742,4637648
+ "34027","Morris, NJ",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",587039,560339,589170,523963,559911,576683
+ "34027","Morris, NJ",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",3591197,3692672,3858850,3596556,3798347,4061929
+ "34027","Morris, NJ",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",2189994,2404004,2030474,1377803,1705158,1905612
+ "34027","Morris, NJ",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",656980,718294,692645,499414,579995,698731
+ "34027","Morris, NJ",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",1533014,1685683,1339617,879663,1126570,1211468
+ "34027","Morris, NJ",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",897348,919876,898487,757095,798600,852788
+ "34027","Morris, NJ",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",3682951,3644873,3691845,3602118,3610382,3609863
+ "34027","Morris, NJ",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",19598,13050,32906,22920,34502,38071
+ "34027","Morris, NJ",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",6908954,6828572,6998124,7069142,6871396,6456632
+ "34027","Morris, NJ",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",954727,990480,949065,985397,1005136,1010933
+ "34027","Morris, NJ",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",7226760,8259650,7863796,7476601,8052298,8143313
+ "34027","Morris, NJ",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",6847509,7696945,7533243,7001393,7446620,7246770
+ "34027","Morris, NJ",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",43221632,44240276,44693484,44202854,46769099,49665233
+ "34029","Ocean, NJ",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",22182030,21781186,22148559,22069015,22846494,23794530
+ "34029","Ocean, NJ",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",19233331,18803170,19142691,19155640,19939735,20874489
+ "34029","Ocean, NJ",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",51970,56894,62316,55858,47766,54180
+ "34029","Ocean, NJ",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",27031,21880,29001,28483,32231,24553
+ "34029","Ocean, NJ",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",785585,572239,174356,169104,166249,146367
+ "34029","Ocean, NJ",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",1296592,1331744,1379639,1282489,1367014,1237817
+ "34029","Ocean, NJ",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",588334,685819,710115,761640,734848,730829
+ "34029","Ocean, NJ",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",250711,(D),(D),243457,280022,287581
+ "34029","Ocean, NJ",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",337623,(D),(D),519974,456590,445570
+ "34029","Ocean, NJ",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",517735,557706,586396,620928,600572,604731
+ "34029","Ocean, NJ",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",2062129,2177355,2298012,2179616,2207224,2019456
+ "34029","Ocean, NJ",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",289896,293558,299538,288460,323909,321558
+ "34029","Ocean, NJ",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",281066,272210,255752,241543,291469,310888
+ "34029","Ocean, NJ",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",7093617,6502797,6691360,7400688,7069703,7795856
+ "34029","Ocean, NJ",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",502451,493710,505490,611565,639900,619658
+ "34029","Ocean, NJ",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",6591166,6008324,6185184,6787318,6427236,7177071
+ "34029","Ocean, NJ",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",1891431,1871534,2008417,1890048,2274617,2477196
+ "34029","Ocean, NJ",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",1078468,1106420,1226246,1182380,1452658,1586552
+ "34029","Ocean, NJ",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",38412,40888,46941,43649,46195,67715
+ "34029","Ocean, NJ",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",774551,724327,735910,665267,777583,827993
+ "34029","Ocean, NJ",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",2808094,2902417,3034911,2953926,3198084,3474912
+ "34029","Ocean, NJ",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",308907,330490,360005,334173,381434,415559
+ "34029","Ocean, NJ",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",2499186,2571866,2674640,2619800,2816292,3058941
+ "34029","Ocean, NJ",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",923518,911340,951494,710876,1010988,1111930
+ "34029","Ocean, NJ",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",317108,325041,301393,199219,320322,379790
+ "34029","Ocean, NJ",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",606410,586303,650116,511870,690937,733257
+ "34029","Ocean, NJ",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",616332,650212,672516,583141,636156,664768
+ "34029","Ocean, NJ",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",2948699,2977636,3005643,2914351,2909666,2922341
+ "34029","Ocean, NJ",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",79001,78658,91362,84478,80528,78600
+ "34029","Ocean, NJ",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",2579864,2735182,2884453,2802338,2810024,2625030
+ "34029","Ocean, NJ",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",1075482,865845,474921,458542,491224,468713
+ "34029","Ocean, NJ",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",869400,958641,967267,1005759,1025050,1037705
+ "34029","Ocean, NJ",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1963927,2095838,2180379,2123311,2180609,2042301
+ "34029","Ocean, NJ",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",17269404,16707068,16961683,17031966,17758744,18841209
+ "34031","Passaic, NJ",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",21355030,22126864,22228330,20440349,21466037,21669571
+ "34031","Passaic, NJ",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",18258075,19006660,19123211,17524792,18568423,18763146
+ "34031","Passaic, NJ",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),5279,5811
+ "34031","Passaic, NJ",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",46742,41382,60546,69545,(D),(D)
+ "34031","Passaic, NJ",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",113067,120577,117424,141185,119504,103273
+ "34031","Passaic, NJ",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",1099325,1060457,1105472,1030733,988774,904133
+ "34031","Passaic, NJ",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",2770173,3442793,3486163,3099752,3129260,2990438
+ "34031","Passaic, NJ",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",1141359,1250635,1194001,1120146,1215692,1237271
+ "34031","Passaic, NJ",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",1628814,2186317,2283035,1967809,1898294,1746526
+ "34031","Passaic, NJ",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1488176,1516021,1532560,1439751,1380061,1294809
+ "34031","Passaic, NJ",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1892058,1972212,2038910,1924305,1878465,1661938
+ "34031","Passaic, NJ",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "34031","Passaic, NJ",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",277061,283532,283209,256734,324025,343857
+ "34031","Passaic, NJ",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",4318105,4290784,4266462,3918391,4429243,(D)
+ "34031","Passaic, NJ",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",606236,560071,532154,620409,690317,681471
+ "34031","Passaic, NJ",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",3711869,3731806,3736475,3296421,3737406,(D)
+ "34031","Passaic, NJ",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",2345087,2305986,2143345,2077658,2390718,2559856
+ "34031","Passaic, NJ",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",1109305,1198191,1157782,1085033,1140885,1246299
+ "34031","Passaic, NJ",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",527797,418722,290373,301515,378904,349334
+ "34031","Passaic, NJ",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",707985,688305,690443,686650,862420,948020
+ "34031","Passaic, NJ",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",2353907,2365732,2448241,2251803,2301703,2420516
+ "34031","Passaic, NJ",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",220949,226546,227050,200111,208417,216728
+ "34031","Passaic, NJ",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",2132958,2139162,2221269,2051928,2093444,2204002
+ "34031","Passaic, NJ",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",492702,502937,532140,371213,523085,571946
+ "34031","Passaic, NJ",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",106057,114205,104766,57416,83520,100219
+ "34031","Passaic, NJ",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",386645,388746,427290,313580,439326,471942
+ "34031","Passaic, NJ",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",599056,611372,609003,503547,533890,571109
+ "34031","Passaic, NJ",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",3096955,3120501,3105630,2913952,2903034,2912224
+ "34031","Passaic, NJ",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "34031","Passaic, NJ",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",3380234,3487964,3570287,3362814,3257610,2954693
+ "34031","Passaic, NJ",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "34031","Passaic, NJ",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",3047234,3728246,3771572,3358303,3453194,3328668
+ "34031","Passaic, NJ",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "34031","Passaic, NJ",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "34033","Salem, NJ",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",5158294,5013706,5089933,5466909,5990899,5245517
+ "34033","Salem, NJ",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",4772867,4623918,4699340,5099102,5626346,4878578
+ "34033","Salem, NJ",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),69287,50521
+ "34033","Salem, NJ",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",(D),0,0,111,94,(D)
+ "34033","Salem, NJ",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",2924196,2807140,2747096,3291899,3769623,3038708
+ "34033","Salem, NJ",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",152716,156862,(D),(D),(D),(D)
+ "34033","Salem, NJ",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",345840,355459,294502,300790,(D),263008
+ "34033","Salem, NJ",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",67248,74510,(D),(D),(D),(D)
+ "34033","Salem, NJ",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",278592,280949,(D),(D),(D),(D)
+ "34033","Salem, NJ",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "34033","Salem, NJ",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",149166,153296,147793,141604,177185,159797
+ "34033","Salem, NJ",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",152770,162303,256369,195192,194534,243332
+ "34033","Salem, NJ",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",8741,9502,11465,11462,11716,12662
+ "34033","Salem, NJ",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",420093,370100,440055,376232,388597,411057
+ "34033","Salem, NJ",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",36296,34953,34718,36698,35352,31433
+ "34033","Salem, NJ",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",383796,335085,405465,339564,353278,379777
+ "34033","Salem, NJ",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),157615
+ "34033","Salem, NJ",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),95704,102854,105374
+ "34033","Salem, NJ",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),1478,(D),(D)
+ "34033","Salem, NJ",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),70156,57491,(D),56002,(D)
+ "34033","Salem, NJ",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",227808,223461,223265,216506,220333,210095
+ "34033","Salem, NJ",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",15599,14410,15126,14297,14227,17779
+ "34033","Salem, NJ",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",212209,209056,208134,202210,206113,192260
+ "34033","Salem, NJ",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",47883,50122,50195,39307,(D),(D)
+ "34033","Salem, NJ",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",10709,10534,9154,6165,(D),(D)
+ "34033","Salem, NJ",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",37175,39584,41017,33108,38680,41167
+ "34033","Salem, NJ",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",44904,46519,46232,42437,50159,70866
+ "34033","Salem, NJ",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",385427,389785,390591,369257,366420,373108
+ "34033","Salem, NJ",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),69402,(D)
+ "34033","Salem, NJ",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "34033","Salem, NJ",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",3076966,2969462,3003445,3486772,3964792,3276836
+ "34033","Salem, NJ",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",354581,364953,305811,312107,(D),275147
+ "34033","Salem, NJ",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),451702
+ "34033","Salem, NJ",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),4425312
+ "34035","Somerset, NJ",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",38605414,40415189,40722485,40231816,41717064,42879076
+ "34035","Somerset, NJ",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",36633729,38436436,38736114,38354258,39857100,41004600
+ "34035","Somerset, NJ",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",10396,13340,9066,4169,4553,10300
+ "34035","Somerset, NJ",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",109913,88777,125435,120004,121708,97850
+ "34035","Somerset, NJ",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",40919,113657,107391,54205,55059,49763
+ "34035","Somerset, NJ",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",981063,1009355,1018684,991340,1007049,915419
+ "34035","Somerset, NJ",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",6469766,7122631,6178373,6230552,5029732,4990988
+ "34035","Somerset, NJ",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",1321517,1544363,1393692,1200755,1185663,1174275
+ "34035","Somerset, NJ",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",5148248,5579259,4786057,5034762,3853452,3825785
+ "34035","Somerset, NJ",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",3932880,4237675,4316897,4455645,3849624,3533078
+ "34035","Somerset, NJ",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1969293,2191821,2342433,2131522,2514719,2281519
+ "34035","Somerset, NJ",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",476741,373251,412478,400822,565261,601563
+ "34035","Somerset, NJ",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",3329885,3618018,3882552,4484143,5488350,5904304
+ "34035","Somerset, NJ",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",6653305,6820088,6876582,6640635,7382015,7887468
+ "34035","Somerset, NJ",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",2035995,2142720,2103162,2096313,2079855,2179236
+ "34035","Somerset, NJ",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",4617310,4676574,4773407,4544008,5304692,5711127
+ "34035","Somerset, NJ",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",9378819,9517085,9965968,9968192,10790339,11770308
+ "34035","Somerset, NJ",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",4700344,4801937,4919370,4811625,5234251,6243493
+ "34035","Somerset, NJ",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",2878143,2979923,3351922,3620233,3911665,3902885
+ "34035","Somerset, NJ",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1800331,1736150,1703395,1562698,1673980,1656614
+ "34035","Somerset, NJ",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",2059540,2099103,2278532,2027824,2133332,2231863
+ "34035","Somerset, NJ",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",297866,307219,316651,278272,285736,267724
+ "34035","Somerset, NJ",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",1761674,1791863,1962108,1749825,1848038,1965275
+ "34035","Somerset, NJ",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",750029,738325,726209,516882,658051,712281
+ "34035","Somerset, NJ",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",202865,184413,173657,120562,163913,188979
+ "34035","Somerset, NJ",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",547165,553864,552446,396245,494096,523764
+ "34035","Somerset, NJ",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",471179,494888,512894,414161,442235,457761
+ "34035","Somerset, NJ",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1971685,1979502,1987285,1882285,1870079,1886550
+ "34035","Somerset, NJ",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",120309,101961,134974,125010,127066,107318
+ "34035","Somerset, NJ",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",5902173,6428865,6655372,6589364,6375546,5824370
+ "34035","Somerset, NJ",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",517661,486833,519904,455970,621751,652709
+ "34035","Somerset, NJ",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",9799651,10741233,10039663,10676188,10375306,10703387
+ "34035","Somerset, NJ",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",7571138,8233452,7336372,7348793,6179294,6021734
+ "34035","Somerset, NJ",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",29062591,30201747,31402826,31009069,33696868,35024600
+ "34037","Sussex, NJ",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",5084788,5103900,5107444,4818120,4995896,5026777
+ "34037","Sussex, NJ",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",4351266,4375900,4378969,4142349,4327669,4336816
+ "34037","Sussex, NJ",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",9968,14489,9673,6291,6109,12471
+ "34037","Sussex, NJ",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",30379,25613,35615,37223,19374,16589
+ "34037","Sussex, NJ",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",27029,29732,31599,34947,30374,27287
+ "34037","Sussex, NJ",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",338547,310974,311688,270288,281647,264482
+ "34037","Sussex, NJ",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",291888,341050,370289,354024,369188,365507
+ "34037","Sussex, NJ",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",222314,261158,(D),(D),(D),265767
+ "34037","Sussex, NJ",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",69575,79897,(D),(D),(D),99956
+ "34037","Sussex, NJ",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",151478,139337,137072,132199,128361,127427
+ "34037","Sussex, NJ",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",421883,434068,455450,413976,402162,361971
+ "34037","Sussex, NJ",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",91131,88928,89511,81770,93473,96398
+ "34037","Sussex, NJ",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",82774,66455,62103,67525,82448,91317
+ "34037","Sussex, NJ",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1494774,1489937,1401431,1413287,1416698,1442715
+ "34037","Sussex, NJ",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",148860,160597,152489,189109,211330,228558
+ "34037","Sussex, NJ",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1345914,1329164,1248761,1223975,1205278,1214169
+ "34037","Sussex, NJ",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",570657,591371,599694,588651,665312,661723
+ "34037","Sussex, NJ",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",265951,273685,278485,267519,308203,332210
+ "34037","Sussex, NJ",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",176857,189666,195682,207674,200833,199472
+ "34037","Sussex, NJ",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",127848,128113,125812,115075,153925,129323
+ "34037","Sussex, NJ",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",489469,483118,491337,450147,460724,491027
+ "34037","Sussex, NJ",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",34267,32204,32541,27550,30629,35175
+ "34037","Sussex, NJ",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",455202,450922,458806,422640,430099,455820
+ "34037","Sussex, NJ",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",199331,202650,228256,161723,236011,239558
+ "34037","Sussex, NJ",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",60025,63028,59526,41655,56325,59106
+ "34037","Sussex, NJ",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",139306,139627,168692,120044,179687,180508
+ "34037","Sussex, NJ",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",151958,158892,157189,135364,146575,158745
+ "34037","Sussex, NJ",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",733522,728047,728523,676083,669594,691214
+ "34037","Sussex, NJ",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",40347,39996,45558,43966,25464,27941
+ "34037","Sussex, NJ",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",573362,573239,592027,545916,530273,488910
+ "34037","Sussex, NJ",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",118160,118663,121113,116686,123641,123296
+ "34037","Sussex, NJ",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",374662,407708,432859,421656,450965,455006
+ "34037","Sussex, NJ",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",670782,691436,726251,665967,673768,654747
+ "34037","Sussex, NJ",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",3680484,3684487,3652745,3476386,3653709,3682239
+ "34039","Union, NJ",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",37114724,38586793,38668062,37038592,37410781,37730551
+ "34039","Union, NJ",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",33553385,35039738,35088196,33672925,34072163,34339868
+ "34039","Union, NJ",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),6355,5731,3139,2653,1696
+ "34039","Union, NJ",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",3369,3226,4627,4885,5861,5796
+ "34039","Union, NJ",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1146841,1227130,1240647,1217723,1389269,1236466
+ "34039","Union, NJ",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),1419796,1391968,1293441,1367540,1231102
+ "34039","Union, NJ",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",6283266,7895631,6963733,6443048,5821280,5858018
+ "34039","Union, NJ",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",1225904,1591492,985335,884778,888308,901365
+ "34039","Union, NJ",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",5057361,6304749,5967043,5552450,4922401,4947161
+ "34039","Union, NJ",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",2659887,2621617,2513707,2144168,2065440,2249414
+ "34039","Union, NJ",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",2063727,2139691,2226705,2225310,2099818,1889808
+ "34039","Union, NJ",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",2139764,2249716,2243487,2243253,2379188,2349694
+ "34039","Union, NJ",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",519611,552672,625480,877171,1002575,1073048
+ "34039","Union, NJ",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",6540412,6329763,6368851,6436985,6365810,6586721
+ "34039","Union, NJ",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",1683215,1682123,1484818,1637136,1643920,1583995
+ "34039","Union, NJ",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",4857197,4646837,4886621,4801556,4723393,5004751
+ "34039","Union, NJ",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",6237172,5899960,6673639,6733306,7062048,7179801
+ "34039","Union, NJ",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",4455004,4084983,4684100,4726645,4765884,4794474
+ "34039","Union, NJ",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",531827,543806,647667,705238,852697,903047
+ "34039","Union, NJ",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1250341,1271532,1344815,1309291,1456667,1498021
+ "34039","Union, NJ",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",2787830,2829141,3017391,2720516,2914028,3028520
+ "34039","Union, NJ",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",206163,199709,207715,177873,201576,216066
+ "34039","Union, NJ",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",2581666,2629487,2809820,2542985,2712543,2812394
+ "34039","Union, NJ",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",912310,947930,938306,607591,783025,873797
+ "34039","Union, NJ",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",249675,265486,233897,126479,157945,187667
+ "34039","Union, NJ",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",662635,682473,704068,480495,624145,685840
+ "34039","Union, NJ",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",858638,892665,885621,764410,827753,867387
+ "34039","Union, NJ",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",3561339,3547239,3579876,3368719,3344708,3397430
+ "34039","Union, NJ",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),9630,10355,7910,8272,7136
+ "34039","Union, NJ",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",4723615,4760499,4735174,4358909,4154758,4123133
+ "34039","Union, NJ",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",3286605,3476834,3484019,3461286,3767441,3585863
+ "34039","Union, NJ",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",6802877,8451999,7583934,7318649,6813438,6907392
+ "34039","Union, NJ",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",7687193,9328516,8370829,7747965,7219971,7113505
+ "34039","Union, NJ",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",25866192,25691333,26708596,25900782,26792498,27176165
+ "34041","Warren, NJ",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",4154661,4103600,4153622,3850477,3950881,4105497
+ "34041","Warren, NJ",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",3633769,3583635,3631899,3360619,3469212,3615009
+ "34041","Warren, NJ",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),119155,(D),(D),71060,148769
+ "34041","Warren, NJ",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",23624,20226,26480,22356,(D),(D)
+ "34041","Warren, NJ",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),34500,32970,37844,28905,25631
+ "34041","Warren, NJ",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),173506,(D),(D),(D),(D)
+ "34041","Warren, NJ",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",482641,532078,517223,505356,503962,513064
+ "34041","Warren, NJ",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",175075,227596,226508,211144,219243,218751
+ "34041","Warren, NJ",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",307566,304218,290374,293910,284597,294101
+ "34041","Warren, NJ",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),155473,(D),161566,162241,(D)
+ "34041","Warren, NJ",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",405935,412150,418925,398525,390628,355142
+ "34041","Warren, NJ",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",171590,156261,(D),99480,124914,116864
+ "34041","Warren, NJ",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",53146,51818,50130,44182,50879,55729
+ "34041","Warren, NJ",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",817390,780709,779521,776763,755286,(D)
+ "34041","Warren, NJ",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",61460,50481,45013,49871,52123,58832
+ "34041","Warren, NJ",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",755929,730427,734910,727193,703381,(D)
+ "34041","Warren, NJ",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",536650,469499,583024,505192,548628,604442
+ "34041","Warren, NJ",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",223508,177343,277957,186671,211797,231362
+ "34041","Warren, NJ",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),193041,207763,(D),215374,254732
+ "34041","Warren, NJ",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),99204,96383,(D),119525,118974
+ "34041","Warren, NJ",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",431325,440643,439362,407881,420556,442562
+ "34041","Warren, NJ",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",67608,65985,65302,56006,54784,56139
+ "34041","Warren, NJ",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",363717,374672,374080,351967,365919,386600
+ "34041","Warren, NJ",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",118880,119510,124532,89031,124458,134007
+ "34041","Warren, NJ",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",24420,24248,24542,15377,21743,23788
+ "34041","Warren, NJ",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",94460,95262,99988,73648,102712,110233
+ "34041","Warren, NJ",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",123701,119420,115954,102690,111250,114099
+ "34041","Warren, NJ",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",520892,519925,521750,489683,482222,490998
+ "34041","Warren, NJ",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),139212,(D),(D),(D),(D)
+ "34041","Warren, NJ",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),567586,(D),560405,553125,(D)
+ "34041","Warren, NJ",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),190738,(D),137165,153369,142036
+ "34041","Warren, NJ",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",535787,584008,567471,549924,554597,567888
+ "34041","Warren, NJ",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",790980,843642,776782,738124,754944,833422
+ "34041","Warren, NJ",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",2842789,2740203,2854471,2622296,2714017,2779414
+"Note: See the included footnote file."
+"CAGDP9: Real GDP by county and metropolitan area 1/"
+"Last updated: December 7, 2023 -- new statistics for 2022, revised statistics for 2017-2021."
+"U.S. Bureau of Economic Analysis"

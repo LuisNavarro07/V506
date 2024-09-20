@@ -1,0 +1,209 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2017,2018,2019,2020,2021,2022
+ "44000","Rhode Island",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",58771553,58740143,59866629,58155170,60777258,62190946
+ "44000","Rhode Island",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",50664080,50672546,51786399,50335596,52761655,54023353
+ "44000","Rhode Island",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",115985,112171,106610,108297,97007,100024
+ "44000","Rhode Island",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",56588,43389,40449,45542,55715,58055
+ "44000","Rhode Island",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",887115,896289,914622,983307,908836,952878
+ "44000","Rhode Island",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",2117149,2247356,2322057,2185243,2240780,2088700
+ "44000","Rhode Island",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",4696374,4894544,4676378,4831396,5018579,5083484
+ "44000","Rhode Island",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",2913254,3049050,3155659,3080514,3354184,3451236
+ "44000","Rhode Island",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",1783120,1845557,1522018,1753231,1670733,1643131
+ "44000","Rhode Island",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",3265698,3221115,3187346,3132729,3227245,3116126
+ "44000","Rhode Island",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",3397170,3597318,3763070,3795011,3663736,3503224
+ "44000","Rhode Island",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",1032748,1051699,1058232,937801,1014258,1059018
+ "44000","Rhode Island",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",1404956,1397024,1543127,1524320,1709254,1845434
+ "44000","Rhode Island",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",14138590,13252472,13861740,13826583,14123672,14645645
+ "44000","Rhode Island",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",6070253,5550011,6176625,5751279,5701715,5510002
+ "44000","Rhode Island",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",8068338,7705244,7677229,8074939,8425484,9154744
+ "44000","Rhode Island",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",7508474,7806730,7761853,7865795,8804970,9243805
+ "44000","Rhode Island",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",3483669,3652583,3782072,3738108,4263608,4649066
+ "44000","Rhode Island",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",2221690,2237855,2047272,2257052,2529856,2465040
+ "44000","Rhode Island",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1803115,1915405,1925842,1877206,2023826,2125893
+ "44000","Rhode Island",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",7841389,7928472,8168242,7719076,7899732,8224798
+ "44000","Rhode Island",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",1903921,1956004,1974584,1818114,1840778,1948279
+ "44000","Rhode Island",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",5937468,5972333,6193970,5901974,6060329,6277497
+ "44000","Rhode Island",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",2900075,2921063,3080851,2281446,2917602,3102247
+ "44000","Rhode Island",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",706904,652062,577856,370943,483579,574053
+ "44000","Rhode Island",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",2193171,2268751,2501520,1909519,2432768,2529764
+ "44000","Rhode Island",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",1301769,1316895,1307613,1147273,1205846,1235374
+ "44000","Rhode Island",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",8107473,8067735,8081690,7821577,8022018,8174616
+ "44000","Rhode Island",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",172573,155378,146858,153812,153512,158934
+ "44000","Rhode Island",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",6662868,6816788,6944299,6920168,6881255,6609545
+ "44000","Rhode Island",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",1919863,1947979,1972823,1920302,1921144,2009937
+ "44000","Rhode Island",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",6101330,6292411,6213540,6352394,6716350,6904095
+ "44000","Rhode Island",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",6986096,7297701,7150204,7165149,7405679,7310399
+ "44000","Rhode Island",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",43677985,43375707,44635767,43171845,45355405,46713054
+ "44001","Bristol, RI",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1802623,1800539,1797075,1685540,1866748,1949701
+ "44001","Bristol, RI",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1593872,1587101,1584306,1478365,1671008,1749163
+ "44001","Bristol, RI",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),1106,2026
+ "44001","Bristol, RI",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,(D),0,0,(D),0
+ "44001","Bristol, RI",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),371,95,0,413,585
+ "44001","Bristol, RI",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),91038,85490,87938,(D)
+ "44001","Bristol, RI",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),166102,(D),195490,(D)
+ "44001","Bristol, RI",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",81421,(D),82112,81380,114808,(D)
+ "44001","Bristol, RI",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),97758,83995,(D),81001,83564
+ "44001","Bristol, RI",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),94741,97756,100856,101473,102162
+ "44001","Bristol, RI",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",71646,76495,83807,71670,58269,56309
+ "44001","Bristol, RI",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),11477,(D),11240
+ "44001","Bristol, RI",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",37726,37768,41779,41317,48422,58426
+ "44001","Bristol, RI",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",551431,513248,503574,489046,594539,635575
+ "44001","Bristol, RI",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",114961,99504,121250,115709,130474,118292
+ "44001","Bristol, RI",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",436470,413901,381747,372801,463461,517493
+ "44001","Bristol, RI",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",135943,140918,150302,148617,176677,212101
+ "44001","Bristol, RI",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",95509,99770,107841,106347,121724,153311
+ "44001","Bristol, RI",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",5820,6509,5930,6131,11244,7106
+ "44001","Bristol, RI",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",34614,34645,36502,36129,43999,51450
+ "44001","Bristol, RI",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",278969,284750,280715,241309,254372,272251
+ "44001","Bristol, RI",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",151314,153987,152657,120524,136715,140802
+ "44001","Bristol, RI",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",127655,130764,128054,120842,117673,131492
+ "44001","Bristol, RI",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",94774,94104,92450,74140,90294,96307
+ "44001","Bristol, RI",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",35607,34930,32333,24391,27476,30689
+ "44001","Bristol, RI",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",59167,59173,60096,49705,62680,65566
+ "44001","Bristol, RI",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",54012,55520,60056,50794,56160,57433
+ "44001","Bristol, RI",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",208752,213419,212751,207036,196485,201352
+ "44001","Bristol, RI",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),2346,(D),(D),(D),2026
+ "44001","Bristol, RI",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),171183,181382,172618,159666,158353
+ "44001","Bristol, RI",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),11481,(D),11874
+ "44001","Bristol, RI",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),207600,(D),243646,(D)
+ "44001","Bristol, RI",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),250663,(D),255854
+ "44001","Bristol, RI",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),1227763,(D),1493393
+ "44003","Kent, RI",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",9483115,9446108,9657492,9498509,9597132,9690992
+ "44003","Kent, RI",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",8597648,8545380,8768281,8647173,8734631,8807032
+ "44003","Kent, RI",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),4497,5295,3247,2691
+ "44003","Kent, RI",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",334,(D),1128,1461,2159,1003
+ "44003","Kent, RI",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),5232,6365,11026,11154,13316
+ "44003","Kent, RI",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",315134,337466,363307,324572,312517,283667
+ "44003","Kent, RI",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",1043780,1109420,981081,1152586,1128636,1104596
+ "44003","Kent, RI",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",483317,472956,516151,498167,551966,528262
+ "44003","Kent, RI",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",560463,636012,465125,657300,580580,579268
+ "44003","Kent, RI",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),795586,835662,829020,859759,823960
+ "44003","Kent, RI",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",785981,811194,817524,707304,614064,538465
+ "44003","Kent, RI",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",368926,366719,356996,270320,328369,354898
+ "44003","Kent, RI",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",332140,335800,394145,471026,582690,633815
+ "44003","Kent, RI",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",2251267,2001901,2102394,2246297,2046949,2149939
+ "44003","Kent, RI",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",733871,676907,790001,668151,686765,634119
+ "44003","Kent, RI",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1517396,1324541,1309887,1577491,1359471,1516298
+ "44003","Kent, RI",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",1018569,1081129,1105900,1074646,1197997,1188426
+ "44003","Kent, RI",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",544397,552680,545644,518171,625086,690745
+ "44003","Kent, RI",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",242265,262597,283503,284029,275528,185969
+ "44003","Kent, RI",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",231908,265795,276978,272959,295639,302021
+ "44003","Kent, RI",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",1058029,1065070,1152505,1073921,1100414,1161004
+ "44003","Kent, RI",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",120028,120746,116523,101646,102592,106451
+ "44003","Kent, RI",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",938001,944324,1036129,972509,998086,1054856
+ "44003","Kent, RI",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",438844,428385,449755,320958,397254,422423
+ "44003","Kent, RI",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",48538,47776,48317,32521,41899,49394
+ "44003","Kent, RI",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",390306,380610,401426,288430,355355,373242
+ "44003","Kent, RI",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",198872,204868,199394,174670,189403,193129
+ "44003","Kent, RI",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",885466,900634,889445,852191,863305,884748
+ "44003","Kent, RI",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),5301,5664,6810,5511,3738
+ "44003","Kent, RI",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),1606735,1653929,1538759,1474877,1362556
+ "44003","Kent, RI",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),371964,363385,281430,339577,368353
+ "44003","Kent, RI",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",1375920,1445487,1372054,1619624,1699362,1718114
+ "44003","Kent, RI",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),1452193,1351516,1479851,1442280,1386474
+ "44003","Kent, RI",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),7092972,7416547,7169201,7293579,7423705
+ "44005","Newport, RI",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",6004565,5957989,6183830,6028309,6631576,6750253
+ "44005","Newport, RI",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",4107015,4172747,4369115,4205576,4729224,4856480
+ "44005","Newport, RI",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),15956,(D),(D),14536,7082
+ "44005","Newport, RI",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",745,613,630,356,(D),615
+ "44005","Newport, RI",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",129040,136368,113119,142096,116048,104151
+ "44005","Newport, RI",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),216331,199918,200214,(D)
+ "44005","Newport, RI",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),350976,(D),379510,(D)
+ "44005","Newport, RI",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",268155,(D),312143,309080,334591,(D)
+ "44005","Newport, RI",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),39685,38893,(D),45035,39404
+ "44005","Newport, RI",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",189510,185766,188661,196037,212233,208753
+ "44005","Newport, RI",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",306754,326444,338341,272404,229425,218124
+ "44005","Newport, RI",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),56697,(D),54371
+ "44005","Newport, RI",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",92132,82156,91242,87564,108410,113875
+ "44005","Newport, RI",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1211990,1178264,1194957,1277629,1587650,1664952
+ "44005","Newport, RI",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",251087,228269,276528,271060,304198,283874
+ "44005","Newport, RI",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",960903,950383,917181,1005791,1283121,1382200
+ "44005","Newport, RI",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",577600,611437,672696,674953,761494,838741
+ "44005","Newport, RI",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",443814,464767,498028,511462,575218,646779
+ "44005","Newport, RI",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",42327,50057,73541,65477,71029,64173
+ "44005","Newport, RI",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",91459,96652,101740,98432,115227,126846
+ "44005","Newport, RI",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",386192,399326,399696,365512,372932,388495
+ "44005","Newport, RI",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",106516,105480,102129,88696,91105,93712
+ "44005","Newport, RI",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",279676,293862,297613,276906,281912,294882
+ "44005","Newport, RI",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",519375,537958,611206,464365,588633,624246
+ "44005","Newport, RI",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",112932,110338,107702,77683,94455,113423
+ "44005","Newport, RI",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",406443,427575,503144,386456,494002,511112
+ "44005","Newport, RI",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",122969,115947,116258,101915,111091,114645
+ "44005","Newport, RI",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1897550,1785785,1815703,1822914,1904462,1896525
+ "44005","Newport, RI",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),16573,(D),(D),(D),7726
+ "44005","Newport, RI",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",496264,512075,526749,469167,441800,426911
+ "44005","Newport, RI",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),198893,(D),158175
+ "44005","Newport, RI",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),442274,(D),487588,(D)
+ "44005","Newport, RI",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),568413,(D),544891
+ "44005","Newport, RI",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),3637747,(D),4308297
+ "44007","Providence, RI",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",34960663,34718147,35447100,34144787,35514879,36416663
+ "44007","Providence, RI",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",30864781,30589385,31323086,30188803,31485927,32251193
+ "44007","Providence, RI",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",10116,16418,14994,8890,8714,32521
+ "44007","Providence, RI",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",36195,28928,28641,31821,37781,41944
+ "44007","Providence, RI",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",714896,716056,753787,789641,747711,794267
+ "44007","Providence, RI",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",1245211,1327614,1340660,1281751,1324999,1246587
+ "44007","Providence, RI",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",2209285,2222254,2201140,2113297,2175486,2197707
+ "44007","Providence, RI",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",1371676,1411209,1474546,1403275,1494938,1543936
+ "44007","Providence, RI",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",837609,811053,726472,709896,681305,656535
+ "44007","Providence, RI",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1916241,1852917,1780172,1741363,1790898,1727225
+ "44007","Providence, RI",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1682748,1801314,1924508,2146636,2266369,2237411
+ "44007","Providence, RI",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",497379,509659,518973,487759,506043,516129
+ "44007","Providence, RI",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",836187,803247,849245,803111,834021,888746
+ "44007","Providence, RI",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",8666766,8132410,8603920,8288930,8179680,8349676
+ "44007","Providence, RI",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",4636078,4243809,4615580,4330157,4191472,4109465
+ "44007","Providence, RI",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",4030688,3890666,3986904,3959665,3991383,4250441
+ "44007","Providence, RI",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",5248534,5304763,5250628,5235417,5955685,6289304
+ "44007","Providence, RI",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",2116872,2244908,2314669,2259533,2594153,2744814
+ "44007","Providence, RI",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",1821224,1679118,1566311,1655877,1972245,2095804
+ "44007","Providence, RI",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1310438,1378826,1364682,1322199,1404382,1467186
+ "44007","Providence, RI",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",5573640,5624922,5759124,5500101,5589406,5796861
+ "44007","Providence, RI",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",1485859,1533772,1561400,1469151,1468963,1565111
+ "44007","Providence, RI",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",4087781,4090993,4197668,4031248,4121190,4231881
+ "44007","Providence, RI",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",1439507,1458983,1509979,1086487,1421708,1521028
+ "44007","Providence, RI",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",417894,370483,303559,167428,233910,280895
+ "44007","Providence, RI",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",1021614,1088292,1205313,918009,1186646,1240785
+ "44007","Providence, RI",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",788075,796920,787961,693730,707820,725312
+ "44007","Providence, RI",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",4095882,4128535,4124543,3956827,4032394,4168822
+ "44007","Providence, RI",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",46311,45164,43516,41047,47000,74152
+ "44007","Providence, RI",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",3598989,3652970,3698869,3877676,4047011,3955268
+ "44007","Providence, RI",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",1212275,1225737,1272684,1276566,1252863,1309849
+ "44007","Providence, RI",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",3045472,3025959,3049120,2915681,3008169,3079868
+ "44007","Providence, RI",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",3500807,3595433,3586325,3436997,3548837,3517106
+ "44007","Providence, RI",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",27363974,26994257,27736959,26751773,27936449,28734642
+ "44009","Washington, RI",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",6520587,6817763,6781230,6799007,7168180,7384834
+ "44009","Washington, RI",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",5500764,5778491,5742037,5817175,6143371,6362870
+ "44009","Washington, RI",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",76079,72495,68484,78320,69181,54769
+ "44009","Washington, RI",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",19314,13481,10051,11904,15337,14493
+ "44009","Washington, RI",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",38773,38263,41255,40544,33510,40559
+ "44009","Washington, RI",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",277946,292700,310720,293511,315112,293560
+ "44009","Washington, RI",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",972815,1053904,978690,1048561,1142272,1256500
+ "44009","Washington, RI",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",708685,793440,771189,788699,857879,973646
+ "44009","Washington, RI",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",264130,260496,207641,260036,284541,285525
+ "44009","Washington, RI",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",285323,292106,285095,265452,262883,254025
+ "44009","Washington, RI",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",550042,581872,598890,596997,495610,452915
+ "44009","Washington, RI",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",98764,103630,105884,110010,111528,121352
+ "44009","Washington, RI",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",106770,138080,166690,120895,135186,150067
+ "44009","Washington, RI",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1457136,1426680,1456201,1526176,1718599,1851227
+ "44009","Washington, RI",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",334255,301557,372973,365229,389593,364220
+ "44009","Washington, RI",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1122881,1125725,1081521,1159617,1327691,1487930
+ "44009","Washington, RI",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",527828,668523,582062,732353,712168,713281
+ "44009","Washington, RI",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",283078,290398,315878,343057,347293,414640
+ "44009","Washington, RI",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",110054,239576,117987,245537,199810,111989
+ "44009","Washington, RI",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",134696,139524,146047,147621,164811,178624
+ "44009","Washington, RI",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",544560,554392,576326,538595,582934,606463
+ "44009","Washington, RI",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",40205,42018,41875,38097,41403,42203
+ "44009","Washington, RI",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",504354,512370,534465,500526,541559,564301
+ "44009","Washington, RI",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",407575,401643,417419,335661,419901,438380
+ "44009","Washington, RI",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",91933,88531,85898,68653,85617,99505
+ "44009","Washington, RI",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",315641,313107,331491,266988,334265,339066
+ "44009","Washington, RI",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",137840,143640,143944,126165,141372,144855
+ "44009","Washington, RI",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1019824,1039416,1039275,983407,1026839,1024483
+ "44009","Washington, RI",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",95393,85892,78360,90039,84641,69563
+ "44009","Washington, RI",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",835365,873890,883414,861465,757050,705337
+ "44009","Washington, RI",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",137537,141892,147127,150560,144909,161905
+ "44009","Washington, RI",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",1079586,1191665,1143684,1171074,1278952,1408043
+ "44009","Washington, RI",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1346154,1432509,1369004,1431271,1540721,1610195
+ "44009","Washington, RI",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",4154610,4346077,4372663,4385963,4603462,4753977
+"Note: See the included footnote file."
+"CAGDP9: Real GDP by county and metropolitan area 1/"
+"Last updated: December 7, 2023 -- new statistics for 2022, revised statistics for 2017-2021."
+"U.S. Bureau of Economic Analysis"

@@ -1,0 +1,666 @@
+---
+title: "V506 Lab 5"
+author: "Luis Navarro"
+date: "Fall 2024"
+output:
+  slidy_presentation: default
+  #ioslides_presentation: default
+subtitle: Data Reshape, Merges, and Hypothesis Testing
+---
+
+
+```{r setup, include=FALSE} 
+knitr::opts_chunk$set(warning = FALSE, message = FALSE) 
+```
+
+```{r, echo=FALSE, eval=TRUE}
+# Clean the environment 
+rm(list=ls())
+setwd("/Users/luisenriquenavarro/Library/CloudStorage/OneDrive-IndianaUniversity/V506/Lab 5")
+library(pacman)
+p_load(tidyverse, rmarkdown, dplyr, ggplot2, descriptr)
+```
+
+
+# Readings for this lab 
+
+- [R Cookbook](https://rc2e.com/) Chapter 9.
+
+- [R for Data Science](https://r4ds.had.co.nz/index.html) Chapter 5, 18, 19 (Complete)
+
+- [The Epidemiologist R Handbook](https://epirhandbook.com/en/) Chapter 12, 14, 18, 20 (Complete). 
+
+
+# Setup: Clean Environment and Load Libraries
+
+```{r, echo=TRUE, eval=TRUE}
+# Clean the environment 
+rm(list=ls())
+
+# Set your working directory
+setwd("/Users/luisenriquenavarro/Library/CloudStorage/OneDrive-IndianaUniversity/V506/Fall24/Lab5")
+
+# Packages Required for the session 
+library(pacman)
+p_load(dplyr, ggplot2, rmarkdown, rio, here)
+```
+
+# Example: GDP States 
+
+- Sometimes data does not comes in the format we need it to work. 
+
+- To exemplify this, we use data from the Bureau of Economic Analysis on state's Gross Domestic Product (GDP.)
+
+- Get the data [here](https://www.bea.gov/data/gdp/gdp-state) or download it from Canvas. 
+
+- This data set has information on state's GDP. 
+
+- Data: SAGDP9N: Real GDP by state: All industry total (Millions of chained 2012 dollars)
+
+```{r, eval = TRUE, echo = TRUE}
+gdp_states <- read.csv(file = "gdp_states.csv", header = TRUE) %>% tibble() 
+head(gdp_states)
+```
+
+
+# Data Formats: Wide and Long
+
+- Data could be presented in one of two formats. 
+
+- Long vs wide format. 
+
+```{r, eval = TRUE, echo = FALSE}
+gdp_wide <- gdp_states
+
+gdp_long <- gdp_states %>% 
+  gather(key = "year", value = "real_gdp", -c(GeoName,GeoFips)) 
+
+```
+
+- **Wide Format:** contains values that do not repeat on the first column. 
+
+
+```{r, eval = TRUE, echo = TRUE}
+gdp_wide %>% head(n = 10)
+```
+
+
+- **Long Format:** contains values that do repeat on the first column. 
+
+```{r, eval = TRUE, echo = TRUE}
+gdp_long %>% head(n = 15)
+```
+
+
+# Reshape data with dplyr: gather and spread
+
+- To reshape the data set we use the functions *gather* and *spread*. 
+
+- **gather:** from wide to long (pivot_longer)
+- **spread:** from long to wide (pivot_wider)
+
+- Both the gather and spread functions will create a new data frame, so we need to specify the names of the new variables. 
+
+- Syntax *gather* function. 
+
+```{r, echo = TRUE, eval = FALSE}
+gather(data, 
+       key = "key", ## New Column Created 
+       value = "value", ## Values
+       -..., ## selection of columns that identify observations in the data
+       )
+```
+
+- gather general syntax: notice the columns (pivots) need to be specified by using the "-" symbol
+
+```{r, eval = FALSE, echo = TRUE}
+df_long <- df %>% 
+  gather(key = "variable", 
+         value = "level", -id) 
+```
+
+
+- Syntax *spread* function
+
+```{r, echo = TRUE, eval = FALSE}
+spread(data, 
+       key = "key", ## name of the variable that will be the columns
+       value = "value", ## Values it takes 
+       )
+```
+
+- Notice that the spread function does not requires the selection of columns that identify observations in the data .
+
+- Why? Once you determined the key and value, then the rest of the variables identify each unique observation in the data. 
+
+# Example: Reshape GDP data 
+
+- Let's express the GDP data on long format. 
+
+```{r, eval = TRUE, echo = TRUE}
+gdp_long <- gdp_states %>% 
+  gather(key = "year", value = "real_gdp", -c(GeoName,GeoFips)) %>% 
+   ## Intermediate Step to clean year variable 
+  mutate(year = substr(year,2,nchar(year)) %>% as.double()) %>% 
+  # Keep only states data 
+  filter(GeoFips >0 &GeoFips < 90000) %>% 
+  # Rename variables 
+  rename(state = GeoName)
+```
+
+- With the data in this format now we can easily compare states GDP. 
+
+- Now let's do an example of reshape wide 
+
+```{r}
+gdp_wide <- gdp_long %>% 
+  spread(key = year, # name of the variable that will be columns 
+         value = real_gdp)
+
+gdp_wide %>% head()
+```
+
+
+
+# Data Merging 
+
+- Sometimes you need to merge datasets for your analysis. 
+
+- Say you want to compute GDP per capita. That is, GDP divided by population. 
+
+- We need to add a column with the population.
+
+```{r, eval = TRUE, echo = TRUE}
+states_pop_long <- rio::import(file = "state_population_long.csv", header = TRUE) %>% tibble() %>% select(-V1)
+head(states_pop_long)
+
+# Define data for merge 
+gdp_long2020 <- gdp_long %>% 
+  filter(year >= 2020) 
+```
+
+# Left Join 
+
+- Dyplyr has `join` functions to merge data sets. 
+
+- Notation: $X$ is your initial data set. $Y$ is the data with the columns you are adding. 
+
+- left_join($X$) adds columns to the left of $X$. It preserves all the observations on such dataset. 
+
+- To perform the merge we need to specify the variables in common between the two sets: the merging criteria. 
+
+- Also, we need to specify the type of relationship between the data sets. 
+
+- One-to-one: for each observation in $X$, there is only one observation in $Y$ that matches the merging criteria. 
+
+    - Ex: merging a state-year dataset with another state-year dataset.
+
+- Many-to-one: for each observation in $X$, there are many observations in $Y$ that matches the merging criteria. 
+
+    - Ex: merging a state-year dataset with a state dataset.
+
+- Many-to-many: several observations in $X$ could be matched with several observations $Y$ for the same merging criteria. (Use it carefully)
+
+
+```{r, echo = TRUE, eval = FALSE}
+# syntax code 
+merged_data1 <- data_x %>% 
+  left_join(data_y, by = c("var1", ..., "var2"), 
+            relationship = "one-to-one")
+
+
+merged_data2 <- data_x %>% 
+  left_join(data_y, by = c("var1"), 
+            relationship = "many-to-one") # Many observations in x, will receive the same value of y 
+```
+
+# Example 
+
+```{r}
+states_data <- gdp_long2020 %>% 
+  # Merge population data 
+  left_join(states_pop_long, 
+            by = c("state", "year"), #merge by state and year
+            relationship = "one-to-one") 
+
+```
+
+- Compute GDP per capita with the population data. 
+
+```{r}
+states_data <- states_data %>% 
+  # multiply by one million, to express everything in US dollars.
+  mutate(gdp_per_capita = 1000000*real_gdp/population)
+
+states_data %>% head()
+```
+
+
+- Extra: compute the average GDP per capita for each year. 
+
+```{r}
+states_data %>% 
+  # Compute the average across states, to get observations for each year 
+  group_by(year) %>% 
+  summarize(gdp_per_capita = mean(gdp_per_capita, na.rm = TRUE))
+
+```
+
+# Statistical Inference and Hypothesis Testing 
+
+- Take the star wars data. 
+
+```{r, echo = TRUE, eval = TRUE}
+starwars <- dplyr::starwars
+# the function pull from dplyr is equivalent to the dollar sign. 
+# starwars %>% pull(mass) is the same as writing starwars$mass
+mass_sw <- starwars %>% pull(mass) 
+```
+
+- Suppose we are interested on calculating the average mass of star wars characters. 
+
+- We do it directly with the mean function. 
+
+- **Point Estimate:** 97.31 kgs. 
+
+```{r, echo = TRUE, eval = TRUE}
+mean(mass_sw, na.rm = TRUE)
+```
+- How can we know how reliable is this estimation? How likely is that if we take another sample from the universe of star wars characters that we get a similar estimate for the average mass? 
+
+- **Central Limit Theorem** If $N$ is large enough, the statistic $\bar{x}$ follows a normal distribution with mean $\mu$ and standard deviation $\sigma$, where $\mu$ and $\sigma$ are the mean and standard deviation of the distribution where the sample comes from. 
+
+- To assess the sampling variation of the estimate we compute the standard errors. 
+
+- With the standard errors we can construct confidence intervals by calculating margin of errors. 
+
+- **Margin of Error** 
+
+\begin{equation}
+ME = z^* \times SE(\bar{x}) 
+\end{equation}
+
+Where $z^*$ is percentile of the normal distribution correspondent to the confidence level chose for the interval. 
+
+To understand intuitively the percentile recall the definition. Let $Z$ be a standard normal random variable. 
+
+\begin{equation}
+1-\alpha = Pr(-z^* < Z < z^*)
+\end{equation}
+
+Then, the definition of **Confidence Interval** 
+
+\begin{equation}
+CI = (\bar{x} - M.E, \bar{x} + M.E)
+\end{equation}
+
+Let's look at data. First, at the distribution of a standard normal random variable. 
+
+```{r, echo = TRUE, eval = TRUE}
+set.seed(123)  
+n_samples <- 100000  # Number of random samples to generate
+data <- data.frame(x = rnorm(n_samples))
+lower_value <- qnorm(0.025, mean = 0, sd =1, lower.tail = TRUE)
+upper_value <- qnorm(0.975, mean = 0, sd =1, lower.tail = TRUE)
+
+## Ggplot 
+xbar_dist <- ggplot(data, aes(x = x)) +
+             geom_density(color = "darkblue", fill = "lightblue") + 
+             geom_vline(xintercept = c(lower_value, upper_value), color = "red", linetype = "dashed")+
+             theme_bw() +
+             labs(title = "Distribution of the Sampling Average", x = "X Bar",y = "Density") +
+             scale_x_continuous(breaks = -3:3)
+xbar_dist
+```
+
+# Statistical Inference: Example
+
+Let's compute the mean, standard deviation, standard error, margin of error, and confidence interval for the sample mean of variable mass. 
+
+```{r}
+mean_inference <- starwars %>% 
+  # use summarize to compute mean, sd and number of obs
+  summarize(mean = mean(mass, na.rm = TRUE), 
+            sd = sd(mass, na.rm = TRUE), 
+            obs = n()) %>% 
+  # compute manually the standard error, margin of error, and confidence intervals
+  mutate(
+    std.error = sd/sqrt(obs), 
+    margin.error = std.error*qnorm(0.975),
+    conf.low = mean - margin.error, 
+    conf.upp = mean + margin.error
+  ) %>% 
+  # create a sentence that has the confidence interval as a character 
+  mutate(
+    conf.int = paste("(",round(conf.low,4),",", round(conf.upp,4),")", sep = '')
+  )
+
+# show the data frame transposed
+mean_inference %>% t()
+```
+
+- We can get the same output using the *t.test* function. 
+
+```{r, echo = TRUE, eval = TRUE}
+test<-t.test(mass_sw, mu = 0)
+test$conf.int
+```
+
+- Extra: base R code to do the same 
+
+```{r, echo = TRUE, eval = TRUE}
+#Define the Statistics
+mass_mean <-mean(mass_sw, na.rm = TRUE)
+mass_sd <-sd(mass_sw, na.rm = TRUE)
+mass_obs <- mass_sw %>% na.omit() %>% length()
+mass_se <- mass_sd / sqrt(mass_obs)
+# Compute the Margin Error 
+margin_error <- mass_se*qnorm(0.975)
+# Compute the Confidence Interval
+ci <- c(mass_mean - margin_error, mass_mean + margin_error)
+ci <- paste("(",as.character(round(ci[1],4)),",",as.character(round(ci[2],4)), ")", sep="")
+# Display Results 
+data.frame(mean = mass_mean, se = mass_se, confint = ci) %>% t()
+```
+
+# Hypothesis Testing: T-test
+
+- Take the star wars data again. 
+
+- We are interested on calculating the average mass of star wars characters. 
+
+- **One Sample t-test:** statistical hypothesis test used to determine whether an unknown population mean is different from a specific value. . 
+
+- Consider the distribution of the mass variable in the star wars data set. 
+
+- Test the hypothesis that the average mass is 100 kilograms. 
+
+- **Null Hypothesis** $H_0$ : The average mass is equal to 100 kilograms. 
+\begin{equation*}
+H_0: \hat{mass} = 100 
+\end{equation*}
+- **Alternative Hypothesis** $H_A$: The average mass is different from to 100 kilograms.  
+\begin{equation*}
+H_0: \hat{mass} \neq 100 
+\end{equation*}
+- **Hypothesis Testing**: t.test performs t-tests on vectors of data. It will default to testing if you can reject the null that the mean is 0. 
+
+
+Test Stat 
+\begin{equation}
+t = \frac{\bar{x} - \mu}{SE(\bar{x})}
+\end{equation}
+
+- How does the test works? Compute the sampling distribution of the test-statistic under the null-hypothesis. 
+
+- Under the null hypothesis, the statistic is distributed normal with mean 0 and standard deviation. 
+
+- Test how likely was your draw under the null distribution. 
+
+```{r}
+# Run the Test with R command 
+mu_null <- 100
+test <- t.test(starwars$mass, mu=mu_null)
+degfree <- test$parameter
+test
+```
+
+
+```{r}
+# Compute the Test Statistic 
+t_stat <- (mass_mean - mu_null)/mass_se
+# Compute the distribution of test-stastic under the null 
+t_dist_null <- data.frame(x = rt(n=1000, df =degfree)) %>% tibble()
+
+## Ggplot 
+t_dist_plot <- ggplot(t_dist_null, aes(x = x)) +
+             geom_density(color = "darkblue", fill = "lightblue", alpha = 0.3) + 
+             geom_vline(xintercept = t_stat, color = "red", linetype = "dashed")+
+             theme_bw() +
+             labs(title = "Distribution of the Sampling Average", x = "X Bar",y = "Density")
+t_dist_plot
+```
+
+
+# Two Sample t-test
+
+- **Two Sample T-test:** method used to test whether the unknown population means of two groups are equal or not.
+
+- Suppose we have two random variables coming from a normal distribution. 
+
+- Variable X comes from a normal(0,1) and variable Y comes from a normal(0.5, 1)
+
+```{r}
+# simulate data 
+obs = 100
+simulated_normal_data <- data.frame(id = 1:obs, 
+                               x = rnorm(obs, mean = 0, sd = 1), 
+                               y = rnorm(obs, mean = 0, sd = 1))
+
+# visualize data 
+simulated_normal_data %>% 
+  # reshape data long to use exploit ggplot grammar
+  gather(key = "variable", value = "value", -id) %>% 
+  ggplot(mapping = aes(x = value, color = variable, fill = variable)) + 
+  # geom_density allows you to draw the kernel density of the simulated data 
+  geom_density(alpha = 0.5) + 
+  labs(x = "Values of x,y", y = "density", 
+       title = "Distribution of Normal Simulated Data") + 
+  scale_x_continuous(breaks = -3:4) + 
+  theme_classic()
+
+```
+
+- Test the hypothesis that the sample mean of x is equal to the sample mean of y.  
+
+- **Null Hypothesis**: $$H_0: \bar{x} - \bar{y} = 0$$ 
+- **Alternative Hypothesis** $$HA: \bar{x} - \bar{y} \neq 0$$   
+- **Hypothesis Testing**: t.test performs t-tests on vectors of data. 
+
+
+```{r}
+vector_x <- simulated_normal_data$x
+vector_y <- simulated_normal_data$y
+
+two_sample_test <- t.test(vector_x, vector_y)
+two_sample_test
+```
+
+
+
+```{r}
+# visual representation of the two sample t-test 
+degfree = two_sample_test$parameter
+t_stat = two_sample_test$statistic
+# Compute the distribution of test-stastic under the null 
+t_dist_null <- data.frame(x = rt(n=1000, df =degfree)) %>% tibble()
+
+## Ggplot 
+t_dist_plot <- ggplot(t_dist_null, aes(x = x)) +
+             geom_density(color = "darkblue", fill = "lightblue", alpha = 0.3) + 
+             geom_vline(xintercept = t_stat, color = "red", linetype = "dashed")+
+             theme_bw() +
+             labs(title = "Distribution of the T-stat under the Null", x = "t-stat distribution",y = "Density")
+t_dist_plot
+```
+
+
+# Hypothesis Testing: Prop-test
+
+- Suppose we have data coming from two different coins (distributions) 
+
+- **Coin 1:** fair coin (i.e. $Pr(Heads) =0.5$)
+- **Coin 2:** unfair coin (i.e. $Pr(Heads) =0.3$)
+
+- Most of the times the data generating process is not observable. 
+
+- In other words: you don't know from which experiment (distribution) you are drawing samples from. 
+
+- Suppose you got the data from both experiments but you don't know whether the coins generating the outcomes are the same or different. 
+
+- **prop.test** can be used for testing the null that the proportions (probabilities of success) in several groups are the same, or that they equal certain given values.
+
+\begin{equation*}
+\hat{p} = \frac{Successes}{Trials} 
+\end{equation*}
+
+- Let's simulate the outcome of 100 coin-toss. 
+
+- **First Experiment:** 100 draws from Coin 1.   
+- **Second Experiment:** 100 draws from Coin 2.   
+
+- We can directly compute the (observed) percentage of heads (successes) for each coin.  
+
+
+```{r}
+toss1 <- rbinom(n=100, size = 1, p = 0.5)
+toss2 <- rbinom(n=100, size = 1, p = 0.3)
+trials <- rep(1,100)
+exp_res <- data.frame(exp1 = mean(toss1), exp2 = mean(toss2)) %>% tibble()
+head(exp_res)
+```
+
+
+- **Null Hypothesis** $H_0$ :The two populations (i.e. outcomes from each coin) have the same proportion of heads.
+\begin{equation*}
+H_0: \hat{p}_0 = \hat{p}_1 
+\end{equation*}
+- **Alternative Hypothesis** $H_A$: The proportion of heads is different in at least one of the populations. 
+\begin{equation*}
+H_0: \hat{p}_0 \neq \hat{p}_1 
+\end{equation*}
+
+- **Hypothesis Testing**: prop.test() is used for testing the null that the proportions are the same. 
+
+```{r}
+prop1 <- mean(toss1)*100
+prop2 <- mean(toss2)*100
+tot_trials <- mean(trials)*100
+data.frame(exp1 = prop1, exp2 = prop2) %>% t()
+```
+
+Let's use the *prop.test* function to compute the test. 
+
+```{r}
+prop.test(x = c(prop1,prop2), n = c(tot_trials,tot_trials))
+```
+
+- **Interpretation**: with p-value $<$ 0.05 we reject the null hypothesis that the proportions of both groups are the same. 
+
+# Extra: States GDP Graph 
+
+```{r, eval = TRUE, echo = TRUE}
+gdp_graph <- gdp_long %>% 
+  # Filter some states to show
+  filter(state == "California" | state == "Texas" | state == "New York") %>% 
+  # Create log gdp variable to ease comparison 
+  mutate(log_gdp = log(real_gdp)) %>% 
+  ggplot(mapping = aes(x = year, y = log_gdp, 
+                       col = state)) +   # Each state gets an individual color
+  geom_line() +  # Draw a line plot 
+  labs(x = "Year", y = "Log GDP") + 
+  scale_x_continuous(breaks = 1997:2022) + 
+  theme(axis.text.x.bottom = element_text(angle = 90))
+
+
+gdp_graph
+```
+
+- *Quick Tip:* functions allow you to automatize processes. A useful one is formatting your graphs. 
+
+```{r, eval = TRUE, echo = TRUE}
+# Function that allows you to format all your plots 
+# Define Fontsize outside the function (you can plug it as an addtional parameter if you like)
+fontsize = 12 
+# Function: 
+format_plot <- function(graph, title, subtitle){
+  # Format the Graph 
+  formatted_plot <- graph  + 
+           theme_bw() + 
+           labs(title = title, 
+                subtitle = subtitle) + 
+           scale_y_continuous(n.breaks=10) +
+           theme(axis.text.x = element_text(angle = 90, size = fontsize), 
+                 axis.text.y = element_text(angle = 0, size = fontsize),
+                 axis.title.x = element_text(size = fontsize),
+                 axis.title.y = element_text(size = fontsize),
+                 legend.text = element_text(size = fontsize -2),
+                 legend.title = element_blank(),
+                 plot.title = element_text(angle = 0, size = fontsize + 3, face = "bold"))
+  
+  return(formatted_plot)
+}
+```
+
+```{r}
+# show formatted plot 
+format_plot(graph = gdp_graph, 
+            title = "Real GDP Growth: Texas, California, and New York", 
+            subtitle = "Log (Real GDP)")
+```
+
+
+
+
+# Extra Example: Merge using base R
+
+-   merge() allows you to combine to data frames using common colums or row names--to join two separate data frames. 
+-   merge(x,y,...)-- the data frames you'd like to merge. 
+-   You also specify "by". This can be "by.x=", "by.y=", or "by=" to specify what you are going to be matching on. 
+-   "all=" allows you to specify if you want to merge all observations of each data frame.
+
+**Example:** Let's create some fake data that we can use:
+```{r}
+income_df = tibble(id = c(1:100), 
+                   urban = sample(c(0,1), replace=TRUE, size=100), 
+                   income = sample(c(0, 20000:100000), replace=TRUE, size=100))
+
+income_df <- income_df %>% arrange(by_group=-id)
+
+health_df = tibble(id = c(1:100), 
+                  health_spending  = sample(c(0:20000), replace=TRUE, size=100))
+```
+
+- sample() takes a sample of the specified size (size=n) from the elements in x with or without replacement. 
+- I wanted to randomly assign (0 and 1) as a binary variable to be if the person lives in an urban area or not. 
+- Notice that both data frames have a common variable, *id*.
+
+
+# Extra Example: Merge using base R
+
+```{r}
+df1 = merge(income_df, health_df, by="id")
+head(df1)
+```
+
+- Now suppose there is a data frame that only has data for the first 30 observations and has a dummy variable if they had an ER visit:
+```{r}
+er_visits = tibble(id = c(1:30), er_visit = sample(c(1,0), replace=TRUE, size=30))
+er_visits
+```
+
+- Merge to *er_visits* to *df1*:
+
+```{r}
+df2 = merge(df1, er_visits, by = "id")
+head(df2, n=10L)
+nrow(df2)
+```
+
+- Notice that *df2* has only 30 observations, so *merge()* restricted the sample to the first 30 id's with ER information.
+
+- We can force it to merge on *all* (all observations from both datasets):
+```{r}
+df3 = merge(df1, er_visits, by = "id", all = TRUE)
+```
+
+- Or merge on *all.x* (Keep all observations from data frame x):
+```{r}
+df4 = merge(df1, er_visits, by="id", all.x = TRUE)
+```
+
+- Or merge on *all.y* (Keep all observations from data frame y):
+```{r}
+df5 = merge(df1, er_visits, by="id", all.y = TRUE)
+```
+

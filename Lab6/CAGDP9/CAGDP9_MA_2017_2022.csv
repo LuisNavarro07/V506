@@ -1,0 +1,515 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2017,2018,2019,2020,2021,2022
+ "25000","Massachusetts",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",530129429,549262072,566706170,556196418,591911488,604357731
+ "25000","Massachusetts",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",476636835,494823406,512286027,503945472,540156568,551926156
+ "25000","Massachusetts",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",839425,838467,885410,830533,825332,752951
+ "25000","Massachusetts",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",193813,176229,225502,173422,119360,93983
+ "25000","Massachusetts",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",6945918,7287232,7672340,9455123,9707121,11261470
+ "25000","Massachusetts",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",20870997,21578907,22123503,20824254,21919893,19968618
+ "25000","Massachusetts",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",46542222,49455438,48971721,48479114,51005845,50102015
+ "25000","Massachusetts",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",29281089,30206004,29668288,28077367,29498685,28723479
+ "25000","Massachusetts",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",17261132,19240070,19290609,20387091,21489786,21338113
+ "25000","Massachusetts",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",27287895,26308807,25778925,25930264,26897627,25649086
+ "25000","Massachusetts",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",23467686,24589064,25897168,24230730,24868684,23987268
+ "25000","Massachusetts",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",10714165,10799896,11363689,9303932,10481006,10750523
+ "25000","Massachusetts",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",27916241,29163718,32961708,35069971,39628581,42049561
+ "25000","Massachusetts",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",116875897,120365676,121931789,124419287,128405396,132301090
+ "25000","Massachusetts",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",47642899,48469266,47937914,50350917,49417699,50493518
+ "25000","Massachusetts",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",69232998,71909594,74046376,74080825,79131238,81978562
+ "25000","Massachusetts",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",93919004,102012125,109366451,112787595,127238426,131551671
+ "25000","Massachusetts",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",67408944,73077055,79117203,83645190,96017566,99018144
+ "25000","Massachusetts",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",11757145,13497348,14101030,14149999,14623048,14780244
+ "25000","Massachusetts",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",14752915,15447587,16157513,15053167,16604995,17682299
+ "25000","Massachusetts",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",68178643,68355744,70351522,68176022,70995754,72530478
+ "25000","Massachusetts",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",16289570,16554621,17049107,16111283,16242511,17090007
+ "25000","Massachusetts",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",51889073,51800071,53301195,52070220,54768836,55449062
+ "25000","Massachusetts",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",22393291,22959112,23979514,15308464,19557699,22940558
+ "25000","Massachusetts",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",6396774,6577787,6664180,3825755,5138636,6538631
+ "25000","Massachusetts",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",15996517,16381450,17311695,11476513,14415223,16431518
+ "25000","Massachusetts",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",10491638,11009831,11186235,9928670,10469431,10687107
+ "25000","Massachusetts",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",53492594,54444534,54450246,52314405,51978785,52672702
+ "25000","Massachusetts",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",1033238,1014445,1111866,1003796,942760,844327
+ "25000","Massachusetts",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",50755581,50883510,51618568,50135313,51737084,49612415
+ "25000","Massachusetts",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",17660084,18088208,19037181,18782883,20185628,22078094
+ "25000","Massachusetts",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",74458462,78623937,81838851,83377602,90319509,91553788
+ "25000","Massachusetts",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",68446456,72044341,72223706,70271782,73831459,70743724
+ "25000","Massachusetts",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",408190379,422782408,440053237,433660289,466295993,481243111
+ "25001","Barnstable, MA",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",12764776,13042121,13537095,12654827,13490964,13771725
+ "25001","Barnstable, MA",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",10845566,11096548,11594021,10784071,11633230,11912154
+ "25001","Barnstable, MA",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),59113,66578,45645,41648
+ "25001","Barnstable, MA",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",15855,15590,21170,16629,11866,9584
+ "25001","Barnstable, MA",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",60250,78111,99362,110705,97908,226636
+ "25001","Barnstable, MA",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",908472,920587,924664,839641,874344,816766
+ "25001","Barnstable, MA",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),390640,395737,408385,405174
+ "25001","Barnstable, MA",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",182481,191598,(D),211496,226913,230458
+ "25001","Barnstable, MA",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),184151,181765,175526
+ "25001","Barnstable, MA",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",300528,289695,288014,287301,284869,261555
+ "25001","Barnstable, MA",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",987517,1020869,1060285,986958,1035634,892148
+ "25001","Barnstable, MA",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",265209,263459,275933,255100,282110,249560
+ "25001","Barnstable, MA",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",277987,274412,290211,274792,296712,321525
+ "25001","Barnstable, MA",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",3562529,3633527,3881330,3775627,4042074,4263408
+ "25001","Barnstable, MA",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",465200,463594,466313,480814,486148,474355
+ "25001","Barnstable, MA",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",3097329,3170243,3416775,3295643,3557775,3793710
+ "25001","Barnstable, MA",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",1016673,1077551,1140443,1138770,1291131,1373766
+ "25001","Barnstable, MA",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",619055,659879,695649,718275,821765,878058
+ "25001","Barnstable, MA",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",27169,28627,31333,33591,43365,50635
+ "25001","Barnstable, MA",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",370449,389051,413483,387766,427964,448120
+ "25001","Barnstable, MA",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",1467613,1474166,1498198,1404540,1410970,1419889
+ "25001","Barnstable, MA",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",94349,90221,94603,85142,94087,96963
+ "25001","Barnstable, MA",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",1373264,1383966,1403582,1319440,1316778,1322787
+ "25001","Barnstable, MA",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",1213391,1216490,1271294,887895,1191722,1289527
+ "25001","Barnstable, MA",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",247706,248098,263387,181856,256302,299855
+ "25001","Barnstable, MA",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",965686,968391,1007934,706097,935134,989786
+ "25001","Barnstable, MA",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",376242,390981,393727,352378,371826,377454
+ "25001","Barnstable, MA",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1919210,1945633,1943548,1870523,1859795,1861512
+ "25001","Barnstable, MA",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),80431,83109,57469,51098
+ "25001","Barnstable, MA",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",1288045,1310343,1347602,1274113,1320603,1153428
+ "25001","Barnstable, MA",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",325459,341527,374998,365620,378585,479630
+ "25001","Barnstable, MA",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),680918,671146,705092,724406
+ "25001","Barnstable, MA",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1317627,1377605,1395010,1315241,1337441,1268312
+ "25001","Barnstable, MA",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",9527939,9718960,10199176,9468844,10296269,10647564
+ "25003","Berkshire, MA",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",7025430,7117760,6998340,6766260,6896795,6927750
+ "25003","Berkshire, MA",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",6260156,6331044,6225287,6032943,6177846,6195250
+ "25003","Berkshire, MA",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),10389,15417
+ "25003","Berkshire, MA",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",10960,10100,12227,9928,(D),(D)
+ "25003","Berkshire, MA",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",82372,64804,66944,81024,72855,82255
+ "25003","Berkshire, MA",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),337306,308735,306157,278401
+ "25003","Berkshire, MA",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",1051752,1094788,981713,960873,980770,945501
+ "25003","Berkshire, MA",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",298424,261400,277297,257214,254070,247774
+ "25003","Berkshire, MA",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",753328,833074,704012,703736,726728,697928
+ "25003","Berkshire, MA",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",131242,129187,136026,130695,136784,161966
+ "25003","Berkshire, MA",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",461188,452224,467482,434567,454024,401897
+ "25003","Berkshire, MA",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "25003","Berkshire, MA",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",112825,133692,180149,189451,185270,177232
+ "25003","Berkshire, MA",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1411457,1451260,1389174,1472288,1394184,(D)
+ "25003","Berkshire, MA",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",376568,378695,381464,404058,371552,356176
+ "25003","Berkshire, MA",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1034889,1072747,1007249,1067746,1022290,(D)
+ "25003","Berkshire, MA",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",632500,667385,663975,672347,749192,796118
+ "25003","Berkshire, MA",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",431969,470938,465786,475349,538218,582760
+ "25003","Berkshire, MA",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",26234,23372,22468,24925,24385,28726
+ "25003","Berkshire, MA",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",174297,173049,175619,172276,186782,186010
+ "25003","Berkshire, MA",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",1217578,1232060,1238890,1191239,1196959,1221424
+ "25003","Berkshire, MA",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",298616,301671,301108,281091,277915,289519
+ "25003","Berkshire, MA",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",918962,930391,937802,910251,919197,932019
+ "25003","Berkshire, MA",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",483521,472607,489185,342221,438505,495114
+ "25003","Berkshire, MA",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",145002,146346,142471,93564,128020,157698
+ "25003","Berkshire, MA",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",338519,326298,346568,248586,310300,337924
+ "25003","Berkshire, MA",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",182830,186661,186640,164973,179186,185914
+ "25003","Berkshire, MA",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",765274,786664,773007,733608,720139,733654
+ "25003","Berkshire, MA",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "25003","Berkshire, MA",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",592430,581416,603604,565463,591015,563163
+ "25003","Berkshire, MA",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "25003","Berkshire, MA",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",1164577,1228232,1159410,1147296,1163617,1120603
+ "25003","Berkshire, MA",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "25003","Berkshire, MA",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "25005","Bristol, MA",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",25856398,25976616,26645826,25819946,27449005,27281600
+ "25005","Bristol, MA",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",22709673,22773106,23448444,22778934,24429438,24183588
+ "25005","Bristol, MA",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),373072,(D),(D),394723,364626
+ "25005","Bristol, MA",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",2575,3073,4079,3472,2714,(D)
+ "25005","Bristol, MA",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",517503,660242,764425,1250379,1538534,1464678
+ "25005","Bristol, MA",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),1313031,1262552,1331756,(D)
+ "25005","Bristol, MA",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),3286814,(D),3389802,(D)
+ "25005","Bristol, MA",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",2821189,2484596,2486454,2361071,2510756,2472704
+ "25005","Bristol, MA",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),799767,(D),878596,(D)
+ "25005","Bristol, MA",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),2523298,2448984,2455215,2542341,2392279
+ "25005","Bristol, MA",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1964078,2029106,2112986,1993297,2060883,1996798
+ "25005","Bristol, MA",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),748522,815549,780719
+ "25005","Bristol, MA",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",548629,602493,659578,625238,631891,648507
+ "25005","Bristol, MA",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",4245959,4153391,4527900,4206117,4513016,4599180
+ "25005","Bristol, MA",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",745521,735239,763760,804551,776130,747563
+ "25005","Bristol, MA",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",3500439,3417998,3765635,3400546,3737521,3854649
+ "25005","Bristol, MA",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",2276502,2258746,2312516,2307218,2511649,2610436
+ "25005","Bristol, MA",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",1115261,1152154,1201622,1203797,1301965,1300233
+ "25005","Bristol, MA",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",444215,375557,395791,370416,412588,368350
+ "25005","Bristol, MA",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",717025,730115,715174,730763,795484,925845
+ "25005","Bristol, MA",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",3062569,3110216,3181194,3038986,3144579,3205526
+ "25005","Bristol, MA",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",240217,242809,250645,232626,239742,247277
+ "25005","Bristol, MA",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",2822352,2867413,2930529,2806432,2904925,2958305
+ "25005","Bristol, MA",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",988059,1004941,1024303,717952,903777,1009578
+ "25005","Bristol, MA",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",166361,173615,179438,109381,148788,176259
+ "25005","Bristol, MA",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",821698,831340,844901,608433,755105,834066
+ "25005","Bristol, MA",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",652261,677510,685512,621426,657115,680944
+ "25005","Bristol, MA",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",3146725,3203308,3197867,3042623,3026598,3106415
+ "25005","Bristol, MA",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),376149,(D),(D),397364,(D)
+ "25005","Bristol, MA",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),4552508,4558413,4447271,4601905,4388737
+ "25005","Bristol, MA",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),1999678,2357482,2248419
+ "25005","Bristol, MA",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),3941962,(D),4020180,(D)
+ "25005","Bristol, MA",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",5342515,(D),(D),4832564,5119654,4842548
+ "25005","Bristol, MA",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",17367158,(D),(D),17945263,19306608,19331463
+ "25007","Dukes, MA",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1414950,1469001,1469628,1407779,1445253,1453109
+ "25007","Dukes, MA",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1249352,1300561,1300865,1248105,1287837,1294967
+ "25007","Dukes, MA",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",9906,(D),(D),(D),1422,1948
+ "25007","Dukes, MA",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,(D),0,0,(D),(D)
+ "25007","Dukes, MA",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),7419,(D)
+ "25007","Dukes, MA",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),188752,(D),172894,(D)
+ "25007","Dukes, MA",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "25007","Dukes, MA",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "25007","Dukes, MA",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),6123,(D)
+ "25007","Dukes, MA",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "25007","Dukes, MA",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",111146,114644,118770,100017,100231,96956
+ "25007","Dukes, MA",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",30889,29703,31041,25769,28047,26261
+ "25007","Dukes, MA",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),21714,21611,(D),26179
+ "25007","Dukes, MA",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",406706,412501,412474,461552,430804,436178
+ "25007","Dukes, MA",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",42340,40876,41428,44551,45922,46946
+ "25007","Dukes, MA",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",364366,371695,371081,417109,384866,389182
+ "25007","Dukes, MA",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",132278,144606,144076,146919,166920,179578
+ "25007","Dukes, MA",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "25007","Dukes, MA",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "25007","Dukes, MA",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",70219,71782,70507,69543,77840,80189
+ "25007","Dukes, MA",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",100695,102472,105140,103250,109012,106703
+ "25007","Dukes, MA",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",4789,4688,4510,4076,5243,5444
+ "25007","Dukes, MA",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",95907,97785,100633,99183,103761,101248
+ "25007","Dukes, MA",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",162827,163909,172922,120796,169237,177730
+ "25007","Dukes, MA",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",47941,48649,51575,36236,51303,58499
+ "25007","Dukes, MA",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",114886,115262,121351,84557,117911,119292
+ "25007","Dukes, MA",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",46266,45934,47555,42818,47954,48660
+ "25007","Dukes, MA",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",165598,168451,168774,159714,157602,158331
+ "25007","Dukes, MA",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",9906,(D),(D),(D),(D),(D)
+ "25007","Dukes, MA",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "25007","Dukes, MA",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),35459,(D)
+ "25007","Dukes, MA",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",29958,68570,(D),(D),36349,(D)
+ "25007","Dukes, MA",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),176241
+ "25007","Dukes, MA",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),1119602
+ "25009","Essex, MA",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",44185330,45387624,46020521,43992053,46565610,47094918
+ "25009","Essex, MA",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",39459971,40593852,41281168,39439145,42056711,42473803
+ "25009","Essex, MA",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",59583,64927,88273,77790,72727,72196
+ "25009","Essex, MA",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",9688,10217,16886,12358,7955,5870
+ "25009","Essex, MA",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",294506,461595,480143,717254,637610,715887
+ "25009","Essex, MA",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",2080967,2174414,2230927,2005583,2091248,1915525
+ "25009","Essex, MA",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",6485125,7091439,6866932,6525412,6881634,6950539
+ "25009","Essex, MA",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",4611014,5041981,4904188,4656511,5095916,5146980
+ "25009","Essex, MA",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",1874111,2049456,1962928,1869065,1792480,1810383
+ "25009","Essex, MA",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",2587171,2458638,2363785,2368710,2571908,2312215
+ "25009","Essex, MA",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",2452008,2453241,2481304,2316028,2363748,2180847
+ "25009","Essex, MA",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",1077796,1092834,1216047,1036908,1153789,1107279
+ "25009","Essex, MA",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",1738572,1702172,1844406,1844474,2051830,2169530
+ "25009","Essex, MA",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",8435625,8289109,8603014,8864286,9097444,9328267
+ "25009","Essex, MA",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",1966377,1939138,1954346,2207364,2151461,2083694
+ "25009","Essex, MA",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",6469248,6349824,6650728,6654286,6946003,7250100
+ "25009","Essex, MA",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",5832393,6229124,6295385,6031609,7022169,7515276
+ "25009","Essex, MA",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",3511970,3808346,3802129,3680827,4316694,4891444
+ "25009","Essex, MA",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",963366,1015706,993828,987011,1119227,974702
+ "25009","Essex, MA",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1357057,1405143,1496927,1366083,1586957,1636117
+ "25009","Essex, MA",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",5556918,5602770,5669632,5338556,5445310,5458120
+ "25009","Essex, MA",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",658072,669972,692662,621072,644357,667614
+ "25009","Essex, MA",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",4898846,4932763,4976726,4717833,4801091,4790249
+ "25009","Essex, MA",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",1754497,1812036,1949882,1298463,1642683,1809391
+ "25009","Essex, MA",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",372477,390203,421824,275660,347828,403256
+ "25009","Essex, MA",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",1382019,1421850,1528092,1022806,1294843,1407223
+ "25009","Essex, MA",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",1095122,1156867,1176199,1019260,1085808,1123378
+ "25009","Essex, MA",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",4725359,4794200,4741592,4554409,4522816,4633939
+ "25009","Essex, MA",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",69271,75141,105215,90153,80687,78045
+ "25009","Essex, MA",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",5039179,4911019,4841409,4683946,4933310,4491763
+ "25009","Essex, MA",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",1372302,1555133,1696653,1758773,1789757,1828896
+ "25009","Essex, MA",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",8223697,8795851,8707478,8361974,8918491,9094992
+ "25009","Essex, MA",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",8635363,9339890,9206032,8618164,9048507,8916468
+ "25009","Essex, MA",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",30824608,31256351,32074731,30818920,33002371,33546475
+ "25011","Franklin, MA",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2798786,2918238,2917567,2913131,2877170,2835214
+ "25011","Franklin, MA",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",2365858,2477345,2479499,2501547,2472282,2422873
+ "25011","Franklin, MA",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",20946,(D),45989,(D),40678,9565
+ "25011","Franklin, MA",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",1797,(D),1613,1647,903,(D)
+ "25011","Franklin, MA",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",46876,(D),55903,68442,72410,(D)
+ "25011","Franklin, MA",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",161532,162056,161807,(D),155903,139394
+ "25011","Franklin, MA",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",362367,419268,417094,407559,399734,387831
+ "25011","Franklin, MA",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",195365,238836,(D),240362,213975,221424
+ "25011","Franklin, MA",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",167002,180398,(D),167048,185240,166841
+ "25011","Franklin, MA",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",95316,91112,85788,87798,94617,89637
+ "25011","Franklin, MA",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",174788,(D),211029,228687,259867,257822
+ "25011","Franklin, MA",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",71001,71618,67482,60167,62901,61456
+ "25011","Franklin, MA",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",83205,82302,93487,84626,87347,95251
+ "25011","Franklin, MA",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",553392,566904,515581,626919,500620,501572
+ "25011","Franklin, MA",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",74192,73953,74638,77542,72352,71117
+ "25011","Franklin, MA",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",479200,493000,440713,549378,428066,430303
+ "25011","Franklin, MA",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",232350,244423,247453,245796,262093,259828
+ "25011","Franklin, MA",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",89743,91058,93163,96260,97320,104082
+ "25011","Franklin, MA",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",90051,97057,94391,98856,104924,101047
+ "25011","Franklin, MA",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",52555,56338,59741,51101,59999,54853
+ "25011","Franklin, MA",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",376385,383754,394284,373914,371449,377070
+ "25011","Franklin, MA",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",120442,121232,125067,113952,121232,125046
+ "25011","Franklin, MA",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",255943,262528,269218,260015,250180,251971
+ "25011","Franklin, MA",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",107713,101895,105794,69020,89282,97455
+ "25011","Franklin, MA",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",27751,21754,24682,17117,27416,33192
+ "25011","Franklin, MA",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",79962,80116,81118,51924,62070,64730
+ "25011","Franklin, MA",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",78190,80607,79434,71365,73834,75662
+ "25011","Franklin, MA",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",432928,440946,438148,412315,405657,413176
+ "25011","Franklin, MA",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",22743,(D),47501,(D),41503,(D)
+ "25011","Franklin, MA",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",270105,(D),296202,315706,353684,346764
+ "25011","Franklin, MA",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",117877,(D),123371,128474,135180,(D)
+ "25011","Franklin, MA",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",445572,501809,510336,492282,486870,481377
+ "25011","Franklin, MA",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",546642,(D),625311,585084,597930,(D)
+ "25011","Franklin, MA",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1819216,(D),1854163,1915935,1874268,(D)
+ "25013","Hampden, MA",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",22155823,22303642,22784592,22263246,23241880,23213480
+ "25013","Hampden, MA",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",18607995,18787536,19314610,18935157,19904037,19838006
+ "25013","Hampden, MA",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",20116,19700,25315,21338,22061,29322
+ "25013","Hampden, MA",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",18822,14993,25075,26043,9832,8105
+ "25013","Hampden, MA",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",435354,497963,452004,648943,602359,556112
+ "25013","Hampden, MA",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",904339,892048,877761,850529,836757,772367
+ "25013","Hampden, MA",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",2346744,2303503,2168698,2073608,2137360,1970021
+ "25013","Hampden, MA",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",1470272,1401970,1351172,1296880,1319324,1193737
+ "25013","Hampden, MA",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",876472,901417,817126,776181,817537,775574
+ "25013","Hampden, MA",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1127922,1080262,1199032,1443936,1831914,1802836
+ "25013","Hampden, MA",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1339884,1417269,1483146,1383819,1394149,1367256
+ "25013","Hampden, MA",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",611816,636888,662261,618509,632035,616688
+ "25013","Hampden, MA",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",449988,453377,500467,471737,506924,546268
+ "25013","Hampden, MA",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",4580172,4569339,4829133,4867627,5003323,5009132
+ "25013","Hampden, MA",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",1829472,1856409,1913294,2078999,2074922,1993066
+ "25013","Hampden, MA",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",2750700,2712497,2916041,2788221,2927813,3014581
+ "25013","Hampden, MA",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",1599340,1640382,1664661,1644944,1749081,1801723
+ "25013","Hampden, MA",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",767712,788696,809440,798612,826808,884643
+ "25013","Hampden, MA",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",341733,335111,336591,357980,378981,394291
+ "25013","Hampden, MA",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",489895,516354,518319,490379,544390,526430
+ "25013","Hampden, MA",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",3841479,3863328,3959469,3773808,3877194,4020292
+ "25013","Hampden, MA",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",404528,402274,408452,366595,367599,377035
+ "25013","Hampden, MA",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",3436951,3461076,3551087,3407664,3510223,3643972
+ "25013","Hampden, MA",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",762512,813969,877390,577880,739100,800549
+ "25013","Hampden, MA",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",161671,154842,155350,89739,146680,162329
+ "25013","Hampden, MA",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",600842,659083,721924,488222,592219,638107
+ "25013","Hampden, MA",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",569506,584688,587444,528107,550621,555135
+ "25013","Hampden, MA",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",3547828,3516377,3471369,3330636,3343815,3381652
+ "25013","Hampden, MA",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",38938,34638,50548,47758,31691,37310
+ "25013","Hampden, MA",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",2467806,2496696,2683081,2834710,3230328,3174206
+ "25013","Hampden, MA",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",1047170,1134862,1114280,1266405,1232721,1170301
+ "25013","Hampden, MA",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",2796732,2756750,2666376,2543071,2640328,2501336
+ "25013","Hampden, MA",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",3290021,3230245,3097391,2972700,3004488,2780077
+ "25013","Hampden, MA",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",15317974,15556900,16216270,15961643,16896968,17057240
+ "25015","Hampshire, MA",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",7605323,7679414,7838147,7472707,7567556,7702689
+ "25015","Hampshire, MA",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",5732459,5768892,5893172,5670800,5829401,5846471
+ "25015","Hampshire, MA",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),26746,49829,42775,37385,27709
+ "25015","Hampshire, MA",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",5448,4609,5186,3689,2834,2327
+ "25015","Hampshire, MA",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),27515,34399,49716,44940,52373
+ "25015","Hampshire, MA",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",273908,262489,260407,241282,245215,221489
+ "25015","Hampshire, MA",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",281604,306753,346051,320352,323667,326732
+ "25015","Hampshire, MA",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),157409,158050,152722,153094,148697
+ "25015","Hampshire, MA",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),149355,188193,167618,170594,178226
+ "25015","Hampshire, MA",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",847554,850394,815367,809030,873189,778211
+ "25015","Hampshire, MA",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",(D),448837,478018,475267,511509,473540
+ "25015","Hampshire, MA",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",70910,63706,62181,47255,56004,71010
+ "25015","Hampshire, MA",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",146852,157563,193834,196589,211913,220046
+ "25015","Hampshire, MA",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1252230,1246476,1246958,1354585,1248035,1265809
+ "25015","Hampshire, MA",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",224010,216380,213310,233711,216039,209292
+ "25015","Hampshire, MA",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1028220,1030305,1034033,1121218,1032297,1057494
+ "25015","Hampshire, MA",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",479546,492794,497102,487710,526937,581167
+ "25015","Hampshire, MA",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",305573,314353,331041,330630,354112,379983
+ "25015","Hampshire, MA",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",42290,42614,45627,47102,50115,58679
+ "25015","Hampshire, MA",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",131683,135816,120812,110777,123303,142911
+ "25015","Hampshire, MA",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",1325084,1325627,1351420,1236043,1266218,1329473
+ "25015","Hampshire, MA",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",621228,621849,625647,555468,555868,593683
+ "25015","Hampshire, MA",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",703856,703777,725882,680962,710988,736292
+ "25015","Hampshire, MA",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",361962,353122,351374,223372,293870,340471
+ "25015","Hampshire, MA",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",110581,101620,102825,59135,81908,111995
+ "25015","Hampshire, MA",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",251381,251458,248539,164095,211929,229876
+ "25015","Hampshire, MA",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",194170,202688,207717,189472,193410,187618
+ "25015","Hampshire, MA",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1872864,1910442,1944922,1802745,1740786,1859953
+ "25015","Hampshire, MA",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),31362,54781,46190,39963,29827
+ "25015","Hampshire, MA",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),1299135,1291862,1282764,1383027,1250563
+ "25015","Hampshire, MA",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),91251,96656,97051,100791,122986
+ "25015","Hampshire, MA",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",428456,464344,539470,516014,533905,544425
+ "25015","Hampshire, MA",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),600649,659280,606444,607435,573194
+ "25015","Hampshire, MA",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),5168248,5234132,5064149,5221509,5273557
+ "25017","Middlesex, MA",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",157595241,165887874,174052620,174861873,188703914,190978324
+ "25017","Middlesex, MA",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",145825679,153874535,162010999,163215210,177181931,179335611
+ "25017","Middlesex, MA",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",38867,43422,64324,117746,69166,43958
+ "25017","Middlesex, MA",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",43722,35780,38254,22984,18606,13608
+ "25017","Middlesex, MA",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1638752,1424103,1296906,1670080,1485327,1862002
+ "25017","Middlesex, MA",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",5546423,5621289,5827197,5629415,6075934,5523906
+ "25017","Middlesex, MA",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",18937832,21090715,21006785,21586215,23561084,23250326
+ "25017","Middlesex, MA",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",11519350,12325395,12151013,11590995,12445971,12143330
+ "25017","Middlesex, MA",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",7418481,8757937,8845032,9965518,11068603,11042939
+ "25017","Middlesex, MA",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",9633170,9171553,8991845,8890766,9200537,8733953
+ "25017","Middlesex, MA",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",5171449,5376021,5655413,5102083,5090941,4912761
+ "25017","Middlesex, MA",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",1717957,1747578,1773101,1891035,2066180,1997714
+ "25017","Middlesex, MA",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",14895596,15453272,16855554,17901081,20425887,21881714
+ "25017","Middlesex, MA",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",24655918,25259822,26497430,26785346,27702110,28542235
+ "25017","Middlesex, MA",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",6253810,6456623,6567756,6894616,6964469,6730966
+ "25017","Middlesex, MA",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",18402108,18802234,19934804,19890793,20741875,21831914
+ "25017","Middlesex, MA",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",38957723,43824722,48209602,50864747,57342203,56990919
+ "25017","Middlesex, MA",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",29270812,32724121,36239974,39391219,45548688,44199555
+ "25017","Middlesex, MA",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",5211497,6537177,6934216,7052543,7140312,7570527
+ "25017","Middlesex, MA",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",4475414,4571046,5037875,4457363,4681438,5212133
+ "25017","Middlesex, MA",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",17016587,17138542,17819472,17352608,18275994,19042324
+ "25017","Middlesex, MA",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",7132660,7202602,7314690,6957461,7004846,7353524
+ "25017","Middlesex, MA",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",9883927,9935848,10506945,10400112,11282550,11699747
+ "25017","Middlesex, MA",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",5030501,5089573,5458395,3486257,4292899,5085229
+ "25017","Middlesex, MA",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1629455,1669882,1758682,975800,1285210,1697619
+ "25017","Middlesex, MA",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",3401046,3419816,3699346,2509266,3007085,3397291
+ "25017","Middlesex, MA",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",2541183,2649113,2672407,2383274,2487369,2530911
+ "25017","Middlesex, MA",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",11769561,12017168,12059490,11684392,11627993,11751166
+ "25017","Middlesex, MA",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",82589,79033,101843,137345,85711,56075
+ "25017","Middlesex, MA",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",14804619,14543582,14632131,13988320,14284463,13641505
+ "25017","Middlesex, MA",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",3356709,3171412,3069657,3559765,3544102,3867638
+ "25017","Middlesex, MA",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",33833428,36553592,37843618,39454407,43914428,44918535
+ "25017","Middlesex, MA",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",24566844,26784954,26938745,27330305,29687094,28737839
+ "25017","Middlesex, MA",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",121258835,127090728,135069641,135883087,147492586,150645883
+ "25019","Nantucket, MA",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1251956,1310547,1351160,1251479,1378384,1384714
+ "25019","Nantucket, MA",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1140036,1196445,1236233,1139197,1268415,1270618
+ "25019","Nantucket, MA",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),2286,2326
+ "25019","Nantucket, MA",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,0,0,0,(D),(D)
+ "25019","Nantucket, MA",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",3938,4234,(D),(D),6158,(D)
+ "25019","Nantucket, MA",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",194271,195107,199944,174936,182883,172623
+ "25019","Nantucket, MA",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),28912,(D),(D),(D),(D)
+ "25019","Nantucket, MA",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),6820,(D),(D),(D),(D)
+ "25019","Nantucket, MA",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",11623,22079,21449,21008,10158,14281
+ "25019","Nantucket, MA",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "25019","Nantucket, MA",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",(D),(D),109833,93290,92088,87826
+ "25019","Nantucket, MA",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "25019","Nantucket, MA",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),19712,19353,(D),22961
+ "25019","Nantucket, MA",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",321866,339600,347079,397022,413118,(D)
+ "25019","Nantucket, MA",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",28288,27433,25236,27569,29581,31555
+ "25019","Nantucket, MA",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",293578,312246,322098,369799,383867,(D)
+ "25019","Nantucket, MA",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",129711,137420,143891,143063,165850,173754
+ "25019","Nantucket, MA",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "25019","Nantucket, MA",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "25019","Nantucket, MA",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",79597,86957,93029,94707,108342,112178
+ "25019","Nantucket, MA",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",55850,56703,59803,62720,66330,66866
+ "25019","Nantucket, MA",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",5172,4913,4900,4659,5351,5514
+ "25019","Nantucket, MA",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",50679,51791,54908,58075,60984,61356
+ "25019","Nantucket, MA",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",232236,242641,255362,161678,239861,262052
+ "25019","Nantucket, MA",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",65029,67443,67909,46455,69742,79173
+ "25019","Nantucket, MA",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",167207,175197,187428,115151,169995,182816
+ "25019","Nantucket, MA",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",35658,38364,38156,33445,35743,36726
+ "25019","Nantucket, MA",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",111920,114111,114942,112238,110132,114304
+ "25019","Nantucket, MA",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "25019","Nantucket, MA",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",104536,111518,(D),(D),(D),(D)
+ "25019","Nantucket, MA",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "25019","Nantucket, MA",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",38778,(D),(D),(D),34948,(D)
+ "25019","Nantucket, MA",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),193636
+ "25019","Nantucket, MA",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),1077815
+ "25021","Norfolk, MA",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",52796425,54251356,54657040,52754957,55422410,57045702
+ "25021","Norfolk, MA",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",48682929,50054727,50470819,48725856,51444179,53045146
+ "25021","Norfolk, MA",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",12424,18500,17939,25302,17791,11326
+ "25021","Norfolk, MA",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",13733,13252,12696,9206,7304,6453
+ "25021","Norfolk, MA",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1160553,1081652,1486987,1687331,1879078,2443152
+ "25021","Norfolk, MA",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",2812170,2928524,2912378,2626244,2820308,2596374
+ "25021","Norfolk, MA",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",4128134,4302784,4475887,4274931,4115682,4152696
+ "25021","Norfolk, MA",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",2483650,2624165,2600001,2386091,2380111,2316652
+ "25021","Norfolk, MA",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",1644484,1679413,1873591,1887053,1736449,1827969
+ "25021","Norfolk, MA",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",4248537,3938934,3808628,3831162,3854363,3838317
+ "25021","Norfolk, MA",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",3054588,3127258,3175025,2935518,2915904,2778932
+ "25021","Norfolk, MA",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",914109,816093,816731,764955,825331,782348
+ "25021","Norfolk, MA",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",2610897,2572376,2789249,2736607,2961530,3138805
+ "25021","Norfolk, MA",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",12517267,13204246,12726438,12979931,13436035,13868127
+ "25021","Norfolk, MA",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",4105490,4347482,4366052,4394642,4409944,4515128
+ "25021","Norfolk, MA",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",8411777,8856439,8354722,8580609,9023931,9352235
+ "25021","Norfolk, MA",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",8370517,8968551,8982917,9008347,9876792,10303493
+ "25021","Norfolk, MA",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",5164014,5521760,5547970,5655528,6408245,6838898
+ "25021","Norfolk, MA",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",1359489,1476265,1418209,1467790,1471805,1406482
+ "25021","Norfolk, MA",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1847015,1970709,2014416,1891878,2003350,2060701
+ "25021","Norfolk, MA",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",5255579,5333191,5473983,5108742,5497111,5605121
+ "25021","Norfolk, MA",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",1037075,1060306,1079838,990887,985838,1003990
+ "25021","Norfolk, MA",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",4218504,4272841,4394226,4118268,4513449,4603375
+ "25021","Norfolk, MA",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",2450852,2517702,2557450,1682671,2101660,2434616
+ "25021","Norfolk, MA",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1103611,1197269,1201265,702053,900035,1120193
+ "25021","Norfolk, MA",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",1347242,1320904,1356348,978628,1200133,1319707
+ "25021","Norfolk, MA",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",1133569,1234995,1259434,1108242,1219978,1205748
+ "25021","Norfolk, MA",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",4113496,4196788,4186899,4030071,3989474,4013845
+ "25021","Norfolk, MA",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",26157,31749,30631,34369,24969,17524
+ "25021","Norfolk, MA",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",7303125,7063858,6977472,6765361,6768526,6613497
+ "25021","Norfolk, MA",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",2074663,1897650,2302127,2449900,2702350,3232489
+ "25021","Norfolk, MA",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",6739031,6876639,7263908,7008286,7058541,7256972
+ "25021","Norfolk, MA",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",6966461,7263039,7415832,6925134,6966283,6755722
+ "25021","Norfolk, MA",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",41716468,42791686,43054900,41800392,44475429,46299353
+ "25023","Plymouth, MA",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",25453042,26252816,26619396,25051382,26633983,26619904
+ "25023","Plymouth, MA",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",21827299,22545738,22914555,21498136,23107846,23049128
+ "25023","Plymouth, MA",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",109391,120651,84580,66075,94491,58561
+ "25023","Plymouth, MA",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",15696,15869,23415,17430,16270,10297
+ "25023","Plymouth, MA",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1240337,1322281,1198933,961582,1122709,1144721
+ "25023","Plymouth, MA",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",1721793,1815007,1923270,1785119,1947516,1816965
+ "25023","Plymouth, MA",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",1643817,1840395,1771691,1728498,1673436,1584892
+ "25023","Plymouth, MA",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",933110,945276,956569,913196,912476,856717
+ "25023","Plymouth, MA",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",710707,894733,814612,815458,761216,728355
+ "25023","Plymouth, MA",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1727133,1631113,1566778,1535870,1550915,1414550
+ "25023","Plymouth, MA",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1765395,1834651,1903360,1743978,1695626,1607658
+ "25023","Plymouth, MA",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",417845,400606,427029,389690,420942,400654
+ "25023","Plymouth, MA",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",491994,523690,575601,558877,679691,723386
+ "25023","Plymouth, MA",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",5696318,5908701,6076655,5966958,6626134,6647633
+ "25023","Plymouth, MA",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",1361936,1359580,1405888,1650781,1866637,1813935
+ "25023","Plymouth, MA",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",4334383,4550112,4671604,4313615,4756149,4831955
+ "25023","Plymouth, MA",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",2641496,2688720,2748426,2770229,2993634,3227873
+ "25023","Plymouth, MA",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",1372502,1399450,1414980,1416790,1566124,1683960
+ "25023","Plymouth, MA",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",525898,542647,549912,594221,606767,702218
+ "25023","Plymouth, MA",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",743096,746786,782978,762574,821722,851112
+ "25023","Plymouth, MA",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",2533696,2599801,2682147,2535029,2577359,2638898
+ "25023","Plymouth, MA",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",197868,197961,222237,219417,207318,221693
+ "25023","Plymouth, MA",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",2335828,2401864,2459713,2315276,2369976,2416990
+ "25023","Plymouth, MA",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",1125637,1117572,1196204,800422,1034433,1138992
+ "25023","Plymouth, MA",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",263038,261008,269911,175262,241573,274978
+ "25023","Plymouth, MA",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",862599,856563,926249,625137,792986,864552
+ "25023","Plymouth, MA",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",696749,728779,739174,655883,697910,717796
+ "25023","Plymouth, MA",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",3625744,3707227,3705409,3552611,3530871,3575980
+ "25023","Plymouth, MA",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",125087,136477,108668,84022,110880,68962
+ "25023","Plymouth, MA",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",3492528,3464636,3465943,3277717,3243826,3020520
+ "25023","Plymouth, MA",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",1658182,1722850,1626208,1351963,1544816,1547279
+ "25023","Plymouth, MA",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",2135811,2364440,2345081,2285348,2341360,2287493
+ "25023","Plymouth, MA",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",3490697,3791186,3807730,3600342,3741784,3477314
+ "25023","Plymouth, MA",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",18336601,18755072,19107304,17898227,19365186,19574003
+ "25025","Suffolk, MA",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",126697805,132288474,137817167,136032512,145017316,151982653
+ "25025","Suffolk, MA",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",114959123,120342117,125825415,124499435,133556191,140578723
+ "25025","Suffolk, MA",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),9042,13059,3528,5124
+ "25025","Suffolk, MA",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",4450,4069,4720,3639,2831,2603
+ "25025","Suffolk, MA",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",354641,385594,425901,549737,518976,539274
+ "25025","Suffolk, MA",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",2396851,2748535,2949501,2872283,2817184,2462080
+ "25025","Suffolk, MA",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),1667777,1590152,1643558,1519997
+ "25025","Suffolk, MA",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",986958,(D),840946,779775,782623,667082
+ "25025","Suffolk, MA",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),704794,828616,813193,864386,860126
+ "25025","Suffolk, MA",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1931623,2052471,2151214,2196854,2120294,1986693
+ "25025","Suffolk, MA",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",2924934,3351973,3829215,3722762,3656692,3844478
+ "25025","Suffolk, MA",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",3781126,3878857,4167786,2404111,3063718,3666040
+ "25025","Suffolk, MA",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",5487476,6141677,7744793,8995016,10288205,10752494
+ "25025","Suffolk, MA",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",40963251,42921040,42443298,44061416,45029058,47132835
+ "25025","Suffolk, MA",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",27402084,27920339,27161116,28278171,27337187,28750836
+ "25025","Suffolk, MA",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",13561166,15018787,15316736,15816159,17844614,18528958
+ "25025","Suffolk, MA",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",26905752,28652846,31069881,32020980,36446022,39222874
+ "25025","Suffolk, MA",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",21982645,23169689,25318759,26526382,30405971,33125956
+ "25025","Suffolk, MA",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",1868940,2067107,2307232,2208312,2339898,2168751
+ "25025","Suffolk, MA",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",3054167,3416756,3449901,3288026,3689845,3887649
+ "25025","Suffolk, MA",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",20329779,20013043,20672447,20525491,21574384,21713203
+ "25025","Suffolk, MA",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",4450818,4593670,4856662,4676643,4735204,5076802
+ "25025","Suffolk, MA",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",15878961,15418418,15813565,15848933,16842786,16636075
+ "25025","Suffolk, MA",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",6302164,6635467,6814833,3936004,5162504,6591717
+ "25025","Suffolk, MA",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1793627,1836555,1752731,890623,1208646,1679141
+ "25025","Suffolk, MA",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",4508537,4798381,5057802,3041296,3949148,4917762
+ "25025","Suffolk, MA",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",1886885,1993392,2070146,1830676,1898401,1980502
+ "25025","Suffolk, MA",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",11738683,11946935,11994866,11541987,11492980,11452764
+ "25025","Suffolk, MA",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),13805,16710,6487,7721
+ "25025","Suffolk, MA",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",4856557,5403118,5973392,5914916,5772863,5831406
+ "25025","Suffolk, MA",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",4135768,4264776,4594201,2965316,3576519,4183210
+ "25025","Suffolk, MA",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),9396868,10545845,11871280,12177356
+ "25025","Suffolk, MA",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",4091491,4327165,4634285,4483133,4468298,3985822
+ "25025","Suffolk, MA",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",110867632,116015151,121190829,120017979,129095332,136646598
+ "25027","Worcester, MA",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",42528144,43386286,44035944,43083909,45449132,46308136
+ "25027","Worcester, MA",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",36970740,37689837,38327232,37600445,40013893,40707182
+ "25027","Worcester, MA",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",26461,32289,69068,18426,18706,92385
+ "25027","Worcester, MA",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",51069,47078,60037,46193,31628,26935
+ "25027","Worcester, MA",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1083119,1225611,1298843,1646272,1620837,2081400
+ "25027","Worcester, MA",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",2040627,2040674,2016558,1911996,2061796,1884521
+ "25027","Worcester, MA",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",5579183,5631081,5541080,5354435,5497186,5351384
+ "25027","Worcester, MA",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",3618033,3671980,3487741,3230522,3217076,3109359
+ "25027","Worcester, MA",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",1961149,1959256,2052157,2123466,2277136,2237318
+ "25027","Worcester, MA",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",2205567,2066526,1899974,1870558,1810737,1852788
+ "25027","Worcester, MA",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",2527907,2670027,2811302,2714459,3237386,3088349
+ "25027","Worcester, MA",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",979484,980370,1010906,939266,970134,951033
+ "25027","Worcester, MA",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",1032642,1027976,1190288,1147869,1253381,1325138
+ "25027","Worcester, MA",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",8273208,8401993,8447320,8596258,8988408,8925982
+ "25027","Worcester, MA",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",2767612,2653094,2606653,2783594,2647652,2659217
+ "25027","Worcester, MA",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",5505597,5751315,5844132,5815535,6343533,6269569
+ "25027","Worcester, MA",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",4712221,4991671,5262040,5341717,6172655,6462818
+ "25027","Worcester, MA",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",2675440,2868630,3092559,3266092,3741335,3949170
+ "25027","Worcester, MA",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",846336,945956,960548,896420,918930,938029
+ "25027","Worcester, MA",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1190446,1178332,1210126,1178831,1493176,1554507
+ "25027","Worcester, MA",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",6038829,6120170,6244917,6128790,6180699,6322798
+ "25027","Worcester, MA",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",1023736,1040454,1068086,1002195,997909,1025904
+ "25027","Worcester, MA",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",5015093,5079704,5176752,5127123,5183511,5297575
+ "25027","Worcester, MA",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",1417417,1417289,1454481,994803,1251482,1418410
+ "25027","Worcester, MA",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",262524,260640,270562,168107,237367,284182
+ "25027","Worcester, MA",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",1154894,1156642,1183946,826585,1014511,1135594
+ "25027","Worcester, MA",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",1003008,1039252,1042690,927353,970277,980659
+ "25027","Worcester, MA",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",5557404,5696287,5709409,5486820,5450722,5616351
+ "25027","Worcester, MA",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",77530,79276,128241,65099,50357,112451
+ "25027","Worcester, MA",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",4733473,4734638,4702176,4576879,5044059,4934856
+ "25027","Worcester, MA",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",2062602,2205914,2309593,2582096,2587263,3034572
+ "25027","Worcester, MA",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",6611824,6659205,6725993,6497204,6740248,6652724
+ "25027","Worcester, MA",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",7697340,7750882,7685107,7331677,7615917,7347789
+ "25027","Worcester, MA",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",29273401,29938527,30640079,30264353,32388880,33349307
+"Note: See the included footnote file."
+"CAGDP9: Real GDP by county and metropolitan area 1/"
+"Last updated: December 7, 2023 -- new statistics for 2022, revised statistics for 2017-2021."
+"U.S. Bureau of Economic Analysis"

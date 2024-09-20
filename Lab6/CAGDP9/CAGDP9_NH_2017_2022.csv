@@ -1,0 +1,379 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2017,2018,2019,2020,2021,2022
+ "33000","New Hampshire",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",81179571,82269495,84031186,83182099,89890076,90150471
+ "33000","New Hampshire",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",72452690,73617957,75337456,74741594,81441146,81620808
+ "33000","New Hampshire",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",249366,222756,236287,240231,202322,137637
+ "33000","New Hampshire",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",87515,154923,145904,128414,104235,116057
+ "33000","New Hampshire",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1329799,1293006,1231886,1326747,1215071,1195739
+ "33000","New Hampshire",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",2561013,2602348,2687775,2454105,2702353,2547087
+ "33000","New Hampshire",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",8187444,8265906,8339433,8199960,9138558,8750543
+ "33000","New Hampshire",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",6104874,6140204,6143782,5991453,6888428,6614737
+ "33000","New Hampshire",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",2082570,2125621,2195450,2208598,2253563,2140393
+ "33000","New Hampshire",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",5384400,5426517,5392658,5686321,5925040,5758080
+ "33000","New Hampshire",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",5921788,6105125,6299630,6320960,6293799,6159910
+ "33000","New Hampshire",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",1210525,1252992,1165347,1267702,1452258,1398292
+ "33000","New Hampshire",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",3052261,3221919,3705768,3691663,3982969,4462232
+ "33000","New Hampshire",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",18494104,18073193,18267842,18732463,18622214,19440216
+ "33000","New Hampshire",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",6616149,6792297,7093139,6542419,6153504,6339380
+ "33000","New Hampshire",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",11877956,11275793,11165311,12188992,12476002,13110093
+ "33000","New Hampshire",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",10563462,10940134,11343876,11739285,16079263,15134427
+ "33000","New Hampshire",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",6340065,6667056,6994784,7397507,8565343,9536736
+ "33000","New Hampshire",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",1320140,1293362,1386534,1424169,4567179,1960509
+ "33000","New Hampshire",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",2903256,2979404,2966808,2928922,3178543,3625519
+ "33000","New Hampshire",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",9411789,9689878,10024741,9825015,10082805,10404255
+ "33000","New Hampshire",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",1873369,1941234,2016423,1918356,1951735,2061586
+ "33000","New Hampshire",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",7538420,7748573,8008122,7907686,8132532,8343137
+ "33000","New Hampshire",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",4160333,4445418,4574284,3474974,4152100,4572149
+ "33000","New Hampshire",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1106435,1212477,1407433,841231,1052992,1170878
+ "33000","New Hampshire",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",3053898,3233064,3168417,2637569,3103159,3405994
+ "33000","New Hampshire",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",1838891,1932452,1968292,1745094,1904784,1978792
+ "33000","New Hampshire",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",8726880,8652673,8696653,8447607,8478483,8558645
+ "33000","New Hampshire",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",336880,379054,382947,368519,306313,253967
+ "33000","New Hampshire",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",11306188,11530753,11686330,12006111,12214908,11914762
+ "33000","New Hampshire",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",2540325,2545907,2397155,2594417,2663738,2591304
+ "33000","New Hampshire",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",11239704,11486137,12028886,11873447,13109152,13127746
+ "33000","New Hampshire",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",11085338,11246983,11411606,11015281,12135996,11533039
+ "33000","New Hampshire",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",61367353,62370922,63925427,63723943,69304891,70089853
+ "33001","Belknap, NH",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2883380,2957557,2878759,2894200,3012081,2857890
+ "33001","Belknap, NH",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",2527129,2605529,2523087,2551465,2669686,2509713
+ "33001","Belknap, NH",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),3223,3922,4296,1311
+ "33001","Belknap, NH",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",(D),22432,22745,19045,(D),(D)
+ "33001","Belknap, NH",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),20361,24036,(D),(D)
+ "33001","Belknap, NH",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",162728,167050,161327,130884,150485,134450
+ "33001","Belknap, NH",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",218210,230662,225395,203495,208224,194265
+ "33001","Belknap, NH",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),175295
+ "33001","Belknap, NH",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),19098
+ "33001","Belknap, NH",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",140716,143950,140898,142887,154385,106907
+ "33001","Belknap, NH",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",308319,319734,327842,317808,304777,299259
+ "33001","Belknap, NH",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",43173,43322,42232,43248,49567,45001
+ "33001","Belknap, NH",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",42096,46492,63034,58902,64125,71190
+ "33001","Belknap, NH",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",675989,684602,601086,753005,639854,621482
+ "33001","Belknap, NH",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",84642,83117,87831,82645,80862,87723
+ "33001","Belknap, NH",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",591348,601554,512639,670349,558720,533000
+ "33001","Belknap, NH",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",272965,280148,261128,302421,450155,355419
+ "33001","Belknap, NH",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",132195,136110,130543,159363,161216,173042
+ "33001","Belknap, NH",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",68412,75467,64817,69965,221021,85237
+ "33001","Belknap, NH",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",72358,68661,65618,72697,79101,94152
+ "33001","Belknap, NH",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",300088,(D),307191,285636,(D),(D)
+ "33001","Belknap, NH",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",27004,(D),31561,28930,(D),(D)
+ "33001","Belknap, NH",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",273084,269712,275596,256683,261226,266129
+ "33001","Belknap, NH",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",237507,251086,257368,191014,240745,266267
+ "33001","Belknap, NH",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",42757,47803,57368,31598,43939,48353
+ "33001","Belknap, NH",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",194751,203295,200098,159666,197027,218145
+ "33001","Belknap, NH",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",88347,91814,90839,77997,90038,93491
+ "33001","Belknap, NH",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",356251,352096,355632,342987,343009,348883
+ "33001","Belknap, NH",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),26112,23022,(D),(D)
+ "33001","Belknap, NH",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",449035,463665,468506,460613,458845,406735
+ "33001","Belknap, NH",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),62590,67223,(D),(D)
+ "33001","Belknap, NH",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",260306,277136,287811,261721,271388,263106
+ "33001","Belknap, NH",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),412789,356957,(D),(D)
+ "33001","Belknap, NH",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),2110333,2194975,(D),(D)
+ "33003","Carroll, NH",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2298916,2320694,2255370,2291873,2307623,2317984
+ "33003","Carroll, NH",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",2047742,2070984,2005564,2046497,2062455,2067560
+ "33003","Carroll, NH",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),10258,6600
+ "33003","Carroll, NH",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",2915,4885,4928,3957,(D),(D)
+ "33003","Carroll, NH",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",17414,14598,(D),(D),11540,(D)
+ "33003","Carroll, NH",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",106583,108843,107521,95442,96531,73356
+ "33003","Carroll, NH",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",87411,(D),(D),(D),(D),74655
+ "33003","Carroll, NH",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",55153,48376,50244,46753,45193,43100
+ "33003","Carroll, NH",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",32257,(D),(D),(D),(D),31463
+ "33003","Carroll, NH",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",74805,74908,77871,81645,73761,66538
+ "33003","Carroll, NH",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",194301,200933,201757,187392,180878,174299
+ "33003","Carroll, NH",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),14385,14609,15053,17049,16230
+ "33003","Carroll, NH",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",49325,56628,67512,59985,59006,61531
+ "33003","Carroll, NH",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",694198,694236,611668,749424,641271,(D)
+ "33003","Carroll, NH",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",73635,77528,79776,77636,82238,91192
+ "33003","Carroll, NH",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",620563,616618,531375,671601,558518,(D)
+ "33003","Carroll, NH",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",185562,178886,194329,223988,288267,308505
+ "33003","Carroll, NH",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",104640,94030,106534,137296,183087,202424
+ "33003","Carroll, NH",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",7988,7703,6573,6624,21870,7531
+ "33003","Carroll, NH",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",72933,77137,81169,80315,85597,98827
+ "33003","Carroll, NH",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",194319,197304,(D),(D),208920,212159
+ "33003","Carroll, NH",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",27265,28998,(D),(D),28672,29344
+ "33003","Carroll, NH",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",167054,168300,173513,170891,180279,182842
+ "33003","Carroll, NH",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",353415,365465,345660,263604,333303,370639
+ "33003","Carroll, NH",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",52558,55380,61742,37752,51239,52127
+ "33003","Carroll, NH",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",300857,310090,284003,226310,282410,318910
+ "33003","Carroll, NH",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",60191,65497,64388,57214,63496,64673
+ "33003","Carroll, NH",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",251174,249723,249789,245505,245344,250620
+ "33003","Carroll, NH",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "33003","Carroll, NH",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",269107,275817,279694,269327,254982,241254
+ "33003","Carroll, NH",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),28984,(D),(D),28573,(D)
+ "33003","Carroll, NH",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",136736,(D),(D),(D),(D),134982
+ "33003","Carroll, NH",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),208249,210849,196732,190913,(D)
+ "33003","Carroll, NH",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),1862732,1794698,1849948,1871909,(D)
+ "33005","Cheshire, NH",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",3790789,3814381,3905076,3851983,4099491,3917127
+ "33005","Cheshire, NH",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",3357639,3392563,3487825,3445322,3696937,3520931
+ "33005","Cheshire, NH",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),9594,4704
+ "33005","Cheshire, NH",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",(D),1170,1010,698,(D),(D)
+ "33005","Cheshire, NH",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),8373,7464,9367,7080,7402
+ "33005","Cheshire, NH",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",161860,152835,162591,175628,188103,176039
+ "33005","Cheshire, NH",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",481751,471799,469753,446641,497224,472393
+ "33005","Cheshire, NH",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",404332,387126,382192,363985,415634,397070
+ "33005","Cheshire, NH",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",77419,84647,87552,82630,81354,75162
+ "33005","Cheshire, NH",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",213069,225240,226215,249222,197627,185496
+ "33005","Cheshire, NH",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",327209,321537,326042,339408,344172,343140
+ "33005","Cheshire, NH",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",38104,(D),(D),(D),(D),(D)
+ "33005","Cheshire, NH",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",78808,86934,92813,97146,101262,113804
+ "33005","Cheshire, NH",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1066945,1084063,1153660,1105091,1023869,(D)
+ "33005","Cheshire, NH",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",542460,577012,638177,572725,492761,512996
+ "33005","Cheshire, NH",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",524486,506820,515229,531740,529840,(D)
+ "33005","Cheshire, NH",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",383596,403772,406004,416363,708814,497734
+ "33005","Cheshire, NH",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",127111,130414,137027,144822,173717,199961
+ "33005","Cheshire, NH",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",168963,187763,183663,193779,467368,192620
+ "33005","Cheshire, NH",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",87522,85730,85298,78426,82331,99581
+ "33005","Cheshire, NH",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",349267,352149,358713,361782,370487,381491
+ "33005","Cheshire, NH",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",64794,68054,70461,64316,67133,70007
+ "33005","Cheshire, NH",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",284473,284080,288220,297571,303432,311545
+ "33005","Cheshire, NH",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",139408,141228,139428,111656,128501,141521
+ "33005","Cheshire, NH",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",34601,36817,38447,23382,30828,35299
+ "33005","Cheshire, NH",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",104808,104421,101027,88227,97711,106357
+ "33005","Cheshire, NH",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",97898,102415,105459,90965,96731,101459
+ "33005","Cheshire, NH",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",433150,421903,417522,407047,404009,397391
+ "33005","Cheshire, NH",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "33005","Cheshire, NH",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",540278,546908,552331,588979,542748,529772
+ "33005","Cheshire, NH",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "33005","Cheshire, NH",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",560559,558639,562232,542845,598050,583240
+ "33005","Cheshire, NH",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "33005","Cheshire, NH",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "33007","Coos, NH",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1259972,1270547,1247410,1240373,1287511,1296450
+ "33007","Coos, NH",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",999146,1012758,990703,991430,1037748,1046844
+ "33007","Coos, NH",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",14429,11924,(D),(D),7953,5055
+ "33007","Coos, NH",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",1950,4961,3384,2104,(D),(D)
+ "33007","Coos, NH",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",80818,(D),(D),(D),(D),63075
+ "33007","Coos, NH",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),30548,32773,26945,41366
+ "33007","Coos, NH",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),61321
+ "33007","Coos, NH",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),29874
+ "33007","Coos, NH",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",27100,26478,34108,35204,37078,31642
+ "33007","Coos, NH",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",27905,29484,29106,32874,31704,28587
+ "33007","Coos, NH",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",94615,98062,99422,106082,108795,109143
+ "33007","Coos, NH",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",26635,25371,28328,26871,28201,25864
+ "33007","Coos, NH",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",19710,22990,27825,25155,23638,24285
+ "33007","Coos, NH",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",319831,313315,275529,302714,307787,(D)
+ "33007","Coos, NH",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",26640,28290,27495,24539,24274,25954
+ "33007","Coos, NH",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",293191,284959,247830,278152,283509,(D)
+ "33007","Coos, NH",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",43688,45786,49315,49638,85394,74518
+ "33007","Coos, NH",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",15649,17450,19940,21381,25426,25032
+ "33007","Coos, NH",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",12095,13242,13444,13040,39593,16745
+ "33007","Coos, NH",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",15944,15107,15920,15202,22104,31369
+ "33007","Coos, NH",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",150797,(D),(D),(D),(D),(D)
+ "33007","Coos, NH",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",5396,(D),(D),(D),(D),(D)
+ "33007","Coos, NH",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",145401,144447,145115,141787,139602,138276
+ "33007","Coos, NH",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",130083,135119,129747,98487,119111,139029
+ "33007","Coos, NH",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",21399,20873,21656,13288,18920,20411
+ "33007","Coos, NH",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",108684,114242,108092,85367,100147,118606
+ "33007","Coos, NH",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",20180,20996,19292,17799,19472,19449
+ "33007","Coos, NH",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",260826,257804,256706,249052,250019,249820
+ "33007","Coos, NH",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",16380,16948,(D),(D),(D),(D)
+ "33007","Coos, NH",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",122520,127552,128506,138980,140553,137854
+ "33007","Coos, NH",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",107453,(D),(D),(D),(D),88955
+ "33007","Coos, NH",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),85138
+ "33007","Coos, NH",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",84884,93588,114878,110214,104695,(D)
+ "33007","Coos, NH",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",914263,919167,875946,881296,933181,(D)
+ "33009","Grafton, NH",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",6546178,6737152,6772431,6794280,7224705,7342959
+ "33009","Grafton, NH",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",5924144,6117347,6148111,6185003,6614628,6753551
+ "33009","Grafton, NH",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",68726,79360,73784,108036,80367,68180
+ "33009","Grafton, NH",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",6070,11512,10117,8085,7109,7258
+ "33009","Grafton, NH",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",99667,101142,120800,132578,80572,65665
+ "33009","Grafton, NH",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",81108,100841,10845,5773,3513,38202
+ "33009","Grafton, NH",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",565767,564737,533309,501819,561190,569310
+ "33009","Grafton, NH",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",486146,489473,455030,421527,478335,494566
+ "33009","Grafton, NH",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",79621,75344,78261,80603,83106,76148
+ "33009","Grafton, NH",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",199123,200258,204756,198400,233603,247310
+ "33009","Grafton, NH",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",389057,396834,408419,429725,467147,482902
+ "33009","Grafton, NH",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",68472,64878,57177,59760,64913,59516
+ "33009","Grafton, NH",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",166067,186681,262140,255248,270378,297767
+ "33009","Grafton, NH",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",992948,1028350,957902,1070785,1131037,1115612
+ "33009","Grafton, NH",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",241531,244620,253058,276589,273564,255293
+ "33009","Grafton, NH",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",751416,783859,703982,793419,857653,861432
+ "33009","Grafton, NH",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",679925,680904,738863,774556,978127,889900
+ "33009","Grafton, NH",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",469528,490257,561119,590029,633473,672793
+ "33009","Grafton, NH",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",105267,80351,64438,70480,235943,90237
+ "33009","Grafton, NH",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",105130,109968,112211,113246,120895,124497
+ "33009","Grafton, NH",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",2078394,2144903,2226301,2215687,2237085,2336577
+ "33009","Grafton, NH",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",753428,778940,789052,746200,761808,830619
+ "33009","Grafton, NH",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",1324966,1365954,1437545,1470680,1476252,1506144
+ "33009","Grafton, NH",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",427524,449370,443218,343132,420770,486168
+ "33009","Grafton, NH",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",83136,88515,97183,63324,76687,82369
+ "33009","Grafton, NH",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",344388,360859,346102,280328,344776,404587
+ "33009","Grafton, NH",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",101295,107769,109293,94123,101489,105550
+ "33009","Grafton, NH",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",622034,619924,624425,609842,611961,591797
+ "33009","Grafton, NH",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",74797,91030,84001,115607,87168,75204
+ "33009","Grafton, NH",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",588180,597067,613107,627673,700005,729326
+ "33009","Grafton, NH",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",168140,166022,177963,192294,145353,124967
+ "33009","Grafton, NH",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",731834,751095,791702,753063,828135,860550
+ "33009","Grafton, NH",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",721672,756455,625352,617084,645008,676213
+ "33009","Grafton, NH",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",5202472,5360941,5521568,5566540,5967928,6075305
+ "33011","Hillsborough, NH",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",25959140,26455143,27030133,26988108,29685180,30015576
+ "33011","Hillsborough, NH",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",23501247,23988884,24546884,24541400,27228798,27544068
+ "33011","Hillsborough, NH",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),24889,14159
+ "33011","Hillsborough, NH",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",9539,19273,19962,16654,(D),(D)
+ "33011","Hillsborough, NH",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",42281,49066,47684,64402,60617,64893
+ "33011","Hillsborough, NH",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),958888,832475,907427,803292
+ "33011","Hillsborough, NH",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",3020564,3104718,3143954,3237257,3909496,3709029
+ "33011","Hillsborough, NH",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",2511255,2555979,2571596,2657418,3274431,3122653
+ "33011","Hillsborough, NH",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",509309,548740,572227,579926,637908,590090
+ "33011","Hillsborough, NH",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1924610,1924085,1975144,2130329,2134664,2180008
+ "33011","Hillsborough, NH",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1931660,1985878,2024646,2105259,2150507,2073269
+ "33011","Hillsborough, NH",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "33011","Hillsborough, NH",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",1381752,1474806,1607764,1659281,1816808,2028082
+ "33011","Hillsborough, NH",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",5808336,5663661,5722234,5659491,5688186,(D)
+ "33011","Hillsborough, NH",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",2366308,2349608,2363869,2276279,2223327,2412815
+ "33011","Hillsborough, NH",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",3442028,3313277,3357845,3384352,3470174,(D)
+ "33011","Hillsborough, NH",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",3725355,3949647,4029796,4194193,5752944,5662935
+ "33011","Hillsborough, NH",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",2366126,2483344,2590610,2746360,3333491,3769144
+ "33011","Hillsborough, NH",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",424645,429360,422739,444087,1380287,603942
+ "33011","Hillsborough, NH",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",934584,1036508,1016652,1006513,1106797,1285492
+ "33011","Hillsborough, NH",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",2858027,2958732,3050169,2978487,3098599,3209632
+ "33011","Hillsborough, NH",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",500453,520406,548009,535172,546019,562013
+ "33011","Hillsborough, NH",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",2357573,2438313,2501980,2443139,2552641,2647756
+ "33011","Hillsborough, NH",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",933755,969719,977281,786514,866687,945758
+ "33011","Hillsborough, NH",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",162646,169424,190454,127192,172284,188197
+ "33011","Hillsborough, NH",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",771108,800296,786928,659587,694739,757920
+ "33011","Hillsborough, NH",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",569655,599143,616629,542286,586891,596559
+ "33011","Hillsborough, NH",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",2457893,2466522,2484069,2448368,2465370,2480869
+ "33011","Hillsborough, NH",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "33011","Hillsborough, NH",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",3856270,3909591,3999725,4236811,4286816,4253145
+ "33011","Hillsborough, NH",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "33011","Hillsborough, NH",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",4402316,4579033,4748578,4893192,5730132,5716167
+ "33011","Hillsborough, NH",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "33011","Hillsborough, NH",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "33013","Merrimack, NH",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",9725499,9855047,9975733,9598953,9871443,10390990
+ "33013","Merrimack, NH",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",8114269,8264727,8357622,8026075,8329123,8831863
+ "33013","Merrimack, NH",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",64002,41394,48758,32382,22974,11278
+ "33013","Merrimack, NH",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",32918,61106,58514,55489,39996,43491
+ "33013","Merrimack, NH",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",80082,97133,76012,75011,73624,66332
+ "33013","Merrimack, NH",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",336688,336754,359060,347241,335044,324459
+ "33013","Merrimack, NH",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",648642,642177,642076,597213,610516,590306
+ "33013","Merrimack, NH",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",495096,497376,495766,453615,467064,458980
+ "33013","Merrimack, NH",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",153546,144750,146280,143736,143518,131636
+ "33013","Merrimack, NH",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",874045,873165,851520,869618,939944,1127591
+ "33013","Merrimack, NH",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",619123,618705,666187,667006,629444,634435
+ "33013","Merrimack, NH",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",121798,131466,117302,136107,133085,137702
+ "33013","Merrimack, NH",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",112440,133462,171429,176615,183462,206203
+ "33013","Merrimack, NH",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",2628949,2612472,2621528,2439900,2343912,2574928
+ "33013","Merrimack, NH",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",1349147,1415389,1402400,1171781,947918,964692
+ "33013","Merrimack, NH",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1279802,1196272,1218439,1267477,1393901,1606376
+ "33013","Merrimack, NH",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",923712,1022051,1036088,1052889,1395818,1419318
+ "33013","Merrimack, NH",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",575586,616351,620389,642368,727152,802112
+ "33013","Merrimack, NH",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",77309,82134,87923,98533,360861,235799
+ "33013","Merrimack, NH",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",270817,323426,327823,313337,335425,390781
+ "33013","Merrimack, NH",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",1118238,1120921,1138233,1095057,1123843,1141101
+ "33013","Merrimack, NH",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",152849,162566,169166,157874,156972,171111
+ "33013","Merrimack, NH",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",965389,958306,968958,937174,966971,969858
+ "33013","Merrimack, NH",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",295918,300358,306200,243455,260233,286034
+ "33013","Merrimack, NH",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",89008,90736,99934,58110,66626,73002
+ "33013","Merrimack, NH",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",206910,209624,206341,185328,193653,213068
+ "33013","Merrimack, NH",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",257714,273692,269474,244194,259211,283685
+ "33013","Merrimack, NH",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1611230,1590477,1618204,1572616,1544143,1561027
+ "33013","Merrimack, NH",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",96921,103425,107817,89029,63810,55922
+ "33013","Merrimack, NH",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",1493167,1491869,1516017,1535161,1566866,1757109
+ "33013","Merrimack, NH",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",201880,228593,193323,211229,206819,203796
+ "33013","Merrimack, NH",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",761082,775275,811572,771161,791004,789550
+ "33013","Merrimack, NH",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1082251,1082249,1109231,1035026,1009976,970853
+ "33013","Merrimack, NH",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",7032019,7182414,7248382,6990711,7317939,7861724
+ "33015","Rockingham, NH",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",21226840,21380637,22310157,22136661,24644467,24104465
+ "33015","Rockingham, NH",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",19718329,19892038,20823401,20729028,23202375,22601080
+ "33015","Rockingham, NH",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",37869,32561,24701,24836,27180,16287
+ "33015","Rockingham, NH",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",12761,14951,13612,12211,13860,16210
+ "33015","Rockingham, NH",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",941942,882745,844363,897879,862598,872414
+ "33015","Rockingham, NH",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",624609,613574,758595,754690,805907,744164
+ "33015","Rockingham, NH",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",2217523,2256224,2312430,2235361,2342688,2252931
+ "33015","Rockingham, NH",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",1264479,1284839,1303382,1199001,1323862,1241055
+ "33015","Rockingham, NH",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",953045,971378,1009093,1038043,1020622,1012172
+ "33015","Rockingham, NH",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1682819,1700972,1635830,1703195,1848068,1508957
+ "33015","Rockingham, NH",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1516089,1591464,1656517,1584834,1540621,1496805
+ "33015","Rockingham, NH",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",437187,476758,441569,515298,608773,584263
+ "33015","Rockingham, NH",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",964848,995675,1163727,1127180,1216314,1365941
+ "33015","Rockingham, NH",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",4421892,4184804,4360319,4758760,4958474,5130097
+ "33015","Rockingham, NH",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",1237412,1313682,1454526,1392564,1435570,1416914
+ "33015","Rockingham, NH",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",3184480,2868588,2901115,3363759,3520663,3712538
+ "33015","Rockingham, NH",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",3473629,3474768,3684022,3751058,5304114,4740628
+ "33015","Rockingham, NH",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",1941201,2067726,2154048,2258148,2566562,2834262
+ "33015","Rockingham, NH",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",431625,394880,520391,501209,1760357,690654
+ "33015","Rockingham, NH",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1100803,1012754,1014280,997434,1067872,1213057
+ "33015","Rockingham, NH",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",1567884,1654837,1749933,1729046,1781517,1841050
+ "33015","Rockingham, NH",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",242753,251354,273597,263874,269307,280257
+ "33015","Rockingham, NH",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",1325131,1403513,1476239,1465224,1512330,1560870
+ "33015","Rockingham, NH",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",1377113,1545530,1693984,1207297,1518672,1648693
+ "33015","Rockingham, NH",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",563727,634705,772444,443479,536220,609154
+ "33015","Rockingham, NH",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",813386,910834,922299,764730,983531,1041918
+ "33015","Rockingham, NH",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",442163,469317,495739,446709,494470,512733
+ "33015","Rockingham, NH",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1508511,1488783,1487762,1410367,1449266,1509440
+ "33015","Rockingham, NH",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",50630,47467,38243,37021,40991,31462
+ "33015","Rockingham, NH",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",3198908,3292014,3288925,3286922,3385711,3006874
+ "33015","Rockingham, NH",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",1379129,1359422,1285869,1413309,1469334,1455795
+ "33015","Rockingham, NH",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",3182372,3251695,3470758,3357201,3550832,3584911
+ "33015","Rockingham, NH",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",2892762,2917187,3112570,3031145,3194450,3031597
+ "33015","Rockingham, NH",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",16825567,16974851,17710728,17698007,20007381,19571551
+ "33017","Strafford, NH",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",5889718,5892716,6069441,5798911,6155237,6393224
+ "33017","Strafford, NH",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",4862598,4881477,5065326,4826063,5182693,5419624
+ "33017","Strafford, NH",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",8976,9563,(D),(D),11974,6862
+ "33017","Strafford, NH",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",4512,6333,4039,3573,(D),(D)
+ "33017","Strafford, NH",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",13929,16424,14987,17281,15435,14613
+ "33017","Strafford, NH",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),57322,1916,98048,139177
+ "33017","Strafford, NH",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),504538,467666,539395,529452
+ "33017","Strafford, NH",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",318025,302032,323017,306881,381049,392049
+ "33017","Strafford, NH",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),181737,161094,159972,141506
+ "33017","Strafford, NH",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",189240,188271,189589,205383,224700,259032
+ "33017","Strafford, NH",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",412615,436747,449787,440012,422724,420535
+ "33017","Strafford, NH",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "33017","Strafford, NH",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",221898,199730,223979,213889,227943,271389
+ "33017","Strafford, NH",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1513964,1457828,1615164,1538970,1538137,(D)
+ "33017","Strafford, NH",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",637563,654361,738819,616861,531174,503023
+ "33017","Strafford, NH",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",876402,803048,875818,920977,1004490,(D)
+ "33017","Strafford, NH",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",752792,779644,819658,839293,952307,1000273
+ "33017","Strafford, NH",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",545833,566261,605471,626607,683445,743869
+ "33017","Strafford, NH",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",21403,19922,18149,14472,51094,27816
+ "33017","Strafford, NH",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",185555,193442,196460,198880,219432,230576
+ "33017","Strafford, NH",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",677679,691866,719143,694699,707287,719521
+ "33017","Strafford, NH",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",71482,66482,67619,60949,59206,55968
+ "33017","Strafford, NH",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",606197,625423,651589,633914,648325,663906
+ "33017","Strafford, NH",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",222073,243083,234902,190699,220725,242514
+ "33017","Strafford, NH",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",47539,59054,57995,36149,47057,53172
+ "33017","Strafford, NH",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",174534,184052,176937,154640,173770,189512
+ "33017","Strafford, NH",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",165475,163570,158569,140001,157683,164592
+ "33017","Strafford, NH",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1027120,1011364,1004905,973132,975837,978334
+ "33017","Strafford, NH",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",13489,15913,(D),(D),(D),(D)
+ "33017","Strafford, NH",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",601855,624905,639120,645609,647271,678743
+ "33017","Strafford, NH",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "33017","Strafford, NH",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),728078,680889,767420,796794
+ "33017","Strafford, NH",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "33017","Strafford, NH",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "33019","Sullivan, NH",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1599139,1585712,1589533,1590585,1618819,1536107
+ "33019","Sullivan, NH",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1400447,1391651,1391900,1401915,1429176,1345724
+ "33019","Sullivan, NH",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",13483,7254,15290,11070,3522,3276
+ "33019","Sullivan, NH",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",4269,8078,7366,6433,4695,4956
+ "33019","Sullivan, NH",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",24264,24681,17151,17394,16357,15554
+ "33019","Sullivan, NH",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",83775,77518,81078,77282,90350,72583
+ "33019","Sullivan, NH",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",368282,360197,350640,363147,340301,314396
+ "33019","Sullivan, NH",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",331777,324337,314626,327368,304090,282963
+ "33019","Sullivan, NH",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",36506,35862,36043,35746,36274,31457
+ "33019","Sullivan, NH",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",58067,66184,61729,72767,86583,47653
+ "33019","Sullivan, NH",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",128800,135232,139011,143434,144735,126123
+ "33019","Sullivan, NH",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",14297,16670,14247,13293,15593,14229
+ "33019","Sullivan, NH",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",15316,18541,25673,18426,20228,22246
+ "33019","Sullivan, NH",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",371052,349927,349616,352727,343923,345133
+ "33019","Sullivan, NH",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",56811,49286,48616,46255,45474,46187
+ "33019","Sullivan, NH",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",314241,300778,301174,306745,298706,299166
+ "33019","Sullivan, NH",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",122237,124372,124709,134128,161176,177607
+ "33019","Sullivan, NH",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",62194,65123,69172,69970,75470,111062
+ "33019","Sullivan, NH",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",2434,2540,4398,11982,28785,9928
+ "33019","Sullivan, NH",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",57609,56713,51279,52843,59061,57404
+ "33019","Sullivan, NH",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",117097,120229,121000,119227,121193,125724
+ "33019","Sullivan, NH",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",27945,29657,31445,28310,29531,29683
+ "33019","Sullivan, NH",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",89152,90568,89534,90930,91665,96056
+ "33019","Sullivan, NH",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",43537,44557,46998,39470,46136,49313
+ "33019","Sullivan, NH",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",9065,9191,10310,6860,8890,8680
+ "33019","Sullivan, NH",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",34472,35366,36689,32637,37268,40633
+ "33019","Sullivan, NH",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",35972,38239,38611,33806,35304,36601
+ "33019","Sullivan, NH",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",198692,194071,197632,188794,189820,190754
+ "33019","Sullivan, NH",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",17752,15480,22575,17504,8305,8357
+ "33019","Sullivan, NH",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",186867,201465,200592,216253,231202,174188
+ "33019","Sullivan, NH",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",38561,41361,31432,30699,31945,29787
+ "33019","Sullivan, NH",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",383598,378667,375797,381715,360351,335804
+ "33019","Sullivan, NH",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",469809,453217,454057,457956,439518,395469
+ "33019","Sullivan, NH",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",930638,938438,937844,943958,989256,950188
+"Note: See the included footnote file."
+"CAGDP9: Real GDP by county and metropolitan area 1/"
+"Last updated: December 7, 2023 -- new statistics for 2022, revised statistics for 2017-2021."
+"U.S. Bureau of Economic Analysis"

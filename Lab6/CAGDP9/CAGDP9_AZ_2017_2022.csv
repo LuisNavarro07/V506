@@ -1,0 +1,549 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2017,2018,2019,2020,2021,2022
+ "04000","Arizona",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",333098997,346398299,359645749,362603499,390805167,403474201
+ "04000","Arizona",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",290406039,303832334,316384088,319830175,346767475,358488619
+ "04000","Arizona",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",2392939,2344447,2463560,1877339,1625734,1758381
+ "04000","Arizona",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",4374039,4122715,3963562,4815520,6148193,4927198
+ "04000","Arizona",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",7063414,7015377,7245149,7995223,7250799,6533098
+ "04000","Arizona",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",15520314,17030479,18331331,19810439,20790146,20764968
+ "04000","Arizona",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",25753729,28454360,31171902,32037150,35303890,36433695
+ "04000","Arizona",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",21152204,23572781,25813316,26652426,29274686,30218354
+ "04000","Arizona",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",4601526,4881968,5358944,5386829,6027379,6214386
+ "04000","Arizona",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",18676564,18814367,18537090,19379796,19411319,19051966
+ "04000","Arizona",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",25116485,25702789,26454187,26956435,26780146,26432426
+ "04000","Arizona",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",10698512,11315229,11628722,10702567,13277137,14340588
+ "04000","Arizona",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",11582906,12419081,14728837,15126463,16998290,17467700
+ "04000","Arizona",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",75309803,78330872,80681521,84492865,90560110,95173996
+ "04000","Arizona",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",24471997,24935790,25721534,28058790,29865278,27654427
+ "04000","Arizona",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",50837806,53409744,54973322,56412701,60677747,67711755
+ "04000","Arizona",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",38345389,40581879,42374557,42221732,48548150,52835119
+ "04000","Arizona",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",19043261,20588142,21501644,21448685,24609498,26771321
+ "04000","Arizona",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",4131336,3808580,4311265,4783741,6049193,7149584
+ "04000","Arizona",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",15170792,16179355,16571525,16043080,18014715,19138516
+ "04000","Arizona",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",32766202,34108212,35723104,35286578,37617672,39404062
+ "04000","Arizona",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",4018766,4057272,4255873,3988660,4274290,4515101
+ "04000","Arizona",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",28747435,30051695,31467916,31303458,33348722,34893653
+ "04000","Arizona",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",15905160,16434040,15997543,12754890,15717185,17274963
+ "04000","Arizona",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",3682339,3717614,3492823,2308266,2690363,3354192
+ "04000","Arizona",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",12222821,12715818,12501757,10438134,13012886,13933665
+ "04000","Arizona",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",6900581,7185225,7308409,6534012,7417377,7647947
+ "04000","Arizona",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",42692957,42575227,43280564,42812801,44143515,45098340
+ "04000","Arizona",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",6766978,6465090,6415073,6742741,7864683,6767251
+ "04000","Arizona",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",43793050,44514823,44966796,46320672,46174138,45469116
+ "04000","Arizona",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",17761927,18328689,18871929,18697230,20456740,20727064
+ "04000","Arizona",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",37336636,40876877,45877015,47139533,52259415,53861759
+ "04000","Arizona",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",48041022,51950095,55918713,58635468,63960319,63727741
+ "04000","Arizona",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",242365018,251889996,260491466,261246256,282870405,294823320
+ "04001","Apache, AZ",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2640484,2672460,2399841,2332203,2344892,2231257
+ "04001","Apache, AZ",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1723539,1758196,1498687,1442079,1454571,1338995
+ "04001","Apache, AZ",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",2715,47679,1725,(D),12201,6487
+ "04001","Apache, AZ",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",45172,39025,29377,27933,24245,24333
+ "04001","Apache, AZ",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",642136,607642,452013,474741,499976,441808
+ "04001","Apache, AZ",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",34598,31761,28011,36577,46574,36721
+ "04001","Apache, AZ",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",11302,13294,19204,14782,12512,10744
+ "04001","Apache, AZ",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",7095,6601,9150,9152,(D),(D)
+ "04001","Apache, AZ",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",4206,6637,9963,5411,(D),(D)
+ "04001","Apache, AZ",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),30648
+ "04001","Apache, AZ",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",59574,59034,56729,51655,48497,44468
+ "04001","Apache, AZ",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",279237,274178,250835,200156,177318,(D)
+ "04001","Apache, AZ",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",51796,37446,53914,59376,40001,36908
+ "04001","Apache, AZ",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",295365,337267,286100,270343,271586,(D)
+ "04001","Apache, AZ",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",18767,20535,21965,24304,25742,(D)
+ "04001","Apache, AZ",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",276598,316756,263981,245830,245624,246141
+ "04001","Apache, AZ",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",26819,(D),(D),(D),(D),30830
+ "04001","Apache, AZ",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",9280,(D),(D),(D),(D),(D)
+ "04001","Apache, AZ",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,(D),(D),(D),(D),(D)
+ "04001","Apache, AZ",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",17539,17134,15264,13688,16946,18233
+ "04001","Apache, AZ",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",193363,198109,201660,199302,194307,192865
+ "04001","Apache, AZ",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",24905,22387,22791,18305,18261,16418
+ "04001","Apache, AZ",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",168458,175735,178883,181075,176113,176533
+ "04001","Apache, AZ",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(D),45786,44569,35362,50900,52961
+ "04001","Apache, AZ",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),1872,3072,1356,1577,3005
+ "04001","Apache, AZ",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),43917,41528,34036,49371,50067
+ "04001","Apache, AZ",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",19408,20252,20182,19830,18831,18636
+ "04001","Apache, AZ",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",916945,914261,901219,889943,890194,894585
+ "04001","Apache, AZ",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",47886,85199,31661,(D),37644,31797
+ "04001","Apache, AZ",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),75015
+ "04001","Apache, AZ",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",921373,881824,703397,673416,676103,(D)
+ "04001","Apache, AZ",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",63098,50934,73401,74115,52903,47691
+ "04001","Apache, AZ",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",93786,130650,79849,(D),97730,80313
+ "04001","Apache, AZ",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1629753,1627009,1417930,(D),1357133,1260201
+ "04003","Cochise, AZ",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",4585054,4589727,4693345,4987234,4878561,4855020
+ "04003","Cochise, AZ",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",2820597,2858424,2930532,3192812,3060985,3141941
+ "04003","Cochise, AZ",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",12979,15021,42211,15222,28675,46747
+ "04003","Cochise, AZ",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",13993,12817,34847,30446,14523,(D)
+ "04003","Cochise, AZ",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",126645,123481,135495,160034,137286,(D)
+ "04003","Cochise, AZ",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",113935,122046,136725,248155,155574,131192
+ "04003","Cochise, AZ",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",56949,61029,71661,79196,90852,97656
+ "04003","Cochise, AZ",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",24850,24878,33658,37445,43599,48955
+ "04003","Cochise, AZ",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",32098,36145,37990,41732,47244,48769
+ "04003","Cochise, AZ",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",73988,70842,69580,74709,75980,84217
+ "04003","Cochise, AZ",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",292998,292504,289383,302824,293331,290479
+ "04003","Cochise, AZ",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",108042,80242,73828,112812,107635,98164
+ "04003","Cochise, AZ",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",91207,95571,104388,92550,69482,66424
+ "04003","Cochise, AZ",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",975616,1022044,991516,1130472,1071179,(D)
+ "04003","Cochise, AZ",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",398179,450067,413855,528264,526291,512007
+ "04003","Cochise, AZ",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",577437,571571,577497,602124,545040,(D)
+ "04003","Cochise, AZ",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",356460,373827,407991,430074,448901,479401
+ "04003","Cochise, AZ",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",228580,240941,284035,288134,309702,324186
+ "04003","Cochise, AZ",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",3582,3671,3418,16495,14526,37171
+ "04003","Cochise, AZ",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",124297,129224,121386,126695,126523,122550
+ "04003","Cochise, AZ",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",389745,382025,374975,333940,345337,374941
+ "04003","Cochise, AZ",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",109508,99022,79871,54548,64022,75880
+ "04003","Cochise, AZ",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",280237,283053,295435,280065,281813,299449
+ "04003","Cochise, AZ",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",135147,132740,127055,108884,150520,158127
+ "04003","Cochise, AZ",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",15551,13180,10969,8231,9194,11321
+ "04003","Cochise, AZ",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",119596,119547,116042,100598,141198,146790
+ "04003","Cochise, AZ",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",72894,74532,74292,67535,69303,70512
+ "04003","Cochise, AZ",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1764457,1731478,1763078,1795825,1818176,1713794
+ "04003","Cochise, AZ",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",26972,27833,77048,45724,43163,(D)
+ "04003","Cochise, AZ",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",366986,363312,358912,377530,369252,374434
+ "04003","Cochise, AZ",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",234687,203685,209137,273327,245601,(D)
+ "04003","Cochise, AZ",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",148155,156608,176164,172423,162643,167203
+ "04003","Cochise, AZ",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",197855,210913,284072,377344,290614,(D)
+ "04003","Cochise, AZ",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",2622742,2647515,2646044,2814609,2769929,(D)
+ "04005","Coconino, AZ",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",7898455,7901190,7675239,6954326,7483588,7696628
+ "04005","Coconino, AZ",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",6197518,6239480,6080060,5479360,5984470,6146164
+ "04005","Coconino, AZ",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",24009,75638,14928,71900,109294,30423
+ "04005","Coconino, AZ",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",16453,7455,3606,4636,4833,4577
+ "04005","Coconino, AZ",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",861731,726011,582113,183776,152347,127929
+ "04005","Coconino, AZ",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",240481,223458,233112,244127,264025,227257
+ "04005","Coconino, AZ",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",931862,977976,953272,1004215,1132262,1236054
+ "04005","Coconino, AZ",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",733817,782628,749371,798275,933792,1016351
+ "04005","Coconino, AZ",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",198045,195306,203968,206066,199852,221145
+ "04005","Coconino, AZ",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",97812,111709,102998,109150,102187,98463
+ "04005","Coconino, AZ",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",492767,504293,488826,511676,536707,550649
+ "04005","Coconino, AZ",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",122709,116386,112551,95064,108208,110952
+ "04005","Coconino, AZ",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",165679,183075,167371,129779,101219,94999
+ "04005","Coconino, AZ",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1273669,1274414,1372998,1324609,1375746,1532215
+ "04005","Coconino, AZ",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",160922,157744,160126,170566,182985,152022
+ "04005","Coconino, AZ",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1112747,1116793,1213687,1154089,1192589,1384737
+ "04005","Coconino, AZ",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",254201,273213,273727,259179,313450,354779
+ "04005","Coconino, AZ",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",147258,155375,155853,151536,172917,185977
+ "04005","Coconino, AZ",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",14080,16637,17253,15655,33023,45411
+ "04005","Coconino, AZ",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",92863,101224,100674,92041,109016,125931
+ "04005","Coconino, AZ",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",763176,778791,801497,788786,802220,814909
+ "04005","Coconino, AZ",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",32080,28295,30965,27353,32709,33345
+ "04005","Coconino, AZ",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",731095,750518,770531,761490,769460,781510
+ "04005","Coconino, AZ",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",826348,859355,836639,632770,859151,878934
+ "04005","Coconino, AZ",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",144864,151632,164150,95031,111414,130645
+ "04005","Coconino, AZ",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",681484,707728,672756,538191,748737,749883
+ "04005","Coconino, AZ",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",126622,131209,134319,122330,127496,130845
+ "04005","Coconino, AZ",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1700937,1661889,1595502,1474688,1501239,1552731
+ "04005","Coconino, AZ",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",40462,82079,18490,75208,112081,33971
+ "04005","Coconino, AZ",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",590579,616135,591749,620785,639049,649422
+ "04005","Coconino, AZ",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",984440,842392,694843,280451,262095,239874
+ "04005","Coconino, AZ",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",1097541,1161005,1120885,1136800,1239618,1338977
+ "04005","Coconino, AZ",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1212804,1282892,1207904,1321604,1507087,1455830
+ "04005","Coconino, AZ",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",4984714,4957253,4871924,4160188,4482062,4690862
+ "04007","Gila, AZ",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1690566,1655213,1646284,1726679,1853702,1799560
+ "04007","Gila, AZ",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1282745,1240371,1221380,1309727,1421855,1354644
+ "04007","Gila, AZ",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),23048,7004
+ "04007","Gila, AZ",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",341203,294046,277066,329430,410314,343050
+ "04007","Gila, AZ",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),12656,10502
+ "04007","Gila, AZ",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",72214,65188,58516,59191,65661,57269
+ "04007","Gila, AZ",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",135623,137884,166372,208475,190469,209444
+ "04007","Gila, AZ",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",131922,132416,157580,198789,178730,196937
+ "04007","Gila, AZ",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",3701,5555,8998,10088,11810,12595
+ "04007","Gila, AZ",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",13470,11064,10359,10902,10801,10534
+ "04007","Gila, AZ",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",115747,111492,106691,111108,109938,106357
+ "04007","Gila, AZ",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",30575,31323,30432,32898,33323,32560
+ "04007","Gila, AZ",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",27526,21193,18830,14797,12528,14028
+ "04007","Gila, AZ",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",291639,297186,297887,287604,291282,298999
+ "04007","Gila, AZ",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",45791,47724,50978,50056,48067,44277
+ "04007","Gila, AZ",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",245847,249428,246672,237286,243048,254966
+ "04007","Gila, AZ",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),51945,58905
+ "04007","Gila, AZ",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),21594,23481,30853,34484
+ "04007","Gila, AZ",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),2388
+ "04007","Gila, AZ",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),22181,(D),(D),(D),22383
+ "04007","Gila, AZ",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",97072,97355,103035,102396,107415,111925
+ "04007","Gila, AZ",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",5545,5473,5660,4317,4990,4799
+ "04007","Gila, AZ",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",91527,91882,97377,98088,102431,107134
+ "04007","Gila, AZ",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",70290,72415,70831,61671,79480,83878
+ "04007","Gila, AZ",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",8904,8428,8108,7268,6760,6883
+ "04007","Gila, AZ",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",61385,63987,62722,54401,72731,76999
+ "04007","Gila, AZ",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",23677,24718,24233,23012,22458,23001
+ "04007","Gila, AZ",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",407822,414896,424948,418039,433408,448077
+ "04007","Gila, AZ",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),433035,348353
+ "04007","Gila, AZ",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",129217,122533,117018,121979,120709,116860
+ "04007","Gila, AZ",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),45847,42950
+ "04007","Gila, AZ",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",163150,159420,186060,223759,203409,223885
+ "04007","Gila, AZ",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),696018,614815
+ "04007","Gila, AZ",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),732411,749419
+ "04009","Graham, AZ",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",970128,993239,1045003,1189701,1360297,1248772
+ "04009","Graham, AZ",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",719664,746030,796462,946123,1112708,995574
+ "04009","Graham, AZ",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",10509,(D),9337,18724,13737,7026
+ "04009","Graham, AZ",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",276164,297993,338063,450503,623086,516487
+ "04009","Graham, AZ",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",7048,(D),11635,16584,14455,11011
+ "04009","Graham, AZ",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",23931,26701,28428,33066,31996,26395
+ "04009","Graham, AZ",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",15922,16939,16164,19058,18882,17201
+ "04009","Graham, AZ",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",3621,3998,3757,4298,(D),(D)
+ "04009","Graham, AZ",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",12301,12940,12408,14762,(D),(D)
+ "04009","Graham, AZ",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",16871,20101,19310,20856,20347,(D)
+ "04009","Graham, AZ",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",91121,93525,95223,101280,89560,87282
+ "04009","Graham, AZ",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),9807,(D),(D),(D),(D)
+ "04009","Graham, AZ",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",3861,3492,3789,3521,4182,4574
+ "04009","Graham, AZ",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",115096,114365,114475,117171,115965,123131
+ "04009","Graham, AZ",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",20191,19717,19758,23293,23748,20619
+ "04009","Graham, AZ",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",94906,94662,94729,93764,92081,102749
+ "04009","Graham, AZ",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",19279,18015,19179,19584,22383,27968
+ "04009","Graham, AZ",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",10466,9800,10747,11986,13459,16021
+ "04009","Graham, AZ",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),0,0,0,(D),(D)
+ "04009","Graham, AZ",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),8215,8441,7661,(D),(D)
+ "04009","Graham, AZ",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "04009","Graham, AZ",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "04009","Graham, AZ",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",69230,72976,74986,78065,83451,84747
+ "04009","Graham, AZ",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(D),26486,27136,26070,30813,30411
+ "04009","Graham, AZ",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),1381,890,667,1338,1524
+ "04009","Graham, AZ",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",25583,25105,26243,25402,29469,28887
+ "04009","Graham, AZ",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",21989,23337,23803,22459,22804,24707
+ "04009","Graham, AZ",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",250464,247226,248623,244572,248571,256808
+ "04009","Graham, AZ",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",286673,(D),347472,469195,636903,523563
+ "04009","Graham, AZ",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",107992,113658,114520,122132,109872,(D)
+ "04009","Graham, AZ",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "04009","Graham, AZ",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",19783,20431,19945,22618,23047,21665
+ "04009","Graham, AZ",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",326526,(D),392120,521120,687891,566972
+ "04009","Graham, AZ",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",393138,(D),404268,426162,425265,434102
+ "04011","Greenlee, AZ",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1405891,1318779,1305215,1543251,1911407,1600809
+ "04011","Greenlee, AZ",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1363210,1276850,1263515,1504017,1871802,1559107
+ "04011","Greenlee, AZ",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",10224,14620,7677,(D),12510,11733
+ "04011","Greenlee, AZ",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",1143460,1060461,1057658,1292257,1667470,1334281
+ "04011","Greenlee, AZ",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",4795,(D),(D),(D),8007,6284
+ "04011","Greenlee, AZ",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",8398,6505,7206,6224,7027,30972
+ "04011","Greenlee, AZ",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",142,328,459,233,128,161
+ "04011","Greenlee, AZ",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",42,103,134,112,56,64
+ "04011","Greenlee, AZ",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",100,225,324,117,72,99
+ "04011","Greenlee, AZ",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",115736,108793,(D),(D),(D),(D)
+ "04011","Greenlee, AZ",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",11831,12663,16711,17872,18097,16327
+ "04011","Greenlee, AZ",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),7502,(D),(D),(D)
+ "04011","Greenlee, AZ",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",1231,1025,373,0,0,0
+ "04011","Greenlee, AZ",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",33038,32537,(D),30187,31351,(D)
+ "04011","Greenlee, AZ",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "04011","Greenlee, AZ",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),29317,(D),(D),(D)
+ "04011","Greenlee, AZ",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),6332,(D),(D),4834,(D)
+ "04011","Greenlee, AZ",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "04011","Greenlee, AZ",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "04011","Greenlee, AZ",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),6772,(D),(D),(D)
+ "04011","Greenlee, AZ",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "04011","Greenlee, AZ",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",61,53,32,20,28,30
+ "04011","Greenlee, AZ",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "04011","Greenlee, AZ",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",5269,(D),6822,4853,(D),(D)
+ "04011","Greenlee, AZ",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "04011","Greenlee, AZ",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "04011","Greenlee, AZ",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",2325,2561,(D),(D),(D),(D)
+ "04011","Greenlee, AZ",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",42681,41932,41702,39590,40003,43272
+ "04011","Greenlee, AZ",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",1153684,1074878,1065758,(D),1679947,1346222
+ "04011","Greenlee, AZ",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",127567,121438,(D),(D),(D),(D)
+ "04011","Greenlee, AZ",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "04011","Greenlee, AZ",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",1373,1357,846,243,133,167
+ "04011","Greenlee, AZ",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1162224,1081713,1073438,(D),1686927,1375320
+ "04011","Greenlee, AZ",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",200986,195159,190140,(D),186441,187581
+ "04012","La Paz, AZ",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",664070,665028,692747,679656,740315,676852
+ "04012","La Paz, AZ",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",493207,496139,514901,510164,570505,507898
+ "04012","La Paz, AZ",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",18269,18369,34992,(D),70291,16512
+ "04012","La Paz, AZ",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",9343,6988,6219,6661,8158,4870
+ "04012","La Paz, AZ",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),10082,11244,(D),(D),(D)
+ "04012","La Paz, AZ",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",7341,12172,8675,6689,7576,8470
+ "04012","La Paz, AZ",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",18527,14731,14768,13850,25212,28426
+ "04012","La Paz, AZ",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",14649,11730,11734,10563,17615,21594
+ "04012","La Paz, AZ",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",3878,3006,3037,3287,7417,7192
+ "04012","La Paz, AZ",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),10485,10457,10369,9472
+ "04012","La Paz, AZ",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",93537,84299,89643,88861,92115,94575
+ "04012","La Paz, AZ",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",16361,(D),(D),19144,16829,16882
+ "04012","La Paz, AZ",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",65970,70315,78962,76594,48796,46344
+ "04012","La Paz, AZ",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",161416,161798,(D),153208,162693,167890
+ "04012","La Paz, AZ",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),19241
+ "04012","La Paz, AZ",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),143197,(D),(D),148671
+ "04012","La Paz, AZ",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",12154,10734,8671,8777,(D),(D)
+ "04012","La Paz, AZ",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",6783,5363,5918,6463,(D),(D)
+ "04012","La Paz, AZ",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,(D),(D)
+ "04012","La Paz, AZ",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",5371,5370,2766,2340,3164,4051
+ "04012","La Paz, AZ",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",21194,26596,24607,27260,25444,26787
+ "04012","La Paz, AZ",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "04012","La Paz, AZ",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "04012","La Paz, AZ",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",40774,44574,39910,35515,68701,66875
+ "04012","La Paz, AZ",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "04012","La Paz, AZ",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "04012","La Paz, AZ",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",9750,11152,(D),(D),(D),(D)
+ "04012","La Paz, AZ",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",170864,168901,177835,169617,170276,169964
+ "04012","La Paz, AZ",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",27612,25297,40907,(D),77756,21265
+ "04012","La Paz, AZ",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),100151,99342,102518,104110
+ "04012","La Paz, AZ",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "04012","La Paz, AZ",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",84497,85026,93694,90410,73546,74270
+ "04012","La Paz, AZ",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",53479,52257,64303,(D),109919,51195
+ "04012","La Paz, AZ",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",439728,443881,450714,(D),461229,464124
+ "04013","Maricopa, AZ",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",237581202,248468203,260460624,263448936,286493701,298240414
+ "04013","Maricopa, AZ",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",214934988,225826677,237329842,240549600,262718434,273876016
+ "04013","Maricopa, AZ",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",474940,388649,498968,272004,156764,317527
+ "04013","Maricopa, AZ",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",978469,817401,796848,1139518,1467172,1197052
+ "04013","Maricopa, AZ",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",4396412,4446642,4879262,5809062,5226991,4721189
+ "04013","Maricopa, AZ",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",11943176,13206885,14325873,15438325,16206234,16723654
+ "04013","Maricopa, AZ",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",17323152,19278751,20691713,21326882,23753533,24204717
+ "04013","Maricopa, AZ",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",14207043,15972421,17100244,17710753,19712744,19996687
+ "04013","Maricopa, AZ",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",3116110,3306938,3591647,3617658,4041786,4201612
+ "04013","Maricopa, AZ",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",16072525,16210817,15987768,16701730,16846288,16529157
+ "04013","Maricopa, AZ",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",18010946,18545312,19351341,19644145,19671086,19399843
+ "04013","Maricopa, AZ",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",8018569,8677972,9197387,8217285,10495446,11531280
+ "04013","Maricopa, AZ",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",9083690,9736715,11678435,12294363,14634672,15101974
+ "04013","Maricopa, AZ",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",56818255,59134791,61759840,64912288,70234100,73799275
+ "04013","Maricopa, AZ",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",20749056,21206123,22183690,24169959,25646460,23787192
+ "04013","Maricopa, AZ",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",36069199,37939636,39585897,40724794,44583032,50186975
+ "04013","Maricopa, AZ",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",31692893,33564358,35435626,35316519,40852508,44335525
+ "04013","Maricopa, AZ",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",15430499,16853101,17839655,17799993,20496707,22320585
+ "04013","Maricopa, AZ",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",3888395,3552038,4043850,4493814,5626290,6504851
+ "04013","Maricopa, AZ",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",12373999,13153810,13561065,13072975,14833986,15691964
+ "04013","Maricopa, AZ",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",23809559,24907141,26253970,26037331,27972863,29734377
+ "04013","Maricopa, AZ",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",3176615,3259565,3465798,3283187,3485371,3686105
+ "04013","Maricopa, AZ",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",20632945,21647973,22788084,22757720,24492457,26054028
+ "04013","Maricopa, AZ",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",11464985,11891691,11527194,9051678,10756250,12114999
+ "04013","Maricopa, AZ",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",3141042,3166469,2948141,1950102,2253307,2842052
+ "04013","Maricopa, AZ",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",8323943,8724566,8576029,7093198,8491108,9282944
+ "04013","Maricopa, AZ",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",4847416,5042231,5115840,4534531,5171389,5401542
+ "04013","Maricopa, AZ",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",22646214,22646805,23142250,22923802,23841399,24437562
+ "04013","Maricopa, AZ",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",1453409,1206226,1289469,1431347,1656099,1540987
+ "04013","Maricopa, AZ",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",34083471,34753691,35313760,36328428,36498544,35911789
+ "04013","Maricopa, AZ",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",12414981,13122620,14075354,14036651,15654104,16109802
+ "04013","Maricopa, AZ",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",26406842,29018476,32346579,33588544,38310342,39211569
+ "04013","Maricopa, AZ",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",30719738,33691623,36311495,38228416,41593844,42447885
+ "04013","Maricopa, AZ",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",184215249,192142171,201033713,202345897,221149006,231445753
+ "04015","Mohave, AZ",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",5323399,5437354,5639351,5773611,6269010,6257347
+ "04015","Mohave, AZ",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",4659787,4792332,4961531,5127361,5592659,5558049
+ "04015","Mohave, AZ",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",32297,(D),(D),(D),49700,28564
+ "04015","Mohave, AZ",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",14381,25544,37875,56256,(D),(D)
+ "04015","Mohave, AZ",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",268145,(D),(D),(D),(D),370053
+ "04015","Mohave, AZ",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",266390,291657,312653,331490,373243,373131
+ "04015","Mohave, AZ",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",316375,350195,384900,376309,420692,383945
+ "04015","Mohave, AZ",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",200478,222174,230151,252134,252929,258992
+ "04015","Mohave, AZ",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",115897,128039,154487,123322,166881,129198
+ "04015","Mohave, AZ",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",76569,96681,113411,129608,121641,119544
+ "04015","Mohave, AZ",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",666006,666679,677862,728235,731531,732366
+ "04015","Mohave, AZ",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",156758,153528,140425,153346,176490,172532
+ "04015","Mohave, AZ",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",119238,123856,145031,145764,107946,99905
+ "04015","Mohave, AZ",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1307427,1299741,1325476,1376774,1463645,(D)
+ "04015","Mohave, AZ",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",238382,230023,223425,231956,249844,214442
+ "04015","Mohave, AZ",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1069046,1069977,1103064,1145881,1214814,(D)
+ "04015","Mohave, AZ",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",282743,(D),(D),(D),330176,408436
+ "04015","Mohave, AZ",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",129616,117971,116616,115916,136094,189183
+ "04015","Mohave, AZ",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",7471,(D),(D),(D),19516,30765
+ "04015","Mohave, AZ",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",145656,150593,156350,162045,175717,191973
+ "04015","Mohave, AZ",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",666750,710671,712196,693269,727851,735334
+ "04015","Mohave, AZ",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",32726,31425,32136,27850,31646,31134
+ "04015","Mohave, AZ",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",634023,679265,680069,665501,696231,704244
+ "04015","Mohave, AZ",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",345760,341324,314264,270001,(D),(D)
+ "04015","Mohave, AZ",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",25714,30585,26996,17286,(D),(D)
+ "04015","Mohave, AZ",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",320045,310753,287274,252759,387873,362199
+ "04015","Mohave, AZ",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",140950,150244,146674,123090,135415,140249
+ "04015","Mohave, AZ",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",663612,645119,677877,647180,677770,701678
+ "04015","Mohave, AZ",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",46678,(D),(D),(D),(D),(D)
+ "04015","Mohave, AZ",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",742575,763608,792151,859021,854486,853276
+ "04015","Mohave, AZ",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",424903,(D),(D),(D),(D),541794
+ "04015","Mohave, AZ",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",435613,474174,529727,521703,531736,486339
+ "04015","Mohave, AZ",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",629443,(D),(D),(D),(D),(D)
+ "04015","Mohave, AZ",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",4030344,(D),(D),(D),(D),(D)
+ "04017","Navajo, AZ",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2901492,3038306,2824979,2759998,2817394,2804006
+ "04017","Navajo, AZ",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",2121799,2247523,2017843,1951774,1970220,1951957
+ "04017","Navajo, AZ",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",16038,64270,24070,40002,60152,34969
+ "04017","Navajo, AZ",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",206343,199408,125122,21732,21923,19270
+ "04017","Navajo, AZ",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",201117,181381,147521,174411,114800,125365
+ "04017","Navajo, AZ",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",95377,108946,109640,115525,118469,113460
+ "04017","Navajo, AZ",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",23551,26237,27461,28204,31245,27656
+ "04017","Navajo, AZ",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",18466,18105,21231,22138,(D),(D)
+ "04017","Navajo, AZ",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",5085,8198,6213,6031,(D),(D)
+ "04017","Navajo, AZ",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",29049,31161,31512,33849,37369,34800
+ "04017","Navajo, AZ",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",285897,287739,276839,302230,285094,284909
+ "04017","Navajo, AZ",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",172087,162863,160204,142989,130533,128064
+ "04017","Navajo, AZ",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",24698,23330,31499,31213,31037,30141
+ "04017","Navajo, AZ",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",469378,537230,436965,433887,440551,438808
+ "04017","Navajo, AZ",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",59810,60978,60878,62861,70167,60049
+ "04017","Navajo, AZ",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",409567,476507,375590,370437,369582,378713
+ "04017","Navajo, AZ",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",95797,93000,101723,98790,114396,122386
+ "04017","Navajo, AZ",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",37690,36174,42784,40941,49115,55555
+ "04017","Navajo, AZ",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",13990,14018,13354,14533,13381,14032
+ "04017","Navajo, AZ",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",44116,42815,45525,43400,51602,52626
+ "04017","Navajo, AZ",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",310785,335597,350264,354527,381866,383804
+ "04017","Navajo, AZ",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",31518,27960,27543,23955,27262,26731
+ "04017","Navajo, AZ",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",279267,307670,322780,330712,354719,357203
+ "04017","Navajo, AZ",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",138624,141480,142844,122088,150565,157543
+ "04017","Navajo, AZ",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",9845,13776,10580,8450,9729,10134
+ "04017","Navajo, AZ",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",128779,127719,132251,113629,140828,147398
+ "04017","Navajo, AZ",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",53058,55279,52444,52811,57471,57734
+ "04017","Navajo, AZ",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",779693,790845,806862,807694,846485,851691
+ "04017","Navajo, AZ",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",222381,263110,149509,60436,79691,53022
+ "04017","Navajo, AZ",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",314945,318924,308439,336159,322444,319754
+ "04017","Navajo, AZ",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",373204,344256,308046,316547,244785,253243
+ "04017","Navajo, AZ",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",48250,49618,58818,59319,62489,57580
+ "04017","Navajo, AZ",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",341309,398298,287532,207516,232817,196300
+ "04017","Navajo, AZ",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1780490,1849079,1729983,1743289,1736553,1756581
+ "04019","Pima, AZ",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",42330595,43891349,45085532,44978084,47065575,47959709
+ "04019","Pima, AZ",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",34071031,35673983,36736271,36734108,38664482,39376959
+ "04019","Pima, AZ",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),48525,45433,51711,54608,54882
+ "04019","Pima, AZ",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",605211,579442,580123,686053,865971,703354
+ "04019","Pima, AZ",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),361688,393952,438353,353293,321706
+ "04019","Pima, AZ",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",1580802,1684649,1757747,1801654,1889864,1689414
+ "04019","Pima, AZ",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",5183931,5684329,6650823,6570749,7044256,7379840
+ "04019","Pima, AZ",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",4846816,5321163,6269722,6193298,6657607,6983237
+ "04019","Pima, AZ",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",337115,363233,381581,377919,387797,398698
+ "04019","Pima, AZ",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1082496,1065315,1030181,1060320,1029812,1000150
+ "04019","Pima, AZ",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",2909761,2909119,2904846,2935035,2814921,2781347
+ "04019","Pima, AZ",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",1020180,1042891,1010818,1005005,1191319,1254195
+ "04019","Pima, AZ",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",1567151,1737227,2013290,1930023,1692606,1733383
+ "04019","Pima, AZ",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",8210054,8649481,8389766,8879993,9103886,9379970
+ "04019","Pima, AZ",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",2033714,2006953,1877407,2066161,2188831,1968468
+ "04019","Pima, AZ",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",6176340,6646393,6519350,6818873,6918344,7431115
+ "04019","Pima, AZ",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",4153307,4336549,4212277,4161371,4578248,5013691
+ "04019","Pima, AZ",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",2373831,2435774,2310241,2297281,2581032,2773865
+ "04019","Pima, AZ",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",167467,177690,174053,175050,231026,377670
+ "04019","Pima, AZ",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1612009,1722984,1727035,1688878,1773511,1885770
+ "04019","Pima, AZ",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",4529613,4598895,4781388,4708145,4948756,4969038
+ "04019","Pima, AZ",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",349631,321508,348197,323788,367116,387804
+ "04019","Pima, AZ",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",4179982,4277568,4433178,4384719,4581429,4580644
+ "04019","Pima, AZ",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(D),1880603,1862372,1512677,1931400,2081476
+ "04019","Pima, AZ",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),221148,214225,158409,193694,230356
+ "04019","Pima, AZ",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",1627754,1659443,1648079,1354261,1737712,1852138
+ "04019","Pima, AZ",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",1030533,1098586,1140202,1021040,1180619,1139520
+ "04019","Pima, AZ",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",8259564,8219391,8352425,8249058,8413314,8595059
+ "04019","Pima, AZ",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),627299,625137,737466,920671,759183
+ "04019","Pima, AZ",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",3992257,3974265,3933711,3994504,3843729,3780873
+ "04019","Pima, AZ",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),1404628,1404658,1442685,1542782,1572219
+ "04019","Pima, AZ",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",6751082,7421387,8664421,8503673,8760525,9141217
+ "04019","Pima, AZ",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),7995170,9024978,9102580,9851832,9753449
+ "04019","Pima, AZ",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),27679928,27719430,27640411,28829435,29632033
+ "04021","Pinal, AZ",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",8486830,8942159,9139130,9345582,9849538,9982112
+ "04021","Pinal, AZ",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",6646100,7112400,7299806,7548034,8000709,8051192
+ "04021","Pinal, AZ",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",345100,355720,338101,143138,189770,194757
+ "04021","Pinal, AZ",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",344155,405246,322480,339673,377981,271765
+ "04021","Pinal, AZ",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",112824,160636,161839,166088,166603,155528
+ "04021","Pinal, AZ",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",428747,480976,510926,616748,753589,571921
+ "04021","Pinal, AZ",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",948214,980758,1170855,1412649,1472485,1675529
+ "04021","Pinal, AZ",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",501141,550668,654423,837641,829116,1006164
+ "04021","Pinal, AZ",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",447073,428739,514887,577902,643160,668991
+ "04021","Pinal, AZ",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",180986,186597,187858,205999,212122,212526
+ "04021","Pinal, AZ",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",585856,601139,610365,666228,646866,623559
+ "04021","Pinal, AZ",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",192665,190663,145738,185432,205868,203298
+ "04021","Pinal, AZ",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",105925,120589,153915,105059,68275,66201
+ "04021","Pinal, AZ",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",2051310,2210244,2223307,2240303,2286140,2402678
+ "04021","Pinal, AZ",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",167669,168552,157868,159535,194749,189516
+ "04021","Pinal, AZ",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1883641,2042118,2066644,2081970,2091633,2214716
+ "04021","Pinal, AZ",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",514272,564977,592741,589514,645572,701333
+ "04021","Pinal, AZ",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",133853,143735,170858,(D),200075,218980
+ "04021","Pinal, AZ",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",8491,7395,20859,(D),37498,48312
+ "04021","Pinal, AZ",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",371929,413822,401796,395883,411105,438711
+ "04021","Pinal, AZ",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",402023,415439,434842,428126,433594,449824
+ "04021","Pinal, AZ",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",63202,66016,76936,78258,89294,95341
+ "04021","Pinal, AZ",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",338820,349419,357797,349717,343957,354082
+ "04021","Pinal, AZ",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",237389,232758,237693,225279,302274,319672
+ "04021","Pinal, AZ",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",43196,34988,35519,23109,37713,48527
+ "04021","Pinal, AZ",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",194193,197734,202134,201975,264482,271616
+ "04021","Pinal, AZ",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",196634,206181,210853,205029,212822,223908
+ "04021","Pinal, AZ",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1840729,1830205,1840083,1800918,1853889,1936816
+ "04021","Pinal, AZ",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",689256,761910,658874,492823,578764,480019
+ "04021","Pinal, AZ",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",766842,787745,798175,872200,858779,835709
+ "04021","Pinal, AZ",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",305489,351152,306976,351710,372782,359056
+ "04021","Pinal, AZ",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",1054139,1101104,1324095,1517713,1542718,1745233
+ "04021","Pinal, AZ",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",2066217,2223123,2345594,2537440,2830754,2712425
+ "04021","Pinal, AZ",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",4579884,4889291,4955303,5017989,5185405,5352583
+ "04023","Santa Cruz, AZ",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1848358,1958916,1914159,1934498,2013502,2022514
+ "04023","Santa Cruz, AZ",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1401461,1503332,1449057,1450889,1523313,1542275
+ "04023","Santa Cruz, AZ",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",17660,18476,23849,23622,17427,14127
+ "04023","Santa Cruz, AZ",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",7737,64201,20986,1436,(D),(D)
+ "04023","Santa Cruz, AZ",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",7127,9620,12222,15364,(D),(D)
+ "04023","Santa Cruz, AZ",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",29837,34267,34089,33863,42006,38365
+ "04023","Santa Cruz, AZ",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",88257,108399,110697,114943,146026,151380
+ "04023","Santa Cruz, AZ",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",66584,82486,82421,100337,124663,131184
+ "04023","Santa Cruz, AZ",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",21673,25915,28246,14945,21677,20726
+ "04023","Santa Cruz, AZ",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",408060,421366,434349,455352,404282,389914
+ "04023","Santa Cruz, AZ",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",156923,162889,160851,162467,137440,135901
+ "04023","Santa Cruz, AZ",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",243241,243192,200683,198361,275611,283974
+ "04023","Santa Cruz, AZ",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",12425,14450,12291,14786,11884,11601
+ "04023","Santa Cruz, AZ",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",244954,235189,239311,247692,238826,269760
+ "04023","Santa Cruz, AZ",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",59720,58479,55522,55041,51292,53035
+ "04023","Santa Cruz, AZ",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",185234,176674,184009,192975,187896,217498
+ "04023","Santa Cruz, AZ",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",47876,49095,47445,46207,54605,58965
+ "04023","Santa Cruz, AZ",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",25533,25290,24394,(D),25680,27335
+ "04023","Santa Cruz, AZ",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),787,1808
+ "04023","Santa Cruz, AZ",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),23389,28158,29982
+ "04023","Santa Cruz, AZ",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",53635,58271,58596,57981,66281,69094
+ "04023","Santa Cruz, AZ",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",4177,3896,4332,3587,3620,3846
+ "04023","Santa Cruz, AZ",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",49458,54381,54259,54415,62705,65290
+ "04023","Santa Cruz, AZ",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",51805,53037,60139,45813,81446,77923
+ "04023","Santa Cruz, AZ",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",3941,3532,4344,756,1297,1592
+ "04023","Santa Cruz, AZ",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",47863,49501,55796,45021,80084,76287
+ "04023","Santa Cruz, AZ",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",31924,33784,32920,29838,30289,30749
+ "04023","Santa Cruz, AZ",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",446897,455614,465132,483613,490109,479547
+ "04023","Santa Cruz, AZ",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",25397,81455,45167,26275,(D),(D)
+ "04023","Santa Cruz, AZ",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",564983,584247,595423,618198,541955,526112
+ "04023","Santa Cruz, AZ",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",250368,252799,212815,213511,(D),(D)
+ "04023","Santa Cruz, AZ",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",100682,122853,123034,129711,158199,163336
+ "04023","Santa Cruz, AZ",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",143492,223659,190564,176668,(D),(D)
+ "04023","Santa Cruz, AZ",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1257969,1280660,1258251,1273108,(D),(D)
+ "04025","Yavapai, AZ",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",7229041,7345912,7388378,7450732,8087008,8092110
+ "04025","Yavapai, AZ",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",6245364,6369299,6389680,6456953,7064088,7021035
+ "04025","Yavapai, AZ",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",5028,6052,4135,5031,14109,2850
+ "04025","Yavapai, AZ",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",368118,312489,329771,419874,537074,423500
+ "04025","Yavapai, AZ",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",22012,24019,26377,32940,28617,23717
+ "04025","Yavapai, AZ",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",446712,504324,520942,544853,555874,492761
+ "04025","Yavapai, AZ",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",387762,439317,477719,485478,513900,502736
+ "04025","Yavapai, AZ",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",286509,327682,361108,374454,379910,373813
+ "04025","Yavapai, AZ",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",101253,111616,116552,110987,133767,128830
+ "04025","Yavapai, AZ",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",285166,260245,226031,233180,211789,213084
+ "04025","Yavapai, AZ",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",643319,663403,664164,657054,657637,650308
+ "04025","Yavapai, AZ",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",104008,108480,103021,116399,130828,127976
+ "04025","Yavapai, AZ",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",164770,148993,160426,143714,122853,111400
+ "04025","Yavapai, AZ",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1956929,1927482,1909161,1972353,2164866,2331743
+ "04025","Yavapai, AZ",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",296049,288840,274005,281046,317171,286389
+ "04025","Yavapai, AZ",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1660880,1638746,1636018,1692285,1848483,2051005
+ "04025","Yavapai, AZ",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",363573,429428,434202,434128,516620,623018
+ "04025","Yavapai, AZ",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",210377,227024,226348,231361,280565,312326
+ "04025","Yavapai, AZ",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",8715,11595,11326,21194,31364,40220
+ "04025","Yavapai, AZ",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",144481,190718,196352,182542,206934,271610
+ "04025","Yavapai, AZ",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",857940,892162,889935,847730,869533,785769
+ "04025","Yavapai, AZ",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",161647,164597,133693,119845,123185,128617
+ "04025","Yavapai, AZ",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",696294,727582,756659,728415,746887,657324
+ "04025","Yavapai, AZ",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",440396,472386,457066,389552,517256,528173
+ "04025","Yavapai, AZ",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",52241,55541,47328,28253,34631,34893
+ "04025","Yavapai, AZ",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",388155,416842,409627,361171,482459,493088
+ "04025","Yavapai, AZ",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",199630,181399,189891,177334,223784,232914
+ "04025","Yavapai, AZ",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",983677,976684,998695,993969,1023979,1073260
+ "04025","Yavapai, AZ",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",373146,318519,333962,424983,550794,425884
+ "04025","Yavapai, AZ",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",928485,923328,888729,889009,868541,862435
+ "04025","Yavapai, AZ",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",126020,132494,129330,149149,159467,151785
+ "04025","Yavapai, AZ",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",552531,588712,638627,630440,639752,618101
+ "04025","Yavapai, AZ",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1207620,1261710,1331733,1453346,1620715,1411597
+ "04025","Yavapai, AZ",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",5037744,5107556,5057814,5004113,5443851,5620654
+ "04027","Yuma, AZ",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",7543432,7522243,7747758,7516153,7658882,8137550
+ "04027","Yuma, AZ",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",5725030,5692081,5904196,5638443,5763171,6191751
+ "04027","Yuma, AZ",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",1381465,(D),1380951,1088932,803727,1005847
+ "04027","Yuma, AZ",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",3837,3055,2746,4231,4468,3363
+ "04027","Yuma, AZ",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",74518,(D),75845,85079,72784,67259
+ "04027","Yuma, AZ",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",228376,230946,258788,293953,272434,243986
+ "04027","Yuma, AZ",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",312160,365987,411623,391651,463658,526732
+ "04027","Yuma, AZ",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",109170,117222,124230,117689,126083,165100
+ "04027","Yuma, AZ",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",202990,248850,287627,274203,338209,361653
+ "04027","Yuma, AZ",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",196205,188541,194902,219611,218053,215413
+ "04027","Yuma, AZ",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",700203,708699,664714,675765,647328,634054
+ "04027","Yuma, AZ",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",203665,203616,177201,185540,204447,223607
+ "04027","Yuma, AZ",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",97739,101863,107440,88510,63478,61359
+ "04027","Yuma, AZ",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1105658,1097183,1136195,1110773,1301150,1434191
+ "04027","Yuma, AZ",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",200359,198857,201581,221909,324224,327100
+ "04027","Yuma, AZ",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",905299,898332,934826,888387,975201,1106274
+ "04027","Yuma, AZ",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",477712,515137,478431,500323,577545,600884
+ "04027","Yuma, AZ",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",276096,305440,275806,274373,292798,289460
+ "04027","Yuma, AZ",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",18354,17804,16067,14283,39276,43771
+ "04027","Yuma, AZ",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",183263,191900,186381,210674,245725,267057
+ "04027","Yuma, AZ",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",588831,620421,646360,616250,643672,657278
+ "04027","Yuma, AZ",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",24207,24190,24913,21097,24042,22264
+ "04027","Yuma, AZ",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",564625,596239,621460,595221,619652,635083
+ "04027","Yuma, AZ",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",230889,(D),242903,231448,327688,339122
+ "04027","Yuma, AZ",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",9616,(D),9871,5944,7603,8625
+ "04027","Yuma, AZ",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",221273,224124,233033,225531,320129,330568
+ "04027","Yuma, AZ",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",123770,129759,129521,123382,132585,141303
+ "04027","Yuma, AZ",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1818402,1829987,1844360,1875378,1893916,1942011
+ "04027","Yuma, AZ",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",1385303,(D),1383635,1093289,808362,1009371
+ "04027","Yuma, AZ",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",896409,897132,860181,896527,866380,850409
+ "04027","Yuma, AZ",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",278184,(D),252902,270295,277114,290634
+ "04027","Yuma, AZ",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",409899,467986,519439,481192,531854,594986
+ "04027","Yuma, AZ",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1925838,(D),2055961,1794045,1559841,1802035
+ "04027","Yuma, AZ",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",3799192,(D),3854087,3838242,4189123,4368731
+"Note: See the included footnote file."
+"CAGDP9: Real GDP by county and metropolitan area 1/"
+"Last updated: December 7, 2023 -- new statistics for 2022, revised statistics for 2017-2021."
+"U.S. Bureau of Economic Analysis"

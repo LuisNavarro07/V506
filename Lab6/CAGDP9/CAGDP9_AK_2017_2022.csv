@@ -1,0 +1,1195 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2017,2018,2019,2020,2021,2022
+ "02000","Alaska",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",53550915,52479584,52325267,50344621,51021839,50315131
+ "02000","Alaska",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",42616883,41416826,41436150,39896647,40877132,40178226
+ "02000","Alaska",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",439379,435081,455080,394595,363644,408660
+ "02000","Alaska",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",8150441,7178957,7215068,8173918,6900309,6013767
+ "02000","Alaska",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",791671,781493,781680,890427,848904,760243
+ "02000","Alaska",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",2445039,2500471,2559410,2448606,2382454,2126742
+ "02000","Alaska",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",1726515,1261615,1405449,1322571,1287704,1261838
+ "02000","Alaska",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",228009,217954,223046,192650,202430,210063
+ "02000","Alaska",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",1498506,1046103,1184195,1132185,1086816,1054009
+ "02000","Alaska",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1285798,1344334,1417837,1335069,1331309,1256946
+ "02000","Alaska",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",2428402,2515008,2601547,2563393,2447420,2318675
+ "02000","Alaska",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",7180158,7262298,6782451,6211355,7164622,7346641
+ "02000","Alaska",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",1329184,1151958,1255330,1235108,1504667,1626032
+ "02000","Alaska",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",6505380,6594634,6399473,6131864,6442323,6693258
+ "02000","Alaska",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",1359084,1293605,1280111,1164423,1163731,1087265
+ "02000","Alaska",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",5146296,5303406,5120429,4970445,5283304,5617981
+ "02000","Alaska",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",3298548,3210087,3290605,3065155,3250368,3433848
+ "02000","Alaska",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",1892170,1833759,1871195,1718245,1867545,1966462
+ "02000","Alaska",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",362246,364448,395998,376357,433835,473807
+ "02000","Alaska",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1044132,1012049,1024692,971559,957497,1004731
+ "02000","Alaska",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",4282174,4472769,4571523,4407405,4670103,4749984
+ "02000","Alaska",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",195513,190198,193214,148885,175676,192751
+ "02000","Alaska",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",4086661,4282655,4378415,4259491,4494983,4557459
+ "02000","Alaska",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",1832434,1843713,1868542,1262438,1674983,1923267
+ "02000","Alaska",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",314063,316907,334608,197288,266977,325225
+ "02000","Alaska",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",1518372,1526810,1534074,1065736,1408664,1599367
+ "02000","Alaska",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",921761,931540,912742,845327,878850,886953
+ "02000","Alaska",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",10934032,11066317,10892322,10450774,10167738,10174485
+ "02000","Alaska",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",8589820,7610841,7666676,8531882,7234526,6371772
+ "02000","Alaska",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",3714200,3859456,4020328,3898029,3777576,3574611
+ "02000","Alaska",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",7971829,8043645,7563525,7093236,8006202,8095113
+ "02000","Alaska",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",3055699,2406872,2654748,2550808,2765881,2839530
+ "02000","Alaska",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",12761373,11360488,11622670,12172900,10835138,9677038
+ "02000","Alaska",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",29855510,30111100,29863775,27911118,30152691,30864699
+ "02013","Aleutians East Borough, AK",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",312665,345745,319484,252358,277219,290811
+ "02013","Aleutians East Borough, AK",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",289604,322044,295637,230517,257062,270985
+ "02013","Aleutians East Borough, AK",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),7982,8658
+ "02013","Aleutians East Borough, AK",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,0,0,0,(D),(D)
+ "02013","Aleutians East Borough, AK",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1182,1351,1484,1153,1192,889
+ "02013","Aleutians East Borough, AK",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02013","Aleutians East Borough, AK",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",195453,162856,176162,155199,166235,184822
+ "02013","Aleutians East Borough, AK",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",24,20,14,6,0,0
+ "02013","Aleutians East Borough, AK",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",195429,162836,176148,155193,166234,184821
+ "02013","Aleutians East Borough, AK",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",22,31,37,(D),(D),(D)
+ "02013","Aleutians East Borough, AK",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",2005,1947,2109,2404,2253,2225
+ "02013","Aleutians East Borough, AK",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",3430,3625,(D),(D),(D),2699
+ "02013","Aleutians East Borough, AK",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",914,781,709,616,(D),(D)
+ "02013","Aleutians East Borough, AK",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",6476,7633,6692,7813,7302,7795
+ "02013","Aleutians East Borough, AK",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",2,0,0,0,0,0
+ "02013","Aleutians East Borough, AK",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",6474,7633,6692,7813,7302,7795
+ "02013","Aleutians East Borough, AK",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",2179,2288,1568,1277,1627,2099
+ "02013","Aleutians East Borough, AK",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02013","Aleutians East Borough, AK",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02013","Aleutians East Borough, AK",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),90,115,117
+ "02013","Aleutians East Borough, AK",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02013","Aleutians East Borough, AK",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",27,19,34,21,32,34
+ "02013","Aleutians East Borough, AK",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02013","Aleutians East Borough, AK",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",2557,2383,2290,1448,1942,2124
+ "02013","Aleutians East Borough, AK",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02013","Aleutians East Borough, AK",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02013","Aleutians East Borough, AK",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02013","Aleutians East Borough, AK",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",23061,23730,23837,21784,20203,19929
+ "02013","Aleutians East Borough, AK",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02013","Aleutians East Borough, AK",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",2027,1979,2146,(D),(D),(D)
+ "02013","Aleutians East Borough, AK",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",4612,4976,(D),(D),(D),3571
+ "02013","Aleutians East Borough, AK",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",196367,163637,176874,155818,(D),(D)
+ "02013","Aleutians East Borough, AK",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",265505,296942,273337,207611,233285,247086
+ "02013","Aleutians East Borough, AK",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",24099,25123,22329,22991,23859,24047
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",795250,672215,601260,670490,657526,690977
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",743777,617725,545945,618911,608572,642502
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",13927,19431,20595,11128,13308,23175
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",10735,6747,7214,6734,5475,4745
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",8348,7427,7975,8350,7509,6191
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",355014,244130,185356,258903,219631,235561
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",158778,144138,141926,143957,150179,173444
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),28891,(D),(D),(D)
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",19300,15962,(D),16945,16527,16241
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",82925,77247,65478,72974,72926,63089
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",3905,4186,5265,5330,6389,6579
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",28211,31276,(D),34412,36088,(D)
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),26705,(D),(D),34310
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",21274,22405,21420,17940,9720,8843
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),3229,(D)
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",15867,17067,15441,(D),(D),4251
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",8476,9415,9039,8475,8462,8042
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",71,61,106,111,133,138
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",8405,9354,8932,8362,8327,7900
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(D),(D),3057,(D),(D),3460
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",5949,5123,5535,5284,5542,5415
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",51473,54443,55273,51639,49043,48481
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",24662,26084,27711,17917,18648,26983
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",91273,84678,73393,81266,80360,69222
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",162682,148323,147164,149260,156453,179967
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",538453,413836,353392,421225,387941,434276
+ "02016","Aleutians West Census Area, AK",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",205323,203582,192035,196892,219922,209249
+ "02020","Anchorage Municipality, AK",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",23195622,23319628,23072230,22410855,23030206,22928246
+ "02020","Anchorage Municipality, AK",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",18523266,18610349,18461720,17962953,18720246,18670611
+ "02020","Anchorage Municipality, AK",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",60385,48405,45401,37727,33880,39332
+ "02020","Anchorage Municipality, AK",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",704709,669470,773326,1114369,503707,309000
+ "02020","Anchorage Municipality, AK",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",290646,284532,280113,306092,336449,305375
+ "02020","Anchorage Municipality, AK",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",937323,1032805,1113598,993130,970850,838971
+ "02020","Anchorage Municipality, AK",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",182320,173165,178825,157382,163938,160740
+ "02020","Anchorage Municipality, AK",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",97626,95297,96024,85837,81712,77909
+ "02020","Anchorage Municipality, AK",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",84694,77873,82811,71539,82522,83271
+ "02020","Anchorage Municipality, AK",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",977412,1024735,1088502,1027554,1005941,941973
+ "02020","Anchorage Municipality, AK",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1216638,1246235,1261941,1222548,1170820,1106949
+ "02020","Anchorage Municipality, AK",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",4027194,4078838,3725470,3884529,4508851,4638771
+ "02020","Anchorage Municipality, AK",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",965171,800654,875176,893535,1091674,1173369
+ "02020","Anchorage Municipality, AK",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",3322777,3381983,3171722,3027937,3162087,3230096
+ "02020","Anchorage Municipality, AK",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",912012,864688,847633,770746,779103,727516
+ "02020","Anchorage Municipality, AK",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",2410765,2518959,2324005,2258213,2384685,2507731
+ "02020","Anchorage Municipality, AK",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",2126538,2064540,2105090,1982414,2112639,2233239
+ "02020","Anchorage Municipality, AK",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",1320188,1288894,1309241,1220292,1305359,1370893
+ "02020","Anchorage Municipality, AK",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",223089,231125,239156,236830,278946,310257
+ "02020","Anchorage Municipality, AK",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",583261,544786,557074,526368,533275,559257
+ "02020","Anchorage Municipality, AK",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",2422641,2517475,2568132,2434560,2528063,2574302
+ "02020","Anchorage Municipality, AK",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",96609,93098,95807,78712,90022,95104
+ "02020","Anchorage Municipality, AK",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",2326032,2424423,2472358,2356176,2438151,2479222
+ "02020","Anchorage Municipality, AK",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",833315,835875,852832,595452,757695,846577
+ "02020","Anchorage Municipality, AK",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",142552,144287,153388,100247,134047,154194
+ "02020","Anchorage Municipality, AK",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",690763,691594,699515,495312,623737,692662
+ "02020","Anchorage Municipality, AK",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",456197,450390,432680,387175,414421,419119
+ "02020","Anchorage Municipality, AK",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",4672356,4709231,4610707,4448468,4314392,4261510
+ "02020","Anchorage Municipality, AK",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",765094,718332,819372,1144288,536548,343088
+ "02020","Anchorage Municipality, AK",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",2194051,2271148,2351917,2251030,2177424,2049687
+ "02020","Anchorage Municipality, AK",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",4317840,4363287,4005355,4189782,4844638,4941685
+ "02020","Anchorage Municipality, AK",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",1147491,974174,1053974,1049292,1250252,1325493
+ "02020","Anchorage Municipality, AK",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1884736,1921226,2108574,2215408,1658738,1313177
+ "02020","Anchorage Municipality, AK",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",16638529,16688643,16350746,15754207,17071290,17414068
+ "02050","Bethel Census Area, AK",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",711083,734987,710934,686331,661157,677999
+ "02050","Bethel Census Area, AK",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",465264,476989,455919,453430,447871,466453
+ "02050","Bethel Census Area, AK",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",322,43,(D),(D),269,286
+ "02050","Bethel Census Area, AK",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",20846,22627,11146,8954,(D),(D)
+ "02050","Bethel Census Area, AK",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",11074,11192,11676,12869,11571,9604
+ "02050","Bethel Census Area, AK",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),6556,6236,5288,4110
+ "02050","Bethel Census Area, AK",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02050","Bethel Census Area, AK",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",270,254,299,301,(D),(D)
+ "02050","Bethel Census Area, AK",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),20961,19523
+ "02050","Bethel Census Area, AK",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",5603,5843,6249,4851,3248,3014
+ "02050","Bethel Census Area, AK",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",33865,37153,38322,39603,36747,35647
+ "02050","Bethel Census Area, AK",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",38313,42894,40357,49922,26611,26534
+ "02050","Bethel Census Area, AK",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),6542,(D),7140
+ "02050","Bethel Census Area, AK",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",159232,153382,138169,129443,143990,165828
+ "02050","Bethel Census Area, AK",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",7867,7917,8012,8656,8948,7951
+ "02050","Bethel Census Area, AK",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",151365,145452,130079,120645,134913,157945
+ "02050","Bethel Census Area, AK",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),13940,(D),12137,(D),11755
+ "02050","Bethel Census Area, AK",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02050","Bethel Census Area, AK",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02050","Bethel Census Area, AK",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",5770,6594,4432,4178,4470,3556
+ "02050","Bethel Census Area, AK",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",104978,114857,123899,121917,128026,132671
+ "02050","Bethel Census Area, AK",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02050","Bethel Census Area, AK",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02050","Bethel Census Area, AK",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",5733,(D),7244,4998,7266,10284
+ "02050","Bethel Census Area, AK",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",2851,1836,1782,1842,2442,3406
+ "02050","Bethel Census Area, AK",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",2883,(D),5455,3134,4803,6847
+ "02050","Bethel Census Area, AK",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",27798,28818,28835,38024,34701,33452
+ "02050","Bethel Census Area, AK",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",245819,257967,254899,233269,214220,212700
+ "02050","Bethel Census Area, AK",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",21168,22673,(D),(D),(D),(D)
+ "02050","Bethel Census Area, AK",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",39468,42993,44576,44411,39978,38649
+ "02050","Bethel Census Area, AK",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",49387,54066,52033,62729,39027,36505
+ "02050","Bethel Census Area, AK",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",34014,32423,29060,(D),28230,(D)
+ "02050","Bethel Census Area, AK",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",55755,55063,39213,33615,33307,28559
+ "02050","Bethel Census Area, AK",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",409509,421925,416703,419900,414644,438102
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",133015,145447,138377,126140,143548,151534
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",108592,120218,113546,103344,120845,128916
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),5461,6028,4750,5121
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,0,537,883,(D),(D)
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",3740,4383,4328,6781,7489,7058
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),4990,6340,(D),(D)
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",55141,57967,52854,42998,53968,63403
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",124,105,44,30,43,60
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",55017,57862,52812,42968,53926,63343
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",183,226,121,18,32,42
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",(D),(D),(D),4255,4056,(D)
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",8017,10011,7734,(D),(D),7118
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",11304,12904,(D),13170,13582,(D)
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),10487,(D),(D),13059
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",3970,3788,3447,3428,2937,2926
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),2077,(D),(D),(D),(D)
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),1711,(D),(D),(D),(D)
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),2093,2277,2144
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",57,29,261,(D),(D),(D)
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",10697,11636,10938,7586,13197,13889
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",876,929,961,496,892,1206
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",9821,10707,9979,7101,12321,12692
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(D),(D),697,(D),(D),(D)
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",24423,25247,24833,22794,22825,22791
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),5957,6843,(D),(D)
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),4266,4081,(D)
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",11757,14394,12055,(D),(D),14148
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",60249,65420,63896,56298,65078,72722
+ "02060","Bristol Bay Borough, AK",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",48342,54777,49696,47100,55836,56536
+ "02063","Chugach Census Area, AK*",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",(NA),(NA),(NA),1356522,1517396,1532257
+ "02063","Chugach Census Area, AK*",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",(NA),(NA),(NA),1265128,1433625,1443645
+ "02063","Chugach Census Area, AK*",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(NA),(NA),(NA),20343,22338,24017
+ "02063","Chugach Census Area, AK*",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",(NA),(NA),(NA),7282,15182,15098
+ "02063","Chugach Census Area, AK*",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(NA),(NA),(NA),12635,11596,10486
+ "02063","Chugach Census Area, AK*",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(NA),(NA),(NA),13214,12044,11715
+ "02063","Chugach Census Area, AK*",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),85026,69544,30399
+ "02063","Chugach Census Area, AK*",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(D),(D),(D)
+ "02063","Chugach Census Area, AK*",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(D),(D),(D)
+ "02063","Chugach Census Area, AK*",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(D),(D),(D)
+ "02063","Chugach Census Area, AK*",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",(NA),(NA),(NA),17308,13225,12503
+ "02063","Chugach Census Area, AK*",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),890267,1044264,1107226
+ "02063","Chugach Census Area, AK*",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(NA),(NA),(NA),7256,11082,11388
+ "02063","Chugach Census Area, AK*",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),39719,46654,(D)
+ "02063","Chugach Census Area, AK*",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(D),6730,6276
+ "02063","Chugach Census Area, AK*",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(D),40009,(D)
+ "02063","Chugach Census Area, AK*",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),30582,31747,28422
+ "02063","Chugach Census Area, AK*",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),7965,8869,(D)
+ "02063","Chugach Census Area, AK*",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(NA),(NA),(NA),10990,12304,(D)
+ "02063","Chugach Census Area, AK*",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),11717,10795,10983
+ "02063","Chugach Census Area, AK*",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(D),(D),18139
+ "02063","Chugach Census Area, AK*",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(D),(D),(D)
+ "02063","Chugach Census Area, AK*",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(D),(D),(D)
+ "02063","Chugach Census Area, AK*",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),9855,15829,18800
+ "02063","Chugach Census Area, AK*",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(NA),(NA),(NA),1837,3536,4453
+ "02063","Chugach Census Area, AK*",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),8010,12266,14326
+ "02063","Chugach Census Area, AK*",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(NA),(NA),(NA),6726,6330,6189
+ "02063","Chugach Census Area, AK*",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",(NA),(NA),(NA),108419,104088,109138
+ "02063","Chugach Census Area, AK*",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(NA),(NA),(NA),37517,48228,50675
+ "02063","Chugach Census Area, AK*",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(D),(D),(D)
+ "02063","Chugach Census Area, AK*",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(NA),(NA),(NA),907916,1061921,1124117
+ "02063","Chugach Census Area, AK*",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(NA),(NA),(NA),92337,79674,38524
+ "02063","Chugach Census Area, AK*",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(NA),(NA),(NA),151815,138330,83865
+ "02063","Chugach Census Area, AK*",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(NA),(NA),(NA),1060401,1231343,1298643
+ "02066","Copper River Census Area, AK*",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",(NA),(NA),(NA),107882,124092,127377
+ "02066","Copper River Census Area, AK*",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",(NA),(NA),(NA),77570,95184,96223
+ "02066","Copper River Census Area, AK*",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(D),915,973
+ "02066","Copper River Census Area, AK*",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",(NA),(NA),(NA),0,(D),0
+ "02066","Copper River Census Area, AK*",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(NA),(NA),(NA),9089,7702,6343
+ "02066","Copper River Census Area, AK*",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(D),12691,11317
+ "02066","Copper River Census Area, AK*",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),2365,(D),(D)
+ "02066","Copper River Census Area, AK*",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),259,(D),(D)
+ "02066","Copper River Census Area, AK*",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),2121,(D),(D)
+ "02066","Copper River Census Area, AK*",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(D),(D),(D)
+ "02066","Copper River Census Area, AK*",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",(NA),(NA),(NA),5724,4099,4122
+ "02066","Copper River Census Area, AK*",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),2444,3488,2971
+ "02066","Copper River Census Area, AK*",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(NA),(NA),(NA),548,2600,2723
+ "02066","Copper River Census Area, AK*",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),21106,24257,(D)
+ "02066","Copper River Census Area, AK*",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(D),(D),(D)
+ "02066","Copper River Census Area, AK*",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(D),(D),24252
+ "02066","Copper River Census Area, AK*",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(D),(D),3237
+ "02066","Copper River Census Area, AK*",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(D),(D),(D)
+ "02066","Copper River Census Area, AK*",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(D),(D),(D)
+ "02066","Copper River Census Area, AK*",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(D),1535,1608
+ "02066","Copper River Census Area, AK*",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(NA),(NA),(NA),17381,18094,17834
+ "02066","Copper River Census Area, AK*",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(D),(D),(D)
+ "02066","Copper River Census Area, AK*",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(D),(D),(D)
+ "02066","Copper River Census Area, AK*",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),5036,7841,10544
+ "02066","Copper River Census Area, AK*",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(NA),(NA),(NA),1525,2195,2481
+ "02066","Copper River Census Area, AK*",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),3480,5602,7979
+ "02066","Copper River Census Area, AK*",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(NA),(NA),(NA),2084,2441,2620
+ "02066","Copper River Census Area, AK*",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",(NA),(NA),(NA),29611,28569,30726
+ "02066","Copper River Census Area, AK*",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(D),(D),1456
+ "02066","Copper River Census Area, AK*",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(D),(D),(D)
+ "02066","Copper River Census Area, AK*",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(NA),(NA),(NA),10533,10315,8588
+ "02066","Copper River Census Area, AK*",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(NA),(NA),(NA),2911,(D),(D)
+ "02066","Copper River Census Area, AK*",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(NA),(NA),(NA),6362,20893,(D)
+ "02066","Copper River Census Area, AK*",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(NA),(NA),(NA),67223,72846,(D)
+ "02068","Denali Borough, AK",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",271161,272417,271443,205321,242486,282233
+ "02068","Denali Borough, AK",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",228506,227925,226400,164158,201764,242340
+ "02068","Denali Borough, AK",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),65,69
+ "02068","Denali Borough, AK",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",31386,30512,31560,35843,(D),(D)
+ "02068","Denali Borough, AK",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",25273,34778,41263,46554,43897,40773
+ "02068","Denali Borough, AK",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),2047,(D),3075,2799,2243
+ "02068","Denali Borough, AK",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",665,(D),659,(D),(D),(D)
+ "02068","Denali Borough, AK",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",77,(D),54,(D),(D),(D)
+ "02068","Denali Borough, AK",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",588,667,606,332,168,190
+ "02068","Denali Borough, AK",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),791,454,319,250,256
+ "02068","Denali Borough, AK",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",2729,4992,(D),3830,4057,4089
+ "02068","Denali Borough, AK",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",6434,(D),6466,(D),(D),(D)
+ "02068","Denali Borough, AK",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),198,(D),(D)
+ "02068","Denali Borough, AK",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",23997,23173,(D),16693,18656,(D)
+ "02068","Denali Borough, AK",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02068","Denali Borough, AK",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),22867,(D),(D),19142
+ "02068","Denali Borough, AK",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",33869,30674,14789,13402,28800,29492
+ "02068","Denali Borough, AK",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",20748,16185,4463,2939,(D),(D)
+ "02068","Denali Borough, AK",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),0,0,0,0
+ "02068","Denali Borough, AK",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),10221,10341,(D),(D)
+ "02068","Denali Borough, AK",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",1156,1373,1184,814,1293,1274
+ "02068","Denali Borough, AK",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",68,48,40,21,6,24
+ "02068","Denali Borough, AK",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",1088,1325,1144,793,1288,1251
+ "02068","Denali Borough, AK",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",98026,91698,97417,39502,68598,101781
+ "02068","Denali Borough, AK",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",7728,7712,7294,2827,5514,6697
+ "02068","Denali Borough, AK",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",90298,83988,90120,36681,63025,95056
+ "02068","Denali Borough, AK",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02068","Denali Borough, AK",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",42655,44492,45045,41012,40609,39337
+ "02068","Denali Borough, AK",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02068","Denali Borough, AK",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),5765,(D),4125,4284,4321
+ "02068","Denali Borough, AK",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",31707,(D),47740,(D),(D),(D)
+ "02068","Denali Borough, AK",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),971,(D),(D),1633,2016
+ "02068","Denali Borough, AK",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",34805,33406,35343,39486,34320,42200
+ "02068","Denali Borough, AK",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",193700,194520,191077,124762,168117,200847
+ "02070","Dillingham Census Area, AK",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",276888,281406,268201,249179,240338,250663
+ "02070","Dillingham Census Area, AK",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",214884,216625,205877,193239,189483,200482
+ "02070","Dillingham Census Area, AK",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),12038,12808
+ "02070","Dillingham Census Area, AK",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",9,115,228,270,(D),(D)
+ "02070","Dillingham Census Area, AK",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",2099,2163,2291,1836,1734,1679
+ "02070","Dillingham Census Area, AK",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",2977,(D),(D),(D),(D),(D)
+ "02070","Dillingham Census Area, AK",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),45305,46692,33389,23667,33258
+ "02070","Dillingham Census Area, AK",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",168,221,240,314,173,246
+ "02070","Dillingham Census Area, AK",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),45083,46452,33076,23495,33014
+ "02070","Dillingham Census Area, AK",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02070","Dillingham Census Area, AK",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",9673,10168,9992,10580,9528,9039
+ "02070","Dillingham Census Area, AK",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",11600,8649,8120,7340,6974,6407
+ "02070","Dillingham Census Area, AK",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02070","Dillingham Census Area, AK",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",39737,43922,(D),39032,39942,(D)
+ "02070","Dillingham Census Area, AK",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02070","Dillingham Census Area, AK",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),31312,(D),(D),41378
+ "02070","Dillingham Census Area, AK",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",4967,3574,3469,5124,5260,5748
+ "02070","Dillingham Census Area, AK",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02070","Dillingham Census Area, AK",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",1475,1594,1923,1892,2307,2565
+ "02070","Dillingham Census Area, AK",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02070","Dillingham Census Area, AK",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",60009,59644,59404,56760,59156,57929
+ "02070","Dillingham Census Area, AK",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",413,376,(D),(D),326,342
+ "02070","Dillingham Census Area, AK",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",59596,59268,(D),(D),58830,57588
+ "02070","Dillingham Census Area, AK",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",11253,11146,10082,5224,11152,11781
+ "02070","Dillingham Census Area, AK",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),1537,1588,896,1127,1345
+ "02070","Dillingham Census Area, AK",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),9610,8497,4324,10109,10520
+ "02070","Dillingham Census Area, AK",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(D),4296,(D),(D),(D),(D)
+ "02070","Dillingham Census Area, AK",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",62004,64765,62300,55971,51003,50400
+ "02070","Dillingham Census Area, AK",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02070","Dillingham Census Area, AK",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02070","Dillingham Census Area, AK",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",13699,10815,10415,9178,8710,8094
+ "02070","Dillingham Census Area, AK",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",57109,(D),(D),(D),(D),(D)
+ "02070","Dillingham Census Area, AK",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",57586,60238,63247,52511,39908,49086
+ "02070","Dillingham Census Area, AK",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",157298,156418,142810,140841,149564,151700
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",5765988,5667136,5668703,5462327,5646088,5532492
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",3721286,3636128,3663287,3446769,3594145,3487732
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",2889,4398,4870,(D),3224,3666
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",416238,363637,321877,388325,384734,327485
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",121708,123987,124727,(D),123935,104000
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",312373,326870,332372,318643,299049,253091
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",148952,77347,98563,118560,98895,94358
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",29818,26581,28201,23426,24581,23867
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",119134,51992,71244,98063,75869,72082
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",120488,124753,130236,121315,118416,112353
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",312643,325236,335797,341642,325113,307417
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",381999,384166,386112,362490,406104,393985
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",75225,72194,74731,66991,74624,81406
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",801185,790569,803452,639640,733273,748805
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",115939,109093,114755,99028,94380,90001
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",685247,681636,688638,540292,638975,659326
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",265305,277091,296408,269628,282987,290771
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",163017,164514,171951,141327,153451,160478
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),23714,23777,26109,28712
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),100861,104227,103606,102338
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",464207,470890,459564,(D),457868,465354
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",16520,16145,16240,(D),12380,12988
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",447686,454748,443321,416371,445549,452422
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",203656,208152,205411,157026,203184,232198
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",27434,25029,24960,17236,27708,31480
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",176222,183113,180443,139830,175357,200574
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",94419,94436,94926,92437,97801,103502
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",2044703,2031011,2005423,2014862,2051257,2045902
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",419127,367996,326682,(D),388001,331048
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",433131,449983,466075,462726,443266,419513
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",503707,508163,510847,(D),529012,496212
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",224177,147018,171742,183923,170909,170309
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",880451,766926,755060,(D),781105,676569
+ "02090","Fairbanks North Star Borough, AK",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",2840835,2871340,2910784,(D),2817694,2826514
+ "02100","Haines Borough, AK",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",112647,119149,120582,88873,94173,102242
+ "02100","Haines Borough, AK",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",95570,101626,102894,72549,78438,85870
+ "02100","Haines Borough, AK",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),2826,3023
+ "02100","Haines Borough, AK",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",3161,3232,1312,1303,(D),(D)
+ "02100","Haines Borough, AK",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1514,1649,1875,(D),246,200
+ "02100","Haines Borough, AK",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",8928,14575,13585,7505,8952,8311
+ "02100","Haines Borough, AK",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",9458,8103,(D),(D),(D),(D)
+ "02100","Haines Borough, AK",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",773,761,(D),(D),(D),(D)
+ "02100","Haines Borough, AK",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",8685,7338,7891,4869,3545,3737
+ "02100","Haines Borough, AK",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",308,488,404,(D),(D),(D)
+ "02100","Haines Borough, AK",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",8224,8665,8685,8188,7643,7374
+ "02100","Haines Borough, AK",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),893,(D),1302
+ "02100","Haines Borough, AK",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",1489,1019,1129,1021,1473,1572
+ "02100","Haines Borough, AK",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",23954,23301,(D),17227,19316,(D)
+ "02100","Haines Borough, AK",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02100","Haines Borough, AK",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),21612,(D),(D),17916
+ "02100","Haines Borough, AK",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",4739,5230,4564,3749,3428,3654
+ "02100","Haines Borough, AK",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",2877,3166,2621,2375,2060,2071
+ "02100","Haines Borough, AK",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "02100","Haines Borough, AK",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1862,2064,1940,1381,1366,1569
+ "02100","Haines Borough, AK",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",8040,8662,8091,7821,8238,9756
+ "02100","Haines Borough, AK",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",323,296,501,337,355,334
+ "02100","Haines Borough, AK",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",7717,8365,7586,7485,7882,9425
+ "02100","Haines Borough, AK",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",17979,18390,22473,13473,17100,22468
+ "02100","Haines Borough, AK",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",13138,13859,17964,11062,13117,17378
+ "02100","Haines Borough, AK",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",4841,4533,4527,2415,4024,5148
+ "02100","Haines Borough, AK",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",1893,1860,1980,2031,2399,2478
+ "02100","Haines Borough, AK",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",17077,17527,17690,16281,15719,16350
+ "02100","Haines Borough, AK",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02100","Haines Borough, AK",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",8532,9155,9087,(D),(D),(D)
+ "02100","Haines Borough, AK",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),1515
+ "02100","Haines Borough, AK",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",10947,9124,(D),(D),(D),(D)
+ "02100","Haines Borough, AK",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),27384,17731,17337,17247
+ "02100","Haines Borough, AK",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),75507,54803,61068,68598
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",88063,93048,91133,78022,83737,96877
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",55409,58116,57018,47402,54038,63791
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),2838,(D),(D),3633,3879
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,0,0,0,(D),0
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",986,953,1003,980,910,891
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),1793
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",3182,(D),3952,2508,2509,2758
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),2815,(D),(D),(D),(D)
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",4690,4927,4783,3415,4092,3841
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",3075,2924,2696,1519,2095,2187
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),88,271,344
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",14305,16527,14363,16939,15939,(D)
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",71,65,52,(D),(D),(D)
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",14234,16462,14311,(D),(D),17524
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",1257,936,896,(D),(D),(D)
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",447,580,569,(D),(D),(D)
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",810,355,327,113,150,152
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",2851,3019,3128,3025,3481,3653
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),392,464,409,683,623
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),2627,2663,2616,2790,3026
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",17764,18320,18604,9958,16801,25524
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",779,901,1176,965,810,777
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",32654,34931,34114,30604,29729,33100
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),2838,(D),(D),(D),3879
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",4061,3876,3698,2491,2995,3069
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),3885,(D),2608,2764,3076
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",8682,8738,9374,9565,9039,8374
+ "02105","Hoonah-Angoon Census Area, AK*",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",46727,49376,47655,37864,45031,55439
+ "02110","Juneau City and Borough, AK",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2511152,2467392,2425746,2310434,2367333,2379361
+ "02110","Juneau City and Borough, AK",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1672983,1624316,1594495,1525261,1612971,1629599
+ "02110","Juneau City and Borough, AK",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),15998,13058,14377
+ "02110","Juneau City and Borough, AK",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",492615,429926,366948,462749,436794,404052
+ "02110","Juneau City and Borough, AK",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),(D),44678,(D),(D)
+ "02110","Juneau City and Borough, AK",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",92546,88038,84313,93274,91278,81775
+ "02110","Juneau City and Borough, AK",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",29621,27521,27962,25008,28919,32791
+ "02110","Juneau City and Borough, AK",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",861,868,975,1532,1388,1973
+ "02110","Juneau City and Borough, AK",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",28760,26652,26984,23466,27542,30768
+ "02110","Juneau City and Borough, AK",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02110","Juneau City and Borough, AK",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",117263,123360,131435,121150,113119,107271
+ "02110","Juneau City and Borough, AK",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",122535,133050,146111,87858,104706,144726
+ "02110","Juneau City and Borough, AK",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",43396,38653,44283,(D),64357,81136
+ "02110","Juneau City and Borough, AK",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",293015,291478,299845,252437,310349,(D)
+ "02110","Juneau City and Borough, AK",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",53022,49065,46939,(D),47924,39068
+ "02110","Juneau City and Borough, AK",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",239993,242554,253285,(D),262807,(D)
+ "02110","Juneau City and Borough, AK",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",116275,115098,123765,114425,123466,137051
+ "02110","Juneau City and Borough, AK",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",74387,70092,73041,67570,76328,84715
+ "02110","Juneau City and Borough, AK",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",8098,9536,14290,14473,15236,16007
+ "02110","Juneau City and Borough, AK",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",33790,35484,36617,32670,32335,36660
+ "02110","Juneau City and Borough, AK",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",136672,142228,140797,129544,137673,143249
+ "02110","Juneau City and Borough, AK",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",8453,8143,8384,6609,7585,11987
+ "02110","Juneau City and Borough, AK",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",128219,134088,132412,122955,130098,131197
+ "02110","Juneau City and Borough, AK",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",79130,81882,83494,51043,71806,76284
+ "02110","Juneau City and Borough, AK",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",20294,21860,20346,9885,11359,14927
+ "02110","Juneau City and Borough, AK",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",58836,60025,63136,41191,60549,61541
+ "02110","Juneau City and Borough, AK",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",57486,63937,60874,56644,56936,57695
+ "02110","Juneau City and Borough, AK",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",838170,843015,831175,785272,755315,750371
+ "02110","Juneau City and Borough, AK",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),478933,450183,418391
+ "02110","Juneau City and Borough, AK",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02110","Juneau City and Borough, AK",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),132741,(D),(D)
+ "02110","Juneau City and Borough, AK",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",73016,66176,72188,(D),92450,112612
+ "02110","Juneau City and Borough, AK",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),596649,569646,531368
+ "02110","Juneau City and Borough, AK",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),929942,1046763,1107106
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2810764,2564438,2672406,2709823,2599157,2541367
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",2253255,1995356,2105126,2188176,2087877,2009720
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",60026,54505,61843,62495,69683,61326
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",217798,210641,208026,256590,201138,152367
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",120999,108675,101835,128356,102991,92379
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",109122,107572,120736,115020,112463,96718
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",445215,216974,279730,301499,215897,192699
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",20753,20672,25066,24969,28144,34912
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",424462,197524,256038,278428,187748,160831
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",53307,52719,53610,51083,46930,44615
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",154117,163910,174241,182981,184280,173933
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",86709,86332,83659,88226,89379,85460
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",35821,35643,38267,37020,48921,54108
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",440388,438911,468333,513267,493258,540590
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",62613,60802,61438,58060,54540,53200
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",377775,378159,407152,455853,439383,488637
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",88562,90617,90456,84723,95545,104531
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",61666,61120,61994,56149,62695,66740
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",2816,2824,2414,3890,5460,6759
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",24080,26660,26033,24769,27607,31259
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",254974,263076,260963,253250,270839,268629
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",9969,9476,8951,5712,7863,9490
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",245005,253604,252022,247603,263009,259143
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",129530,129932,124525,88494,123606,132962
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",19299,17671,16819,9687,14526,16126
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",110231,112253,107697,78852,109109,116876
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",56686,58217,55535,51602,52749,52700
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",557509,570764,568508,525386,515000,538603
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",277824,265247,269979,317192,270540,212187
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",207424,216588,227722,233797,231015,218356
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",207708,195000,185506,216555,191865,177273
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",481036,250514,316470,336625,263107,241485
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",832161,580518,664735,723037,592261,496917
+ "02122","Kenai Peninsula Borough, AK",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1421094,1427807,1450872,1478511,1504637,1540118
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",924927,927376,950776,803682,825532,843173
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",692431,689617,711019,586733,617788,628939
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),17279,20270
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",7631,1,10391,57,1125,(D)
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),16845,13866
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",42621,38950,36129,34157,36546,32254
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",47726,42533,38220,27578,36334,37621
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",22213,23645,16294,10372,11546,11283
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",25513,18854,21945,17199,24728,26294
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",72421,77790,87850,73458,61661,58208
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",103617,110420,115123,88959,86709,87378
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",10276,9887,10008,7657,(D),9916
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",154922,149774,155776,130874,151663,(D)
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",37166,36077,37285,34913,34052,29164
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",117756,113693,118501,95815,117616,(D)
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",37663,45010,37598,37906,29754,34123
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",13182,14013,15228,17861,14746,15531
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",6542,9765,6718,6686,5211,8019
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",17939,21252,15668,13469,9929,10936
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",82081,87576,90784,88683,90723,91600
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",2722,2759,2655,2061,2510,2497
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",79359,84817,88131,86631,88216,89107
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",65968,63824,65493,36427,52984,66337
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",21309,21776,24501,9718,7480,11866
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",44659,42055,41036,26771,45766,54883
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",15385,15810,15269,13517,12735,12905
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",232496,237739,239755,216651,207849,214386
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),18469,(D)
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),103543,101056
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",58002,52416,48197,35189,(D),47517
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),91605,(D)
+ "02130","Ketchikan Gateway Borough, AK*",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),526125,(D)
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",820003,803315,804093,775101,764250,788771
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",585420,564025,550569,523477,531576,563314
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),84349,87715,(D),71533,87762
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,1653,1744,0,0,0
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),16979,15333
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",32764,34305,31812,26938,27684,24330
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",113849,96351,101593,93690,91542,114654
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",4120,4123,6084,5980,7865,9129
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",109730,92222,95482,87690,83671,105553
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",29326,30055,31304,32281,29773,28254
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",39504,40251,38420,35131,38920,34476
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",7970,4740,5639,5208,6412,7058
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",93313,99266,87171,91874,94320,(D)
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",15792,15133,14487,13165,13651,12964
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",77520,84190,72657,78770,80728,(D)
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",44044,39327,32094,34745,(D),35761
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",8900,8939,10106,9728,(D),(D)
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",9509,11388,11108,16781,(D),(D)
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",25635,19037,11020,8796,8402,8418
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",68220,68478,68689,68084,73746,73405
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",3138,(D),(D),1315,(D),(D)
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",65082,(D),(D),66799,(D),(D)
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",22122,21849,22096,16146,22165,27256
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",3657,3943,3885,2574,4209,5733
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",18465,17908,18212,13576,17951,21541
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",13588,13141,12308,11863,12877,11989
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",234583,239216,253271,251236,232674,225573
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),86138,89601,(D),71644,87898
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),55735,49668
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",121819,101097,107223,98889,97807,121625
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),216914,222965,(D),191033,225793
+ "02150","Kodiak Island Borough, AK",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),346980,327730,(D),340317,338660
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",153416,159498,158022,149082,145259,148131
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",61482,69762,63746,60741,58864,58376
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",1202,1720,860,83,30,83
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1310,1291,1284,1269,1054,984
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",12746,13325,13133,13505,12401,12233
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",4637,5367,5100,1632,(D),(D)
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",6,0,0,0,31,36
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",15240,19008,16678,19635,18707,19901
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",0,0,2,2,2,2
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",15240,19008,16676,19633,18706,19899
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",1704,(D),1718,(D),(D),(D)
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",94,126,77,154,124,131
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",1288,(D),1402,(D),(D),(D)
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",322,298,242,297,261,263
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",10097,(D),(D),(D),(D),(D)
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),71,50,42,19,21
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(D),613,470,235,338,423
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",4409,4676,4855,(D),5429,5101
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",91934,89799,94238,88327,86372,89726
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",1202,1720,860,83,30,83
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",5946,6653,6380,2949,(D),(D)
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",9702,11607,7769,3139,(D),2169
+ "02158","Kusilvak Census Area, AK*",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",51779,58161,55931,57553,(D),56061
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",90141,99979,87381,79825,107055,86097
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",60583,68208,57407,52251,82749,60341
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),1907,2032
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1749,1542,1250,1427,1254,1299
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",6437,7734,1089,(D),(D),(D)
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),2243,(D),5278
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",7,78,64,49,45,65
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),2193,(D),5209
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",6,147,37,41,25,67
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",3353,3460,3518,(D),(D),3330
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",8310,9848,9125,8698,9139,9502
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",11631,13889,(D),14787,13884,(D)
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),12290,(D),(D),15195
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),2281,2343,2106,1364,1532
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",2395,3290,3016,2412,2652,2534
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",13537,14330,13545,10284,16166,17932
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1364,1558,1462,724,1630,1432
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",12172,12772,12083,9596,14514,16502
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",1716,(D),1993,(D),1291,(D)
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",29558,31778,29967,27561,25215,26265
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),1907,2032
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",3359,3609,3551,(D),(D),3393
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",10059,11380,10362,10126,10337,10741
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",4521,4238,4140,(D),7165,(D)
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",15518,16817,9920,7038,32490,(D)
+ "02164","Lake and Peninsula Borough, AK",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",45064,51388,47448,45213,49303,(D)
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2647075,2710247,2878441,2962159,3059715,3149033
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",2112076,2160000,2333247,2444823,2562539,2634491
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",16649,19718,22174,(D),19897,21791
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",28002,21662,14635,16975,20273,21487
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",34290,39315,43252,(D),50907,49186
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",319171,315995,358978,380379,379484,369083
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",37985,28896,29702,(D),32146,40657
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",26855,18780,20634,(D),23487,31004
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",11130,10149,9060,(D),8515,9227
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",24499,24269,26117,27825,26952,26237
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",250699,259317,284227,306640,300928,284862
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",70390,72778,75007,66016,64887,63454
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",89431,94337,106364,107874,115973,119448
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",573773,580659,621638,706072,703175,755565
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",75676,75169,77673,75327,74217,72764
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",498097,505530,544143,631314,629542,683809
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",138527,144941,160647,(D),180623,183144
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",90547,92379,103042,97158,112923,114742
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",5640,5810,6479,(D),9178,8653
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",42339,46733,51126,(D),58666,59809
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",323396,340916,366003,375238,449774,469645
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",29714,28801,27846,19389,25841,27821
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",293681,312130,338225,356137,424210,442091
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",118267,125744,130746,97206,125506,143553
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",19873,21267,23039,13898,19290,21872
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",98393,104478,107718,83339,106247,121707
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",86996,91722,94240,88783,95803,95298
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",534999,550234,545487,518482,499205,516667
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",44652,41316,36638,(D),40273,43331
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",275199,283573,310308,334415,327837,311040
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",104681,112119,118304,(D),115642,112454
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",127416,123032,135726,(D),147872,161474
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",401808,386200,425696,450468,452311,453369
+ "02170","Matanuska-Susitna Borough, AK",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1710268,1773920,1907524,1994195,2110617,2182313
+ "02180","Nome Census Area, AK",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",447593,453641,445445,426177,429753,455576
+ "02180","Nome Census Area, AK",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",292335,290518,284767,281985,296025,308844
+ "02180","Nome Census Area, AK",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),694,742
+ "02180","Nome Census Area, AK",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",23001,9219,4570,4798,(D),(D)
+ "02180","Nome Census Area, AK",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",5524,5236,5652,6129,5683,5038
+ "02180","Nome Census Area, AK",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",10451,9319,8291,8614,8007,8081
+ "02180","Nome Census Area, AK",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02180","Nome Census Area, AK",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",79,91,96,118,38,60
+ "02180","Nome Census Area, AK",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02180","Nome Census Area, AK",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",33,467,(D),(D),(D),(D)
+ "02180","Nome Census Area, AK",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",21217,22341,22555,22510,21317,21713
+ "02180","Nome Census Area, AK",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",22019,23362,25956,24262,27776,28523
+ "02180","Nome Census Area, AK",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",3781,(D),(D),(D),(D),4704
+ "02180","Nome Census Area, AK",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",78178,83253,70204,69145,62729,70126
+ "02180","Nome Census Area, AK",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",23771,21071,18298,14755,9384,10171
+ "02180","Nome Census Area, AK",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",54407,62344,52001,54644,53709,60394
+ "02180","Nome Census Area, AK",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",15233,17185,18332,15645,18639,26498
+ "02180","Nome Census Area, AK",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",2942,3589,3675,3138,3453,(D)
+ "02180","Nome Census Area, AK",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",10255,11844,12854,10448,12855,10859
+ "02180","Nome Census Area, AK",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",2036,1760,1821,2016,2324,(D)
+ "02180","Nome Census Area, AK",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",69510,(D),88830,(D),(D),(D)
+ "02180","Nome Census Area, AK",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",37,21,(D),36,32,34
+ "02180","Nome Census Area, AK",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",69473,(D),(D),(D),(D),(D)
+ "02180","Nome Census Area, AK",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",10058,9749,9649,6232,7126,8417
+ "02180","Nome Census Area, AK",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1842,1396,1134,403,581,721
+ "02180","Nome Census Area, AK",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",8216,8352,8513,5834,6546,7698
+ "02180","Nome Census Area, AK",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",24312,22513,21929,21622,24180,25433
+ "02180","Nome Census Area, AK",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",155258,163093,160644,144470,134589,147505
+ "02180","Nome Census Area, AK",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02180","Nome Census Area, AK",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",21250,22814,(D),(D),(D),(D)
+ "02180","Nome Census Area, AK",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",27543,28584,31589,30421,33210,33068
+ "02180","Nome Census Area, AK",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),7630,7141,6232,7363,(D)
+ "02180","Nome Census Area, AK",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",42470,25508,19013,18351,19282,18656
+ "02180","Nome Census Area, AK",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",249865,265061,265840,263728,276839,290438
+ "02185","North Slope Borough, AK",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",6669857,5875825,6012465,6188650,5662665,5116686
+ "02185","North Slope Borough, AK",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",6426953,5629012,5776020,5976518,5473663,4937154
+ "02185","North Slope Borough, AK",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",129,65,123,269,413,440
+ "02185","North Slope Borough, AK",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",5451603,4741220,4875698,5058287,4446895,3946928
+ "02185","North Slope Borough, AK",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),23385,(D),22169,19934
+ "02185","North Slope Borough, AK",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",46130,(D),(D),(D),(D),(D)
+ "02185","North Slope Borough, AK",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",497,(D),(D),(D),(D),(D)
+ "02185","North Slope Borough, AK",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02185","North Slope Borough, AK",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02185","North Slope Borough, AK",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02185","North Slope Borough, AK",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",17431,17396,20996,21760,20282,19244
+ "02185","North Slope Borough, AK",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",408029,376979,344328,399047,500337,488028
+ "02185","North Slope Borough, AK",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",12431,11396,12387,11447,13424,13856
+ "02185","North Slope Borough, AK",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",45900,47044,(D),49866,50547,(D)
+ "02185","North Slope Borough, AK",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02185","North Slope Borough, AK",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),45004,(D),(D),53726
+ "02185","North Slope Borough, AK",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",280899,227812,248092,214993,205622,222374
+ "02185","North Slope Borough, AK",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),51890,45419,55006,67365
+ "02185","North Slope Borough, AK",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),50650,29599,35087,39744
+ "02185","North Slope Borough, AK",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",147390,138991,145977,138738,116218,117081
+ "02185","North Slope Borough, AK",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",56551,66995,69933,71074,73000,73591
+ "02185","North Slope Borough, AK",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02185","North Slope Borough, AK",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02185","North Slope Borough, AK",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",60681,56716,53470,39520,(D),41994
+ "02185","North Slope Borough, AK",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1293,1261,1454,1116,(D),(D)
+ "02185","North Slope Borough, AK",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",59387,55455,52022,38409,(D),(D)
+ "02185","North Slope Borough, AK",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",16415,16363,18791,19346,12293,10331
+ "02185","North Slope Borough, AK",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",242904,249102,238808,223039,201784,194535
+ "02185","North Slope Borough, AK",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",5451732,4741289,4875824,5058626,4447420,3947443
+ "02185","North Slope Borough, AK",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02185","North Slope Borough, AK",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),367694,(D),523053,508456
+ "02185","North Slope Borough, AK",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",12927,(D),(D),(D),(D),(D)
+ "02185","North Slope Borough, AK",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",5498358,4780900,4934924,5117623,4473398,3966028
+ "02185","North Slope Borough, AK",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",928595,851442,845108,863383,951527,956033
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",638056,628797,597631,633274,575193,568340
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",541774,525351,495995,538420,487405,481671
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),165,176
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",379890,348229,322440,363046,(D),(D)
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",4303,4209,4422,4446,3723,1977
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),(D),7014,6782,9857
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",590,695,767,(D),(D),(D)
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",93,65,46,0,63,106
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",497,631,722,(D),(D),(D)
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",141,151,136,0,0,0
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",(D),(D),(D),11858,(D),10608
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",15230,16097,14938,(D),(D),(D)
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",9861,10170,11531,10378,11543,12070
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",34046,36610,(D),40405,36114,(D)
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),30804,(D),(D),38194
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",10086,10858,10269,8552,9560,10816
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),1813,(D),(D),(D),(D)
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",54287,62526,61295,(D),(D),(D)
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),304,381,407
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",11696,13075,14770,12133,14241,16728
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1354,(D),(D),(D),(D),(D)
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",10342,(D),(D),(D),(D),(D)
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",96282,103428,101583,95364,88219,87088
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),11853,(D),10604
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",19533,20300,19363,(D),(D),(D)
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",10452,10866,12298,(D),(D),(D)
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",387094,355246,330226,370804,325122,318454
+ "02188","Northwest Arctic Borough, AK",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",154679,170314,166024,167905,163182,164668
+ "02195","Petersburg Borough, AK*",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",170550,177838,175770,167287,175079,160827
+ "02195","Petersburg Borough, AK*",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",117246,122711,122321,114780,126249,112171
+ "02195","Petersburg Borough, AK*",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",30685,36603,36134,32021,21793,22843
+ "02195","Petersburg Borough, AK*",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",3144,2741,2150,3060,3166,2904
+ "02195","Petersburg Borough, AK*",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",916,690,974,926,(D),(D)
+ "02195","Petersburg Borough, AK*",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",6612,6813,9694,7358,7529,5804
+ "02195","Petersburg Borough, AK*",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",15520,13274,13568,13376,32700,17190
+ "02195","Petersburg Borough, AK*",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",69,89,104,(D),(D),(D)
+ "02195","Petersburg Borough, AK*",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",15451,13185,13463,(D),(D),(D)
+ "02195","Petersburg Borough, AK*",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),482,(D),(D),(D),(D)
+ "02195","Petersburg Borough, AK*",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",10635,12174,11946,11551,10105,9546
+ "02195","Petersburg Borough, AK*",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),6182,(D),(D),(D),(D)
+ "02195","Petersburg Borough, AK*",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",3465,3318,3339,2448,3348,3728
+ "02195","Petersburg Borough, AK*",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",23557,25112,22961,24873,24580,25672
+ "02195","Petersburg Borough, AK*",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",6519,5609,5864,3857,3665,3388
+ "02195","Petersburg Borough, AK*",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",17039,19549,17092,21103,21005,22411
+ "02195","Petersburg Borough, AK*",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",5109,4771,4741,4186,3479,3846
+ "02195","Petersburg Borough, AK*",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",1367,1484,(D),(D),2136,(D)
+ "02195","Petersburg Borough, AK*",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),0,0
+ "02195","Petersburg Borough, AK*",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),1528,1431,1241,(D)
+ "02195","Petersburg Borough, AK*",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),2901,3000,2611,2859,3146
+ "02195","Petersburg Borough, AK*",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",62,(D),(D),(D),(D),(D)
+ "02195","Petersburg Borough, AK*",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02195","Petersburg Borough, AK*",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",4600,4511,4309,3510,5159,6005
+ "02195","Petersburg Borough, AK*",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",334,258,318,203,401,442
+ "02195","Petersburg Borough, AK*",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",4266,4253,3991,3307,4756,5561
+ "02195","Petersburg Borough, AK*",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",3842,3124,3236,2588,3261,3194
+ "02195","Petersburg Borough, AK*",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",53304,55130,53465,52478,49005,48755
+ "02195","Petersburg Borough, AK*",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",33829,39333,38260,35079,25044,25762
+ "02195","Petersburg Borough, AK*",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),12657,(D),(D),(D),(D)
+ "02195","Petersburg Borough, AK*",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),6873,(D),(D),(D),(D)
+ "02195","Petersburg Borough, AK*",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",18985,16591,16907,15875,36412,20947
+ "02195","Petersburg Borough, AK*",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",55961,59455,61663,55869,65714,49635
+ "02195","Petersburg Borough, AK*",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",61285,63265,60719,58927,60662,62055
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",241824,259028,259823,242922,238950,240661
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",148659,161984,166332,157722,157205,155582
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",20290,27377,32058,22798,15368,15863
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",5621,5260,6664,12423,18649,16997
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",6850,6055,5970,5202,5028,4768
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",4097,4247,8833,8898,4070,3674
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",11966,10720,8059,7493,6646,6876
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",5171,(D),5550,5558,4615,4856
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",6795,(D),2379,1794,1994,1928
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",15891,16489,15747,15065,12913,11950
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",8805,10978,10861,10912,11052,9898
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",39347,43918,39560,43285,44417,48705
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",6071,6416,6490,5760,7297,7612
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",33276,37510,33047,37528,37110,41093
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",2899,2596,3020,3358,3791,(D)
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),866,(D),1062,881
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",1272,1455,1623,1801,2075,2333
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),533,(D),664,(D)
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",9843,10434,10463,10577,11357,12247
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",78,59,82,(D),(D),(D)
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",9765,10375,10381,(D),(D),(D)
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",12903,12900,13354,8847,13589,11857
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),255,311
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),13327,11539
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",3170,(D),(D),(D),(D),3126
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",93165,97054,93529,85298,81889,85330
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",25911,32620,38710,35307,34629,33264
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",15655,17036,16834,16123,16081,14673
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",41973,47557,55644,51788,45226,43809
+ "02198","Prince of Wales-Hyder Census Area, AK*",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",106686,114430,110781,106009,112168,112032
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02201","Prince of Wales-Outer Ketchikan Census Area, AK*",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02220","Sitka City and Borough, AK",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",479694,500425,496709,434428,483863,508340
+ "02220","Sitka City and Borough, AK",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",338139,356163,365923,324141,378400,395085
+ "02220","Sitka City and Borough, AK",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",25772,(D),(D),(D),13839,22674
+ "02220","Sitka City and Borough, AK",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,0,0,0,(D),(D)
+ "02220","Sitka City and Borough, AK",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",8936,(D),(D),(D),(D),8587
+ "02220","Sitka City and Borough, AK",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",25457,23578,25957,22219,24759,23850
+ "02220","Sitka City and Borough, AK",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",42427,43775,49945,38947,56014,54383
+ "02220","Sitka City and Borough, AK",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",8980,11282,12048,6000,9364,3739
+ "02220","Sitka City and Borough, AK",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",33447,32477,37887,32883,46585,50554
+ "02220","Sitka City and Borough, AK",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",4688,(D),(D),4712,5138,(D)
+ "02220","Sitka City and Borough, AK",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",26561,28936,30864,29089,26960,25289
+ "02220","Sitka City and Borough, AK",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",29671,32297,28900,23914,31860,31389
+ "02220","Sitka City and Borough, AK",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",5140,4189,4440,3839,5400,5952
+ "02220","Sitka City and Borough, AK",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",55300,60903,55641,63399,67600,(D)
+ "02220","Sitka City and Borough, AK",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",12279,12028,11215,9947,9544,8978
+ "02220","Sitka City and Borough, AK",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",43022,48926,44458,53608,58255,(D)
+ "02220","Sitka City and Borough, AK",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",16621,19458,21195,19939,22040,23996
+ "02220","Sitka City and Borough, AK",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",7736,10514,11390,10656,13180,14415
+ "02220","Sitka City and Borough, AK",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",3637,3497,3623,3373,2969,3901
+ "02220","Sitka City and Borough, AK",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",5248,5439,6161,5885,5826,5729
+ "02220","Sitka City and Borough, AK",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",57137,62989,70543,74746,78675,82224
+ "02220","Sitka City and Borough, AK",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",3612,3830,4120,2595,3952,4274
+ "02220","Sitka City and Borough, AK",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",53526,59160,66425,72170,74727,77953
+ "02220","Sitka City and Borough, AK",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",30904,31041,31578,(D),(D),34888
+ "02220","Sitka City and Borough, AK",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",2670,2651,2865,(D),(D),2897
+ "02220","Sitka City and Borough, AK",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",28233,28390,28714,19197,27070,31996
+ "02220","Sitka City and Borough, AK",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",9525,9647,9156,8033,7315,7168
+ "02220","Sitka City and Borough, AK",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",141554,144280,130896,110457,106045,113866
+ "02220","Sitka City and Borough, AK",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",25772,(D),(D),(D),(D),(D)
+ "02220","Sitka City and Borough, AK",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",31248,(D),(D),33780,32065,(D)
+ "02220","Sitka City and Borough, AK",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",38606,(D),(D),(D),(D),40354
+ "02220","Sitka City and Borough, AK",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",47567,47969,54399,42772,61406,60263
+ "02220","Sitka City and Borough, AK",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",93657,(D),(D),(D),(D),(D)
+ "02220","Sitka City and Borough, AK",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",244482,(D),(D),(D),(D),(D)
+ "02230","Skagway Municipality, AK*",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",93466,97277,98720,61452,67838,73367
+ "02230","Skagway Municipality, AK*",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",73503,77246,78717,42915,49754,56713
+ "02230","Skagway Municipality, AK*",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",181,70,125,29,107,112
+ "02230","Skagway Municipality, AK*",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "02230","Skagway Municipality, AK*",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",3827,3351,3491,2109,1997,1934
+ "02230","Skagway Municipality, AK*",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",3431,3828,4165,(D),(D),(D)
+ "02230","Skagway Municipality, AK*",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",3477,3433,4988,(D),(D),(D)
+ "02230","Skagway Municipality, AK*",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),315,104,61,137
+ "02230","Skagway Municipality, AK*",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),4683,(D),(D),(D)
+ "02230","Skagway Municipality, AK*",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02230","Skagway Municipality, AK*",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",13133,14441,15854,9816,8737,7998
+ "02230","Skagway Municipality, AK*",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",12522,13352,11275,(D),(D),(D)
+ "02230","Skagway Municipality, AK*",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),151,230
+ "02230","Skagway Municipality, AK*",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",14402,14055,(D),10756,12013,(D)
+ "02230","Skagway Municipality, AK*",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02230","Skagway Municipality, AK*",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),11815,(D),(D),11229
+ "02230","Skagway Municipality, AK*",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",3080,3398,3560,(D),1579,1961
+ "02230","Skagway Municipality, AK*",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),1342,380,(D)
+ "02230","Skagway Municipality, AK*",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "02230","Skagway Municipality, AK*",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),1190,(D)
+ "02230","Skagway Municipality, AK*",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),387,331,319
+ "02230","Skagway Municipality, AK*",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),30,36
+ "02230","Skagway Municipality, AK*",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",620,749,518,(D),301,284
+ "02230","Skagway Municipality, AK*",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",15077,16423,17531,3846,9742,14832
+ "02230","Skagway Municipality, AK*",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",8412,9476,9964,1946,2527,7302
+ "02230","Skagway Municipality, AK*",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",6665,6947,7567,1900,7233,7676
+ "02230","Skagway Municipality, AK*",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",3014,3315,2721,1974,1510,1444
+ "02230","Skagway Municipality, AK*",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",19963,20034,20007,18505,18034,16452
+ "02230","Skagway Municipality, AK*",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",181,70,125,29,107,112
+ "02230","Skagway Municipality, AK*",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02230","Skagway Municipality, AK*",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",16349,16700,14762,(D),(D),(D)
+ "02230","Skagway Municipality, AK*",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),2006,(D),(D)
+ "02230","Skagway Municipality, AK*",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",7089,7335,9252,5622,7932,6793
+ "02230","Skagway Municipality, AK*",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",66414,69911,69475,37295,41849,49856
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02232","Skagway-Hoonah-Angoon Census Area, AK*",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",647536,606180,553670,620950,672216,638767
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",549644,506405,457931,525022,574361,544273
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",934,1284,2137,2046,1968,2568
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",339300,299775,249331,351556,382886,349825
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",7371,7465,7502,5041,4250,3703
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",13176,12034,10468,11044,10216,8911
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",3429,2977,3546,3459,3111,3926
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),1208,1851
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),1942,2029
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",2235,1964,(D),(D),(D),(D)
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",16079,15046,14500,15611,16969,15548
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",48793,46591,44146,43479,48123,47254
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",1990,2067,2268,2174,2823,3095
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",54354,52904,54668,39195,43917,(D)
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",3367,3336,3339,3004,3097,3037
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",50986,49566,51335,36167,40802,(D)
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",17289,19573,23677,16496,18530,18472
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",14204,16697,20515,13016,15106,14792
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,(D),(D),(D),(D)
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",3084,2885,(D),(D),(D),(D)
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",29219,28212,27561,24213,27116,29074
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),11982,8930,(D),(D)
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),15574,15271,(D),(D)
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",12282,13083,(D),(D),(D),14404
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),561
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),13845
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",3194,3536,4224,3745,4176,4605
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",97892,99771,95719,96080,97913,94721
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",340234,301053,251438,353578,384848,352261
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",18314,17008,(D),(D),(D),(D)
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",56164,54060,51646,48662,52579,51146
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",5419,5039,5814,5635,5848,6976
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",356839,316063,265445,367846,397911,364780
+ "02240","Southeast Fairbanks Census Area, AK",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",192804,190428,192507,159297,178843,183200
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2138740,2122281,2086984,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1992756,1973380,1938288,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",24013,20424,(D),(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",7509,9459,5559,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),18458,(D),(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",30845,31235,31681,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",121856,71804,107367,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",1667,1511,1659,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",120190,70343,105722,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),990,1128,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",25992,25982,25491,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",1534166,1570746,1491544,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",24823,23645,25685,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",95885,94558,(D),(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),86936,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",36474,35841,37913,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",7673,7862,8128,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",8072,8480,10454,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",20730,19521,19477,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",26023,26863,27884,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",353,349,258,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",25670,26514,27627,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",30629,31083,30237,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",6039,5812,5921,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",24590,25269,24318,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",15468,16979,17401,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",145985,148903,148755,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",31522,29804,(D),(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),26975,26628,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),1589202,(D),(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",146679,94689,132987,(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",184223,131403,(D),(NA),(NA),(NA)
+ "02261","Valdez-Cordova Census Area, AK*",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1808532,1845158,(D),(NA),(NA),(NA)
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",94295,98769,89410,83620,80970,83427
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",63587,67327,66561,64184,63520,64933
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",6060,5487,5168,(D),2604,2935
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,0,0,0,(D),(D)
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",8865,8884,5912,7737,6926,7648
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",1867,3174,3281,3371,(D),(D)
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",7180,5541,4150,(D),3061,2718
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",58,76,74,15,19,24
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",5905,6551,6844,6925,6357,6222
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",3044,3120,3044,2525,2861,2731
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),2056,2197,(D),2515,2958
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",15118,16676,14734,16680,15684,16703
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",3161,3252,3162,2664,(D),2297
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",11958,13432,11559,14044,(D),14467
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),(D),(D),1029,(D),1115
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",7154,(D),(D),(D),(D),14902
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",41,26,34,15,25,(D)
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",7113,(D),(D),(D),(D),(D)
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",2947,2903,2773,1998,2678,2938
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),603,335,455,574
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),2170,1670,2230,2371
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",2510,2608,2670,2077,1897,2001
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",30707,31446,22901,19530,17575,18627
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",6060,5487,5168,(D),(D),(D)
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",5963,6627,6917,6937,6374,6244
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",11908,12004,8962,10272,9759,10377
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),7596,6334,3990,5497,5556
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",15108,14228,12648,10285,8256,7991
+ "02275","Wrangell City and Borough, AK*",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",48479,53078,53865,53832,55152,56806
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02280","Wrangell-Petersburg Census Area, AK*",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(NA),(NA),(NA),(NA),(NA),(NA)
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",27126,29304,31958,34027,38084,40204
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",14732,18502,21266,23939,27977,30571
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",963,833,(D),3702,5093,5588
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",467,431,446,732,698,613
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",232,365,467,(D),(D),(D)
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",26,32,40,34,33,54
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",206,333,427,(D),(D),(D)
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",8,10,0,9,13,18
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1568,1727,1873,(D),1998,(D)
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",2482,2751,2591,(D),(D),(D)
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",3560,4177,3689,4444,4238,4632
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",3560,4177,3689,4444,4238,4632
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",591,451,584,(D),(D),(D)
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",61,125,135,160,88,94
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),192,179,181
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),2707,3196,(D),(D),(D)
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",0,5,30,31,35,37
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),2702,3166,(D),(D),(D)
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",3804,4028,4051,2870,4064,4407
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",12394,10815,10715,10158,10244,9807
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",963,833,(D),3702,5093,5588
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",1576,1737,1872,(D),2011,(D)
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",2950,3181,3035,(D),(D),(D)
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),2076,2502,2526
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),4183,6045,(D),8464
+ "02282","Yakutat City and Borough, AK*",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),17115,17937,(D),22156
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",282318,301077,288294,278077,279889,283973
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",173171,183676,169528,168340,177469,175257
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),2916,3341
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",7244,4951,2460,2244,(D),1948
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",3084,3320,3257,3450,2852,1964
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",3663,9975,11337,8089,(D),5310
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),1084,1216
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),288,254,296
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),831,916
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",9466,9878,8632,7867,7752,7558
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",88066,84642,80432,77393,86153,84026
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),1175,254,(D),1511
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",32272,37737,31213,38152,34700,(D)
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",0,16,13,14,(D),(D)
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",32272,37722,31200,38138,(D),38279
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",3550,3962,3548,3096,4476,4375
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),2007,1093,691,(D),(D)
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",429,(D),(D),(D),1998,2022
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",11954,12822,12308,13010,12721,12013
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",24,(D),(D),(D),(D),(D)
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",11930,(D),(D),(D),(D),(D)
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",3756,3782,(D),(D),3359,4048
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",5509,7358,8314,8468,9173,9064
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",109147,117396,118800,109717,102326,108895
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),5321
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",91150,87964,83690,80823,89019,85989
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",2608,2764,(D),(D),(D),2645
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",12795,17453,15897,13387,13901,11620
+ "02290","Yukon-Koyukuk Census Area, AK",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",160377,166225,153630,154885,163489,163492
+"Note: See the included footnote file."
+"CAGDP9: Real GDP by county and metropolitan area 1/"
+"Last updated: December 7, 2023 -- new statistics for 2022, revised statistics for 2017-2021."
+"U.S. Bureau of Economic Analysis"

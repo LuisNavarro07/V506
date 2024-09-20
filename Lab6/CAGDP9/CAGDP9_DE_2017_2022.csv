@@ -1,0 +1,141 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2017,2018,2019,2020,2021,2022
+ "10000","Delaware",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",69555627,70856435,74597399,72550314,74436666,75172590
+ "10000","Delaware",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",62453076,63553933,67352131,65405180,67142032,67721726
+ "10000","Delaware",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",611534,656013,574361,336098,490524,682433
+ "10000","Delaware",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",5610,6460,6070,6279,6769,6809
+ "10000","Delaware",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1061260,997327,999488,1119987,1045413,1014965
+ "10000","Delaware",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",2596989,2630427,2742689,2699949,2783747,2523911
+ "10000","Delaware",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",4352102,4606399,5281862,5411665,5392876,5239870
+ "10000","Delaware",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",1323812,1414448,1468167,1406837,1418285,1436297
+ "10000","Delaware",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",3028290,3192135,3809445,4003081,3973846,3809665
+ "10000","Delaware",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1879860,1902527,1930839,2022306,2006246,1952068
+ "10000","Delaware",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",3021184,3110413,3159903,3053990,3079661,2908629
+ "10000","Delaware",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",1187421,1219346,1312957,1291445,1439357,1530133
+ "10000","Delaware",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",937069,976183,1076708,1063759,1252342,1370685
+ "10000","Delaware",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",29640581,29944902,32230339,31528314,31291051,31137733
+ "10000","Delaware",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",19905119,17431785,19266607,18318266,17534337,16782655
+ "10000","Delaware",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",9735462,12586104,13013556,13283837,13853206,14495329
+ "10000","Delaware",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",8245442,8421215,8732841,8530543,9244545,9915859
+ "10000","Delaware",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",4699226,4814736,4901547,4747068,5165027,5357475
+ "10000","Delaware",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",1851277,1717043,1910554,1863967,1978018,2234458
+ "10000","Delaware",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1694940,1887011,1924086,1922113,2099445,2334741
+ "10000","Delaware",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",5866867,5996467,6153466,5840368,6116210,6375857
+ "10000","Delaware",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",439149,439253,438475,380259,382704,403099
+ "10000","Delaware",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",5427718,5557258,5715178,5460846,5734562,5973801
+ "10000","Delaware",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",1988328,2027124,2066827,1538621,2024296,2165685
+ "10000","Delaware",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",458236,392293,389782,309634,375265,440547
+ "10000","Delaware",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",1530092,1634684,1676843,1228660,1648793,1726230
+ "10000","Delaware",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",1058829,1065656,1063745,936089,990564,1003080
+ "10000","Delaware",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",7102551,7302743,7243684,7141872,7292292,7449890
+ "10000","Delaware",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",617144,662489,580480,342694,497661,690032
+ "10000","Delaware",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",4901044,5012663,5090405,5079211,5089219,4862868
+ "10000","Delaware",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",2248682,2216697,2312697,2410059,2482947,2541179
+ "10000","Delaware",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",5289171,5582978,6360994,6479095,6635434,6575358
+ "10000","Delaware",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",7566235,7898807,8613422,8481582,8708714,8530183
+ "10000","Delaware",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",54886842,55656460,58744097,56933301,58443963,59211373
+ "10001","Kent, DE",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",7633026,7813320,8384005,8000617,8254518,8312232
+ "10001","Kent, DE",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",5449457,5567826,6148960,5732848,5927847,5964154
+ "10001","Kent, DE",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),137410,174003
+ "10001","Kent, DE",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",4407,3668,2330,2327,(D),(D)
+ "10001","Kent, DE",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),284532,297258,256785,250894
+ "10001","Kent, DE",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",325519,325645,359868,354794,362370,330399
+ "10001","Kent, DE",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "10001","Kent, DE",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),236539,263061,(D),(D)
+ "10001","Kent, DE",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",636488,637841,(D),(D),(D),(D)
+ "10001","Kent, DE",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",167238,171892,171356,176309,(D),185213
+ "10001","Kent, DE",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",509445,542356,578391,558470,554438,509041
+ "10001","Kent, DE",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",210775,224898,214977,228906,(D),(D)
+ "10001","Kent, DE",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",51347,53392,69992,77249,129614,135648
+ "10001","Kent, DE",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1369052,1413736,1643275,1296458,1285917,(D)
+ "10001","Kent, DE",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",355555,288976,386390,326874,345131,355354
+ "10001","Kent, DE",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1013497,1126181,1257185,969518,940657,(D)
+ "10001","Kent, DE",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",427338,471077,479980,535589,588206,626711
+ "10001","Kent, DE",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),252051,257728,294099,306182
+ "10001","Kent, DE",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),60001,58245,57847,57525
+ "10001","Kent, DE",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",139292,163496,168277,218923,234940,260716
+ "10001","Kent, DE",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",649185,652825,692003,666642,676888,666701
+ "10001","Kent, DE",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",33464,33012,32098,28708,24701,20185
+ "10001","Kent, DE",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",615721,619817,659947,638015,652358,646755
+ "10001","Kent, DE",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",318534,306655,317380,244110,299279,327760
+ "10001","Kent, DE",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",142418,82415,79296,(D),80009,99856
+ "10001","Kent, DE",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",176115,224199,238021,(D),219080,227896
+ "10001","Kent, DE",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",165452,172565,172870,149938,152575,155024
+ "10001","Kent, DE",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",2183569,2245430,2236992,2266354,2325551,2347014
+ "10001","Kent, DE",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "10001","Kent, DE",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",676683,714185,749256,734581,(D),693573
+ "10001","Kent, DE",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),499578,526254,(D),(D)
+ "10001","Kent, DE",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "10001","Kent, DE",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),1524048,1512608,1577594,(D)
+ "10001","Kent, DE",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),4625232,4223191,4353751,(D)
+ "10003","New Castle, DE",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",49730862,50310701,52410571,51226928,52034009,52459336
+ "10003","New Castle, DE",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",45623899,46107691,48253769,47202824,47933285,48242130
+ "10003","New Castle, DE",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),19034,16973
+ "10003","New Castle, DE",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",(D),174,34,0,(D),(D)
+ "10003","New Castle, DE",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),648447,749071,689772,706521
+ "10003","New Castle, DE",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",1496088,1550685,1560039,1493564,1488463,1356174
+ "10003","New Castle, DE",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",2295284,2525366,(D),(D),(D),(D)
+ "10003","New Castle, DE",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",861738,945439,984245,901415,(D),(D)
+ "10003","New Castle, DE",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",1433546,1579667,(D),(D),2125474,1877220
+ "10003","New Castle, DE",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1421179,1440332,1466832,1542901,1530733,1471559
+ "10003","New Castle, DE",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1794734,1826461,1811295,1745466,1751687,1666475
+ "10003","New Castle, DE",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",824093,839184,926192,893854,998563,1094388
+ "10003","New Castle, DE",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",770581,790301,858057,839250,913105,1006988
+ "10003","New Castle, DE",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",23100888,23082826,24289728,24061854,23826093,23746067
+ "10003","New Castle, DE",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",17231246,15026097,16162303,15524776,14880524,14195850
+ "10003","New Castle, DE",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",5869642,8116647,8169998,8603859,9031183,9678658
+ "10003","New Castle, DE",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",7171804,7254676,7498137,7265708,7758789,8266184
+ "10003","New Castle, DE",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",4149926,4244111,4307903,4126390,4417122,4532448
+ "10003","New Castle, DE",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",1757954,1609672,1787133,1777395,1887855,2133654
+ "10003","New Castle, DE",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1263924,1398546,1406281,1368606,1459858,1621335
+ "10003","New Castle, DE",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",4238879,4339730,4413432,4136426,4334733,4562261
+ "10003","New Castle, DE",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",385074,386250,386579,333417,337080,357046
+ "10003","New Castle, DE",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",3853805,3953516,4026959,3803543,3998432,4206004
+ "10003","New Castle, DE",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",1087826,1092957,1099597,805881,1051474,1130468
+ "10003","New Castle, DE",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",255333,250084,247831,191443,227654,264826
+ "10003","New Castle, DE",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",832492,842855,851722,614405,823562,866318
+ "10003","New Castle, DE",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",660925,651315,644860,560837,592316,593116
+ "10003","New Castle, DE",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",4106963,4203298,4155345,4023229,4099492,4217190
+ "10003","New Castle, DE",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "10003","New Castle, DE",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",3215913,3266747,3279076,3291707,3285940,3141163
+ "10003","New Castle, DE",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),1575053,1641726,1687026,1798510
+ "10003","New Castle, DE",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",3065865,3317526,(D),(D),(D),(D)
+ "10003","New Castle, DE",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),4590149,4594635,4509142,4128548
+ "10003","New Castle, DE",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),43662824,42611819,43424472,44139906
+ "10005","Sussex, DE",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",12191740,12734790,13811749,13330228,14154897,14407861
+ "10005","Sussex, DE",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",11379720,11880766,12960624,12477426,13288077,13522670
+ "10005","Sussex, DE",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),392255,211918,333703,490526
+ "10005","Sussex, DE",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",(D),2618,3671,3910,3979,(D)
+ "10005","Sussex, DE",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",86663,79263,66510,73658,98856,57550
+ "10005","Sussex, DE",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",775383,754097,822782,851592,932914,837338
+ "10005","Sussex, DE",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),1264240,1269616,1307602,1395888
+ "10005","Sussex, DE",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),247593,241551,(D),(D)
+ "10005","Sussex, DE",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",958256,971046,1016683,1028134,(D),(D)
+ "10005","Sussex, DE",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",291442,290303,292652,303096,(D),295296
+ "10005","Sussex, DE",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",717006,741596,770217,750054,773535,733113
+ "10005","Sussex, DE",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",152553,155273,171556,168720,(D),(D)
+ "10005","Sussex, DE",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",115141,132477,148621,147197,209351,227779
+ "10005","Sussex, DE",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",5170641,5450517,6308898,6176885,6186573,(D)
+ "10005","Sussex, DE",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",2318318,2116433,2718485,2466217,2308626,2232466
+ "10005","Sussex, DE",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",2852323,3343469,3585626,3714937,3886991,(D)
+ "10005","Sussex, DE",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",646300,695289,754288,728249,893851,1017216
+ "10005","Sussex, DE",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),341523,362769,453478,518455
+ "10005","Sussex, DE",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),63419,28327,32316,43279
+ "10005","Sussex, DE",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",291725,324968,349546,334597,404714,452769
+ "10005","Sussex, DE",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",978803,1003907,1048112,1037509,1104797,1146950
+ "10005","Sussex, DE",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",20612,19990,19798,18134,20922,25868
+ "10005","Sussex, DE",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",958191,983922,1028333,1019418,1083888,1121035
+ "10005","Sussex, DE",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",581968,627486,649799,488726,673564,707576
+ "10005","Sussex, DE",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",60484,59852,62699,(D),67515,75797
+ "10005","Sussex, DE",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",521484,567629,587095,(D),606016,631808
+ "10005","Sussex, DE",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",232452,241776,246015,225314,245673,254940
+ "10005","Sussex, DE",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",812019,854015,851345,852431,867438,885853
+ "10005","Sussex, DE",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),396128,216165,338102,(D)
+ "10005","Sussex, DE",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",1008448,1031790,1062460,1053188,(D),1028356
+ "10005","Sussex, DE",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",239216,234563,238296,242426,(D),(D)
+ "10005","Sussex, DE",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),1412358,1416436,1511012,1616815
+ "10005","Sussex, DE",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",2406751,2462046,2490852,2367043,2612208,(D)
+ "10005","Sussex, DE",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",8972970,9417854,10462247,10102250,10668775,(D)
+"Note: See the included footnote file."
+"CAGDP9: Real GDP by county and metropolitan area 1/"
+"Last updated: December 7, 2023 -- new statistics for 2022, revised statistics for 2017-2021."
+"U.S. Bureau of Economic Analysis"

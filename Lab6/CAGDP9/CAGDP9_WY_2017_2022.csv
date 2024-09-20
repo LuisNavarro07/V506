@@ -1,0 +1,821 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2017,2018,2019,2020,2021,2022
+ "56000","Wyoming",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",37620307,37977192,38558220,36181338,36929508,37294164
+ "56000","Wyoming",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",31298478,31739987,32464831,30213401,30987102,31279933
+ "56000","Wyoming",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",627682,705250,696862,665561,571351,608438
+ "56000","Wyoming",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",6891107,6616351,6893640,6217403,5394099,5662437
+ "56000","Wyoming",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1044494,976132,969368,1006669,868455,830780
+ "56000","Wyoming",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",1936448,1978720,2249495,2097135,2097780,1883244
+ "56000","Wyoming",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",1986957,2252529,2749330,2190034,2540811,2453716
+ "56000","Wyoming",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",495383,502408,559732,511474,540583,554943
+ "56000","Wyoming",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",1491575,1746041,2180566,1661410,1984812,1891617
+ "56000","Wyoming",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1456063,1441423,1431339,1324957,1228075,1169419
+ "56000","Wyoming",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",2167795,2177837,2259916,2172694,2156356,2110376
+ "56000","Wyoming",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",3288762,3507528,3085530,2874196,3268449,3194242
+ "56000","Wyoming",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",629362,656826,707379,674609,782165,848494
+ "56000","Wyoming",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",5382151,5426206,5291971,5070111,5403591,5554170
+ "56000","Wyoming",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",1060817,1071111,1057350,1052470,1254161,1239092
+ "56000","Wyoming",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",4321334,4355129,4234003,4015647,4143422,4312147
+ "56000","Wyoming",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",1794357,1920425,1998882,1933207,2312553,2487229
+ "56000","Wyoming",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",1131687,1220148,1321431,1268098,1408818,1566047
+ "56000","Wyoming",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",121153,127172,125221,147303,345430,291882
+ "56000","Wyoming",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",541517,573091,552543,520312,578264,640988
+ "56000","Wyoming",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",1794895,1823493,1854062,1846103,1850141,1896073
+ "56000","Wyoming",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",116554,115585,123623,117659,127624,145944
+ "56000","Wyoming",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",1678341,1707923,1730364,1728477,1722343,1749645
+ "56000","Wyoming",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",1676584,1612889,1618338,1476585,1811253,1930547
+ "56000","Wyoming",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",277855,288617,281590,242803,295754,349480
+ "56000","Wyoming",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",1398729,1324371,1336774,1234265,1516201,1582115
+ "56000","Wyoming",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",621822,650458,656333,593730,614360,615045
+ "56000","Wyoming",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",6321829,6236068,6091979,5952012,5935040,6010079
+ "56000","Wyoming",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",7518789,7314969,7586584,6881810,5963331,6268527
+ "56000","Wyoming",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",3623858,3619086,3689279,3494730,3382667,3278679
+ "56000","Wyoming",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",4333256,4483560,4053198,3874779,4135044,4022590
+ "56000","Wyoming",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",2616319,2912554,3468433,2876779,3339300,3291154
+ "56000","Wyoming",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",11442194,11550697,12612812,11201639,10635132,10667960
+ "56000","Wyoming",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",19856283,20191725,19851900,18944506,20230065,20512580
+ "56001","Albany, WY",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1577300,1551129,1507601,1528034,1559662,1615817
+ "56001","Albany, WY",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",987579,1020870,994871,1008747,1048386,1097722
+ "56001","Albany, WY",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",12089,5188,4728,5165,2625,5990
+ "56001","Albany, WY",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",9726,8303,8337,7126,7598,14315
+ "56001","Albany, WY",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",10195,(D),10483,12609,9755,9684
+ "56001","Albany, WY",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",106475,77346,69161,82278,81498,72243
+ "56001","Albany, WY",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",44963,45123,44573,43154,44878,42652
+ "56001","Albany, WY",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",41317,41273,40607,39162,40280,37626
+ "56001","Albany, WY",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",3646,3852,3971,3999,4616,5081
+ "56001","Albany, WY",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",31279,27762,27014,28358,27596,24947
+ "56001","Albany, WY",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",117146,111924,109862,105243,106556,105270
+ "56001","Albany, WY",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",22441,26121,16916,15741,19389,19464
+ "56001","Albany, WY",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",21747,(D),28128,33567,44938,47397
+ "56001","Albany, WY",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",310585,340279,317213,318996,316598,336888
+ "56001","Albany, WY",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",65316,67114,66874,64931,65211,69729
+ "56001","Albany, WY",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",245269,273254,250308,254060,251379,267145
+ "56001","Albany, WY",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",106268,114401,124522,121181,136951,159145
+ "56001","Albany, WY",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",84006,91995,102170,101364,115454,130855
+ "56001","Albany, WY",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),1370
+ "56001","Albany, WY",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),27028
+ "56001","Albany, WY",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",96961,132837,134773,143814,148645,158360
+ "56001","Albany, WY",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",12114,10148,9818,12577,16060,18975
+ "56001","Albany, WY",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",84847,122723,124995,131244,132533,139300
+ "56001","Albany, WY",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",63598,63899,64073,59837,69061,74613
+ "56001","Albany, WY",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",5934,7185,7646,7475,8819,12917
+ "56001","Albany, WY",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",57664,56716,56432,52364,60244,61852
+ "56001","Albany, WY",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",34106,35261,36265,32843,35541,34625
+ "56001","Albany, WY",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",589721,530487,512971,519540,512060,518920
+ "56001","Albany, WY",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",21815,13499,13071,12323,10055,20117
+ "56001","Albany, WY",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",148425,139663,136845,133637,134206,130323
+ "56001","Albany, WY",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",32635,(D),27349,28210,29091,29094
+ "56001","Albany, WY",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",66710,(D),72488,76212,88575,88359
+ "56001","Albany, WY",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",173254,135993,126704,138159,136981,134748
+ "56001","Albany, WY",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",814325,884764,868061,870441,911269,963138
+ "56003","Big Horn, WY",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",499564,498360,513832,484441,478601,473264
+ "56003","Big Horn, WY",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",384821,383955,402981,375224,371710,365731
+ "56003","Big Horn, WY",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",17645,26041,45166,39030,14746,33611
+ "56003","Big Horn, WY",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",114961,107067,107768,111193,109744,86151
+ "56003","Big Horn, WY",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",2781,2699,2836,(D),2481,2257
+ "56003","Big Horn, WY",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",27467,28807,25019,30160,29233,22134
+ "56003","Big Horn, WY",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",33613,35440,33144,31440,30890,31568
+ "56003","Big Horn, WY",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",25886,23909,23129,21025,19335,19961
+ "56003","Big Horn, WY",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",7727,11582,10042,10452,11620,11648
+ "56003","Big Horn, WY",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",12758,11923,10595,9770,9290,8863
+ "56003","Big Horn, WY",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",13909,13870,15409,16279,16717,16104
+ "56003","Big Horn, WY",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",18184,17368,13015,17241,27844,25816
+ "56003","Big Horn, WY",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",8959,8820,8782,8516,9207,9777
+ "56003","Big Horn, WY",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",91283,90854,100796,69979,77484,80863
+ "56003","Big Horn, WY",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",16121,16151,15641,14644,14042,14258
+ "56003","Big Horn, WY",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",75162,74701,85296,55292,63443,66638
+ "56003","Big Horn, WY",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",19977,20786,21350,20624,21895,27466
+ "56003","Big Horn, WY",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56003","Big Horn, WY",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56003","Big Horn, WY",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",9888,10867,10932,11166,10754,13799
+ "56003","Big Horn, WY",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",7300,(D),7551,7862,9074,9158
+ "56003","Big Horn, WY",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),310,481,829
+ "56003","Big Horn, WY",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),7552,8590,8323
+ "56003","Big Horn, WY",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",7014,(D),7377,(D),8747,8454
+ "56003","Big Horn, WY",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",514,(D),456,481,1163,1331
+ "56003","Big Horn, WY",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",6500,6521,6921,(D),7553,7095
+ "56003","Big Horn, WY",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",8969,6572,6297,6150,6215,6047
+ "56003","Big Horn, WY",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",114743,114405,110886,109061,106796,107576
+ "56003","Big Horn, WY",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",132606,132689,151094,148726,123349,119589
+ "56003","Big Horn, WY",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",26667,25786,25933,25949,25916,24882
+ "56003","Big Horn, WY",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",20965,20067,15836,(D),30397,28138
+ "56003","Big Horn, WY",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",42571,44267,41914,39932,39988,41183
+ "56003","Big Horn, WY",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",193686,196897,209082,210567,183739,173769
+ "56003","Big Horn, WY",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",191135,187032,193895,165562,188945,193826
+ "56005","Campbell, WY",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",5405708,5262255,5246330,5018330,4804657,5697657
+ "56005","Campbell, WY",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",4976048,4829695,4830760,4623001,4426099,5307727
+ "56005","Campbell, WY",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),24679,24501
+ "56005","Campbell, WY",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",2208069,2059597,2087971,1974675,1761063,2472300
+ "56005","Campbell, WY",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56005","Campbell, WY",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",161855,175208,181950,160245,154093,151536
+ "56005","Campbell, WY",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",69833,76529,91664,80803,67649,69849
+ "56005","Campbell, WY",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",36943,40731,48301,36947,31921,31947
+ "56005","Campbell, WY",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",32890,35799,43370,44170,35978,38165
+ "56005","Campbell, WY",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",259896,263738,272811,244627,232140,224888
+ "56005","Campbell, WY",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",179451,184428,199252,199772,192486,183602
+ "56005","Campbell, WY",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",1136616,1165146,1084209,1012983,1110088,1223376
+ "56005","Campbell, WY",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",41711,40482,36672,32251,35900,38915
+ "56005","Campbell, WY",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",368017,331749,336155,392915,359678,(D)
+ "56005","Campbell, WY",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",67813,63301,61612,64179,64917,60736
+ "56005","Campbell, WY",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",300204,268380,274628,329174,294950,(D)
+ "56005","Campbell, WY",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",147192,151762,151057,121593,119513,139134
+ "56005","Campbell, WY",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",62412,63604,67477,59753,58910,65376
+ "56005","Campbell, WY",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",35919,38157,33955,15562,14030,14243
+ "56005","Campbell, WY",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",48861,50018,49466,45132,45287,57498
+ "56005","Campbell, WY",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",78440,75446,80454,80463,80997,86792
+ "56005","Campbell, WY",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",7449,7174,7712,7778,8478,10773
+ "56005","Campbell, WY",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",70991,68272,72741,72682,72499,75948
+ "56005","Campbell, WY",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56005","Campbell, WY",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56005","Campbell, WY",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",71905,68306,69967,64810,72231,74233
+ "56005","Campbell, WY",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",59661,67474,72167,67057,64551,66515
+ "56005","Campbell, WY",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",429661,432641,415620,395485,378824,385006
+ "56005","Campbell, WY",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),1786646,2497100
+ "56005","Campbell, WY",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",439347,448148,471815,443761,424048,407888
+ "56005","Campbell, WY",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56005","Campbell, WY",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",111544,117062,128755,113427,103177,108124
+ "56005","Campbell, WY",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),2006736,2724586
+ "56005","Campbell, WY",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),2412184,2534276
+ "56007","Carbon, WY",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1129255,1177613,1366784,1129149,1279940,1197069
+ "56007","Carbon, WY",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",969281,1021360,1213585,970829,1127278,1047198
+ "56007","Carbon, WY",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),19734,33704
+ "56007","Carbon, WY",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",106693,87214,89162,86658,76254,57750
+ "56007","Carbon, WY",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",24484,22879,24924,28779,39029,50427
+ "56007","Carbon, WY",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",37171,53531,65690,69987,(D),34765
+ "56007","Carbon, WY",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),525194
+ "56007","Carbon, WY",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),6795
+ "56007","Carbon, WY",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",399926,465874,632816,409071,565127,519485
+ "56007","Carbon, WY",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",13223,12909,12026,11711,10986,9973
+ "56007","Carbon, WY",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",60379,60151,62184,57139,56882,56129
+ "56007","Carbon, WY",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",34813,42153,36616,34398,34500,32821
+ "56007","Carbon, WY",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",10199,9750,9133,9027,10167,10891
+ "56007","Carbon, WY",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",129674,126496,111549,107258,101143,99998
+ "56007","Carbon, WY",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",17204,16604,17180,14078,14695,15235
+ "56007","Carbon, WY",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",112470,109899,94235,93134,86363,84630
+ "56007","Carbon, WY",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",26978,27597,27561,24289,25968,28960
+ "56007","Carbon, WY",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",12565,12791,12696,11080,12248,13171
+ "56007","Carbon, WY",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",2156,2254,2256,2035,2125,2107
+ "56007","Carbon, WY",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",12257,12552,12609,11176,11604,13624
+ "56007","Carbon, WY",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",19838,18226,19214,19154,19176,19384
+ "56007","Carbon, WY",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),231,244,541,677
+ "56007","Carbon, WY",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),18983,18909,18630,18700
+ "56007","Carbon, WY",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",58756,54976,57166,53435,63499,64014
+ "56007","Carbon, WY",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",8441,8854,7783,6080,6427,6099
+ "56007","Carbon, WY",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",50315,46128,49370,47393,57181,58029
+ "56007","Carbon, WY",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",11847,11718,11169,9516,9656,9312
+ "56007","Carbon, WY",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",159975,155540,150463,151620,148129,147747
+ "56007","Carbon, WY",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),94652,87462
+ "56007","Carbon, WY",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",73603,73057,74156,68818,67849,66103
+ "56007","Carbon, WY",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",59298,65047,61470,62899,73045,82892
+ "56007","Carbon, WY",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),536722
+ "56007","Carbon, WY",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",579088,632020,830789,594455,738591,658945
+ "56007","Carbon, WY",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",390193,386894,371302,354429,370228,381498
+ "56009","Converse, WY",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1122856,1266004,1750724,1490663,1268444,1334272
+ "56009","Converse, WY",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",982189,1125468,1606581,1342189,1117555,1184971
+ "56009","Converse, WY",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",26036,12239,(D),(D),9207,14049
+ "56009","Converse, WY",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",488288,579374,775425,674246,598475,680408
+ "56009","Converse, WY",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",127802,123213,(D),(D),123602,116132
+ "56009","Converse, WY",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",32653,104510,327144,201773,71641,40165
+ "56009","Converse, WY",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",27230,27385,46086,34216,37237,36533
+ "56009","Converse, WY",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",6196,6469,24282,18476,17723,18544
+ "56009","Converse, WY",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",21035,20926,22665,16343,20371,19096
+ "56009","Converse, WY",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",6960,5917,(D),(D),(D),(D)
+ "56009","Converse, WY",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",27787,27135,29403,27374,24963,24526
+ "56009","Converse, WY",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",44095,41268,54431,39261,44241,54033
+ "56009","Converse, WY",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",4351,4651,4601,4012,4436,4898
+ "56009","Converse, WY",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",120525,116352,116917,123505,130888,(D)
+ "56009","Converse, WY",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",21534,21208,21906,20778,23536,24880
+ "56009","Converse, WY",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",98991,95131,94959,102766,107350,(D)
+ "56009","Converse, WY",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",27031,34496,53474,37386,(D),34543
+ "56009","Converse, WY",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",10827,12300,22504,14889,(D),(D)
+ "56009","Converse, WY",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,(D),(D)
+ "56009","Converse, WY",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",16204,22192,31013,22500,16344,20153
+ "56009","Converse, WY",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",17233,16949,17166,18354,18163,17892
+ "56009","Converse, WY",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",99,145,158,143,152,210
+ "56009","Converse, WY",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",17134,16803,17007,18212,18011,17681
+ "56009","Converse, WY",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",17772,16309,18925,19055,20194,19404
+ "56009","Converse, WY",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",2025,1819,1544,1451,1686,1857
+ "56009","Converse, WY",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",15747,14490,17380,17607,18503,17540
+ "56009","Converse, WY",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",14425,14409,14570,13990,12788,13743
+ "56009","Converse, WY",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",140667,140142,143840,144636,145258,141496
+ "56009","Converse, WY",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",514324,592908,(D),(D),610521,696996
+ "56009","Converse, WY",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",34747,33042,(D),(D),(D),(D)
+ "56009","Converse, WY",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",171897,164481,(D),(D),167392,169348
+ "56009","Converse, WY",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",31582,32023,50931,38391,41855,41453
+ "56009","Converse, WY",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",574207,722510,(D),(D),683942,742151
+ "56009","Converse, WY",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",407982,400614,(D),(D),414054,417728
+ "56011","Crook, WY",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",309349,302336,298747,317596,312442,310992
+ "56011","Crook, WY",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",253339,246191,245283,266287,260836,259135
+ "56011","Crook, WY",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",24784,11956,10538,25841,22983,21142
+ "56011","Crook, WY",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",50602,65742,69224,65808,71412,67780
+ "56011","Crook, WY",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",6248,6251,6198,6462,5763,5015
+ "56011","Crook, WY",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",18734,18929,18954,20962,20461,17890
+ "56011","Crook, WY",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",25049,24946,27182,25412,21704,17454
+ "56011","Crook, WY",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",23414,23543,26059,24226,20162,15811
+ "56011","Crook, WY",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",1635,1399,1108,1177,1637,1841
+ "56011","Crook, WY",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),8317,8091
+ "56011","Crook, WY",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",14068,14384,15108,14664,15066,15500
+ "56011","Crook, WY",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",20642,17365,10865,10637,(D),(D)
+ "56011","Crook, WY",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),1860,(D),(D),(D),(D)
+ "56011","Crook, WY",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",49964,43561,42521,50157,43045,45338
+ "56011","Crook, WY",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",12053,9890,9255,7836,9176,8916
+ "56011","Crook, WY",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",37911,33703,33325,42521,33970,36586
+ "56011","Crook, WY",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),8814,10996,13799,11879,(D)
+ "56011","Crook, WY",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",6587,6361,8441,10999,9787,12650
+ "56011","Crook, WY",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),463,803,(D),(D)
+ "56011","Crook, WY",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),2130,2098,(D),(D)
+ "56011","Crook, WY",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",6766,(D),7055,7287,7189,7602
+ "56011","Crook, WY",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56011","Crook, WY",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56011","Crook, WY",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",11971,10572,10243,10495,13365,14058
+ "56011","Crook, WY",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",3143,(D),2781,2747,3283,3645
+ "56011","Crook, WY",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",8828,(D),7462,7754,10103,10434
+ "56011","Crook, WY",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",4807,5548,6427,6266,6982,6952
+ "56011","Crook, WY",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",56010,56146,53481,51583,51862,52156
+ "56011","Crook, WY",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",75387,78344,80523,92643,95094,89475
+ "56011","Crook, WY",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),23344,23560
+ "56011","Crook, WY",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",26890,23611,17008,17030,(D),(D)
+ "56011","Crook, WY",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),26806,(D),(D),(D),(D)
+ "56011","Crook, WY",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",119170,122208,126676,138363,135769,123096
+ "56011","Crook, WY",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",134169,123992,118757,128159,125349,137414
+ "56013","Fremont, WY",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1729469,1707182,1602650,1565301,1506216,1505961
+ "56013","Fremont, WY",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1293349,1270100,1174858,1154327,1091077,1075322
+ "56013","Fremont, WY",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",93920,(D),(D),(D),57233,76372
+ "56013","Fremont, WY",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",230266,199386,168677,174179,147622,115113
+ "56013","Fremont, WY",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",9346,(D),(D),(D),(D),(D)
+ "56013","Fremont, WY",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",84630,90458,79286,68099,67386,72313
+ "56013","Fremont, WY",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",23372,27494,32038,30912,33253,34373
+ "56013","Fremont, WY",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",7349,7923,8723,7644,9118,9964
+ "56013","Fremont, WY",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",16023,19571,23316,23282,24151,24433
+ "56013","Fremont, WY",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",36815,36750,34630,32218,29427,27594
+ "56013","Fremont, WY",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",130023,128735,136818,134960,134036,129386
+ "56013","Fremont, WY",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",46265,51267,39897,48889,51377,45016
+ "56013","Fremont, WY",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",29365,28507,28530,27298,29594,32065
+ "56013","Fremont, WY",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",291786,278329,230025,210424,233047,233362
+ "56013","Fremont, WY",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",45660,44565,42594,38438,41892,43015
+ "56013","Fremont, WY",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",246126,233737,187120,171719,190879,190006
+ "56013","Fremont, WY",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",65424,65070,67226,63313,70356,77120
+ "56013","Fremont, WY",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",41240,42010,43940,40126,43216,48561
+ "56013","Fremont, WY",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",7884,7067,7362,7665,12001,10128
+ "56013","Fremont, WY",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",16301,15984,15929,15558,15600,18486
+ "56013","Fremont, WY",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",155034,154205,153014,145702,143226,149241
+ "56013","Fremont, WY",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),28031,28053,23535,22715,25455
+ "56013","Fremont, WY",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),126171,124956,122218,120568,123815
+ "56013","Fremont, WY",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",56234,(D),(D),(D),(D),(D)
+ "56013","Fremont, WY",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",6091,(D),(D),(D),(D),(D)
+ "56013","Fremont, WY",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",50143,46789,45273,43311,50841,50648
+ "56013","Fremont, WY",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",40869,40857,36918,35656,36116,35027
+ "56013","Fremont, WY",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",436120,437150,427733,411293,415214,432396
+ "56013","Fremont, WY",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",324186,(D),(D),(D),197841,182327
+ "56013","Fremont, WY",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",166837,165488,171290,166972,163302,156844
+ "56013","Fremont, WY",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",55611,(D),(D),(D),(D),(D)
+ "56013","Fremont, WY",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",52737,56035,60693,58337,62970,66417
+ "56013","Fremont, WY",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",432188,(D),(D),(D),298275,285962
+ "56013","Fremont, WY",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",861161,(D),(D),(D),791531,790983
+ "56015","Goshen, WY",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",494990,505645,481795,455749,465742,439435
+ "56015","Goshen, WY",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",387344,398509,377614,356473,370535,343431
+ "56015","Goshen, WY",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",72126,97604,89590,50406,64705,49212
+ "56015","Goshen, WY",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",84,141,179,307,138,(D)
+ "56015","Goshen, WY",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",3282,3310,(D),(D),2941,2441
+ "56015","Goshen, WY",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",18903,13938,12563,15261,17573,16638
+ "56015","Goshen, WY",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",16113,17782,11118,7341,8589,9644
+ "56015","Goshen, WY",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",2673,2887,3161,2632,2953,3095
+ "56015","Goshen, WY",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",13441,14896,7933,4686,5608,6525
+ "56015","Goshen, WY",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",37871,35848,33808,32124,29928,27912
+ "56015","Goshen, WY",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",25617,25451,27458,25386,23632,22629
+ "56015","Goshen, WY",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",25466,25729,19449,26807,27615,22283
+ "56015","Goshen, WY",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",3393,3841,3972,4069,7282,(D)
+ "56015","Goshen, WY",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",95387,85622,86087,100105,94206,94694
+ "56015","Goshen, WY",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",21888,19815,19557,18677,21627,21073
+ "56015","Goshen, WY",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",73500,65804,66551,81614,72622,73719
+ "56015","Goshen, WY",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",16361,16721,17135,16654,18109,19247
+ "56015","Goshen, WY",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",7035,7322,7726,(D),(D),9928
+ "56015","Goshen, WY",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56015","Goshen, WY",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),5959,5431,(D)
+ "56015","Goshen, WY",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",51776,52561,53669,51361,51510,50271
+ "56015","Goshen, WY",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),2298,(D),(D),2243
+ "56015","Goshen, WY",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),51371,(D),(D),48026
+ "56015","Goshen, WY",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",9382,10128,(D),(D),10108,(D)
+ "56015","Goshen, WY",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",837,877,(D),(D),489,(D)
+ "56015","Goshen, WY",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",8545,9251,8750,8407,9614,9813
+ "56015","Goshen, WY",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",11582,10779,10298,9342,10137,9636
+ "56015","Goshen, WY",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",107646,107158,104159,99231,95328,96470
+ "56015","Goshen, WY",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",72210,97749,89779,50668,64831,(D)
+ "56015","Goshen, WY",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",63488,61289,61164,57426,53482,50478
+ "56015","Goshen, WY",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",28748,29039,(D),(D),30637,24791
+ "56015","Goshen, WY",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",19506,21623,15047,11294,15530,(D)
+ "56015","Goshen, WY",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",107226,129093,112872,74233,92105,(D)
+ "56015","Goshen, WY",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",280117,269909,264512,278502,275071,(D)
+ "56017","Hot Springs, WY",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",220207,236230,219052,279151,258512,239338
+ "56017","Hot Springs, WY",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",178840,189589,173661,234666,212901,191926
+ "56017","Hot Springs, WY",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",14317,10874,(D),(D),3791,1021
+ "56017","Hot Springs, WY",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",54145,50606,53232,44779,40310,34851
+ "56017","Hot Springs, WY",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",820,720,680,665,650,663
+ "56017","Hot Springs, WY",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",5242,5291,(D),(D),5986,5658
+ "56017","Hot Springs, WY",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",5234,7000,5579,5232,6579,7637
+ "56017","Hot Springs, WY",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",2751,2894,2799,2562,3074,(D)
+ "56017","Hot Springs, WY",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",2483,4116,2775,2666,3502,(D)
+ "56017","Hot Springs, WY",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56017","Hot Springs, WY",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56017","Hot Springs, WY",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",16200,39949,29023,95934,68053,55705
+ "56017","Hot Springs, WY",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",1769,1704,(D),(D),(D),2241
+ "56017","Hot Springs, WY",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",34721,34134,28165,27845,34161,(D)
+ "56017","Hot Springs, WY",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",5415,5370,5370,5340,6026,(D)
+ "56017","Hot Springs, WY",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",29305,28763,22738,22447,28075,26374
+ "56017","Hot Springs, WY",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",5464,5034,5676,(D),8577,11415
+ "56017","Hot Springs, WY",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",3334,3611,4012,3581,5008,5448
+ "56017","Hot Springs, WY",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,(D),(D),(D),(D)
+ "56017","Hot Springs, WY",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",2130,1421,(D),(D),(D),(D)
+ "56017","Hot Springs, WY",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",14204,11047,11732,10765,11059,11167
+ "56017","Hot Springs, WY",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",1163,776,797,(D),(D),(D)
+ "56017","Hot Springs, WY",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",13041,10272,10936,(D),(D),(D)
+ "56017","Hot Springs, WY",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",9711,8216,7721,8362,10408,10583
+ "56017","Hot Springs, WY",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",2417,2341,2167,2463,2717,2872
+ "56017","Hot Springs, WY",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",7294,5877,5556,5897,7705,7727
+ "56017","Hot Springs, WY",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",4138,4088,(D),(D),(D),4049
+ "56017","Hot Springs, WY",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",41367,46668,45402,45734,46494,48523
+ "56017","Hot Springs, WY",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",68462,61640,(D),(D),44242,36125
+ "56017","Hot Springs, WY",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",12876,11036,10485,9995,9240,(D)
+ "56017","Hot Springs, WY",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",17020,40669,29700,96698,68764,56421
+ "56017","Hot Springs, WY",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",7003,8710,(D),(D),(D),9893
+ "56017","Hot Springs, WY",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",78938,73827,74656,58608,56910,49005
+ "56017","Hot Springs, WY",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",99902,116057,99483,167366,148994,137052
+ "56019","Johnson, WY",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",403444,389906,386603,395441,397026,388127
+ "56019","Johnson, WY",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",318610,305623,305270,315880,316510,310868
+ "56019","Johnson, WY",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",10560,4955,4842,20380,12021,13153
+ "56019","Johnson, WY",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",121419,98449,88652,76140,77257,67914
+ "56019","Johnson, WY",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1517,1658,1673,1799,1339,1154
+ "56019","Johnson, WY",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",14583,15196,14453,17205,20611,16386
+ "56019","Johnson, WY",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",3226,3573,3774,3938,5015,5667
+ "56019","Johnson, WY",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",1891,2107,2181,2213,2649,2496
+ "56019","Johnson, WY",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",1335,1466,1594,1726,2368,3196
+ "56019","Johnson, WY",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",6495,10798,9816,9909,9039,9040
+ "56019","Johnson, WY",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",19604,22590,28572,26680,25585,24686
+ "56019","Johnson, WY",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),9140,7464,9032,(D),9082
+ "56019","Johnson, WY",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",4555,16191,24571,25347,32352,37343
+ "56019","Johnson, WY",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",72036,66818,63911,73769,64241,66431
+ "56019","Johnson, WY",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",18232,17911,18347,16377,18635,17859
+ "56019","Johnson, WY",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",53804,48874,45454,57452,45541,48611
+ "56019","Johnson, WY",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),22703,25801,19189,(D),25560
+ "56019","Johnson, WY",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",15112,19322,21903,15232,18125,20354
+ "56019","Johnson, WY",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),307,(D),881
+ "56019","Johnson, WY",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",3487,(D),(D),3636,3688,4369
+ "56019","Johnson, WY",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",8486,8431,8432,8105,9554,10444
+ "56019","Johnson, WY",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",910,735,(D),(D),647,875
+ "56019","Johnson, WY",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",7576,7697,(D),(D),8909,9571
+ "56019","Johnson, WY",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",19452,18411,17566,15517,19259,20448
+ "56019","Johnson, WY",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",3731,3493,2791,2406,3016,4082
+ "56019","Johnson, WY",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",15720,14918,14769,13107,16237,16377
+ "56019","Johnson, WY",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",8002,8250,8160,8197,8537,8542
+ "56019","Johnson, WY",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",84834,84354,81398,79955,80932,77589
+ "56019","Johnson, WY",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",131979,103685,93729,100530,91250,82810
+ "56019","Johnson, WY",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",26099,33422,38305,36530,34574,33671
+ "56019","Johnson, WY",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),10797,9130,10834,(D),10263
+ "56019","Johnson, WY",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",7781,19731,28241,29181,37234,42836
+ "56019","Johnson, WY",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",149788,122192,111734,121829,118149,106030
+ "56019","Johnson, WY",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",168822,184614,194708,196717,200892,209188
+ "56021","Laramie, WY",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",5428708,5727043,6009411,5664112,5986116,5846867
+ "56021","Laramie, WY",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",3726154,4040247,4355855,4031899,4351252,4215623
+ "56021","Laramie, WY",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),75776,35507
+ "56021","Laramie, WY",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",186714,260269,308280,179279,(D),(D)
+ "56021","Laramie, WY",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),40871
+ "56021","Laramie, WY",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",306950,301977,346080,338608,362705,288491
+ "56021","Laramie, WY",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),407747,584993,421821,603217,(D)
+ "56021","Laramie, WY",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),67148,61266,59448,59728,69044
+ "56021","Laramie, WY",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",254393,338917,517947,354749,537094,(D)
+ "56021","Laramie, WY",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",148951,155904,161131,143923,127894,123275
+ "56021","Laramie, WY",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",420600,428772,466245,445898,439530,429775
+ "56021","Laramie, WY",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",290175,288490,298796,278582,341698,321676
+ "56021","Laramie, WY",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),212964,237282,230370,262505,279922
+ "56021","Laramie, WY",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",847935,925894,866569,860762,843312,(D)
+ "56021","Laramie, WY",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",230286,250734,238261,254898,260001,258740
+ "56021","Laramie, WY",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",617649,675183,628222,605539,582938,(D)
+ "56021","Laramie, WY",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),(D),392726,394418,419016,454137
+ "56021","Laramie, WY",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",234689,256415,268616,261255,271436,296357
+ "56021","Laramie, WY",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),11959,14068,17564,20319
+ "56021","Laramie, WY",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",99402,111674,112281,119203,130215,138013
+ "56021","Laramie, WY",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",329146,336204,344300,342113,344053,354468
+ "56021","Laramie, WY",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",15262,15296,17385,16238,18497,20652
+ "56021","Laramie, WY",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",313884,320910,326886,325871,325498,333715
+ "56021","Laramie, WY",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",179453,173030,(D),(D),(D),(D)
+ "56021","Laramie, WY",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",20231,19491,(D),(D),(D),(D)
+ "56021","Laramie, WY",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",159223,153540,158658,151667,154364,179076
+ "56021","Laramie, WY",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",94402,99310,98151,94406,102230,104183
+ "56021","Laramie, WY",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1702554,1686304,1653216,1627863,1634533,1634117
+ "56021","Laramie, WY",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56021","Laramie, WY",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",569551,584717,627132,589336,567164,552836
+ "56021","Laramie, WY",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),362217
+ "56021","Laramie, WY",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),622642,831185,663237,880674,(D)
+ "56021","Laramie, WY",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),1064659
+ "56021","Laramie, WY",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),3165710
+ "56023","Lincoln, WY",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",819197,806837,838215,843145,837924,872367
+ "56023","Lincoln, WY",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",665722,648728,681053,691294,678376,707838
+ "56023","Lincoln, WY",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",7798,18283,30099,19952,13591,23696
+ "56023","Lincoln, WY",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",137342,116596,124867,153476,97834,80133
+ "56023","Lincoln, WY",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",111001,102537,76625,80370,65917,59646
+ "56023","Lincoln, WY",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",66668,64684,65718,89512,109450,139495
+ "56023","Lincoln, WY",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",12786,13380,14105,11474,11994,16239
+ "56023","Lincoln, WY",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",9979,9738,11029,8129,8337,11378
+ "56023","Lincoln, WY",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",2808,3650,3072,3340,3650,4851
+ "56023","Lincoln, WY",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),10669,9771,16903,17994,18188
+ "56023","Lincoln, WY",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",46275,45976,48437,47532,48188,47031
+ "56023","Lincoln, WY",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",17799,17154,21919,33816,37909,32801
+ "56023","Lincoln, WY",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",25957,25742,26303,24850,36143,38611
+ "56023","Lincoln, WY",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",150576,151297,168608,123192,141775,157283
+ "56023","Lincoln, WY",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",18307,17660,17306,17715,23780,26458
+ "56023","Lincoln, WY",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",132269,133662,151478,105418,117849,130664
+ "56023","Lincoln, WY",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),38318,47922,47963,48671,54270
+ "56023","Lincoln, WY",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",14969,20357,23938,26075,32743,36240
+ "56023","Lincoln, WY",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),4224,5317
+ "56023","Lincoln, WY",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),11751,12841
+ "56023","Lincoln, WY",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",16383,17335,18282,17868,18519,19074
+ "56023","Lincoln, WY",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",1045,1250,1336,1310,1783,1921
+ "56023","Lincoln, WY",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",15338,16084,16944,16556,16727,17142
+ "56023","Lincoln, WY",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",19043,17605,17285,16576,20156,20486
+ "56023","Lincoln, WY",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",2737,2799,2517,2064,1874,1715
+ "56023","Lincoln, WY",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",16307,14807,14766,14517,18308,18794
+ "56023","Lincoln, WY",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",9753,10714,13726,13416,13635,13306
+ "56023","Lincoln, WY",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",153475,158183,157227,152220,160007,164934
+ "56023","Lincoln, WY",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",145140,133960,153046,169507,108874,100359
+ "56023","Lincoln, WY",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),56621,58128,64551,66289,65312
+ "56023","Lincoln, WY",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",128800,119697,98810,115099,105031,93512
+ "56023","Lincoln, WY",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",38744,39127,40424,36251,47701,54719
+ "56023","Lincoln, WY",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",224594,211822,232681,273255,235647,255320
+ "56023","Lincoln, WY",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",441127,437204,448468,422254,447127,455777
+ "56025","Natrona, WY",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",5594566,5920361,5678124,5070249,5001565,4988595
+ "56025","Natrona, WY",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",5065345,5408330,5177910,4584634,4521727,4502001
+ "56025","Natrona, WY",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",26454,(D),(D),(D),4130,10299
+ "56025","Natrona, WY",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",461559,587339,612275,444409,(D),358680
+ "56025","Natrona, WY",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",22861,(D),(D),(D),19912,(D)
+ "56025","Natrona, WY",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",273025,248948,275505,249141,248861,237755
+ "56025","Natrona, WY",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",268396,352469,400296,315816,365274,364913
+ "56025","Natrona, WY",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),112701,128297,125714,158947,(D)
+ "56025","Natrona, WY",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),237865,269793,184790,198571,(D)
+ "56025","Natrona, WY",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",585382,565077,552929,496212,448062,433285
+ "56025","Natrona, WY",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",347875,353473,369986,366323,363615,357410
+ "56025","Natrona, WY",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",1041128,1207396,927149,772093,833800,739003
+ "56025","Natrona, WY",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",62719,60650,59404,54677,57363,63260
+ "56025","Natrona, WY",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",908063,919360,887690,854084,828495,853068
+ "56025","Natrona, WY",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",174369,158276,152110,151266,172839,171677
+ "56025","Natrona, WY",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",733694,761683,736198,703187,654981,681102
+ "56025","Natrona, WY",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",282536,300254,291385,253674,269182,(D)
+ "56025","Natrona, WY",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",172840,192122,193144,162374,168419,191092
+ "56025","Natrona, WY",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",17369,15080,14945,14059,15964,(D)
+ "56025","Natrona, WY",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",92327,93006,83316,77242,84805,101574
+ "56025","Natrona, WY",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",499405,(D),(D),(D),(D),478130
+ "56025","Natrona, WY",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",11377,(D),(D),(D),(D),14894
+ "56025","Natrona, WY",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",488028,479272,474599,468204,459526,463174
+ "56025","Natrona, WY",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",170230,155759,159661,144118,(D),165158
+ "56025","Natrona, WY",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",28868,26987,25729,22174,25093,27795
+ "56025","Natrona, WY",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",141363,128774,133912,121928,(D),137472
+ "56025","Natrona, WY",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",115712,126019,126871,104425,104938,106938
+ "56025","Natrona, WY",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",529221,512049,500209,484272,478678,485850
+ "56025","Natrona, WY",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",488013,(D),(D),(D),(D),370160
+ "56025","Natrona, WY",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",933257,918400,922084,861080,810682,789817
+ "56025","Natrona, WY",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",1063989,(D),(D),(D),853452,(D)
+ "56025","Natrona, WY",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",331116,414109,461535,372049,424563,428690
+ "56025","Natrona, WY",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1029435,(D),(D),(D),(D),986824
+ "56025","Natrona, WY",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",4035910,(D),(D),(D),(D),3495357
+ "56027","Niobrara, WY",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",119805,126763,117197,133203,115485,100291
+ "56027","Niobrara, WY",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",84272,91909,83957,101270,83073,69390
+ "56027","Niobrara, WY",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),20001,35079,21142,13565
+ "56027","Niobrara, WY",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",13850,14056,15349,10918,8526,6225
+ "56027","Niobrara, WY",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1844,1878,2002,2755,2603,2260
+ "56027","Niobrara, WY",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",3424,(D),(D),(D),(D),(D)
+ "56027","Niobrara, WY",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56027","Niobrara, WY",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),144,173
+ "56027","Niobrara, WY",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56027","Niobrara, WY",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56027","Niobrara, WY",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56027","Niobrara, WY",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",4191,16881,9212,10781,(D),(D)
+ "56027","Niobrara, WY",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56027","Niobrara, WY",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",17430,16029,17187,22347,20956,(D)
+ "56027","Niobrara, WY",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",2523,2484,2489,2221,2314,(D)
+ "56027","Niobrara, WY",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",14906,13539,14704,20182,18687,18577
+ "56027","Niobrara, WY",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",2386,(D),(D),1710,1942,2155
+ "56027","Niobrara, WY",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),1327,1480,1357
+ "56027","Niobrara, WY",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "56027","Niobrara, WY",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),436,383,460,785
+ "56027","Niobrara, WY",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),3383,3519,3415,3664,3430
+ "56027","Niobrara, WY",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56027","Niobrara, WY",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56027","Niobrara, WY",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(D),2067,(D),(D),(D),(D)
+ "56027","Niobrara, WY",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",187,46,46,53,106,255
+ "56027","Niobrara, WY",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),2019,(D),(D),(D),(D)
+ "56027","Niobrara, WY",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",2667,2595,(D),(D),(D),1446
+ "56027","Niobrara, WY",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",35534,34846,33212,32475,32709,31561
+ "56027","Niobrara, WY",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),35649,48547,30999,20760
+ "56027","Niobrara, WY",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",7198,6542,6624,6309,6346,6231
+ "56027","Niobrara, WY",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",6035,18770,11200,13493,(D),(D)
+ "56027","Niobrara, WY",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",888,588,738,541,780,816
+ "56027","Niobrara, WY",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),40233,39374,51259,34506,24488
+ "56027","Niobrara, WY",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),51724,44769,51086,48627,45942
+ "56029","Park, WY",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1480255,1497680,1527142,1364816,1408729,1456902
+ "56029","Park, WY",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1171668,1185326,1224242,1078107,1121998,1158956
+ "56029","Park, WY",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",8867,61416,69199,48401,35466,91145
+ "56029","Park, WY",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",128933,124498,136149,118206,92869,77338
+ "56029","Park, WY",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",8715,8865,8904,9083,7400,6835
+ "56029","Park, WY",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",95057,93881,91761,102084,107462,93967
+ "56029","Park, WY",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",94793,85094,83629,71881,62208,62024
+ "56029","Park, WY",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",36235,43239,43013,38209,34841,32146
+ "56029","Park, WY",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",58558,41827,40584,33607,27209,29790
+ "56029","Park, WY",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",44631,46127,46715,46388,45723,39235
+ "56029","Park, WY",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",115653,97804,80866,72788,75137,72055
+ "56029","Park, WY",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",20484,25526,23750,19688,25269,22643
+ "56029","Park, WY",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",39614,38394,37112,36007,40068,41967
+ "56029","Park, WY",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",276395,270446,303586,232096,270611,275278
+ "56029","Park, WY",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",48934,45814,47346,46390,54117,49508
+ "56029","Park, WY",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",227461,224694,256542,185570,216334,226035
+ "56029","Park, WY",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",75858,77848,81097,71602,81500,95243
+ "56029","Park, WY",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",50409,52954,56675,49937,52931,62720
+ "56029","Park, WY",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",3545,2750,2674,1828,5509,6840
+ "56029","Park, WY",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",21904,22134,21743,19779,23283,26064
+ "56029","Park, WY",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",111390,108749,111765,117618,120396,121002
+ "56029","Park, WY",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",2710,2709,2575,2499,2933,3804
+ "56029","Park, WY",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",108680,106040,109193,115127,117461,117177
+ "56029","Park, WY",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",118808,115117,115821,100325,123472,123317
+ "56029","Park, WY",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",22482,24054,23214,21388,23021,22682
+ "56029","Park, WY",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",96326,91086,92604,78912,100547,100717
+ "56029","Park, WY",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",32469,33117,35158,31191,30864,30107
+ "56029","Park, WY",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",308587,312358,302991,285994,286451,297729
+ "56029","Park, WY",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",137800,181282,200099,160900,123473,158548
+ "56029","Park, WY",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",160285,144014,127926,119590,121307,111784
+ "56029","Park, WY",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",29199,34396,32649,28705,32713,29516
+ "56029","Park, WY",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",134407,123450,120726,107658,101341,102762
+ "56029","Park, WY",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",327650,362217,377506,341618,301019,330351
+ "56029","Park, WY",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",844018,822187,845758,736540,819350,823495
+ "56031","Platte, WY",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",608927,619346,587865,554219,520316,507244
+ "56031","Platte, WY",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",537166,541942,514560,486820,452216,438992
+ "56031","Platte, WY",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",71938,82860,75644,69228,71258,51766
+ "56031","Platte, WY",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",16157,13472,16143,21898,20439,(D)
+ "56031","Platte, WY",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",219188,208350,192146,178876,153929,162506
+ "56031","Platte, WY",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",29620,40419,29330,14965,13712,16973
+ "56031","Platte, WY",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",4173,3882,3966,3479,3741,(D)
+ "56031","Platte, WY",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",3263,3345,3504,3118,2874,3261
+ "56031","Platte, WY",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",911,538,462,361,864,(D)
+ "56031","Platte, WY",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56031","Platte, WY",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",27359,27712,29693,29613,29942,29110
+ "56031","Platte, WY",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",30156,31289,29812,24079,22795,23742
+ "56031","Platte, WY",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",3010,2496,2370,1937,2308,2568
+ "56031","Platte, WY",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",68358,63033,66243,76551,64858,(D)
+ "56031","Platte, WY",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",14691,14232,14239,13215,13794,13277
+ "56031","Platte, WY",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",53667,48776,52027,63508,51132,(D)
+ "56031","Platte, WY",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),16166,18818
+ "56031","Platte, WY",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",10635,9903,10053,8804,9127,10985
+ "56031","Platte, WY",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56031","Platte, WY",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56031","Platte, WY",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",21931,22607,23319,23242,25063,23545
+ "56031","Platte, WY",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),1013,(D)
+ "56031","Platte, WY",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),24041,(D)
+ "56031","Platte, WY",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",14176,14328,14837,13719,(D),15178
+ "56031","Platte, WY",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",960,908,858,628,(D),1074
+ "56031","Platte, WY",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",13216,13420,13977,13093,14255,14117
+ "56031","Platte, WY",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",5646,6266,6599,6397,6553,6707
+ "56031","Platte, WY",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",71761,77383,73287,67443,68108,68478
+ "56031","Platte, WY",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",88095,96165,91948,92011,92522,(D)
+ "56031","Platte, WY",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56031","Platte, WY",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",249344,239646,221982,202795,176596,186134
+ "56031","Platte, WY",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",7184,6380,6344,5431,6049,(D)
+ "56031","Platte, WY",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",121889,140649,124774,108260,107729,85743
+ "56031","Platte, WY",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",415277,401718,389686,377743,343768,355543
+ "56033","Sheridan, WY",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1412217,1418863,1451596,1323954,1449885,1493225
+ "56033","Sheridan, WY",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1079399,1083617,1117145,987316,1114757,1147914
+ "56033","Sheridan, WY",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),10402,10922
+ "56033","Sheridan, WY",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",32510,10704,12546,12206,(D),6168
+ "56033","Sheridan, WY",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",5834,(D),(D),(D),(D),(D)
+ "56033","Sheridan, WY",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",101936,118939,107660,103543,110682,118001
+ "56033","Sheridan, WY",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",46964,49802,59234,54062,71058,72614
+ "56033","Sheridan, WY",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",40812,42414,52055,46455,62541,63038
+ "56033","Sheridan, WY",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",6152,7387,7183,7607,8543,9603
+ "56033","Sheridan, WY",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",40255,(D),(D),(D),(D),(D)
+ "56033","Sheridan, WY",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",121500,125639,129813,130815,139365,136236
+ "56033","Sheridan, WY",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),93168,77049,45663,73696,69776
+ "56033","Sheridan, WY",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",41375,49048,62424,57257,63098,65386
+ "56033","Sheridan, WY",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",289413,285670,309673,235956,274491,289594
+ "56033","Sheridan, WY",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",59504,57766,57204,55662,62937,65771
+ "56033","Sheridan, WY",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",229909,227933,252786,180152,211453,223765
+ "56033","Sheridan, WY",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",96151,106068,121178,120460,143182,159367
+ "56033","Sheridan, WY",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",67556,76655,91258,91236,101928,112254
+ "56033","Sheridan, WY",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",3485,4623,5358,5540,20451,20252
+ "56033","Sheridan, WY",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",25110,24805,24621,23775,22369,28134
+ "56033","Sheridan, WY",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",83417,85868,89524,89818,88500,93438
+ "56033","Sheridan, WY",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",6435,6556,6601,6143,6597,7908
+ "56033","Sheridan, WY",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",76982,79312,82925,83681,81906,85526
+ "56033","Sheridan, WY",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",65791,60471,60852,56207,62500,62394
+ "56033","Sheridan, WY",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",13054,13207,13192,12509,13584,14365
+ "56033","Sheridan, WY",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",52737,47272,47666,43704,48921,48078
+ "56033","Sheridan, WY",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",36332,37587,37913,32646,33361,33773
+ "56033","Sheridan, WY",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",332818,335242,334506,336219,335240,345431
+ "56033","Sheridan, WY",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),17283
+ "56033","Sheridan, WY",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",161755,(D),(D),(D),(D),(D)
+ "56033","Sheridan, WY",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56033","Sheridan, WY",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",88340,98823,121549,111209,134551,138334
+ "56033","Sheridan, WY",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),208810
+ "56033","Sheridan, WY",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),938916
+ "56035","Sublette, WY",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1388086,1169547,1126582,1056402,936322,798463
+ "56035","Sublette, WY",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1294194,1077575,1039311,970615,851433,716827
+ "56035","Sublette, WY",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",59071,61130,58435,52825,41481,42035
+ "56035","Sublette, WY",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",986143,769729,745338,704963,566016,441054
+ "56035","Sublette, WY",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",2186,2551,2800,2297,1728,1569
+ "56035","Sublette, WY",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",33422,35608,34424,31482,30235,30214
+ "56035","Sublette, WY",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",4171,4807,4727,4541,4886,5550
+ "56035","Sublette, WY",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),4126
+ "56035","Sublette, WY",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),1500
+ "56035","Sublette, WY",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56035","Sublette, WY",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",23832,25562,27931,25571,25502,24982
+ "56035","Sublette, WY",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",20051,19458,17715,10643,11259,14913
+ "56035","Sublette, WY",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",3361,3241,5657,4838,4955,5287
+ "56035","Sublette, WY",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",101677,97262,85763,82361,90917,91043
+ "56035","Sublette, WY",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",13514,14071,13971,13445,14875,14470
+ "56035","Sublette, WY",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",88164,83162,71694,68820,75936,76485
+ "56035","Sublette, WY",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",25654,26440,26456,25836,31217,34581
+ "56035","Sublette, WY",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",12256,14150,14853,13267,18719,19755
+ "56035","Sublette, WY",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),640,999,1412
+ "56035","Sublette, WY",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),11929,11799,13699
+ "56035","Sublette, WY",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56035","Sublette, WY",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56035","Sublette, WY",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56035","Sublette, WY",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",13902,12932,12240,10986,14961,15570
+ "56035","Sublette, WY",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1737,1775,1766,1609,2068,2202
+ "56035","Sublette, WY",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",12165,11157,10476,9377,12900,13376
+ "56035","Sublette, WY",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",6076,7065,7235,6822,7219,7192
+ "56035","Sublette, WY",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",93892,92832,88057,85282,83282,83946
+ "56035","Sublette, WY",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",1045214,829249,802320,755954,605903,480093
+ "56035","Sublette, WY",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56035","Sublette, WY",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",22237,22005,20498,12898,12966,16465
+ "56035","Sublette, WY",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",7532,8055,10315,9341,9819,10853
+ "56035","Sublette, WY",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1082807,868897,840760,791082,642680,514809
+ "56035","Sublette, WY",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",211387,211299,200983,183114,200150,207678
+ "56037","Sweetwater, WY",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",3769766,3692765,3695022,3405807,3288513,3095421
+ "56037","Sweetwater, WY",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",3387441,3320361,3331961,3059582,2947449,2759911
+ "56037","Sweetwater, WY",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),41360,25291
+ "56037","Sweetwater, WY",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",1373205,1327187,1340932,1254013,1127999,920858
+ "56037","Sweetwater, WY",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56037","Sweetwater, WY",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",156714,126794,144760,110558,104335,137538
+ "56037","Sweetwater, WY",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",421478,434651,453675,416972,379684,407878
+ "56037","Sweetwater, WY",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",25678,17716,18769,13299,13289,13374
+ "56037","Sweetwater, WY",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",395800,416927,434894,403844,366535,394637
+ "56037","Sweetwater, WY",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),112987,103852
+ "56037","Sweetwater, WY",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",178615,179494,178281,161653,156578,155910
+ "56037","Sweetwater, WY",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",197806,192007,202927,172510,244354,253121
+ "56037","Sweetwater, WY",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",18086,17460,17468,15462,15451,17320
+ "56037","Sweetwater, WY",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",364747,348528,294938,271010,296201,(D)
+ "56037","Sweetwater, WY",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",51257,50085,49853,47127,57064,48327
+ "56037","Sweetwater, WY",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",313490,298410,244603,223380,238379,(D)
+ "56037","Sweetwater, WY",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",105778,112560,107584,86235,90078,105364
+ "56037","Sweetwater, WY",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",54345,56784,57457,45564,45645,49830
+ "56037","Sweetwater, WY",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",15809,15967,17208,11945,13408,18079
+ "56037","Sweetwater, WY",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",35625,39794,33046,28634,30967,37569
+ "56037","Sweetwater, WY",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",73408,70942,73009,69653,(D),(D)
+ "56037","Sweetwater, WY",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",3700,3761,3899,3370,(D),(D)
+ "56037","Sweetwater, WY",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",69707,67180,69109,66288,65400,67680
+ "56037","Sweetwater, WY",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",81158,75772,72502,64862,71600,71438
+ "56037","Sweetwater, WY",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",3988,3623,3718,3219,4820,5370
+ "56037","Sweetwater, WY",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",77170,72149,68784,61647,66726,66015
+ "56037","Sweetwater, WY",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",40616,41786,41999,36938,36628,34549
+ "56037","Sweetwater, WY",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",382325,372398,363155,345464,340361,336341
+ "56037","Sweetwater, WY",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),1168466,944536
+ "56037","Sweetwater, WY",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),269842,260175
+ "56037","Sweetwater, WY",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56037","Sweetwater, WY",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",439564,452134,471199,432510,395071,424992
+ "56037","Sweetwater, WY",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),1648997,1473739
+ "56037","Sweetwater, WY",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),1294030,1287769
+ "56039","Teton, WY",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2527529,2548847,2620496,2659859,3591537,3507901
+ "56039","Teton, WY",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",2265978,2282168,2357628,2399202,3317871,3218946
+ "56039","Teton, WY",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),1739,6308
+ "56039","Teton, WY",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",8616,6133,30917,4887,(D),(D)
+ "56039","Teton, WY",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56039","Teton, WY",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",272582,256270,244136,297266,387583,275292
+ "56039","Teton, WY",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",19269,15463,22701,25646,22979,23778
+ "56039","Teton, WY",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",5241,9002,17068,17678,14731,16092
+ "56039","Teton, WY",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",14028,6443,5596,7878,8124,7525
+ "56039","Teton, WY",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56039","Teton, WY",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",170055,180959,188815,178126,180218,177322
+ "56039","Teton, WY",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",126488,96979,88357,126862,182114,140868
+ "56039","Teton, WY",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",40776,43887,46815,39714,55439,70891
+ "56039","Teton, WY",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",528953,582970,632854,603943,886807,903165
+ "56039","Teton, WY",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",109404,132026,140590,144158,263644,258800
+ "56039","Teton, WY",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",419549,450505,491983,458894,618572,640795
+ "56039","Teton, WY",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",322073,343981,351140,422575,696241,656070
+ "56039","Teton, WY",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",228895,238262,266156,303636,379610,417087
+ "56039","Teton, WY",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",9530,13968,8331,47897,220970,152093
+ "56039","Teton, WY",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",83647,91793,76668,74031,112809,98007
+ "56039","Teton, WY",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",91736,92867,99004,97538,97114,100770
+ "56039","Teton, WY",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",19420,20414,24379,22822,23018,24397
+ "56039","Teton, WY",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",72316,72447,74565,74691,74062,76322
+ "56039","Teton, WY",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",579817,566827,559745,505667,707102,780603
+ "56039","Teton, WY",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",77115,84147,78021,63968,85379,117633
+ "56039","Teton, WY",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",502701,482737,481719,442075,622668,663465
+ "56039","Teton, WY",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",57670,58386,58054,51514,59402,57759
+ "56039","Teton, WY",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",261551,266674,262866,260820,276836,291947
+ "56039","Teton, WY",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56039","Teton, WY",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56039","Teton, WY",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56039","Teton, WY",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",60045,59316,69645,65766,78154,93792
+ "56039","Teton, WY",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56039","Teton, WY",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56041","Uinta, WY",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",951381,923850,882964,783682,800735,813461
+ "56041","Uinta, WY",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",794749,773665,733041,639915,661406,672345
+ "56041","Uinta, WY",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",7404,6264,13528,15616,3860,9228
+ "56041","Uinta, WY",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",118842,96242,61760,34501,32122,24680
+ "56041","Uinta, WY",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",23035,19117,25369,26625,25405,23227
+ "56041","Uinta, WY",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",60764,74940,74970,57081,56708,64795
+ "56041","Uinta, WY",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",37612,35986,44439,35800,45178,42351
+ "56041","Uinta, WY",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",23193,17180,17360,15718,16185,15856
+ "56041","Uinta, WY",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",14420,18344,26141,18991,28412,26093
+ "56041","Uinta, WY",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",27619,26776,27018,24680,22092,20875
+ "56041","Uinta, WY",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",73890,73505,65344,58407,54970,55472
+ "56041","Uinta, WY",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",43808,44378,43418,37691,41543,43545
+ "56041","Uinta, WY",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",58918,52339,50818,49710,53011,55520
+ "56041","Uinta, WY",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",149006,146091,120580,112473,121473,123161
+ "56041","Uinta, WY",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",24065,24671,23687,21934,23575,23686
+ "56041","Uinta, WY",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",124942,121384,96653,90323,97668,99261
+ "56041","Uinta, WY",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",36336,37437,40785,34827,35202,38667
+ "56041","Uinta, WY",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",22543,24055,28120,23539,23977,27821
+ "56041","Uinta, WY",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",3189,3047,3852,3588,3740,3278
+ "56041","Uinta, WY",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",10604,10338,8910,7793,7611,7691
+ "56041","Uinta, WY",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",59516,61264,60946,60000,60117,59773
+ "56041","Uinta, WY",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",918,752,1320,1868,1446,1380
+ "56041","Uinta, WY",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",58598,60512,59621,58119,58664,58387
+ "56041","Uinta, WY",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",86675,89158,94461,79885,96103,101497
+ "56041","Uinta, WY",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",65401,69412,74798,61738,75706,81126
+ "56041","Uinta, WY",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",21273,19748,19662,18192,20390,20368
+ "56041","Uinta, WY",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",11323,11681,11407,10631,11665,11957
+ "56041","Uinta, WY",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",156632,150170,149926,143363,139156,140945
+ "56041","Uinta, WY",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",126246,102469,74495,50616,35303,32218
+ "56041","Uinta, WY",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",101510,100274,92465,83192,77177,76489
+ "56041","Uinta, WY",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",66843,63501,68702,64080,66820,66688
+ "56041","Uinta, WY",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",96530,88447,96005,86257,99398,97781
+ "56041","Uinta, WY",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",224623,212238,193432,143910,138219,138486
+ "56041","Uinta, WY",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",570126,561840,540303,494495,521264,532625
+ "56043","Washakie, WY",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",342555,345701,346359,344531,346237,342039
+ "56043","Washakie, WY",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",271999,276900,280901,282671,286284,282091
+ "56043","Washakie, WY",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",5567,14679,22084,15549,11640,16301
+ "56043","Washakie, WY",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",17935,15839,16763,16053,15829,10391
+ "56043","Washakie, WY",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",4817,5139,5450,5559,4544,4091
+ "56043","Washakie, WY",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",17841,18262,18495,17637,17015,15413
+ "56043","Washakie, WY",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",39223,42585,40287,45744,48589,51471
+ "56043","Washakie, WY",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",13935,13457,12406,13256,12416,11946
+ "56043","Washakie, WY",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",25288,29146,27907,32540,36239,39746
+ "56043","Washakie, WY",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",13988,13751,13500,12625,9552,8307
+ "56043","Washakie, WY",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",21778,20158,21007,20152,19744,19431
+ "56043","Washakie, WY",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",14197,15823,17098,15343,25509,23970
+ "56043","Washakie, WY",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",11805,11197,10824,10352,11897,12604
+ "56043","Washakie, WY",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",66444,61279,58682,66005,58723,(D)
+ "56043","Washakie, WY",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",13292,12979,12579,10899,11989,11672
+ "56043","Washakie, WY",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",53152,48280,46075,55189,46748,(D)
+ "56043","Washakie, WY",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",11440,10720,9963,9183,10266,(D)
+ "56043","Washakie, WY",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",7713,7688,8090,7391,8077,8296
+ "56043","Washakie, WY",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56043","Washakie, WY",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56043","Washakie, WY",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",30527,31286,31669,32750,35432,33797
+ "56043","Washakie, WY",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56043","Washakie, WY",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56043","Washakie, WY",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",9251,9352,9022,8795,10007,9549
+ "56043","Washakie, WY",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1715,2318,2598,2422,2526,2228
+ "56043","Washakie, WY",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",7536,7036,6431,6380,7487,7313
+ "56043","Washakie, WY",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",7186,7170,6839,6796,7261,6941
+ "56043","Washakie, WY",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",70556,68806,65496,62002,60153,60179
+ "56043","Washakie, WY",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",23502,29992,37936,30619,26390,25356
+ "56043","Washakie, WY",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",35766,33916,34491,32755,29311,27773
+ "56043","Washakie, WY",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",19014,20963,22551,20877,30102,28103
+ "56043","Washakie, WY",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",51028,53790,51112,56221,60537,64129
+ "56043","Washakie, WY",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",80566,90963,96823,94942,92995,92564
+ "56043","Washakie, WY",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",191433,185896,184096,187629,193132,189337
+ "56045","Weston, WY",7,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",285172,294224,303330,286131,285672,279273
+ "56045","Weston, WY",7,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",222992,230107,241334,225333,226632,218670
+ "56045","Weston, WY",7,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",17499,17114,11858,7944,6091,2091
+ "56045","Weston, WY",7,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",25045,31363,39459,30492,27987,29050
+ "56045","Weston, WY",7,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",775,877,1078,1002,835,862
+ "56045","Weston, WY",7,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",10730,(D),(D),(D),(D),(D)
+ "56045","Weston, WY",7,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",57998,(D),(D),(D),(D),(D)
+ "56045","Weston, WY",7,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56045","Weston, WY",7,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),59262,71294,55712,68775,63228
+ "56045","Weston, WY",7,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),2117,2126,2879,1787,1451
+ "56045","Weston, WY",7,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",16556,16127,15607,15035,14885,15074
+ "56045","Weston, WY",7,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",18871,23796,16776,16141,16144,14898
+ "56045","Weston, WY",7,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",3135,2785,2647,2395,2677,2916
+ "56045","Weston, WY",7,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",49177,44068,45146,53620,47007,48246
+ "56045","Weston, WY",7,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",9436,8424,9014,8165,9190,9338
+ "56045","Weston, WY",7,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",39741,35647,36107,45543,37812,38911
+ "56045","Weston, WY",7,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),3635,5234,5978,7106,(D)
+ "56045","Weston, WY",7,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",2796,2782,3151,3049,2999,3529
+ "56045","Weston, WY",7,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),1291,1957,3357,(D)
+ "56045","Weston, WY",7,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),847,1069,979,(D)
+ "56045","Weston, WY",7,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",10026,(D),8949,9331,8557,7654
+ "56045","Weston, WY",7,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56045","Weston, WY",7,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56045","Weston, WY",7,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",4109,(D),4704,4430,4778,(D)
+ "56045","Weston, WY",7,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56045","Weston, WY",7,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "56045","Weston, WY",7,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",3565,3805,3877,3966,4413,5739
+ "56045","Weston, WY",7,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",62180,64123,61865,60490,58855,60949
+ "56045","Weston, WY",7,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",42545,48681,52012,38927,34383,30727
+ "56045","Weston, WY",7,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),18246,17739,17945,16718,16579
+ "56045","Weston, WY",7,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",19646,24674,17841,17132,16974,15754
+ "56045","Weston, WY",7,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",61133,(D),(D),(D),(D),(D)
+ "56045","Weston, WY",7,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",111273,118875,134579,106764,115919,107277
+ "56045","Weston, WY",7,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",111719,110963,105980,114650,107992,110034
+"Note: See the included footnote file."
+"CAGDP9: Real GDP by county and metropolitan area 1/"
+"Last updated: December 7, 2023 -- new statistics for 2022, revised statistics for 2017-2021."
+"U.S. Bureau of Economic Analysis"

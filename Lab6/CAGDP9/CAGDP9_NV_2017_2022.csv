@@ -1,0 +1,617 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2017,2018,2019,2020,2021,2022
+ "32000","Nevada",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",163199058,168638546,175771275,165793855,181102920,187226240
+ "32000","Nevada",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",145653316,151043325,157602003,147994874,163092588,168738945
+ "32000","Nevada",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",285115,299537,363399,316149,338999,164573
+ "32000","Nevada",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",4027741,3367180,3501321,4559437,4304807,3329137
+ "32000","Nevada",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",2383429,2248915,2342126,2373991,2187338,2556653
+ "32000","Nevada",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",10717362,11614305,12882383,13537715,14069861,13588438
+ "32000","Nevada",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",7080999,7400997,7571378,7525450,8168655,8581267
+ "32000","Nevada",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",5087838,5299412,5441374,5451376,5956893,6175611
+ "32000","Nevada",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",1993161,2101514,2129847,2073043,2210870,2401057
+ "32000","Nevada",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",6999035,7354866,7354366,7442320,7266608,6999912
+ "32000","Nevada",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",11811519,12501824,13135991,12888463,12636212,12054125
+ "32000","Nevada",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",7430445,7499051,7625841,5996562,8209013,8867993
+ "32000","Nevada",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",4194334,4628920,5458016,5033693,6546926,6626039
+ "32000","Nevada",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",31854607,33543679,34633870,35818189,38406032,38912319
+ "32000","Nevada",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",8383854,8724927,9442362,10753679,11721629,11030611
+ "32000","Nevada",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",23470753,24821536,25177021,25025298,26639352,27868715
+ "32000","Nevada",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",17375454,18820790,19306798,18625599,21810033,24438331
+ "32000","Nevada",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",7786152,8074198,8552749,8428029,9706164,10611059
+ "32000","Nevada",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",4222667,4980392,4819037,4809767,6084580,6886306
+ "32000","Nevada",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",5366635,5771410,5928663,5399698,6083680,7010073
+ "32000","Nevada",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",10773790,11278348,11887788,11659404,12441676,13166138
+ "32000","Nevada",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",806155,907038,962313,891397,1016565,1112299
+ "32000","Nevada",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",9967636,10370907,10924943,10768768,11424109,12051824
+ "32000","Nevada",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",27703953,27377616,28432053,19374423,24249146,27253061
+ "32000","Nevada",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",4513084,4573017,5327929,3785846,4470972,5098475
+ "32000","Nevada",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",23190869,22805517,23115982,15591706,19798391,22178055
+ "32000","Nevada",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",3015533,3133108,3167624,2761736,2935000,3286034
+ "32000","Nevada",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",17545742,17597197,18172383,17786038,18045185,18524038
+ "32000","Nevada",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",4312856,3664662,3858725,4882273,4648934,3486786
+ "32000","Nevada",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",18810554,19856234,20478961,20324351,19896897,19047129
+ "32000","Nevada",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",9813874,9746488,9967071,8378878,10349177,11392558
+ "32000","Nevada",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",11275333,12027569,13005616,12552497,14644131,15156186
+ "32000","Nevada",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",22111217,22679953,24325677,25934512,26858375,25495149
+ "32000","Nevada",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",123542099,128363308,133273245,122005873,136216546,143367103
+ "32001","Churchill, NV",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1071321,1079559,1130349,1144478,1188779,1145309
+ "32001","Churchill, NV",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",783279,809951,852374,843497,859391,827380
+ "32001","Churchill, NV",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),74474,58102,20732
+ "32001","Churchill, NV",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",3537,3756,3877,2855,7245,5512
+ "32001","Churchill, NV",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),(D),65567,60748,62594
+ "32001","Churchill, NV",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",60220,77380,80598,89673,83525,91567
+ "32001","Churchill, NV",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",65695,71913,86725,90455,104419,97125
+ "32001","Churchill, NV",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",50909,52285,55770,59623,73802,74115
+ "32001","Churchill, NV",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",14787,19403,30199,30024,29776,23136
+ "32001","Churchill, NV",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",25406,25362,23495,24604,19275,18016
+ "32001","Churchill, NV",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",66918,70742,71933,71964,70425,65946
+ "32001","Churchill, NV",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",86607,84055,77428,79270,77661,79294
+ "32001","Churchill, NV",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",10660,10308,11991,13753,19746,22026
+ "32001","Churchill, NV",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",140066,141410,149944,148407,149915,152413
+ "32001","Churchill, NV",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",22655,20517,30265,27114,32436,32277
+ "32001","Churchill, NV",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",117412,120981,119273,120992,117083,119777
+ "32001","Churchill, NV",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),(D),(D),55211,65190,76859
+ "32001","Churchill, NV",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",22203,24386,22805,25953,32884,39721
+ "32001","Churchill, NV",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),811,993,1013
+ "32001","Churchill, NV",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",29689,31723,29315,28549,31581,36503
+ "32001","Churchill, NV",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",66231,67964,70242,70906,72258,74735
+ "32001","Churchill, NV",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",3930,4380,4640,(D),(D),(D)
+ "32001","Churchill, NV",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",62301,63583,65598,(D),(D),(D)
+ "32001","Churchill, NV",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",54250,52620,53457,41341,58347,57268
+ "32001","Churchill, NV",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",26243,23198,21886,16223,24227,19962
+ "32001","Churchill, NV",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",28007,29420,31571,25134,34117,37216
+ "32001","Churchill, NV",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",15665,16163,15887,14749,14796,15832
+ "32001","Churchill, NV",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",288043,269711,278123,300764,329227,317873
+ "32001","Churchill, NV",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),77280,64647,25042
+ "32001","Churchill, NV",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",92324,96090,95335,96501,89708,83970
+ "32001","Churchill, NV",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),144899,138567,142040
+ "32001","Churchill, NV",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",76355,82275,98815,104224,123789,118059
+ "32001","Churchill, NV",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),259257,253964,209600
+ "32001","Churchill, NV",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),585088,606031,620387
+ "32003","Clark, NV",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",116332382,122721414,128047468,117201658,129198324,135989358
+ "32003","Clark, NV",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",104417367,110727430,115606807,105009122,116828409,123185640
+ "32003","Clark, NV",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",11254,14890,7444,8525,11107,12321
+ "32003","Clark, NV",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",90997,76100,85010,102074,81760,74758
+ "32003","Clark, NV",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1683706,1524313,1559256,1625558,1464417,1651612
+ "32003","Clark, NV",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",6959647,8058443,9327813,9651619,10024666,9806210
+ "32003","Clark, NV",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",3439708,3529425,3463791,3237056,3351380,3738984
+ "32003","Clark, NV",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",2362382,2411833,2358811,2182354,2214868,2457710
+ "32003","Clark, NV",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",1077327,1117575,1104990,1054962,1136583,1280929
+ "32003","Clark, NV",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",4583739,4830246,4864853,4932177,4845674,4679586
+ "32003","Clark, NV",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",8816838,9321885,9807004,9558879,9402185,8984558
+ "32003","Clark, NV",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",5537713,5605409,5693129,3943135,6024808,6767572
+ "32003","Clark, NV",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",3291288,3648586,4332815,3886217,5081125,5051554
+ "32003","Clark, NV",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",23026672,25906265,26472615,27156145,28944536,29151341
+ "32003","Clark, NV",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",4991859,7007194,7486593,8264638,8901141,8353692
+ "32003","Clark, NV",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",18034813,18868879,18942417,18833598,19980509,20757690
+ "32003","Clark, NV",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",13012684,14107596,14388800,13699369,16164002,18270939
+ "32003","Clark, NV",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",5445247,5600863,5934373,5887123,6857925,7532301
+ "32003","Clark, NV",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",3515856,4172066,3966809,3867774,4897304,5587639
+ "32003","Clark, NV",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",4051582,4339365,4480185,3949770,4453472,5199216
+ "32003","Clark, NV",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",7790566,8180543,8695727,8514919,9154998,9727161
+ "32003","Clark, NV",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",616672,702080,751667,695586,792846,875952
+ "32003","Clark, NV",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",7173893,7478113,7943595,7819878,8361476,8849600
+ "32003","Clark, NV",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",23968371,23660473,24646131,16571681,20460904,23496061
+ "32003","Clark, NV",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",3548620,3655159,4368918,3091530,3313907,4142887
+ "32003","Clark, NV",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",20419751,20006677,20290569,13484572,17181327,19399199
+ "32003","Clark, NV",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",2204185,2271867,2286251,1981785,2131351,2406277
+ "32003","Clark, NV",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",11915015,11996465,12443723,12174963,12390614,12827351
+ "32003","Clark, NV",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",102251,90876,92665,110865,92721,86595
+ "32003","Clark, NV",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",13400577,14151987,14665065,14488627,14245545,13660996
+ "32003","Clark, NV",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",7221419,7127376,7250184,5582304,7434721,8358770
+ "32003","Clark, NV",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",6730996,7176003,7777979,7111344,8370902,8765339
+ "32003","Clark, NV",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",10501605,11681969,12902711,13030748,13501638,13627289
+ "32003","Clark, NV",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",93915762,99045320,102697662,91932609,103307054,109570035
+ "32005","Douglas, NV",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2558347,2502688,2548624,2500360,2850354,2777612
+ "32005","Douglas, NV",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",2345185,2286259,2330341,2284268,2634906,2561338
+ "32005","Douglas, NV",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",1325,2993,(D),1063,1312,1312
+ "32005","Douglas, NV",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",8094,6654,(D),8437,(D),(D)
+ "32005","Douglas, NV",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",2337,2303,2442,2586,(D),(D)
+ "32005","Douglas, NV",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",249427,223047,163274,234987,266919,155787
+ "32005","Douglas, NV",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",329259,208672,253605,279048,264196,278813
+ "32005","Douglas, NV",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",258835,122011,135515,195663,188398,200288
+ "32005","Douglas, NV",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",70425,86075,117101,81663,74324,77090
+ "32005","Douglas, NV",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",61075,60547,54922,61498,59892,60487
+ "32005","Douglas, NV",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",145771,156809,158405,160323,156656,150999
+ "32005","Douglas, NV",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",27648,31290,33577,40871,34401,38361
+ "32005","Douglas, NV",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",90291,91945,112704,98670,112830,117153
+ "32005","Douglas, NV",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",588392,622451,618419,591368,752635,743188
+ "32005","Douglas, NV",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",67862,69318,82683,106035,198393,164752
+ "32005","Douglas, NV",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",520530,553237,535109,483784,550955,577156
+ "32005","Douglas, NV",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",216823,256475,273087,277275,381181,415067
+ "32005","Douglas, NV",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",134890,160511,166830,172557,221819,227534
+ "32005","Douglas, NV",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",23591,30411,35685,32359,73874,71103
+ "32005","Douglas, NV",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",58341,65587,70722,72252,88205,116793
+ "32005","Douglas, NV",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",134235,135089,151883,153931,173431,171757
+ "32005","Douglas, NV",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",13172,13600,13507,10495,11412,13081
+ "32005","Douglas, NV",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",121064,121487,138406,143547,162156,158764
+ "32005","Douglas, NV",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",452293,448646,460106,337881,385318,396365
+ "32005","Douglas, NV",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",87152,94740,99578,76498,87245,91908
+ "32005","Douglas, NV",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",365140,353951,360597,261235,297905,304221
+ "32005","Douglas, NV",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",38216,38153,42612,36762,39025,44269
+ "32005","Douglas, NV",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",213162,216390,218262,216015,216890,217574
+ "32005","Douglas, NV",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",9419,9616,8182,9590,(D),(D)
+ "32005","Douglas, NV",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",206847,217306,213068,221700,216432,211316
+ "32005","Douglas, NV",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",29985,33593,36017,43450,(D),(D)
+ "32005","Douglas, NV",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",419550,300465,366104,378071,376573,395642
+ "32005","Douglas, NV",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",588105,442022,423141,524270,(D),(D)
+ "32005","Douglas, NV",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1757081,1843308,1906093,1759310,(D),(D)
+ "32007","Elko, NV",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2619171,2669083,2723399,2767804,2802785,2626305
+ "32007","Elko, NV",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",2277621,2331202,2385138,2432153,2476925,2294474
+ "32007","Elko, NV",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",32279,32995,58050,35333,52988,18239
+ "32007","Elko, NV",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",502334,467398,471643,577507,553271,436761
+ "32007","Elko, NV",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",20986,20153,20476,25289,22562,22348
+ "32007","Elko, NV",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",144716,176400,176668,187354,184955,169185
+ "32007","Elko, NV",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",27951,25631,25046,25756,24829,27101
+ "32007","Elko, NV",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",16403,15007,16220,15281,15764,16678
+ "32007","Elko, NV",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",11548,10624,8810,10520,9097,10442
+ "32007","Elko, NV",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",306462,323159,319069,326202,331927,324169
+ "32007","Elko, NV",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",201403,212724,219822,236554,224296,206888
+ "32007","Elko, NV",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",66403,63408,63688,67594,73565,77327
+ "32007","Elko, NV",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",37756,39290,46835,42017,41375,42324
+ "32007","Elko, NV",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",265123,280083,274943,300782,304421,291817
+ "32007","Elko, NV",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",32090,32354,35573,54032,61919,56092
+ "32007","Elko, NV",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",233033,247769,239248,246246,241910,235317
+ "32007","Elko, NV",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",175083,183287,202952,192298,212544,215860
+ "32007","Elko, NV",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",52269,57276,64512,66493,74281,71728
+ "32007","Elko, NV",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",91544,92674,100688,85658,97304,110147
+ "32007","Elko, NV",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",31270,33289,37601,39164,40255,34988
+ "32007","Elko, NV",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",112984,116743,118941,115492,120280,125838
+ "32007","Elko, NV",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",2573,3036,3465,3497,4305,5055
+ "32007","Elko, NV",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",110411,113704,115467,111982,115944,120734
+ "32007","Elko, NV",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",328751,335851,334767,251043,287352,300799
+ "32007","Elko, NV",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",33079,31723,31372,21268,27796,29746
+ "32007","Elko, NV",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",295671,304119,303385,229935,259315,270770
+ "32007","Elko, NV",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",55388,53862,55433,50934,48085,53503
+ "32007","Elko, NV",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",341550,337929,338371,336063,326783,333516
+ "32007","Elko, NV",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",534613,500314,528205,613502,607347,451014
+ "32007","Elko, NV",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",507866,535879,538618,562238,555522,530179
+ "32007","Elko, NV",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",87389,83561,84166,92868,96034,99505
+ "32007","Elko, NV",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",65708,64887,71684,67745,66136,69562
+ "32007","Elko, NV",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",707281,702641,729903,825260,815755,646158
+ "32007","Elko, NV",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1570340,1628477,1655322,1609071,1663090,1654181
+ "32009","Esmeralda, NV",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",54603,40199,36845,38325,40818,33709
+ "32009","Esmeralda, NV",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",48686,34162,30768,32261,34817,28081
+ "32009","Esmeralda, NV",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",4217,3445,134,(D),2129,74
+ "32009","Esmeralda, NV",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",32690,18380,16289,19051,(D),16100
+ "32009","Esmeralda, NV",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",257,483,477,525,308,281
+ "32009","Esmeralda, NV",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32009","Esmeralda, NV",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32009","Esmeralda, NV",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",20,0,39,95,5,16
+ "32009","Esmeralda, NV",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32009","Esmeralda, NV",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),90,86
+ "32009","Esmeralda, NV",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32009","Esmeralda, NV",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),73,63,43,506
+ "32009","Esmeralda, NV",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",13,42,31,31,0,0
+ "32009","Esmeralda, NV",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",7695,7887,7563,7757,7343,6799
+ "32009","Esmeralda, NV",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",30,31,42,12,45,54
+ "32009","Esmeralda, NV",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",7664,7856,7519,7746,7298,6744
+ "32009","Esmeralda, NV",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),310,(D),540,(D),(D)
+ "32009","Esmeralda, NV",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32009","Esmeralda, NV",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "32009","Esmeralda, NV",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32009","Esmeralda, NV",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",1,5,0,5,(D),(D)
+ "32009","Esmeralda, NV",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",1,5,0,5,11,20
+ "32009","Esmeralda, NV",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",0,0,0,0,(D),(D)
+ "32009","Esmeralda, NV",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32009","Esmeralda, NV",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",15,56,14,14,20,0
+ "32009","Esmeralda, NV",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32009","Esmeralda, NV",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(D),(D),271,504,(D),616
+ "32009","Esmeralda, NV",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",5917,6029,6061,6058,6000,5691
+ "32009","Esmeralda, NV",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",36907,21789,16617,(D),(D),16151
+ "32009","Esmeralda, NV",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",376,450,(D),(D),(D),(D)
+ "32009","Esmeralda, NV",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),550,588,350,773
+ "32009","Esmeralda, NV",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32009","Esmeralda, NV",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32009","Esmeralda, NV",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32011","Eureka, NV",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1464343,1206759,1235741,1528967,1386023,1095674
+ "32011","Eureka, NV",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1445917,1188375,1217398,1510358,1367626,1077421
+ "32011","Eureka, NV",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",3319,2482,16635,1144,6638,3702
+ "32011","Eureka, NV",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",1294366,1047427,1060760,1368747,1232279,940999
+ "32011","Eureka, NV",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",56758,54973,57185,56583,56128,68707
+ "32011","Eureka, NV",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32011","Eureka, NV",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32011","Eureka, NV",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",435,183,(D),(D),(D),(D)
+ "32011","Eureka, NV",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32011","Eureka, NV",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",33,49,58,10,50,(D)
+ "32011","Eureka, NV",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1837,2053,2058,1678,(D),1491
+ "32011","Eureka, NV",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32011","Eureka, NV",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",103,236,543,407,252,529
+ "32011","Eureka, NV",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",11058,10825,(D),11665,11220,(D)
+ "32011","Eureka, NV",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32011","Eureka, NV",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),9633,(D),(D),8670
+ "32011","Eureka, NV",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",1033,1241,1942,1881,1864,(D)
+ "32011","Eureka, NV",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32011","Eureka, NV",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "32011","Eureka, NV",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32011","Eureka, NV",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),92,134,150
+ "32011","Eureka, NV",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",47,61,61,36,43,53
+ "32011","Eureka, NV",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),55,90,96
+ "32011","Eureka, NV",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",1199,1133,1490,1338,1673,1709
+ "32011","Eureka, NV",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",156,70,469,224,314,119
+ "32011","Eureka, NV",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",1043,1062,1026,1124,1370,1593
+ "32011","Eureka, NV",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),2626
+ "32011","Eureka, NV",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",18426,18391,18352,18780,18547,18883
+ "32011","Eureka, NV",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",1297685,1049914,1076446,1370505,1238673,944541
+ "32011","Eureka, NV",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",1870,2102,2116,1687,(D),(D)
+ "32011","Eureka, NV",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32011","Eureka, NV",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32011","Eureka, NV",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1305823,1057095,1083645,1376951,(D),953204
+ "32011","Eureka, NV",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",140094,131256,133744,134656,(D),126814
+ "32013","Humboldt, NV",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1190055,1115122,1204076,1339696,1335780,1174755
+ "32013","Humboldt, NV",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1047886,975300,1060412,1190812,1182075,1022118
+ "32013","Humboldt, NV",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",24747,19452,13205,6324,5334,5296
+ "32013","Humboldt, NV",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",546880,431615,458473,635074,591296,431893
+ "32013","Humboldt, NV",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",62552,90356,103073,70207,92228,97007
+ "32013","Humboldt, NV",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",25195,27857,39974,28434,32516,26225
+ "32013","Humboldt, NV",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",31463,38059,57756,78340,81261,90825
+ "32013","Humboldt, NV",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",7287,8045,7307,7989,9697,10084
+ "32013","Humboldt, NV",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",24176,30001,50268,70062,71421,80398
+ "32013","Humboldt, NV",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",25165,28576,29907,29878,29130,27861
+ "32013","Humboldt, NV",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",71204,76434,84810,91213,87261,80211
+ "32013","Humboldt, NV",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",46950,50973,59182,53479,48295,54513
+ "32013","Humboldt, NV",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",10521,10791,12619,11178,17915,19479
+ "32013","Humboldt, NV",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",81096,82236,82856,90296,93662,88047
+ "32013","Humboldt, NV",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",7719,7775,8796,14633,17840,15514
+ "32013","Humboldt, NV",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",73377,74462,74019,75502,75626,72417
+ "32013","Humboldt, NV",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",33122,26464,23288,24999,24695,26027
+ "32013","Humboldt, NV",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),9312
+ "32013","Humboldt, NV",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),3380
+ "32013","Humboldt, NV",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",16173,15426,13715,13089,12982,13397
+ "32013","Humboldt, NV",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",17154,16723,15982,13534,13352,13571
+ "32013","Humboldt, NV",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),684
+ "32013","Humboldt, NV",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),12881
+ "32013","Humboldt, NV",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",54552,57810,60274,42317,51468,52908
+ "32013","Humboldt, NV",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",6331,6534,6344,4346,6211,6044
+ "32013","Humboldt, NV",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",48221,51276,53928,37977,45187,46802
+ "32013","Humboldt, NV",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",17287,17777,18269,18399,17672,18974
+ "32013","Humboldt, NV",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",142169,139801,143710,149330,154099,154490
+ "32013","Humboldt, NV",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",571627,451067,472176,643005,598195,438045
+ "32013","Humboldt, NV",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",96369,105026,114674,120988,116284,107949
+ "32013","Humboldt, NV",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",109501,141314,162247,124020,140985,151857
+ "32013","Humboldt, NV",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",41984,48871,70509,89887,99097,110294
+ "32013","Humboldt, NV",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",628284,516920,569937,748069,710118,550443
+ "32013","Humboldt, NV",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",419602,458355,490553,446207,475236,477702
+ "32015","Lander, NV",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",819614,712061,768892,870906,855838,712007
+ "32015","Lander, NV",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",770127,663388,721760,823372,807125,664364
+ "32015","Lander, NV",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",2623,7582,13748,32547,21561,12141
+ "32015","Lander, NV",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",634959,522022,553682,640936,634434,508325
+ "32015","Lander, NV",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",45698,42051,61693,59431,53192,60265
+ "32015","Lander, NV",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32015","Lander, NV",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32015","Lander, NV",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32015","Lander, NV",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",96,85,346,246,324,399
+ "32015","Lander, NV",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),8446
+ "32015","Lander, NV",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",12481,14737,16371,18115,15252,14483
+ "32015","Lander, NV",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",18388,17892,16589,11919,14090,(D)
+ "32015","Lander, NV",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",153,189,249,275,(D),(D)
+ "32015","Lander, NV",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",26077,27497,(D),28475,28320,(D)
+ "32015","Lander, NV",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32015","Lander, NV",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),25006,(D),(D),24484
+ "32015","Lander, NV",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",2637,3015,3347,4764,2970,2722
+ "32015","Lander, NV",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",487,668,707,830,(D),(D)
+ "32015","Lander, NV",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "32015","Lander, NV",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",2150,2347,2641,3933,(D),(D)
+ "32015","Lander, NV",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",1205,(D),1006,(D),1585,1673
+ "32015","Lander, NV",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",69,139,108,(D),68,85
+ "32015","Lander, NV",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",1136,(D),898,(D),1520,1591
+ "32015","Lander, NV",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(D),7871,7852,6062,8101,8193
+ "32015","Lander, NV",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),3449
+ "32015","Lander, NV",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),4753
+ "32015","Lander, NV",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",5363,5842,7258,7393,7542,8020
+ "32015","Lander, NV",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",49487,48680,47167,47789,48981,48878
+ "32015","Lander, NV",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",637582,529445,566838,671199,654052,518297
+ "32015","Lander, NV",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),22846
+ "32015","Lander, NV",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",64087,59954,78018,70899,66975,(D)
+ "32015","Lander, NV",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),2601,2793
+ "32015","Lander, NV",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",641212,533373,570985,678215,666839,522562
+ "32015","Lander, NV",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",128914,130001,150619,145870,140986,143983
+ "32017","Lincoln, NV",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",150386,151822,164014,159584,168355,152394
+ "32017","Lincoln, NV",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",95007,96583,109406,107792,118552,103182
+ "32017","Lincoln, NV",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),1025,(D),(D),17482,5404
+ "32017","Lincoln, NV",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",2390,1604,(D),1802,(D),(D)
+ "32017","Lincoln, NV",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",463,437,445,507,438,360
+ "32017","Lincoln, NV",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32017","Lincoln, NV",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32017","Lincoln, NV",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32017","Lincoln, NV",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",86,45,221,152,169,(D)
+ "32017","Lincoln, NV",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",775,833,871,873,850,(D)
+ "32017","Lincoln, NV",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32017","Lincoln, NV",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32017","Lincoln, NV",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),8178,(D)
+ "32017","Lincoln, NV",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",28442,28971,28153,29554,28245,27247
+ "32017","Lincoln, NV",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",2374,2248,2491,3277,3589,3393
+ "32017","Lincoln, NV",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",26068,26729,25651,26243,24616,23820
+ "32017","Lincoln, NV",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",21868,23186,28222,27696,29964,30683
+ "32017","Lincoln, NV",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",21412,22720,23234,(D),(D),25196
+ "32017","Lincoln, NV",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),0,0,(D)
+ "32017","Lincoln, NV",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32017","Lincoln, NV",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",2655,3236,2579,2245,1896,(D)
+ "32017","Lincoln, NV",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32017","Lincoln, NV",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32017","Lincoln, NV",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",4667,(D),(D),(D),(D),(D)
+ "32017","Lincoln, NV",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32017","Lincoln, NV",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32017","Lincoln, NV",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32017","Lincoln, NV",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",55379,55243,54667,51888,50048,49601
+ "32017","Lincoln, NV",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),2620,10004,(D),(D),(D)
+ "32017","Lincoln, NV",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),8258
+ "32017","Lincoln, NV",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32017","Lincoln, NV",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",9480,10019,10826,10525,(D),10881
+ "32017","Lincoln, NV",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32017","Lincoln, NV",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32019","Lyon, NV",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1464747,1517722,1602375,1563008,1678329,1651079
+ "32019","Lyon, NV",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1284671,1329126,1405600,1380352,1488748,1464387
+ "32019","Lyon, NV",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",16104,17084,11158,7851,7348,7847
+ "32019","Lyon, NV",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",48335,51917,77075,88550,93904,90180
+ "32019","Lyon, NV",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",32940,33538,42064,(D),33411,39377
+ "32019","Lyon, NV",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",132079,131514,152358,139930,208890,177040
+ "32019","Lyon, NV",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",264447,252324,239499,257261,244224,238080
+ "32019","Lyon, NV",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",140734,141987,153809,179791,165326,157998
+ "32019","Lyon, NV",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",123713,110596,86607,78084,79661,80674
+ "32019","Lyon, NV",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",34473,36199,38641,39011,38515,37288
+ "32019","Lyon, NV",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",113901,124647,137540,147752,136577,131356
+ "32019","Lyon, NV",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",65985,68373,63874,76053,81258,81246
+ "32019","Lyon, NV",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",17008,20524,22374,22960,19537,22257
+ "32019","Lyon, NV",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",338792,361232,375927,339208,352687,341628
+ "32019","Lyon, NV",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",20614,20120,27827,24858,33549,33628
+ "32019","Lyon, NV",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",318179,341170,347835,314118,318840,307671
+ "32019","Lyon, NV",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",70295,73138,78830,79893,106757,128943
+ "32019","Lyon, NV",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",35418,37300,38191,37398,44114,52290
+ "32019","Lyon, NV",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",6718,7209,12096,14306,18383,20533
+ "32019","Lyon, NV",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",28160,28636,28772,28590,44342,55836
+ "32019","Lyon, NV",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",34748,37759,39520,(D),40628,44751
+ "32019","Lyon, NV",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),1026,(D),(D),(D)
+ "32019","Lyon, NV",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),38494,(D),(D),(D)
+ "32019","Lyon, NV",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",84929,87307,93099,70694,94435,96120
+ "32019","Lyon, NV",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",53657,55005,59685,39750,55517,53753
+ "32019","Lyon, NV",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",31272,32303,33410,31052,39011,42419
+ "32019","Lyon, NV",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",30633,34153,34511,32119,33586,35476
+ "32019","Lyon, NV",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",180076,188598,196779,182832,189905,187038
+ "32019","Lyon, NV",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",64439,69004,88868,97339,102309,98945
+ "32019","Lyon, NV",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",148375,160830,176116,186628,174928,168480
+ "32019","Lyon, NV",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",98926,101913,105892,(D),114448,120690
+ "32019","Lyon, NV",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",281455,272685,261532,279922,263716,259556
+ "32019","Lyon, NV",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",460965,452679,479971,492647,555177,513806
+ "32019","Lyon, NV",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",823706,876750,925953,888280,934434,952913
+ "32021","Mineral, NV",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",195117,203405,221756,225450,233952,212346
+ "32021","Mineral, NV",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",151498,158869,176466,180021,189241,167282
+ "32021","Mineral, NV",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),4232,2173
+ "32021","Mineral, NV",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",15503,14757,24013,39893,48716,26411
+ "32021","Mineral, NV",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",23336,20431,18713,18063,15034,16250
+ "32021","Mineral, NV",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),3074,2093,1940,1992,2323
+ "32021","Mineral, NV",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",768,408,907,820,373,370
+ "32021","Mineral, NV",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",414,5,106,259,45,41
+ "32021","Mineral, NV",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",354,400,793,551,323,323
+ "32021","Mineral, NV",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32021","Mineral, NV",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",7799,7547,8274,9326,9461,9077
+ "32021","Mineral, NV",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),1197
+ "32021","Mineral, NV",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),1374,1714,1545,(D),(D)
+ "32021","Mineral, NV",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",27353,27761,(D),27086,25864,(D)
+ "32021","Mineral, NV",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32021","Mineral, NV",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),25249,(D),(D),22717
+ "32021","Mineral, NV",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",50977,65315,67447,61925,67698,72287
+ "32021","Mineral, NV",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",1117,1416,1499,1388,1895,2138
+ "32021","Mineral, NV",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32021","Mineral, NV",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32021","Mineral, NV",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),1086,1102,1502,1145,1168
+ "32021","Mineral, NV",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",119,119,97,63,68,85
+ "32021","Mineral, NV",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),966,1005,1441,1078,1084
+ "32021","Mineral, NV",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",11913,11249,13032,8763,11156,11303
+ "32021","Mineral, NV",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32021","Mineral, NV",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32021","Mineral, NV",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",1636,1830,(D),(D),2126,2116
+ "32021","Mineral, NV",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",43619,44540,45327,45487,44845,45337
+ "32021","Mineral, NV",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),53032,28609
+ "32021","Mineral, NV",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32021","Mineral, NV",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),17399
+ "32021","Mineral, NV",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),1784,2636,2380,(D),(D)
+ "32021","Mineral, NV",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),55202,31154
+ "32021","Mineral, NV",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),134415,138670
+ "32023","Nye, NV",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1585646,1616319,1669723,1764755,1801638,1721399
+ "32023","Nye, NV",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1431218,1458951,1506897,1605216,1642865,1553329
+ "32023","Nye, NV",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",86019,97043,84898,67411,70418,27366
+ "32023","Nye, NV",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",290800,241385,251537,362591,339225,256107
+ "32023","Nye, NV",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",29255,35792,26309,34326,40807,42655
+ "32023","Nye, NV",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",71194,77314,71756,70256,86043,93870
+ "32023","Nye, NV",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",33560,27299,29134,29528,24228,18875
+ "32023","Nye, NV",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",25528,20356,20272,19890,14493,16434
+ "32023","Nye, NV",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",8032,6903,8646,9475,9681,3935
+ "32023","Nye, NV",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",30335,30743,30668,29197,28790,27522
+ "32023","Nye, NV",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",113427,119156,126588,134213,131432,127066
+ "32023","Nye, NV",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",17212,18852,18594,35271,24002,25057
+ "32023","Nye, NV",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",26986,28034,31732,35941,53644,64816
+ "32023","Nye, NV",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",247825,259050,252297,274633,283840,278750
+ "32023","Nye, NV",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",17556,18877,21558,37199,40609,34499
+ "32023","Nye, NV",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",230269,240162,230624,237092,242874,244102
+ "32023","Nye, NV",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",271812,304686,349836,332521,344910,400157
+ "32023","Nye, NV",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",175237,208089,253152,239263,251121,299840
+ "32023","Nye, NV",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",3558,2353,2238,2460,2700,4348
+ "32023","Nye, NV",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",93017,94257,94706,91025,91523,97383
+ "32023","Nye, NV",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",71142,71984,77933,81399,85385,87362
+ "32023","Nye, NV",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",11253,12666,(D),(D),(D),11265
+ "32023","Nye, NV",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",59889,59309,(D),(D),(D),76191
+ "32023","Nye, NV",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",117136,121852,129458,93140,109420,107978
+ "32023","Nye, NV",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",46725,48272,52711,36485,40479,36589
+ "32023","Nye, NV",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",70411,73579,76752,56732,69211,71699
+ "32023","Nye, NV",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",24514,26667,26997,24517,23444,27387
+ "32023","Nye, NV",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",154428,157367,162822,159992,159359,169286
+ "32023","Nye, NV",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",376819,337604,336719,435175,414299,284140
+ "32023","Nye, NV",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",143762,149887,157169,163229,160041,154421
+ "32023","Nye, NV",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",46468,54643,44926,69768,65247,68168
+ "32023","Nye, NV",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",60546,55180,60622,65118,76538,79988
+ "32023","Nye, NV",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",481573,442222,437491,533202,523568,393754
+ "32023","Nye, NV",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",949645,1016797,1069325,1073943,1121862,1178389
+ "32027","Pershing, NV",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",298432,268194,275082,351194,372152,292725
+ "32027","Pershing, NV",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",232862,203529,209800,287844,311092,235571
+ "32027","Pershing, NV",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",732,666,10537,14997,24572,8243
+ "32027","Pershing, NV",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",170140,143620,141545,215943,229122,167843
+ "32027","Pershing, NV",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32027","Pershing, NV",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32027","Pershing, NV",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32027","Pershing, NV",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),318,291,(D),(D)
+ "32027","Pershing, NV",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",3953,2478,(D),(D),962,1129
+ "32027","Pershing, NV",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32027","Pershing, NV",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",11455,11552,11929,11493,10240,9658
+ "32027","Pershing, NV",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32027","Pershing, NV",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32027","Pershing, NV",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",25009,25866,25315,27668,27103,24694
+ "32027","Pershing, NV",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",1826,1702,1957,3446,4010,2599
+ "32027","Pershing, NV",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",23182,24170,23349,24173,23036,22111
+ "32027","Pershing, NV",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",1762,1760,2183,2214,2718,(D)
+ "32027","Pershing, NV",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",1059,890,1310,1311,1914,699
+ "32027","Pershing, NV",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32027","Pershing, NV",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),208
+ "32027","Pershing, NV",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",934,668,465,(D),(D),510
+ "32027","Pershing, NV",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),7,43,56
+ "32027","Pershing, NV",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),454
+ "32027","Pershing, NV",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",5083,4995,4963,4071,5117,4853
+ "32027","Pershing, NV",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32027","Pershing, NV",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32027","Pershing, NV",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",2381,2168,2026,1231,1149,1486
+ "32027","Pershing, NV",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",65570,64670,65292,64076,61824,59056
+ "32027","Pershing, NV",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",170872,144284,151401,230000,252549,173822
+ "32027","Pershing, NV",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32027","Pershing, NV",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32027","Pershing, NV",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",4848,2898,2341,1678,1908,2539
+ "32027","Pershing, NV",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),154033,232041,(D),184015
+ "32027","Pershing, NV",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),55808,56608,(D),53194
+ "32029","Storey, NV",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1449325,1682750,1799754,2050887,2383141,2243778
+ "32029","Storey, NV",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1422281,1656831,1773363,2025203,2356193,2215962
+ "32029","Storey, NV",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",754,825,921,738,1069,1133
+ "32029","Storey, NV",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",16097,13498,14728,21560,17211,12958
+ "32029","Storey, NV",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",215631,213993,212196,(D),185357,181507
+ "32029","Storey, NV",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",379306,108326,137125,133211,98703,97150
+ "32029","Storey, NV",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",428324,886508,982783,1141310,1494251,1380317
+ "32029","Storey, NV",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",370196,818346,925839,1073313,1419883,1295082
+ "32029","Storey, NV",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",58128,67975,56191,67218,73215,83869
+ "32029","Storey, NV",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",18178,19739,25146,(D),31912,29614
+ "32029","Storey, NV",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32029","Storey, NV",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",235605,236737,235223,291992,319838,287801
+ "32029","Storey, NV",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),152479
+ "32029","Storey, NV",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",32870,33982,(D),28831,29629,(D)
+ "32029","Storey, NV",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),633,1385,1598
+ "32029","Storey, NV",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),31821,28247,28285,(D)
+ "32029","Storey, NV",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",27956,(D),44313,45327,42077,32263
+ "32029","Storey, NV",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",18888,(D),(D),(D),(D),(D)
+ "32029","Storey, NV",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,135,(D),(D),(D),(D)
+ "32029","Storey, NV",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",9068,46806,21836,20554,(D),8450
+ "32029","Storey, NV",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",5873,5798,5258,(D),5962,6616
+ "32029","Storey, NV",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),175,(D)
+ "32029","Storey, NV",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),5784,(D)
+ "32029","Storey, NV",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",7122,9622,10653,7559,8230,9045
+ "32029","Storey, NV",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1311,1458,1420,894,1150,1511
+ "32029","Storey, NV",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",5811,8162,9227,6661,7078,7545
+ "32029","Storey, NV",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",7413,5693,6340,3466,3586,4430
+ "32029","Storey, NV",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",27044,25918,26384,25744,27126,28035
+ "32029","Storey, NV",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",16851,14321,15646,22302,18260,14029
+ "32029","Storey, NV",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),49576,(D),(D)
+ "32029","Storey, NV",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",451236,450732,447418,(D),503382,468363
+ "32029","Storey, NV",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),1521322
+ "32029","Storey, NV",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",824480,1009994,1136500,1297346,1608698,1489198
+ "32029","Storey, NV",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",597800,646758,635775,726635,746301,725166
+ "32031","Washoe, NV",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",27911779,27092756,28039209,28035334,30542848,31351832
+ "32031","Washoe, NV",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",24976456,24175406,25052290,25096152,27593359,28326731
+ "32031","Washoe, NV",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",19217,30100,(D),25469,30986,32000
+ "32031","Washoe, NV",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",40406,41564,47022,64881,62674,54008
+ "32031","Washoe, NV",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",109604,107663,(D),105916,123792,274070
+ "32031","Washoe, NV",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",2485981,2518151,2496822,2791981,2849878,2736628
+ "32031","Washoe, NV",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",2129968,2058905,2098257,2063150,2263914,2395805
+ "32031","Washoe, NV",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",1573280,1449297,1473177,1437573,1582997,1679752
+ "32031","Washoe, NV",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",556688,609454,624923,625596,680987,716560
+ "32031","Washoe, NV",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1825214,1906158,1874324,1858194,1770455,1687863
+ "32031","Washoe, NV",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1912916,2019460,2093287,2056579,2012387,1928509
+ "32031","Washoe, NV",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",1228284,1228509,1270400,1262583,1431341,1401329
+ "32031","Washoe, NV",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",538651,620351,(D),781620,1008258,1042693
+ "32031","Washoe, NV",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",6411633,5114426,5541839,6056288,6669715,7023096
+ "32031","Washoe, NV",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",3050986,1387185,1508521,1953816,2176909,2097393
+ "32031","Washoe, NV",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",3360647,3758098,4066558,4131342,4524045,4964476
+ "32031","Washoe, NV",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",3208725,3382058,3501958,3541189,4064931,4385040
+ "32031","Washoe, NV",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",1755959,1790253,1868475,1810121,2041975,2190193
+ "32031","Washoe, NV",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",527138,620572,636009,730375,890681,988246
+ "32031","Washoe, NV",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",925629,972015,998126,1007324,1144902,1223817
+ "32031","Washoe, NV",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",2151572,2255059,2314294,2250119,2355520,2488568
+ "32031","Washoe, NV",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",148152,160649,166033,155579,174863,183318
+ "32031","Washoe, NV",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",2003420,2094375,2148206,2094628,2180420,2305036
+ "32031","Washoe, NV",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",2379517,2339776,2369645,1741010,2500398,2445112
+ "32031","Washoe, NV",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",614507,559770,579168,415040,806388,626459
+ "32031","Washoe, NV",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",1765010,1779754,1790367,1326305,1682963,1806188
+ "32031","Washoe, NV",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",534767,575673,585229,511439,532664,579467
+ "32031","Washoe, NV",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",2935323,2917187,2986911,2940084,2957384,3033308
+ "32031","Washoe, NV",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",59623,71498,(D),90972,94303,87056
+ "32031","Washoe, NV",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",3738129,3925474,3965054,3912545,3781185,3614923
+ "32031","Washoe, NV",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",1337888,1336173,(D),1368714,1555461,1681922
+ "32031","Washoe, NV",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",2668619,2678396,(D),2837736,3254207,3422036
+ "32031","Washoe, NV",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",4675572,4649176,(D),4952621,5208360,5205170
+ "32031","Washoe, NV",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",20300884,19527055,(D),20141512,22383335,23123264
+ "32033","White Pine, NV",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",636332,590110,614973,740424,713331,603191
+ "32033","White Pine, NV",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",504005,459813,483122,617642,589236,484219
+ "32033","White Pine, NV",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",1787,1407,19749,24417,22984,8691
+ "32033","White Pine, NV",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",330111,285809,288669,408976,384327,304591
+ "32033","White Pine, NV",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",20782,17166,18349,17042,16787,17524
+ "32033","White Pine, NV",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",12121,(D),(D),(D),18847,(D)
+ "32033","White Pine, NV",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",2448,(D),(D),(D),1608,(D)
+ "32033","White Pine, NV",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",1691,1210,1218,1191,(D),(D)
+ "32033","White Pine, NV",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",757,(D),(D),(D),(D),439
+ "32033","White Pine, NV",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32033","White Pine, NV",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",19991,23385,25154,24436,25596,24259
+ "32033","White Pine, NV",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",7729,7073,6572,8091,6237,6049
+ "32033","White Pine, NV",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",4172,4199,4035,3921,3974,(D)
+ "32033","White Pine, NV",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",50064,50639,49012,54001,53877,50654
+ "32033","White Pine, NV",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",5280,4597,4900,8631,9669,8194
+ "32033","White Pine, NV",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",44784,46068,44108,45240,44053,42389
+ "32033","White Pine, NV",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",8732,7719,10216,8440,(D),11686
+ "32033","White Pine, NV",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32033","White Pine, NV",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32033","White Pine, NV",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",4184,3262,4360,4052,5932,6717
+ "32033","White Pine, NV",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),8134,7566
+ "32033","White Pine, NV",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",22,48,28,43,80,(D)
+ "32033","White Pine, NV",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),8053,(D)
+ "32033","White Pine, NV",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",23874,24201,24363,21730,27336,24891
+ "32033","White Pine, NV",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",2391,3264,2546,3168,5234,3412
+ "32033","White Pine, NV",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",21483,20945,21808,18535,22018,21360
+ "32033","White Pine, NV",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",5712,5512,5532,4827,4360,(D)
+ "32033","White Pine, NV",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",132327,130299,131872,124018,125287,121712
+ "32033","White Pine, NV",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",331898,287218,307885,432821,406775,311109
+ "32033","White Pine, NV",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32033","White Pine, NV",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",28511,24242,24910,25182,23044,23589
+ "32033","White Pine, NV",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",6619,(D),(D),(D),5567,5929
+ "32033","White Pine, NV",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",346466,301673,323789,460110,427521,329240
+ "32033","White Pine, NV",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",157539,158186,159414,158754,163092,158678
+ "32510","Carson City (Independent City), NV",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",3397457,3474293,3694536,3507173,3582260,3627950
+ "32510","Carson City (Independent City), NV",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",2419250,2494421,2686455,2565527,2644790,2722359
+ "32510","Carson City (Independent City), NV",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),114,2544
+ "32510","Carson City (Independent City), NV",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",102,100,(D),271,(D),(D)
+ "32510","Carson City (Independent City), NV",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",17491,16975,(D),19764,17320,15722
+ "32510","Carson City (Independent City), NV",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",173255,181298,198367,161059,184208,185593
+ "32510","Carson City (Independent City), NV",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",315276,283893,313271,299519,284958,297909
+ "32510","Carson City (Independent City), NV",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",274716,246073,276080,258613,242695,252350
+ "32510","Carson City (Independent City), NV",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",40560,37828,37146,40860,42145,45394
+ "32510","Carson City (Independent City), NV",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",70041,72983,73274,92557,92503,89731
+ "32510","Carson City (Independent City), NV",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",302598,326246,348425,336316,326416,300351
+ "32510","Carson City (Independent City), NV",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32510","Carson City (Independent City), NV",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",114167,98741,90189,58958,67680,76586
+ "32510","Carson City (Independent City), NV",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",546440,579618,672226,657581,653600,(D)
+ "32510","Carson City (Independent City), NV",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",156593,162866,241819,267592,251460,239004
+ "32510","Carson City (Independent City), NV",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",389847,416835,429004,388278,400409,(D)
+ "32510","Carson City (Independent City), NV",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",219140,259120,276949,268787,287969,365425
+ "32510","Carson City (Independent City), NV",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",109292,134892,145938,133465,118711,136478
+ "32510","Carson City (Independent City), NV",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",42859,50024,55321,60772,82973,89776
+ "32510","Carson City (Independent City), NV",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",66988,74203,75798,75139,88354,138527
+ "32510","Carson City (Independent City), NV",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",373991,375075,385353,400965,406427,412900
+ "32510","Carson City (Independent City), NV",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",7720,7697,6819,8218,13773,15553
+ "32510","Carson City (Independent City), NV",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",366270,367378,378551,392741,392509,397163
+ "32510","Carson City (Independent City), NV",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",202242,208768,217412,168209,219599,224777
+ "32510","Carson City (Independent City), NV",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",86101,87898,98021,75845,88750,83180
+ "32510","Carson City (Independent City), NV",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",116142,120868,119389,92366,131175,141836
+ "32510","Carson City (Independent City), NV",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",69459,74802,76267,68418,71634,79628
+ "32510","Carson City (Independent City), NV",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",978207,979983,1008560,942471,939092,907306
+ "32510","Carson City (Independent City), NV",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32510","Carson City (Independent City), NV",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",372639,399201,421490,429272,419269,390304
+ "32510","Carson City (Independent City), NV",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32510","Carson City (Independent City), NV",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",429443,382682,404125,360343,353619,374787
+ "32510","Carson City (Independent City), NV",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "32510","Carson City (Independent City), NV",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+"Note: See the included footnote file."
+"CAGDP9: Real GDP by county and metropolitan area 1/"
+"Last updated: December 7, 2023 -- new statistics for 2022, revised statistics for 2017-2021."
+"U.S. Bureau of Economic Analysis"

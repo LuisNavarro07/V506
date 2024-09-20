@@ -1,0 +1,1161 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2017,2018,2019,2020,2021,2022
+ "35000","New Mexico",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",93210058,96077043,100446232,97511896,99572348,101315019
+ "35000","New Mexico",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",70331669,73237919,77191109,74310359,76114239,77274677
+ "35000","New Mexico",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",1438650,1426250,1418806,1297875,1073091,1172844
+ "35000","New Mexico",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",6293731,7386831,9328914,9018821,8045824,8316445
+ "35000","New Mexico",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1650080,1574658,1626407,1735517,1678016,1476636
+ "35000","New Mexico",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",3748240,3884502,4129642,4035340,4001038,3711768
+ "35000","New Mexico",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",3555418,3683712,4216595,3845453,3784797,3692685
+ "35000","New Mexico",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",1697272,1789228,1829895,1785926,1913621,1913032
+ "35000","New Mexico",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",1858145,1896392,2375777,2044366,1855053,1769473
+ "35000","New Mexico",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",3189605,3190058,3266912,3143827,3053006,2887560
+ "35000","New Mexico",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",5935726,6218665,6314594,6138409,6137130,5401040
+ "35000","New Mexico",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",2623431,2821962,2775170,2547581,2761267,2854544
+ "35000","New Mexico",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",2617482,2587847,2595831,2236109,2826736,3108314
+ "35000","New Mexico",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",15045210,15233099,15088144,15184137,15537628,16020452
+ "35000","New Mexico",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",3281128,3313732,3255615,3583935,3656734,3702229
+ "35000","New Mexico",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",11764082,11919605,11833573,11595892,11876624,12315752
+ "35000","New Mexico",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",10146822,10672043,11337036,11601492,12384398,13416737
+ "35000","New Mexico",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",7072025,7407242,7845860,8148300,8616403,9230105
+ "35000","New Mexico",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",523862,570334,625079,679483,714064,878272
+ "35000","New Mexico",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",2550935,2694681,2866991,2782323,3057347,3321759
+ "35000","New Mexico",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",8007570,8115302,8301971,8031213,8343014,8559657
+ "35000","New Mexico",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",561422,559794,575845,521542,556503,594007
+ "35000","New Mexico",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",7446149,7555559,7726131,7510385,7786931,7965640
+ "35000","New Mexico",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",3933397,4127679,4429218,3341753,4244644,4553620
+ "35000","New Mexico",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",667234,708020,761926,485254,713312,893123
+ "35000","New Mexico",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",3266162,3419696,3667359,2856235,3532162,3668837
+ "35000","New Mexico",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",2146307,2281463,2328294,2089039,2201138,2290001
+ "35000","New Mexico",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",22878389,22839609,23261769,23176329,23447859,24038506
+ "35000","New Mexico",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",7732381,8827245,10788824,10353373,9132090,9498502
+ "35000","New Mexico",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",9125331,9407375,9580983,9281022,9190106,8284734
+ "35000","New Mexico",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",4273511,4396999,4401013,4276559,4433149,4319441
+ "35000","New Mexico",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",6172899,6273638,6827129,6095312,6604288,6761223
+ "35000","New Mexico",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",15036039,16402336,19125851,18248667,16955884,17030366
+ "35000","New Mexico",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",55295630,56821673,58052081,56012906,59049656,60175152
+ "35001","Bernalillo, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",36493928,37175016,38143805,37555635,39405632,40199025
+ "35001","Bernalillo, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",27338972,27982185,28786171,28168591,29975651,30637076
+ "35001","Bernalillo, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",9645,11220,9708,9692,9885,10832
+ "35001","Bernalillo, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",19644,16619,17434,16801,25865,20051
+ "35001","Bernalillo, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",127322,135746,137538,147130,128130,119137
+ "35001","Bernalillo, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",1587865,1585710,1629132,1716452,1759864,1567227
+ "35001","Bernalillo, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",1229213,1273645,1251815,1194272,1299542,1331690
+ "35001","Bernalillo, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",823912,840024,813726,761853,841297,832101
+ "35001","Bernalillo, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",405301,433594,437971,432067,458295,498279
+ "35001","Bernalillo, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1647041,1647879,1678626,1641756,1630395,1548067
+ "35001","Bernalillo, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",2372157,2477941,2504233,2385344,2402029,2122612
+ "35001","Bernalillo, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",827865,831168,849747,718647,988461,1067551
+ "35001","Bernalillo, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",1719252,1706646,1653889,1437595,1814526,1998085
+ "35001","Bernalillo, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",6388414,6433299,6442592,6749442,6927600,7118497
+ "35001","Bernalillo, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",1917229,1969534,1980848,2263194,2284824,2317416
+ "35001","Bernalillo, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",4471185,4463128,4460931,4483755,4640292,4798739
+ "35001","Bernalillo, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",5423703,5738648,6312691,6503301,6983993,7598067
+ "35001","Bernalillo, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",3935756,4162948,4563547,4779284,5067850,5357389
+ "35001","Bernalillo, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",379665,414503,458337,503859,519877,670900
+ "35001","Bernalillo, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1108282,1161363,1290954,1224907,1396179,1576454
+ "35001","Bernalillo, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",3653313,3676670,3783944,3669074,3731601,3807242
+ "35001","Bernalillo, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",284683,284361,290236,237969,252799,275499
+ "35001","Bernalillo, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",3368629,3392322,3493759,3432066,3479530,3532129
+ "35001","Bernalillo, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",1475662,1537970,1602480,1155308,1453892,1616996
+ "35001","Bernalillo, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",243052,253648,280896,164492,267524,318588
+ "35001","Bernalillo, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",1232610,1284323,1321763,990793,1187141,1300434
+ "35001","Bernalillo, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",857878,910669,918006,829717,871172,901256
+ "35001","Bernalillo, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",9154956,9193661,9359470,9385226,9439519,9572682
+ "35001","Bernalillo, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",29288,27820,27115,26486,35715,30577
+ "35001","Bernalillo, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",4019198,4125234,4182634,4027744,4033335,3669673
+ "35001","Bernalillo, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",955186,966933,987314,865386,1114706,1183604
+ "35001","Bernalillo, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",2948464,2980504,2906169,2635394,3108954,3316893
+ "35001","Bernalillo, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",2846366,2886823,2909158,2943195,3097518,2918581
+ "35001","Bernalillo, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",24492606,25095353,25877342,25224381,26877408,27726412
+ "35003","Catron, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",84780,88541,81711,92088,91048,106036
+ "35003","Catron, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",49955,54165,48799,57053,54137,68864
+ "35003","Catron, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",9342,(D),6869,15342,13153,16254
+ "35003","Catron, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",57,63,56,36,70,68
+ "35003","Catron, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",669,735,791,761,1075,6838
+ "35003","Catron, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",1834,1968,1681,1423,2192,1283
+ "35003","Catron, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",2002,2492,2962,2992,2560,2884
+ "35003","Catron, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",1175,1197,929,775,706,703
+ "35003","Catron, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",827,1297,2041,2233,1866,2198
+ "35003","Catron, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35003","Catron, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),3491,3454
+ "35003","Catron, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",461,451,693,(D),(D),(D)
+ "35003","Catron, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35003","Catron, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",20618,20381,(D),22913,19808,(D)
+ "35003","Catron, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35003","Catron, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),20376,(D),(D),21310
+ "35003","Catron, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",1455,1573,1645,(D),2414,6480
+ "35003","Catron, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),880,1059,(D),(D)
+ "35003","Catron, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,(D),(D),(D),(D)
+ "35003","Catron, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),776,(D)
+ "35003","Catron, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",4276,4022,(D),3455,3828,3719
+ "35003","Catron, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),214,266,293
+ "35003","Catron, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),3241,3562,3426
+ "35003","Catron, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",1850,1673,1782,1289,1582,1785
+ "35003","Catron, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",984,926,980,614,(D),(D)
+ "35003","Catron, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",866,747,801,674,(D),(D)
+ "35003","Catron, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),2001
+ "35003","Catron, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",34824,34395,32900,35083,36957,36793
+ "35003","Catron, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",9399,(D),6925,15380,13216,16322
+ "35003","Catron, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",4697,4703,4654,4527,(D),(D)
+ "35003","Catron, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",1130,1185,1485,(D),(D),(D)
+ "35003","Catron, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35003","Catron, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",13235,(D),11711,19600,17848,20536
+ "35003","Catron, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",36720,(D),36879,37751,36574,49104
+ "35005","Chaves, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2037102,2081771,2111611,2060304,2028801,2021798
+ "35005","Chaves, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1652347,1696554,1713577,1668294,1632685,1612208
+ "35005","Chaves, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",216536,206085,211531,188940,117444,121054
+ "35005","Chaves, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",62308,68623,73878,75169,61242,63853
+ "35005","Chaves, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",19620,20391,20313,23125,22393,14747
+ "35005","Chaves, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",58435,62930,60822,58152,51137,46085
+ "35005","Chaves, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",97956,106267,116615,121065,123657,132593
+ "35005","Chaves, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",7075,5798,6300,8217,7631,6987
+ "35005","Chaves, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",90881,100476,110323,112818,116008,125664
+ "35005","Chaves, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",97071,95720,94346,92976,85516,78968
+ "35005","Chaves, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",200356,209638,219474,224098,224040,196244
+ "35005","Chaves, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",78980,94109,89416,86542,93874,96938
+ "35005","Chaves, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",37025,36264,34367,30704,35805,38270
+ "35005","Chaves, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",337983,338518,312203,316850,312364,304187
+ "35005","Chaves, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",72137,66524,64820,64596,64963,64591
+ "35005","Chaves, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",265846,272153,247366,252271,247386,239503
+ "35005","Chaves, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",101790,100179,111104,113333,121723,126466
+ "35005","Chaves, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",64348,64694,71178,69387,67768,69190
+ "35005","Chaves, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",3064,2969,2868,8430,9482,9294
+ "35005","Chaves, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",34378,32512,37032,35964,44890,48286
+ "35005","Chaves, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",199151,205298,209259,201626,221276,226214
+ "35005","Chaves, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",1751,1837,2139,2457,3100,3429
+ "35005","Chaves, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",197400,203460,207116,199156,218154,222757
+ "35005","Chaves, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",93420,97195,103919,83672,107148,113831
+ "35005","Chaves, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",6384,6446,7489,5001,6154,7424
+ "35005","Chaves, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",87036,90748,96438,78657,100967,106450
+ "35005","Chaves, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",51716,54630,56929,51515,53120,55282
+ "35005","Chaves, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",384755,385274,397956,391784,395782,409863
+ "35005","Chaves, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",278844,275181,286135,264123,176740,182810
+ "35005","Chaves, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",297427,305304,313577,316749,309342,274938
+ "35005","Chaves, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",98600,114502,109718,109542,116152,111247
+ "35005","Chaves, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",134981,142562,151153,152168,159533,170949
+ "35005","Chaves, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",435236,444529,463606,444932,353880,363453
+ "35005","Chaves, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1217111,1251983,1250628,1223301,1275094,1244202
+ "35006","Cibola, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",631112,634675,625561,635166,602156,583681
+ "35006","Cibola, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",377783,392269,389206,395378,381464,372980
+ "35006","Cibola, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",12852,11878,(D),12531,12900,14922
+ "35006","Cibola, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",31056,30646,34546,34160,30209,30080
+ "35006","Cibola, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",7782,8084,(D),11028,8587,10440
+ "35006","Cibola, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",16446,7351,9145,35962,25831,28021
+ "35006","Cibola, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",5955,6874,6657,4572,2473,2374
+ "35006","Cibola, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),1320,1148
+ "35006","Cibola, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),1114,1235
+ "35006","Cibola, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",20642,17773,16807,17221,15960,14375
+ "35006","Cibola, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",48974,51508,51924,48744,50982,45981
+ "35006","Cibola, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",3579,4477,5741,7371,(D),6532
+ "35006","Cibola, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",2001,2140,2181,(D),(D),(D)
+ "35006","Cibola, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",71600,84075,75216,68644,66542,66731
+ "35006","Cibola, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",11878,11076,9322,9021,9711,9363
+ "35006","Cibola, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",59722,73090,66008,59711,56895,57456
+ "35006","Cibola, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",33201,40907,42146,41506,39693,32424
+ "35006","Cibola, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",4784,4799,4978,(D),(D),5064
+ "35006","Cibola, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",564,717,756,(D),(D),632
+ "35006","Cibola, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",27854,35391,36412,36032,33853,26817
+ "35006","Cibola, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",92814,94172,94934,81109,82903,83159
+ "35006","Cibola, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),5952,(D),(D)
+ "35006","Cibola, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),75135,(D),(D)
+ "35006","Cibola, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",18877,19817,21690,17905,22167,21896
+ "35006","Cibola, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",795,808,960,(D),(D),1067
+ "35006","Cibola, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",18082,19008,20732,(D),(D),20851
+ "35006","Cibola, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",12002,12522,12635,(D),(D),(D)
+ "35006","Cibola, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",253329,242482,236463,239901,220906,210800
+ "35006","Cibola, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",43908,42542,(D),46660,43118,45351
+ "35006","Cibola, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",69616,69243,68655,65928,66935,60349
+ "35006","Cibola, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",11361,12554,(D),18388,(D),17005
+ "35006","Cibola, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",7956,9018,8837,(D),(D),(D)
+ "35006","Cibola, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",66309,56701,(D),89106,72645,77001
+ "35006","Cibola, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",311473,335501,(D),307505,309725,296484
+ "35007","Colfax, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",449330,442000,444333,442868,447875,448905
+ "35007","Colfax, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",339032,336697,337390,341704,343440,342630
+ "35007","Colfax, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",36907,41329,33511,44767,32723,30594
+ "35007","Colfax, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",17474,14118,17237,17562,9965,9099
+ "35007","Colfax, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",5520,5407,5280,5175,4535,3720
+ "35007","Colfax, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",14976,12763,13591,12267,11049,10362
+ "35007","Colfax, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",6922,7387,7185,6625,6491,6446
+ "35007","Colfax, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",6196,6435,6001,5606,5448,5213
+ "35007","Colfax, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",726,954,1193,1025,1049,1264
+ "35007","Colfax, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",6865,6627,6665,6462,6417,6672
+ "35007","Colfax, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",34236,34936,34136,31620,31532,28541
+ "35007","Colfax, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",5023,4407,4504,4619,4556,5184
+ "35007","Colfax, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",2647,2262,2046,2034,3007,3323
+ "35007","Colfax, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",103501,100661,100357,105631,105151,106011
+ "35007","Colfax, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",14574,13987,11816,12584,12987,11429
+ "35007","Colfax, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",88927,86680,88665,93174,92282,94813
+ "35007","Colfax, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",12436,11655,11373,11901,15502,15936
+ "35007","Colfax, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",6848,6431,5831,5941,(D),8409
+ "35007","Colfax, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),405,429,(D),465
+ "35007","Colfax, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),5133,5521,(D),7053
+ "35007","Colfax, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",15875,16383,16967,16023,15340,15350
+ "35007","Colfax, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),301,(D),(D),(D)
+ "35007","Colfax, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),16666,(D),(D),(D)
+ "35007","Colfax, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",52273,53697,56837,63073,81140,86533
+ "35007","Colfax, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",3352,3790,5512,7456,9937,16438
+ "35007","Colfax, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",48921,49910,51366,55629,71203,70358
+ "35007","Colfax, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",24376,25570,27325,15311,17592,18131
+ "35007","Colfax, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",110297,105304,106935,101374,104627,106577
+ "35007","Colfax, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",54381,54944,50771,63084,43531,40423
+ "35007","Colfax, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",41101,41559,40804,38093,37960,35203
+ "35007","Colfax, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",10544,9813,9785,9800,9106,8939
+ "35007","Colfax, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",9569,9655,9243,8659,9403,9627
+ "35007","Colfax, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",76280,75097,71669,80951,60607,56697
+ "35007","Colfax, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",262752,261602,265569,261628,283371,287406
+ "35009","Curry, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",3119322,3037869,3090482,3100993,3086968,3173046
+ "35009","Curry, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1634134,1578434,1635451,1619494,1558823,1594591
+ "35009","Curry, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",251746,232868,247651,216669,158695,209287
+ "35009","Curry, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",60717,1636,3870,4977,2790,577
+ "35009","Curry, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",41038,58986,68949,89330,90651,64489
+ "35009","Curry, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",68884,61072,63816,50979,52004,60029
+ "35009","Curry, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",169711,205861,218353,179118,173286,175093
+ "35009","Curry, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",13330,14228,13569,14389,16330,15504
+ "35009","Curry, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",156381,191646,204827,164727,156992,159688
+ "35009","Curry, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",66384,66459,65950,63462,61554,56554
+ "35009","Curry, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",137163,138786,144337,144753,146772,129805
+ "35009","Curry, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",157562,148406,149999,189261,171566,173239
+ "35009","Curry, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",37638,24455,26242,21233,19951,21148
+ "35009","Curry, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",249645,242036,237401,245977,243969,244209
+ "35009","Curry, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",51543,48323,45958,49425,51620,53629
+ "35009","Curry, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",198102,193761,191567,196627,192377,190493
+ "35009","Curry, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",110351,111220,112320,119081,126309,128589
+ "35009","Curry, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",41516,43076,43956,49959,48581,51243
+ "35009","Curry, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",28840,30221,(D),32370,39036,41800
+ "35009","Curry, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",39995,37937,(D),36773,39113,36405
+ "35009","Curry, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",169891,168313,175732,185485,189812,195848
+ "35009","Curry, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",1362,1990,1906,2618,2385,2625
+ "35009","Curry, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",168529,166320,173825,182855,187421,193215
+ "35009","Curry, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",63457,63383,66726,55272,65500,68918
+ "35009","Curry, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",4208,3663,3389,2393,3911,4476
+ "35009","Curry, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",59248,59717,63328,52866,61599,64477
+ "35009","Curry, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",49949,52462,52660,47834,49542,53857
+ "35009","Curry, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1485187,1459285,1455567,1481540,1528234,1578798
+ "35009","Curry, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",312463,235067,252189,222323,161985,210963
+ "35009","Curry, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",203546,205239,210181,208048,208196,186201
+ "35009","Curry, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",198600,207335,218739,278242,261849,236343
+ "35009","Curry, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",207349,230358,244634,200402,193345,196256
+ "35009","Curry, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",551058,502978,535208,451815,387319,453966
+ "35009","Curry, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1083077,1074720,1100276,1162490,1165829,1131306
+ "35011","De Baca, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",75427,79305,76856,79467,76089,77798
+ "35011","De Baca, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",62221,66941,64320,66905,63692,64678
+ "35011","De Baca, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",26488,30334,26864,31823,29111,28701
+ "35011","De Baca, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,0,0,0,(D),(D)
+ "35011","De Baca, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1304,1696,1946,1527,1117,982
+ "35011","De Baca, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35011","De Baca, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35011","De Baca, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35011","De Baca, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35011","De Baca, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),5050,(D),(D),(D)
+ "35011","De Baca, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",6247,6006,5741,4985,(D),(D)
+ "35011","De Baca, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),1569,1543
+ "35011","De Baca, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35011","De Baca, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",13852,13348,(D),14342,14174,(D)
+ "35011","De Baca, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35011","De Baca, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),11333,(D),(D),11462
+ "35011","De Baca, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),(D),(D),977,658,(D)
+ "35011","De Baca, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),402,350,(D)
+ "35011","De Baca, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "35011","De Baca, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",589,828,724,575,310,322
+ "35011","De Baca, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),(D),2936,2748,2813,2843
+ "35011","De Baca, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",304,201,133,155,180,198
+ "35011","De Baca, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),2805,2594,2634,2645
+ "35011","De Baca, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",1344,1541,1597,1333,1321,1463
+ "35011","De Baca, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35011","De Baca, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35011","De Baca, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35011","De Baca, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",13206,12392,12539,12592,12422,13212
+ "35011","De Baca, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",26488,30334,26864,31823,(D),(D)
+ "35011","De Baca, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),10854,(D),9220,8214
+ "35011","De Baca, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),2687,2522
+ "35011","De Baca, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",1624,1706,1555,1306,1659,1835
+ "35011","De Baca, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",28369,32246,28633,33635,30440,30202
+ "35011","De Baca, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",33852,34751,35541,33603,33523,34922
+ "35013","Doña Ana, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",7305489,7447694,7720349,7420783,7869402,7901515
+ "35013","Doña Ana, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",5137295,5275042,5487804,5190636,5609697,5575225
+ "35013","Doña Ana, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",242801,(D),(D),(D),148429,89794
+ "35013","Doña Ana, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",6778,9908,7626,8370,7956,7346
+ "35013","Doña Ana, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",93346,(D),(D),(D),84495,67601
+ "35013","Doña Ana, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",353270,350216,370807,356595,354140,309023
+ "35013","Doña Ana, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",244580,268304,310421,330297,320343,364183
+ "35013","Doña Ana, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",145047,165676,170444,185182,182141,183406
+ "35013","Doña Ana, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",99533,102583,140028,145158,138284,180217
+ "35013","Doña Ana, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",151178,(D),171990,179230,176491,171856
+ "35013","Doña Ana, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",449055,473179,486033,482508,486868,428927
+ "35013","Doña Ana, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",190327,189907,181879,240876,229028,224325
+ "35013","Doña Ana, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",192336,191966,192445,177843,196232,217855
+ "35013","Doña Ana, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1206816,1188925,1208794,1086254,1267540,1324124
+ "35013","Doña Ana, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",214432,211357,202068,215172,220518,222606
+ "35013","Doña Ana, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",992384,977569,1007210,870795,1047113,1101873
+ "35013","Doña Ana, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",543620,635124,637109,(D),622342,658095
+ "35013","Doña Ana, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",358062,365735,408971,404223,388131,412491
+ "35013","Doña Ana, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",4598,5235,8621,(D),(D),11344
+ "35013","Doña Ana, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",180961,263983,220211,205090,(D),234524
+ "35013","Doña Ana, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",853704,883740,916497,888542,940041,1000147
+ "35013","Doña Ana, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",42019,43017,44442,52018,54904,56839
+ "35013","Doña Ana, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",811685,840725,872061,836334,884940,943131
+ "35013","Doña Ana, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",453751,474848,535800,433556,604097,571740
+ "35013","Doña Ana, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",113687,111102,97375,54018,74552,105286
+ "35013","Doña Ana, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",340064,363710,437998,378766,528442,468133
+ "35013","Doña Ana, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",155732,164098,166396,155674,161284,167707
+ "35013","Doña Ana, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",2168193,2172903,2233057,2228917,2260509,2327433
+ "35013","Doña Ana, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",249579,(D),(D),(D),156576,96986
+ "35013","Doña Ana, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",600233,(D),658333,662262,663947,600971
+ "35013","Doña Ana, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",283673,(D),(D),(D),314099,292052
+ "35013","Doña Ana, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",436916,460393,503563,509382,516877,582875
+ "35013","Doña Ana, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",847429,(D),(D),(D),836685,763217
+ "35013","Doña Ana, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",4289866,(D),(D),(D),4771095,4811967
+ "35015","Eddy, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",5386793,6064368,7375068,6986478,6227554,6123644
+ "35015","Eddy, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",4913713,5586987,6892835,6500102,5728676,5625325
+ "35015","Eddy, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",60233,59985,61187,43935,47016,47402
+ "35015","Eddy, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",1983535,2572770,3454017,3479638,2905194,2889602
+ "35015","Eddy, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",26479,26851,30111,37822,41930,39764
+ "35015","Eddy, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",176962,216373,354117,313171,227633,212749
+ "35015","Eddy, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",500906,379667,556896,366735,297245,206557
+ "35015","Eddy, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",17722,22766,30035,24972,28563,27741
+ "35015","Eddy, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",483184,357948,527951,341506,267506,180027
+ "35015","Eddy, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",347761,349655,369831,351424,352053,334568
+ "35015","Eddy, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",179356,202588,229560,256600,234070,200125
+ "35015","Eddy, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",485513,527284,473648,312593,319164,328310
+ "35015","Eddy, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",43094,42119,44534,40372,43017,47322
+ "35015","Eddy, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",435740,483660,524616,590419,516445,559849
+ "35015","Eddy, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",77849,78038,79914,86970,86865,85802
+ "35015","Eddy, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",357890,405875,445234,504169,429908,474892
+ "35015","Eddy, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",310262,336132,376232,381398,383874,388107
+ "35015","Eddy, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",89126,113579,138893,134078,131504,127188
+ "35015","Eddy, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",12363,14414,15713,18215,19326,19416
+ "35015","Eddy, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",208772,208466,222550,229788,233507,241126
+ "35015","Eddy, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",194704,203424,202266,189874,185878,191177
+ "35015","Eddy, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",11785,10501,11276,12615,13941,17121
+ "35015","Eddy, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",182918,192930,190990,177232,171886,173970
+ "35015","Eddy, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",102904,114276,136465,93609,105853,114247
+ "35015","Eddy, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",4390,5001,5546,3268,4816,6106
+ "35015","Eddy, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",98514,109275,130916,90345,101021,108146
+ "35015","Eddy, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",66264,81252,86304,79125,88511,99365
+ "35015","Eddy, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",473080,475900,479851,478869,488564,490119
+ "35015","Eddy, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",2043768,2634008,3518295,3523613,2953570,2938306
+ "35015","Eddy, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",527117,552043,598732,606572,584460,532789
+ "35015","Eddy, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",511992,554146,503616,349353,359939,366851
+ "35015","Eddy, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",544000,420724,602424,408655,341444,249020
+ "35015","Eddy, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",2721636,3214504,4416110,4162384,3430992,3318684
+ "35015","Eddy, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",2192076,2367271,2471032,2324328,2263079,2287753
+ "35017","Grant, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1173074,1119064,1097692,1002805,1142178,1203851
+ "35017","Grant, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",910148,862774,839251,751996,894941,948225
+ "35017","Grant, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",12431,16607,(D),19707,18802,18342
+ "35017","Grant, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",502526,432982,407942,317718,432447,451336
+ "35017","Grant, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",5621,6317,5965,7041,6614,4699
+ "35017","Grant, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",23109,25675,21089,19793,21494,18303
+ "35017","Grant, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",5465,5243,(D),4366,4612,4620
+ "35017","Grant, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",3830,3502,3739,2531,2648,2454
+ "35017","Grant, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",1635,1743,(D),1850,1980,2196
+ "35017","Grant, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",10595,10662,10919,10503,8933,8945
+ "35017","Grant, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",58150,62512,63716,60511,59851,54154
+ "35017","Grant, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",6734,7613,7099,7575,15474,16336
+ "35017","Grant, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",19803,18515,16373,16175,17872,19844
+ "35017","Grant, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",122964,123714,125044,139663,122750,129148
+ "35017","Grant, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",20617,19976,19109,24837,22741,21747
+ "35017","Grant, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",102348,103760,106010,114817,99988,107501
+ "35017","Grant, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",38344,39815,38000,35153,65037,109708
+ "35017","Grant, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",11448,12039,12246,12352,12549,14440
+ "35017","Grant, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",13071,16819,14193,9422,11233,8266
+ "35017","Grant, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",13825,11011,11516,12985,39170,81175
+ "35017","Grant, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",53977,55736,58350,61894,63504,63038
+ "35017","Grant, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",2931,3136,3647,3279,3229,(D)
+ "35017","Grant, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",51046,52599,54695,58623,60287,(D)
+ "35017","Grant, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",31747,37906,45191,32706,38253,37401
+ "35017","Grant, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1183,(D),(D),890,(D),(D)
+ "35017","Grant, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",30564,(D),(D),31813,(D),(D)
+ "35017","Grant, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",18683,19902,20028,19292,20044,20732
+ "35017","Grant, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",262926,256282,258377,250319,246942,254924
+ "35017","Grant, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",514957,449371,(D),336457,450298,468556
+ "35017","Grant, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",68745,73165,74628,71012,68806,63097
+ "35017","Grant, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",12355,13930,13064,14605,22055,20867
+ "35017","Grant, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",25267,23759,(D),20501,22420,24318
+ "35017","Grant, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",543531,480274,448563,360720,476582,491992
+ "35017","Grant, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",366617,382729,390989,390781,416377,456054
+ "35019","Guadalupe, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",138094,149597,149794,147954,161349,167866
+ "35019","Guadalupe, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",108176,119835,118983,118280,128035,128513
+ "35019","Guadalupe, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),6428,(D),8793,9422
+ "35019","Guadalupe, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,0,0,0,(D),(D)
+ "35019","Guadalupe, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",10154,9659,10055,9583,2804,18878
+ "35019","Guadalupe, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",1080,1008,(D),1408,(D),1113
+ "35019","Guadalupe, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),18,40
+ "35019","Guadalupe, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),7,10
+ "35019","Guadalupe, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",18,481,523,665,12,28
+ "35019","Guadalupe, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35019","Guadalupe, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",22727,24702,25457,24837,24748,21174
+ "35019","Guadalupe, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",8424,16009,14329,19790,21129,23323
+ "35019","Guadalupe, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35019","Guadalupe, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",21742,21096,(D),20374,19571,(D)
+ "35019","Guadalupe, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35019","Guadalupe, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),19326,(D),(D),18307
+ "35019","Guadalupe, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",10975,11239,10641,10667,10008,(D)
+ "35019","Guadalupe, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35019","Guadalupe, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "35019","Guadalupe, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35019","Guadalupe, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",10657,10667,12000,9295,12094,11565
+ "35019","Guadalupe, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",21,14,2,3,6,8
+ "35019","Guadalupe, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",10636,10654,11998,9292,12088,11558
+ "35019","Guadalupe, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",16333,15703,14006,11301,15898,15574
+ "35019","Guadalupe, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",325,428,405,107,254,(D)
+ "35019","Guadalupe, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",16008,15276,13603,11198,15648,(D)
+ "35019","Guadalupe, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",1911,2527,3420,2980,2426,(D)
+ "35019","Guadalupe, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",29919,29775,30816,29696,33327,39606
+ "35019","Guadalupe, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),6428,(D),(D),(D)
+ "35019","Guadalupe, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35019","Guadalupe, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",18578,25680,24377,29504,24023,43751
+ "35019","Guadalupe, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",693,857,847,875,(D),(D)
+ "35019","Guadalupe, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),7755,8838,19398,(D)
+ "35019","Guadalupe, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),111293,109614,109016,(D)
+ "35021","Harding, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",47665,43679,39824,46807,40815,41251
+ "35021","Harding, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",39803,36084,32162,39365,32512,33122
+ "35021","Harding, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",1725,5498,2239,8329,4384,8713
+ "35021","Harding, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",28013,20400,20118,20206,16325,12762
+ "35021","Harding, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",0,0,0,0,(D),0
+ "35021","Harding, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35021","Harding, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35021","Harding, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "35021","Harding, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35021","Harding, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35021","Harding, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35021","Harding, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",108,42,195,74,90,101
+ "35021","Harding, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",0,0,0,0,1,0
+ "35021","Harding, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",4295,4108,4191,4155,3991,4040
+ "35021","Harding, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",143,142,195,177,240,258
+ "35021","Harding, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",4153,3966,3992,3975,3745,3775
+ "35021","Harding, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),53,56
+ "35021","Harding, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),47,50
+ "35021","Harding, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "35021","Harding, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",13,3,3,3,6,6
+ "35021","Harding, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),258,(D)
+ "35021","Harding, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",12,0,0,0,0,0
+ "35021","Harding, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),258,(D)
+ "35021","Harding, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(D),375,(D),389,619,906
+ "35021","Harding, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35021","Harding, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35021","Harding, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35021","Harding, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",7862,7628,7696,7887,8434,8202
+ "35021","Harding, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",29738,25457,22197,30700,21716,21583
+ "35021","Harding, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",1038,1124,1167,1039,1029,904
+ "35021","Harding, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",108,42,195,74,(D),101
+ "35021","Harding, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35021","Harding, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),25460,34083,(D),(D)
+ "35021","Harding, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),6735,6272,(D),(D)
+ "35023","Hidalgo, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",186280,200103,208394,202419,200800,191612
+ "35023","Hidalgo, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",93631,103722,110237,102108,99751,93879
+ "35023","Hidalgo, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",20380,22861,20612,19265,22824,19295
+ "35023","Hidalgo, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,0,1740,2471,949,573
+ "35023","Hidalgo, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",2761,3677,12290,7486,6427,5485
+ "35023","Hidalgo, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35023","Hidalgo, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35023","Hidalgo, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",18,23,9,28,93,118
+ "35023","Hidalgo, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35023","Hidalgo, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1161,(D),1276,(D),(D),(D)
+ "35023","Hidalgo, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",18166,20120,20095,18894,17218,14779
+ "35023","Hidalgo, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",6520,6022,6187,5696,6500,6302
+ "35023","Hidalgo, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",1697,2310,1950,1759,2020,(D)
+ "35023","Hidalgo, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",17425,16727,(D),18355,15338,(D)
+ "35023","Hidalgo, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35023","Hidalgo, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),14379,(D),(D),13475
+ "35023","Hidalgo, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),2965,3001,2657,2864,3082
+ "35023","Hidalgo, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),1844,(D),(D),(D)
+ "35023","Hidalgo, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "35023","Hidalgo, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),1158,(D),(D),(D)
+ "35023","Hidalgo, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",8623,8987,8479,8544,8727,(D)
+ "35023","Hidalgo, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35023","Hidalgo, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35023","Hidalgo, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",6889,7336,7233,5934,7355,9264
+ "35023","Hidalgo, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35023","Hidalgo, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35023","Hidalgo, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),1609
+ "35023","Hidalgo, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",92648,96414,98245,100224,100958,97806
+ "35023","Hidalgo, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",20380,22861,22593,22006,24041,20029
+ "35023","Hidalgo, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",19327,(D),21376,(D),(D),(D)
+ "35023","Hidalgo, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",9281,9687,18257,13101,12879,11754
+ "35023","Hidalgo, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),4480
+ "35023","Hidalgo, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",25770,32673,30774,30270,30896,26306
+ "35023","Hidalgo, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",67861,71165,79333,71884,68917,68103
+ "35025","Lea, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",4776874,5832463,6814461,6421688,5858935,6105243
+ "35025","Lea, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",4435321,5491548,6465833,6069024,5496990,5726290
+ "35025","Lea, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),108464,(D),68005,85752
+ "35025","Lea, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",2020385,2673813,3594052,3483345,3180569,3344084
+ "35025","Lea, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),248424,(D),219144,197302
+ "35025","Lea, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",257599,297245,318529,227073,193924,212910
+ "35025","Lea, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",251139,321322,264162,217928,168491,147322
+ "35025","Lea, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",16453,33832,13252,11180,9665,9761
+ "35025","Lea, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",234685,288150,250811,206663,158695,137510
+ "35025","Lea, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",148245,161574,164982,134026,126176,127170
+ "35025","Lea, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",222071,248168,269578,287478,274604,234981
+ "35025","Lea, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",213584,311378,332631,266013,220891,228711
+ "35025","Lea, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",46146,43549,41003,37570,42541,47166
+ "35025","Lea, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",439024,471795,484552,546536,463931,511421
+ "35025","Lea, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",84155,91210,86144,91755,86572,92953
+ "35025","Lea, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",354870,380566,398723,455360,377304,418593
+ "35025","Lea, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",159218,176128,190606,174941,185392,222284
+ "35025","Lea, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",56434,67712,77772,68044,66041,77666
+ "35025","Lea, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",18126,14059,16303,15131,18922,22938
+ "35025","Lea, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",84658,94266,96565,91704,100470,121669
+ "35025","Lea, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",157579,165252,163401,(D),158471,163149
+ "35025","Lea, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",9758,9726,8899,(D),(D),(D)
+ "35025","Lea, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",147821,155529,154512,145773,(D),(D)
+ "35025","Lea, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(D),(D),173144,125785,133742,143014
+ "35025","Lea, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),4615,2930,4562,6885
+ "35025","Lea, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",118984,141894,168527,122858,129165,136196
+ "35025","Lea, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",96206,104277,108252,90886,94592,95647
+ "35025","Lea, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",341553,339230,346878,345862,351894,369235
+ "35025","Lea, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),3707333,(D),3246850,3426627
+ "35025","Lea, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",370316,409709,434228,420310,399670,360772
+ "35025","Lea, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),581738,(D),438640,425054
+ "35025","Lea, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",297284,365577,305385,255664,210491,192148
+ "35025","Lea, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),4282857,(D),3561689,3742319
+ "35025","Lea, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),2178679,(D),1914544,1953736
+ "35027","Lincoln, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",628543,651922,663019,680413,637290,648065
+ "35027","Lincoln, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",520069,541790,552422,572148,530886,534281
+ "35027","Lincoln, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",10908,11799,10645,17317,10139,11176
+ "35027","Lincoln, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",79,129,168,130,256,1754
+ "35027","Lincoln, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",6194,6618,6647,6720,5620,5206
+ "35027","Lincoln, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",27988,32645,32239,27489,30925,26160
+ "35027","Lincoln, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",9157,8444,8909,7421,7759,9588
+ "35027","Lincoln, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",4796,3706,4050,3423,2981,3599
+ "35027","Lincoln, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",4361,4748,4869,4009,4720,5908
+ "35027","Lincoln, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",6097,4803,5499,6271,5726,5586
+ "35027","Lincoln, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",68676,74792,77617,69145,68185,61171
+ "35027","Lincoln, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",4305,4935,5621,6548,5360,6394
+ "35027","Lincoln, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",8480,7813,8114,6368,7082,8908
+ "35027","Lincoln, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",203487,210033,204503,251565,190469,187898
+ "35027","Lincoln, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",24581,25614,27785,29696,28440,28483
+ "35027","Lincoln, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",178905,184414,176613,221818,161945,159318
+ "35027","Lincoln, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",28956,31247,33023,32349,35221,37974
+ "35027","Lincoln, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),17317
+ "35027","Lincoln, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),3122
+ "35027","Lincoln, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",12598,13824,15420,15655,17050,17654
+ "35027","Lincoln, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",51349,50720,53322,54655,57738,58283
+ "35027","Lincoln, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",813,696,585,502,927,(D)
+ "35027","Lincoln, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",50536,50024,52739,54157,56806,(D)
+ "35027","Lincoln, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",74095,77866,85947,68510,87246,96321
+ "35027","Lincoln, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",28227,30238,33050,23125,33374,41271
+ "35027","Lincoln, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",45867,47629,52898,45441,53847,55119
+ "35027","Lincoln, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",20298,19950,20112,18116,19121,19606
+ "35027","Lincoln, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",108474,110141,110614,108345,106423,113920
+ "35027","Lincoln, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",10987,11927,10811,17449,10359,12313
+ "35027","Lincoln, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",74773,79572,83115,75458,73961,66791
+ "35027","Lincoln, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",10499,11555,12278,13297,11003,11631
+ "35027","Lincoln, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",17638,16257,17025,13801,14839,18488
+ "35027","Lincoln, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",48132,53038,52033,51583,48518,47501
+ "35027","Lincoln, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",471937,488769,500383,520523,482341,486845
+ "35028","Los Alamos, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2231836,2273911,2294179,2378689,2518249,2737205
+ "35028","Los Alamos, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",2038498,2081907,2076392,2155093,2293996,2500237
+ "35028","Los Alamos, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),140,77
+ "35028","Los Alamos, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",189,568,0,0,(D),0
+ "35028","Los Alamos, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",86,140,(D),161,170,138
+ "35028","Los Alamos, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",18023,25514,41944,49432,60915,51173
+ "35028","Los Alamos, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),13237
+ "35028","Los Alamos, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",4189,4849,5048,5189,6250,6475
+ "35028","Los Alamos, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),6757
+ "35028","Los Alamos, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),7019,7058,6714
+ "35028","Los Alamos, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",33642,35140,34038,31488,29095,25549
+ "35028","Los Alamos, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35028","Los Alamos, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",12632,11901,11572,9764,11843,16657
+ "35028","Los Alamos, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",133654,141753,146166,131297,158901,(D)
+ "35028","Los Alamos, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",39105,33734,34205,28072,31024,29047
+ "35028","Los Alamos, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",94550,108278,112263,103597,128400,(D)
+ "35028","Los Alamos, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",1713148,1737416,1705696,(D),(D),2120506
+ "35028","Los Alamos, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),1627525,(D),(D),(D),(D)
+ "35028","Los Alamos, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35028","Los Alamos, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",122988,(D),150809,158004,145742,141431
+ "35028","Los Alamos, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",69930,68849,71426,66080,68557,70274
+ "35028","Los Alamos, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",2870,2931,3620,3137,3266,3569
+ "35028","Los Alamos, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",67060,65918,67795,62938,65285,66694
+ "35028","Los Alamos, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",22040,22020,23930,18487,21356,21259
+ "35028","Los Alamos, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",5079,4549,4271,2278,2881,3352
+ "35028","Los Alamos, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",16960,17469,19645,16182,18452,17918
+ "35028","Los Alamos, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",18580,19503,19604,16824,16359,17162
+ "35028","Los Alamos, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",193338,192046,217294,223180,224673,237962
+ "35028","Los Alamos, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),83
+ "35028","Los Alamos, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),38526,36162,32259
+ "35028","Los Alamos, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35028","Los Alamos, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),29654
+ "35028","Los Alamos, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",26032,36340,52908,60894,73359,64695
+ "35028","Los Alamos, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",2012466,2045529,2023062,2093474,2219268,2436243
+ "35029","Luna, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",800534,824327,836357,859046,853713,839383
+ "35029","Luna, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",570599,589477,587467,617726,605189,585173
+ "35029","Luna, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",66141,69280,70474,63842,61191,53178
+ "35029","Luna, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",1382,752,1591,1555,1803,1583
+ "35029","Luna, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",104539,109567,102832,137701,125904,103821
+ "35029","Luna, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",33872,32910,27084,30427,30939,28850
+ "35029","Luna, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",65145,72025,73191,67433,65475,77648
+ "35029","Luna, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",22926,24158,23472,16808,12887,14520
+ "35029","Luna, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",42219,47907,49820,50893,53159,63992
+ "35029","Luna, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",12124,11383,11733,11014,9930,9624
+ "35029","Luna, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",50763,51855,52172,58606,59569,53239
+ "35029","Luna, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",29018,31473,33475,34844,41773,42394
+ "35029","Luna, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),1490,1861,1823
+ "35029","Luna, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",91462,90134,93072,97248,84742,93196
+ "35029","Luna, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",13859,13729,13966,15319,16408,16773
+ "35029","Luna, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",77603,76403,79116,81914,68243,76402
+ "35029","Luna, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",13222,13394,14591,16348,16762,16584
+ "35029","Luna, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",7942,7244,(D),(D),(D),8748
+ "35029","Luna, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35029","Luna, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),7309,8169,(D),(D)
+ "35029","Luna, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",64417,67111,65028,59476,63168,65246
+ "35029","Luna, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),1547
+ "35029","Luna, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),63702
+ "35029","Luna, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",21121,22240,23692,20911,25525,25009
+ "35029","Luna, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1566,1397,1501,1221,1571,1706
+ "35029","Luna, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",19556,20842,22190,19691,23954,23307
+ "35029","Luna, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(D),(D),(D),16272,15966,17076
+ "35029","Luna, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",229935,234862,248765,241500,248719,255050
+ "35029","Luna, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",67523,70017,72106,65443,63058,54816
+ "35029","Luna, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",62887,63226,63905,69559,69460,62810
+ "35029","Luna, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",133557,141043,136376,172282,167485,145795
+ "35029","Luna, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),68912,67272,79453
+ "35029","Luna, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",166539,174948,172010,163442,159660,159465
+ "35029","Luna, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",404060,414570,415417,453575,444831,424976
+ "35031","McKinley, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2227566,2307971,2578192,2439121,2280076,2272550
+ "35031","McKinley, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1296345,1380309,1638403,1502236,1310228,1291514
+ "35031","McKinley, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",592,519,(D),(D),9775,5826
+ "35031","McKinley, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",100972,147783,160649,174532,129375,182780
+ "35031","McKinley, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",56941,62022,(D),(D),9907,7201
+ "35031","McKinley, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",36791,37056,33655,33810,32633,33866
+ "35031","McKinley, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",126225,129018,360577,262598,148122,96012
+ "35031","McKinley, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",12473,11018,9537,9062,11593,12528
+ "35031","McKinley, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",113752,117841,348614,251243,134138,83145
+ "35031","McKinley, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",58331,54785,59413,55099,39934,38006
+ "35031","McKinley, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",192301,196431,192504,174040,175546,154943
+ "35031","McKinley, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",149303,139913,154158,176504,140226,152104
+ "35031","McKinley, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",24797,23751,22614,19038,21633,24030
+ "35031","McKinley, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",202425,233815,211537,195692,194507,194226
+ "35031","McKinley, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",34536,32891,32191,33735,36623,35684
+ "35031","McKinley, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",167889,201142,179407,161883,157749,158467
+ "35031","McKinley, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",33886,37828,46034,41309,45969,49700
+ "35031","McKinley, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",16413,17349,19480,17007,18533,18952
+ "35031","McKinley, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",1369,1538,1640,1721,2477,2515
+ "35031","McKinley, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",16104,18935,24862,22546,24985,28163
+ "35031","McKinley, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",173419,172870,173169,171655,169229,160325
+ "35031","McKinley, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",7455,7252,8651,8002,8257,8334
+ "35031","McKinley, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",165964,165619,164504,163647,160961,151975
+ "35031","McKinley, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",94344,96605,(D),(D),105484,108424
+ "35031","McKinley, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1272,1216,(D),(D),1896,2700
+ "35031","McKinley, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",93072,95389,98828,82610,103590,105766
+ "35031","McKinley, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",46020,47874,48702,46890,50431,52133
+ "35031","McKinley, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",931221,927493,939066,933660,963345,975346
+ "35031","McKinley, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",101564,148306,(D),(D),138704,187324
+ "35031","McKinley, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",250632,251166,252076,229320,215882,193245
+ "35031","McKinley, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",206243,201920,(D),(D),150887,159783
+ "35031","McKinley, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",151022,152911,387982,285521,172828,119461
+ "35031","McKinley, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",264579,313131,(D),(D),336397,333379
+ "35031","McKinley, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1031766,1065968,(D),(D),953614,939165
+ "35033","Mora, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",94359,107878,106514,101009,104947,104228
+ "35033","Mora, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",70173,83067,82655,76691,80071,77936
+ "35033","Mora, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",18432,23731,21999,21382,21536,21105
+ "35033","Mora, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",113,74,0,0,0,0
+ "35033","Mora, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1854,1950,1804,1520,1427,1379
+ "35033","Mora, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35033","Mora, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35033","Mora, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",42,35,1,101,101,74
+ "35033","Mora, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35033","Mora, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),1183
+ "35033","Mora, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",3916,4152,4163,4126,3796,3372
+ "35033","Mora, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",800,1740,2430,(D),(D),(D)
+ "35033","Mora, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35033","Mora, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",27084,31094,(D),26560,30512,(D)
+ "35033","Mora, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",1414,(D),(D),(D),1348,(D)
+ "35033","Mora, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",25670,(D),30244,(D),29174,29587
+ "35033","Mora, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",1822,1947,(D),2097,2244,2682
+ "35033","Mora, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",320,274,220,356,554,(D)
+ "35033","Mora, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),0,(D),(D),(D)
+ "35033","Mora, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),1582
+ "35033","Mora, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",6662,6200,6136,6325,6539,(D)
+ "35033","Mora, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35033","Mora, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35033","Mora, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(D),(D),1612,(D),(D),1110
+ "35033","Mora, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35033","Mora, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),1059,950,(D)
+ "35033","Mora, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(D),2353,2384,2234,(D),(D)
+ "35033","Mora, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",24186,24849,23916,24290,24857,26401
+ "35033","Mora, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",18544,23802,21989,21372,21526,21096
+ "35033","Mora, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),4565
+ "35033","Mora, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",2654,3695,4249,(D),(D),(D)
+ "35033","Mora, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",3365,5069,6108,6008,4112,4505
+ "35033","Mora, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",19675,27182,25350,26521,25833,23963
+ "35033","Mora, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",50498,56006,57290,50516,54547,54551
+ "35035","Otero, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2683571,2712278,2717292,2757489,2833927,2878269
+ "35035","Otero, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1069377,1098563,1092940,1125124,1149962,1114602
+ "35035","Otero, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",11160,11048,10946,(D),10835,10227
+ "35035","Otero, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",7095,8853,8173,8470,(D),(D)
+ "35035","Otero, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",11139,11130,11866,(D),(D),9414
+ "35035","Otero, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",74524,70941,70862,70645,75516,68187
+ "35035","Otero, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",5321,6080,6420,8512,8569,10063
+ "35035","Otero, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",3207,3668,4392,6688,7036,7987
+ "35035","Otero, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",2114,2412,2020,1800,1509,2022
+ "35035","Otero, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",14902,14632,14743,14218,11958,11147
+ "35035","Otero, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",126593,127959,127915,131667,130216,114273
+ "35035","Otero, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",30606,35345,36175,38531,38129,37505
+ "35035","Otero, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",39798,38515,39849,39989,43232,46469
+ "35035","Otero, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",326073,331104,303425,307559,290711,(D)
+ "35035","Otero, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",38760,37729,35796,38581,40146,39185
+ "35035","Otero, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",287313,293424,267611,268892,250422,(D)
+ "35035","Otero, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",138296,138133,140034,(D),187370,(D)
+ "35035","Otero, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",57321,56468,56141,56135,63929,63802
+ "35035","Otero, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",1710,1672,2068,(D),3055,(D)
+ "35035","Otero, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",79265,79994,81835,107893,120207,109014
+ "35035","Otero, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",186467,206935,222599,229567,237225,236422
+ "35035","Otero, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",11799,16736,22106,35715,41512,40472
+ "35035","Otero, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",174668,190179,200410,193496,195237,195494
+ "35035","Otero, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",53400,52482,53579,45911,(D),58332
+ "35035","Otero, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",2671,2875,4144,2724,(D),4109
+ "35035","Otero, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",50728,49608,49456,43197,50236,54280
+ "35035","Otero, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",44004,45430,46858,42945,43375,44198
+ "35035","Otero, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1614194,1613819,1624376,1632512,1684103,1764339
+ "35035","Otero, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",18255,19899,19115,(D),(D),(D)
+ "35035","Otero, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",141495,142586,142657,145855,142182,125409
+ "35035","Otero, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",41745,46478,48039,(D),(D),46974
+ "35035","Otero, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",45119,44611,46291,48682,51935,56816
+ "35035","Otero, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",98100,96856,96389,(D),(D),(D)
+ "35035","Otero, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",971277,1001701,996545,(D),(D),(D)
+ "35037","Quay, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",283470,288286,297096,286983,291027,305123
+ "35037","Quay, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",220967,227725,236492,229580,234882,243566
+ "35037","Quay, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),31936,47761
+ "35037","Quay, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,0,0,0,(D),277
+ "35037","Quay, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",35507,35832,44844,43198,44327,36724
+ "35037","Quay, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",6724,6240,8401,8671,6821,5251
+ "35037","Quay, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),2852
+ "35037","Quay, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),47,97,111
+ "35037","Quay, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),2740
+ "35037","Quay, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",2171,2415,2563,2222,2091,2060
+ "35037","Quay, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",29121,30563,30207,25323,23777,21936
+ "35037","Quay, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",10211,12551,9888,8750,6866,7200
+ "35037","Quay, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",3456,2472,1797,1284,1640,1740
+ "35037","Quay, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",56714,55407,55259,55462,54179,54308
+ "35037","Quay, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",10366,10314,10319,10681,11145,10668
+ "35037","Quay, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",46348,45087,44933,44766,43011,43646
+ "35037","Quay, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",6841,6411,5436,5277,5922,6193
+ "35037","Quay, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",4141,4221,3212,3017,(D),3479
+ "35037","Quay, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),0,0
+ "35037","Quay, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),2691
+ "35037","Quay, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",22996,24334,26723,27162,27549,27631
+ "35037","Quay, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",101,57,40,55,132,145
+ "35037","Quay, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",22895,24277,26683,27107,27415,27485
+ "35037","Quay, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",20670,21601,18514,11873,13585,13666
+ "35037","Quay, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",271,(D),(D),(D),(D),(D)
+ "35037","Quay, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",20399,(D),(D),(D),(D),(D)
+ "35037","Quay, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",14567,15508,16351,15680,14706,15134
+ "35037","Quay, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",62503,60570,60623,57444,56185,61814
+ "35037","Quay, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),47975
+ "35037","Quay, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",31291,32980,32779,27555,25877,24001
+ "35037","Quay, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",45718,48393,54637,51826,51038,43758
+ "35037","Quay, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),4574
+ "35037","Quay, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",18713,20632,25110,34083,41148,55964
+ "35037","Quay, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",202254,207116,211574,196249,194416,185560
+ "35039","Rio Arriba, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1035508,1045161,1070588,1006451,1003760,990265
+ "35039","Rio Arriba, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",707899,726605,745700,678940,695784,674389
+ "35039","Rio Arriba, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",15252,14707,11796,14959,9642,12270
+ "35039","Rio Arriba, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",160973,147686,163103,152433,124776,108210
+ "35039","Rio Arriba, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",11069,10210,11580,14140,11642,(D)
+ "35039","Rio Arriba, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",20907,19970,27643,23579,33128,24173
+ "35039","Rio Arriba, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",8428,7793,8096,8354,9397,9508
+ "35039","Rio Arriba, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",5789,5110,5544,5983,6826,6423
+ "35039","Rio Arriba, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",2639,2685,2551,2365,2562,3136
+ "35039","Rio Arriba, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",9300,8836,8624,8661,7874,7649
+ "35039","Rio Arriba, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",61313,63585,61902,60136,58417,51122
+ "35039","Rio Arriba, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",11530,11680,11456,11544,12984,11840
+ "35039","Rio Arriba, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",10814,10421,10698,9224,14896,16497
+ "35039","Rio Arriba, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",180353,204641,205860,164191,184615,(D)
+ "35039","Rio Arriba, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",17514,16999,15815,16622,18383,19609
+ "35039","Rio Arriba, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",162839,187725,190196,147570,166240,(D)
+ "35039","Rio Arriba, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",46520,51094,50099,51541,54111,59757
+ "35039","Rio Arriba, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",17372,(D),(D),19812,23384,25343
+ "35039","Rio Arriba, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",3233,(D),(D),4058,5710,4471
+ "35039","Rio Arriba, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",25915,30887,27438,27791,25552,30172
+ "35039","Rio Arriba, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",104925,108884,107837,104985,105461,110670
+ "35039","Rio Arriba, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",5316,4867,4663,3679,3451,3413
+ "35039","Rio Arriba, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",99609,104020,103177,101321,102031,107281
+ "35039","Rio Arriba, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",42613,44695,43300,34436,43836,45711
+ "35039","Rio Arriba, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",8858,8898,9361,5819,8114,8852
+ "35039","Rio Arriba, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",33755,35793,33952,28601,35719,36886
+ "35039","Rio Arriba, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",23900,24353,24936,23567,25268,25475
+ "35039","Rio Arriba, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",327609,318363,324680,325601,307273,316455
+ "35039","Rio Arriba, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",176226,162286,175157,168724,134924,120159
+ "35039","Rio Arriba, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",70613,72411,70517,68797,66301,58760
+ "35039","Rio Arriba, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",22600,21886,23048,25719,24542,(D)
+ "35039","Rio Arriba, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",19242,18212,18794,17648,24095,25684
+ "35039","Rio Arriba, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",205561,189966,210869,199895,180198,157013
+ "35039","Rio Arriba, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",502338,538459,536413,481820,517596,525651
+ "35041","Roosevelt, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",671658,666212,675299,645521,666509,708693
+ "35041","Roosevelt, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",517594,512127,510378,490429,511292,541925
+ "35041","Roosevelt, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",157106,154299,156756,138588,91416,152214
+ "35041","Roosevelt, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",5643,5297,7414,7084,5054,4564
+ "35041","Roosevelt, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",63342,60759,60849,69333,130095,96481
+ "35041","Roosevelt, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",20873,14697,10886,10930,10654,9165
+ "35041","Roosevelt, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",42808,40821,40720,36052,35293,36548
+ "35041","Roosevelt, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",1872,1800,1551,1433,1643,1425
+ "35041","Roosevelt, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",40936,39022,39173,34622,33654,35147
+ "35041","Roosevelt, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",10474,11546,11645,11838,11891,11034
+ "35041","Roosevelt, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",35568,36144,36155,37732,37113,32582
+ "35041","Roosevelt, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",31870,34762,34399,30422,31379,27616
+ "35041","Roosevelt, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),7384,8080,8661
+ "35041","Roosevelt, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",85062,85317,83233,85312,87398,86617
+ "35041","Roosevelt, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",12270,12445,12275,13212,15190,13266
+ "35041","Roosevelt, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",72792,72868,70948,72074,72160,73391
+ "35041","Roosevelt, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",8005,8116,(D),6689,8556,12830
+ "35041","Roosevelt, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",6416,6138,5136,4939,6200,10115
+ "35041","Roosevelt, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35041","Roosevelt, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),1596,(D),(D),(D)
+ "35041","Roosevelt, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",21105,23420,22477,21503,21690,21783
+ "35041","Roosevelt, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",422,416,(D),(D),(D),(D)
+ "35041","Roosevelt, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",20683,23004,(D),(D),(D),(D)
+ "35041","Roosevelt, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",17211,17379,19322,15150,17401,18829
+ "35041","Roosevelt, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",2165,2229,(D),951,1927,2753
+ "35041","Roosevelt, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",15047,15151,(D),14166,15484,16157
+ "35041","Roosevelt, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(D),(D),12615,11314,11487,11486
+ "35041","Roosevelt, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",154064,154069,164644,154981,155283,166916
+ "35041","Roosevelt, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",162749,159570,164398,145765,96475,156359
+ "35041","Roosevelt, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",46042,47699,47813,49575,49006,43604
+ "35041","Roosevelt, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",95213,95567,95284,99450,160374,123388
+ "35041","Roosevelt, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),43365,43225,45030
+ "35041","Roosevelt, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",226430,214905,215366,192373,142466,207366
+ "35041","Roosevelt, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",291164,296953,294827,296238,364817,324533
+ "35043","Sandoval, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",3497474,3485997,3810561,3658802,3750354,3874694
+ "35043","Sandoval, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",2861005,2839113,3140484,3021460,3091067,3159874
+ "35043","Sandoval, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",2808,(D),(D),(D),1618,1046
+ "35043","Sandoval, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",45367,37288,44979,50070,54515,45828
+ "35043","Sandoval, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",13149,(D),(D),(D),16980,16366
+ "35043","Sandoval, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",175678,171821,199942,194422,192030,239385
+ "35043","Sandoval, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",412499,460819,553116,591126,618358,618948
+ "35043","Sandoval, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",387388,430027,520855,558320,584786,583155
+ "35043","Sandoval, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",25111,30692,32395,32945,33748,35651
+ "35043","Sandoval, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",78734,77148,74262,77333,71907,66618
+ "35043","Sandoval, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",202996,211779,213951,208230,201535,180458
+ "35043","Sandoval, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",36450,37216,36246,35388,35356,30880
+ "35043","Sandoval, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",46366,43096,45629,41402,54681,67567
+ "35043","Sandoval, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",986571,883219,976772,908190,851322,877350
+ "35043","Sandoval, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",62870,74935,72732,80221,81621,83764
+ "35043","Sandoval, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",923701,807760,903872,827537,769211,793098
+ "35043","Sandoval, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",382668,(D),418958,399354,411944,415054
+ "35043","Sandoval, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",116878,126957,140195,147541,151415,177851
+ "35043","Sandoval, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",2578,(D),5674,6456,11006,11275
+ "35043","Sandoval, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",263213,269357,273383,246298,250973,229670
+ "35043","Sandoval, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",221474,232253,261670,267794,301925,305342
+ "35043","Sandoval, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",12482,12518,14183,13277,14643,16330
+ "35043","Sandoval, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",208992,219738,247489,254540,287314,289022
+ "35043","Sandoval, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",154816,162400,184504,(D),188324,204598
+ "35043","Sandoval, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",18172,21626,22557,(D),20276,29602
+ "35043","Sandoval, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",136644,140790,161930,126320,168009,175579
+ "35043","Sandoval, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",101431,108227,116099,95331,104434,109013
+ "35043","Sandoval, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",636469,646811,670468,637891,659621,714704
+ "35043","Sandoval, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",48175,(D),(D),(D),55577,46421
+ "35043","Sandoval, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",281729,288878,288038,285516,273439,247026
+ "35043","Sandoval, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",49598,(D),(D),(D),52221,47156
+ "35043","Sandoval, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",458864,503959,598884,632842,672983,685584
+ "35043","Sandoval, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",636352,(D),(D),(D),860900,902077
+ "35043","Sandoval, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",2224653,(D),(D),(D),2234954,2263607
+ "35045","San Juan, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",5756828,5571010,5623271,5198248,5137504,5170931
+ "35045","San Juan, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",4696331,4516173,4536039,4107011,4036495,4034088
+ "35045","San Juan, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),8561,19901,21168,10521,4943
+ "35045","San Juan, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",1149791,1117324,1231119,1102699,948402,1060186
+ "35045","San Juan, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),532812,558362,569664,547559,438637
+ "35045","San Juan, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",271864,279134,288868,216285,199040,199292
+ "35045","San Juan, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",106351,116768,117387,96258,111557,124026
+ "35045","San Juan, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",85269,95662,91590,65005,71144,(D)
+ "35045","San Juan, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",21082,21207,25718,31908,41341,(D)
+ "35045","San Juan, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",195558,192382,197483,178911,158132,149972
+ "35045","San Juan, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",442061,457777,378573,370499,381252,333485
+ "35045","San Juan, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",129884,150989,120074,108252,116075,118932
+ "35045","San Juan, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),33509,(D)
+ "35045","San Juan, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",673938,676195,646795,565782,589763,(D)
+ "35045","San Juan, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",108332,(D),97787,106777,111734,108415
+ "35045","San Juan, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",565606,(D),549169,458638,477640,(D)
+ "35045","San Juan, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",163819,172548,(D),168728,172923,175253
+ "35045","San Juan, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",77891,(D),84170,78634,88993,81593
+ "35045","San Juan, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",18163,20373,19266,18674,11824,10959
+ "35045","San Juan, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",67765,(D),(D),71346,71516,81086
+ "35045","San Juan, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",498991,486899,472179,436494,472221,477081
+ "35045","San Juan, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",17593,19554,19387,15779,15517,15112
+ "35045","San Juan, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",481398,467332,452774,420739,456763,462040
+ "35045","San Juan, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",161691,(D),165238,(D),(D),186188
+ "35045","San Juan, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",20381,(D),22786,12228,24727,30916
+ "35045","San Juan, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",141310,140477,142453,(D),(D),155380
+ "35045","San Juan, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",126305,129548,133175,117801,(D),(D)
+ "35045","San Juan, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1060497,1054980,1087168,1086239,1096523,1134531
+ "35045","San Juan, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),1125855,1250700,1123963,958006,1063858
+ "35045","San Juan, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",637619,650063,577231,550212,540516,484236
+ "35045","San Juan, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),684470,677930,676586,662803,557850
+ "35045","San Juan, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),144962,(D)
+ "35045","San Juan, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),1521067,1655329,1427232,1260919,1379268
+ "35045","San Juan, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),2994363,2881771,2670538,2759954,2632171
+ "35047","San Miguel, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",646624,670875,682772,622449,653900,663880
+ "35047","San Miguel, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",383417,412422,416714,365418,394712,400391
+ "35047","San Miguel, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",3394,8340,6171,7243,4993,8562
+ "35047","San Miguel, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",1436,917,553,652,496,248
+ "35047","San Miguel, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",2152,2152,2717,3913,3802,(D)
+ "35047","San Miguel, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",16058,16574,20271,18731,16579,14265
+ "35047","San Miguel, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",4499,4979,4752,4201,3719,3413
+ "35047","San Miguel, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",3137,(D),(D),(D),(D),1353
+ "35047","San Miguel, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",1362,(D),(D),(D),(D),2150
+ "35047","San Miguel, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",2702,2668,1961,1633,1700,1655
+ "35047","San Miguel, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",42507,45238,44765,42295,41161,37439
+ "35047","San Miguel, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",12056,11647,12703,12792,11219,10981
+ "35047","San Miguel, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",5378,4889,6279,6082,8482,9549
+ "35047","San Miguel, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",153388,173331,174720,139978,163151,163471
+ "35047","San Miguel, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",21957,21304,20501,16966,17923,17941
+ "35047","San Miguel, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",131431,152141,154391,123132,145405,145709
+ "35047","San Miguel, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",13468,13122,13066,13126,14197,16385
+ "35047","San Miguel, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",11099,10165,9694,8928,9904,10551
+ "35047","San Miguel, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",372,399,621,696,(D),615
+ "35047","San Miguel, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1997,2559,2763,3516,(D),5195
+ "35047","San Miguel, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",85691,87133,87449,81208,83771,(D)
+ "35047","San Miguel, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35047","San Miguel, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35047","San Miguel, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",26492,26727,27499,21780,29041,30445
+ "35047","San Miguel, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35047","San Miguel, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35047","San Miguel, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",14196,14760,13692,12406,13380,13741
+ "35047","San Miguel, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",263207,258508,266094,256841,259163,263466
+ "35047","San Miguel, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",4831,9188,6663,7824,5441,8773
+ "35047","San Miguel, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",45209,47903,46693,43890,42821,39055
+ "35047","San Miguel, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",14208,13800,15431,16745,15073,(D)
+ "35047","San Miguel, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",9876,9881,10997,10229,11901,12516
+ "35047","San Miguel, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",25387,30666,31864,30746,25763,27017
+ "35047","San Miguel, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",358030,381758,384861,334708,369133,373457
+ "35049","Santa Fe, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",6940839,7088694,7137712,6698952,7327711,7477089
+ "35049","Santa Fe, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",5384284,5550979,5577247,5187875,5789403,5904106
+ "35049","Santa Fe, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",4582,5359,4853,5888,4903,6874
+ "35049","Santa Fe, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",20993,13421,11511,12308,11379,10585
+ "35049","Santa Fe, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",13679,13375,(D),(D),(D),11628
+ "35049","Santa Fe, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",242150,(D),(D),(D),(D),(D)
+ "35049","Santa Fe, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",84564,(D),(D),(D),(D),(D)
+ "35049","Santa Fe, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",35995,(D),(D),(D),(D),(D)
+ "35049","Santa Fe, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",48569,51397,51408,59491,68380,72426
+ "35049","Santa Fe, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",208559,206409,(D),(D),(D),171693
+ "35049","Santa Fe, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",575963,604430,665096,612508,624195,549830
+ "35049","Santa Fe, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",47425,(D),53940,61376,63067,60380
+ "35049","Santa Fe, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",246835,254106,304954,217364,335689,345943
+ "35049","Santa Fe, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1687997,1727858,1573887,1577738,1800506,1866305
+ "35049","Santa Fe, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",336380,327045,296474,289401,309481,323088
+ "35049","Santa Fe, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1351617,1401247,1277870,1289087,1493320,1545381
+ "35049","Santa Fe, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",637811,658227,676496,675985,745923,808138
+ "35049","Santa Fe, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",466255,479404,485903,487745,527053,560060
+ "35049","Santa Fe, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",26524,30744,32760,37497,39232,46932
+ "35049","Santa Fe, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",145032,148121,157866,151239,179522,201089
+ "35049","Santa Fe, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",769251,768324,762985,718878,761579,803199
+ "35049","Santa Fe, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",110718,102777,101233,92882,93866,100527
+ "35049","Santa Fe, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",658533,665593,661810,626104,667936,702873
+ "35049","Santa Fe, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",574741,616664,667876,479928,603401,672658
+ "35049","Santa Fe, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",138888,163678,187570,131131,174003,211486
+ "35049","Santa Fe, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",435853,453101,480639,349025,429759,462737
+ "35049","Santa Fe, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",269734,291667,304516,273916,292159,305285
+ "35049","Santa Fe, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1556555,1537942,1560602,1510357,1540011,1574755
+ "35049","Santa Fe, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",25576,18733,16322,18194,16249,17199
+ "35049","Santa Fe, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",784521,810713,(D),(D),(D),721123
+ "35049","Santa Fe, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",61104,(D),(D),(D),(D),72047
+ "35049","Santa Fe, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",331398,(D),(D),(D),(D),(D)
+ "35049","Santa Fe, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",352290,(D),348034,357591,369334,346567
+ "35049","Santa Fe, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",5031994,(D),5229352,4829823,5419967,5558794
+ "35051","Sierra, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",281364,283215,291685,309728,310298,301184
+ "35051","Sierra, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",200818,202599,210518,228750,230035,221515
+ "35051","Sierra, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",18005,18206,21157,20284,15762,17046
+ "35051","Sierra, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",4912,4297,5095,5204,5645,4943
+ "35051","Sierra, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",3921,3977,4484,4492,2876,2560
+ "35051","Sierra, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",16118,13985,11963,11006,15673,13527
+ "35051","Sierra, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",7201,7325,7469,8524,9511,8815
+ "35051","Sierra, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",2414,1812,(D),(D),(D),1871
+ "35051","Sierra, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",4787,5524,(D),(D),(D),6967
+ "35051","Sierra, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",626,925,993,821,(D),(D)
+ "35051","Sierra, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",23493,25583,26645,25957,26454,23862
+ "35051","Sierra, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",2602,3184,2407,15653,(D),(D)
+ "35051","Sierra, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",1616,1737,1650,1479,1927,2418
+ "35051","Sierra, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",59078,58911,59382,63952,53018,58715
+ "35051","Sierra, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",6545,6308,5835,6499,7472,7639
+ "35051","Sierra, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",52533,52609,53581,57484,45538,51106
+ "35051","Sierra, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",6298,6641,9592,16756,20229,15487
+ "35051","Sierra, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",4616,4701,5517,10979,14429,9343
+ "35051","Sierra, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),0,0,(D),(D),(D)
+ "35051","Sierra, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),1938,4060,(D),(D),(D)
+ "35051","Sierra, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",36506,35171,35695,34607,35683,35776
+ "35051","Sierra, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),269,195,214
+ "35051","Sierra, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),34337,35488,35561
+ "35051","Sierra, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",14520,16495,18105,14348,19028,19428
+ "35051","Sierra, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",2089,1825,1784,1416,1735,(D)
+ "35051","Sierra, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",12431,14668,16320,12931,17298,(D)
+ "35051","Sierra, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",5923,6172,6171,5523,5829,5967
+ "35051","Sierra, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",80546,80618,81190,81111,80409,79875
+ "35051","Sierra, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",22917,22486,26238,25498,21482,22080
+ "35051","Sierra, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",24118,26512,27642,26778,(D),(D)
+ "35051","Sierra, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",6523,7165,6873,20525,(D),(D)
+ "35051","Sierra, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",8817,9062,9121,10033,11444,11169
+ "35051","Sierra, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",46235,43771,45446,44806,46593,44527
+ "35051","Sierra, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",154583,158800,165041,183722,183251,176814
+ "35053","Socorro, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",489513,486028,493253,482517,481622,494458
+ "35053","Socorro, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",282118,279515,282402,279228,280369,283403
+ "35053","Socorro, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",41648,41850,43959,44016,30061,30910
+ "35053","Socorro, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",7847,5946,5577,7700,10801,8791
+ "35053","Socorro, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),2406
+ "35053","Socorro, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",4740,2486,2903,4361,3059,4282
+ "35053","Socorro, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",10989,11637,9232,6941,10059,10132
+ "35053","Socorro, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),5911,8629,8101
+ "35053","Socorro, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),1033,1435,2037
+ "35053","Socorro, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35053","Socorro, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",24049,24838,25438,24656,26759,23721
+ "35053","Socorro, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",8264,7450,7885,8454,14846,15331
+ "35053","Socorro, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",8273,7382,7357,5128,9252,9297
+ "35053","Socorro, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",60745,60302,60962,64842,55086,(D)
+ "35053","Socorro, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",9115,9525,8800,9156,9997,9658
+ "35053","Socorro, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",51630,50764,52189,55721,45087,(D)
+ "35053","Socorro, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",36906,38689,39078,38748,39391,40478
+ "35053","Socorro, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",32115,33955,34195,33432,35409,36385
+ "35053","Socorro, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35053","Socorro, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35053","Socorro, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",44896,45307,46124,47844,50250,51818
+ "35053","Socorro, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35053","Socorro, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35053","Socorro, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",21526,21671,21865,15856,20768,19431
+ "35053","Socorro, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",26,39,(D),(D),(D),(D)
+ "35053","Socorro, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",21500,21632,(D),(D),(D),(D)
+ "35053","Socorro, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",8815,8939,8915,7753,7567,7658
+ "35053","Socorro, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",207394,206507,210816,203376,201406,211330
+ "35053","Socorro, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",49495,47728,49409,51814,41197,40163
+ "35053","Socorro, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35053","Socorro, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),17587
+ "35053","Socorro, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",19261,19032,16555,12063,19189,19308
+ "35053","Socorro, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",65223,61812,61397,62899,54042,54150
+ "35053","Socorro, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",216895,217643,220886,216399,226499,229504
+ "35055","Taos, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",966871,1002668,1009373,920747,1013338,1049254
+ "35055","Taos, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",777224,814276,819835,731032,826735,858518
+ "35055","Taos, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",1664,2066,1653,1266,1441,1738
+ "35055","Taos, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",12688,9005,9888,10461,9504,10565
+ "35055","Taos, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",11129,10974,11814,14642,12229,11188
+ "35055","Taos, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",41327,40134,35177,33159,44333,43345
+ "35055","Taos, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",16158,23048,25165,32339,34513,40399
+ "35055","Taos, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",3730,3512,3316,3834,3638,3069
+ "35055","Taos, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",12427,19529,21840,28499,30874,37307
+ "35055","Taos, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",15121,15249,14144,14364,14225,12877
+ "35055","Taos, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",80046,85836,87870,80840,76929,67507
+ "35055","Taos, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",6987,7376,7287,7051,6662,5997
+ "35055","Taos, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",27427,24039,28335,18397,22874,27542
+ "35055","Taos, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",215795,248914,252822,216184,250746,261495
+ "35055","Taos, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",24092,24051,22427,24735,28527,28065
+ "35055","Taos, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",191704,224972,230610,191463,222237,233543
+ "35055","Taos, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",69576,66130,57255,52778,60838,68472
+ "35055","Taos, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",36814,36572,33207,31252,35191,38836
+ "35055","Taos, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),868,1021,1022,811
+ "35055","Taos, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),23269,20638,24701,28783
+ "35055","Taos, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",117241,118415,116253,118873,125287,126705
+ "35055","Taos, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",12132,12245,12639,11491,11935,13420
+ "35055","Taos, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",105108,106170,103607,107397,113371,113287
+ "35055","Taos, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",133935,134873,143826,105184,140870,156090
+ "35055","Taos, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",50530,51619,57261,43262,55716,69049
+ "35055","Taos, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",83404,83256,86579,61888,85217,87127
+ "35055","Taos, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",28130,28112,28288,25896,27712,29113
+ "35055","Taos, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",189647,188424,189571,189545,186673,190781
+ "35055","Taos, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",14352,11061,11542,11737,10932,12269
+ "35055","Taos, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",95167,101074,101945,95178,91119,80345
+ "35055","Taos, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",18116,18351,19095,21643,18863,17158
+ "35055","Taos, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",43585,47170,53556,51240,57727,68250
+ "35055","Taos, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",71837,74197,71718,76727,89371,95415
+ "35055","Taos, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",705387,740082,748133,654311,737349,762939
+ "35057","Torrance, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",370883,393654,394949,426309,497109,525445
+ "35057","Torrance, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",293934,319065,318259,348843,416354,443604
+ "35057","Torrance, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",33678,46724,38338,40177,39440,39211
+ "35057","Torrance, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",5890,5963,5475,6184,7373,7049
+ "35057","Torrance, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",23355,51632,53030,65433,105386,153851
+ "35057","Torrance, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",13215,10670,10431,14037,31365,10275
+ "35057","Torrance, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",12920,10589,12257,13928,18744,22975
+ "35057","Torrance, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",4882,(D),(D),(D),(D),12995
+ "35057","Torrance, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",8038,(D),(D),(D),(D),10048
+ "35057","Torrance, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",39325,30242,27355,22218,17307,15676
+ "35057","Torrance, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",35592,37064,38848,41165,39681,29560
+ "35057","Torrance, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",10677,13977,(D),(D),(D),(D)
+ "35057","Torrance, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",3764,4360,3635,2718,(D),5190
+ "35057","Torrance, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",53036,52396,(D),57414,49954,(D)
+ "35057","Torrance, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),5712,(D),(D),(D),(D)
+ "35057","Torrance, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),46684,48023,(D),(D),(D)
+ "35057","Torrance, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",25452,17011,21012,(D),(D),28148
+ "35057","Torrance, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),5872,6307,(D),(D),(D)
+ "35057","Torrance, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,(D),(D)
+ "35057","Torrance, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),11153,14696,(D),18479,19965
+ "35057","Torrance, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",18843,21459,24683,(D),30389,28388
+ "35057","Torrance, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35057","Torrance, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35057","Torrance, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",10164,8303,(D),6138,10128,9858
+ "35057","Torrance, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),1058,(D),546,805,930
+ "35057","Torrance, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),7245,(D),5601,9341,8948
+ "35057","Torrance, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",8022,8841,9377,8971,10356,11569
+ "35057","Torrance, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",76950,74644,76714,77671,81107,81953
+ "35057","Torrance, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",39568,52606,43798,46396,46907,46379
+ "35057","Torrance, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",74917,67237,66025,63079,56767,45005
+ "35057","Torrance, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",34033,65585,(D),(D),(D),(D)
+ "35057","Torrance, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",16684,14935,15921,16761,(D),28276
+ "35057","Torrance, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",65704,73636,66559,74868,98249,81426
+ "35057","Torrance, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",228230,245464,251360,273748,318150,363918
+ "35059","Union, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",178379,170321,160281,163389,159542,158993
+ "35059","Union, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",150719,142430,131516,127319,123719,123309
+ "35059","Union, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",30217,33351,21415,31674,25047,29165
+ "35059","Union, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",31356,22082,22753,22618,20729,15741
+ "35059","Union, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",2257,1939,1923,1782,1615,1605
+ "35059","Union, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35059","Union, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35059","Union, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35059","Union, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",91,110,313,(D),(D),(D)
+ "35059","Union, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),2816,3166,2951,2586
+ "35059","Union, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",10279,10068,9062,9595,9565,7720
+ "35059","Union, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35059","Union, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",7676,8519,(D),8550,9336,9852
+ "35059","Union, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",26993,25926,26341,25142,25361,25320
+ "35059","Union, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",7149,6704,6911,5598,5699,4929
+ "35059","Union, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",19844,19229,19429,19582,19699,20493
+ "35059","Union, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",14016,13153,11887,(D),(D),(D)
+ "35059","Union, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),3657,4265
+ "35059","Union, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,(D),(D)
+ "35059","Union, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35059","Union, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",10717,11825,11938,10758,12252,11730
+ "35059","Union, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),95,185,204
+ "35059","Union, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),10663,12066,11526
+ "35059","Union, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",5715,5257,5437,4148,5498,6332
+ "35059","Union, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",686,586,421,219,762,1448
+ "35059","Union, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",5028,4670,5012,3927,4720,4889
+ "35059","Union, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",3558,3406,(D),2583,2311,2325
+ "35059","Union, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",27659,27908,28744,35450,35241,35111
+ "35059","Union, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",61573,54676,44124,55581,46366,45014
+ "35059","Union, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),11913,12804,12561,10338
+ "35059","Union, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "35059","Union, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),9707,(D),(D),(D)
+ "35059","Union, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",65666,58658,48198,57169,48735,49128
+ "35059","Union, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",85053,83900,83301,72169,76544,75599
+ "35061","Valencia, NM",6,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1518973,1616488,1565097,1554621,1632158,1618116
+ "35061","Valencia, NM",6,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1197767,1300430,1245415,1246672,1322732,1299016
+ "35061","Valencia, NM",6,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),2441,(D),(D),2036,2534
+ "35061","Valencia, NM",6,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",4510,4762,3491,4129,3671,(D)
+ "35061","Valencia, NM",6,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),19944,(D),(D),13671,(D)
+ "35061","Valencia, NM",6,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",156895,217650,202723,231407,240128,230560
+ "35061","Valencia, NM",6,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",112512,115983,125796,123216,133010,123880
+ "35061","Valencia, NM",6,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",68675,55441,55185,56770,66128,60644
+ "35061","Valencia, NM",6,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",43837,60324,70305,66054,66322,62698
+ "35061","Valencia, NM",6,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",22581,24319,25478,24076,20771,19116
+ "35061","Valencia, NM",6,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",143687,140920,149135,156298,162055,143732
+ "35061","Valencia, NM",6,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",112765,118452,111910,107850,122373,118823
+ "35061","Valencia, NM",6,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",18630,27318,33751,41812,54241,65198
+ "35061","Valencia, NM",6,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",387735,400195,342251,322637,323174,(D)
+ "35061","Valencia, NM",6,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",34111,33757,29794,30951,(D),33301
+ "35061","Valencia, NM",6,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",353624,366478,312447,291602,(D),(D)
+ "35061","Valencia, NM",6,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",56505,54615,59760,60384,66413,75078
+ "35061","Valencia, NM",6,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",31040,29442,33842,35602,40916,45950
+ "35061","Valencia, NM",6,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",5986,6161,6350,5702,6876,6842
+ "35061","Valencia, NM",6,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",19479,19015,19585,19080,18826,22320
+ "35061","Valencia, NM",6,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",84863,83364,85608,81927,96075,101890
+ "35061","Valencia, NM",6,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",5208,5012,5032,4855,7026,7686
+ "35061","Valencia, NM",6,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",79655,78352,80578,77074,89032,94184
+ "35061","Valencia, NM",6,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(D),45853,49748,(D),52627,57017
+ "35061","Valencia, NM",6,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),2032,1927,(D),4711,6821
+ "35061","Valencia, NM",6,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",39404,43821,47819,40943,47970,50367
+ "35061","Valencia, NM",6,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",41758,44487,39091,35801,36127,37392
+ "35061","Valencia, NM",6,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",321205,316123,319711,308125,309863,319842
+ "35061","Valencia, NM",6,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),7205,(D),(D),5713,(D)
+ "35061","Valencia, NM",6,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",166268,165266,174630,180315,182837,162841
+ "35061","Valencia, NM",6,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),138388,(D),(D),135992,(D)
+ "35061","Valencia, NM",6,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",131142,143071,159057,164145,185602,185290
+ "35061","Valencia, NM",6,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),340729,(D),(D),379506,(D)
+ "35061","Valencia, NM",6,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),959482,(D),(D),942848,(D)
+"Note: See the included footnote file."
+"CAGDP9: Real GDP by county and metropolitan area 1/"
+"Last updated: December 7, 2023 -- new statistics for 2022, revised statistics for 2017-2021."
+"U.S. Bureau of Economic Analysis"

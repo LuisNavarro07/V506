@@ -1,0 +1,1263 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2017,2018,2019,2020,2021,2022
+ "41000","Oregon",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",225534544,234308332,239910481,237670384,250099370,254708369
+ "41000","Oregon",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",196397481,204395600,208792726,207573103,218951749,222590293
+ "41000","Oregon",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",3885258,4382710,4132586,4336924,3974748,3863940
+ "41000","Oregon",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",262344,266323,246584,301434,320748,294361
+ "41000","Oregon",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",2971990,2692863,2888200,3257113,2973580,2996781
+ "41000","Oregon",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",10077288,10897457,11228799,11330704,11712647,11235546
+ "41000","Oregon",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",31143714,31822590,31245399,32275379,32150234,32683107
+ "41000","Oregon",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",24770169,25044006,24819728,25600943,25425742,26014914
+ "41000","Oregon",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",6373546,6778564,6427762,6675747,6723960,6669184
+ "41000","Oregon",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",12467920,12663816,12800064,13109025,13419688,12873578
+ "41000","Oregon",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",12849536,13532358,14008966,13831475,13852109,13743627
+ "41000","Oregon",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",6766657,6921940,7013738,6522693,7449493,7353645
+ "41000","Oregon",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",8229416,8758539,9550623,10150852,12092746,13607173
+ "41000","Oregon",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",43732820,45201007,45906257,45999619,47814821,47287226
+ "41000","Oregon",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",10816622,10830022,10974765,11271162,11693592,10995741
+ "41000","Oregon",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",32916198,34378690,34940119,34731497,36124785,36313649
+ "41000","Oregon",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",27098374,29108006,30799532,31083171,35222473,36424010
+ "41000","Oregon",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",13259342,14479780,15170555,14848607,16572232,17751820
+ "41000","Oregon",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",7531017,7974626,8800009,9651619,11389200,10490345
+ "41000","Oregon",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",6308015,6653021,6843641,6651865,7381833,8147249
+ "41000","Oregon",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",21811572,22345830,23185670,22791293,23920543,24540343
+ "41000","Oregon",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",2020714,2044664,2061390,1857269,1929334,2026949
+ "41000","Oregon",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",19790858,20301300,21125253,20938159,21995962,22517400
+ "41000","Oregon",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",9971386,10451588,10391589,7803776,9329097,11405619
+ "41000","Oregon",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",2051777,2166017,2137952,1576947,2043051,2667883
+ "41000","Oregon",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",7919609,8285668,8253467,6226248,7289459,8754831
+ "41000","Oregon",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",5129207,5373059,5449065,5051048,5325774,5360943
+ "41000","Oregon",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",29137062,29915107,31112718,30116576,31189478,32156089
+ "41000","Oregon",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",4147602,4648228,4378139,4640267,4299553,4162109
+ "41000","Oregon",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",25317456,26192949,26798343,26937962,27266271,26618258
+ "41000","Oregon",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",9738647,9614444,9900846,9774082,10406213,10335805
+ "41000","Oregon",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",39373130,40576819,40766310,42386047,44075188,45966009
+ "41000","Oregon",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",45368604,47368319,46881074,48250384,48190261,48035175
+ "41000","Oregon",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",151028877,157028000,161889941,159339474,170733957,174539940
+ "41001","Baker, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",539760,541661,557754,554444,544864,581443
+ "41001","Baker, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",435428,436772,450584,453623,439111,470585
+ "41001","Baker, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",23008,22140,25576,38666,23030,46195
+ "41001","Baker, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",3037,3920,2065,2576,1499,3161
+ "41001","Baker, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",59572,51158,55661,53202,43290,44972
+ "41001","Baker, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",14525,17277,16105,15914,15938,17465
+ "41001","Baker, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",49537,49569,51025,51596,56339,53506
+ "41001","Baker, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",48519,48352,49720,50375,54878,51536
+ "41001","Baker, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",1017,1222,1311,1222,1479,2136
+ "41001","Baker, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",6919,6920,6426,6529,6089,5318
+ "41001","Baker, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",36380,38976,39305,39780,39404,39128
+ "41001","Baker, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",13690,14536,13601,13638,15007,14619
+ "41001","Baker, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",7734,6014,7074,6778,7690,8124
+ "41001","Baker, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",105819,110605,114230,110453,104589,98836
+ "41001","Baker, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",16575,15454,15189,13624,13173,12246
+ "41001","Baker, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",89243,95207,99142,96963,91536,86719
+ "41001","Baker, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",23641,23059,24162,23802,27592,32074
+ "41001","Baker, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",13933,13423,13980,13683,15760,16293
+ "41001","Baker, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",2478,2534,2456,2053,927,945
+ "41001","Baker, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",7230,7102,7711,8002,10595,14267
+ "41001","Baker, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",56354,59072,63349,64308,68146,69272
+ "41001","Baker, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41001","Baker, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41001","Baker, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",22739,22114,21544,17978,21084,24483
+ "41001","Baker, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",947,944,768,811,1466,2203
+ "41001","Baker, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",21791,21170,20775,17164,19610,22292
+ "41001","Baker, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",12474,11393,10809,10438,11342,11272
+ "41001","Baker, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",104332,104889,107175,100936,105880,110855
+ "41001","Baker, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",26044,26094,27491,40962,24361,49006
+ "41001","Baker, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",43299,45891,45703,46282,45472,44444
+ "41001","Baker, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",73263,65706,69236,66839,58362,59666
+ "41001","Baker, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",57270,55622,58092,58396,64008,61392
+ "41001","Baker, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",90106,92956,94548,107215,96251,121430
+ "41001","Baker, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",345322,343827,356025,346696,343499,347068
+ "41003","Benton, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",4318847,4519396,4601570,4518078,4721965,4770134
+ "41003","Benton, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",3230243,3409336,3467065,3432022,3631406,3639302
+ "41003","Benton, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",91387,97521,(D),103203,95866,78303
+ "41003","Benton, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",2934,2967,(D),3655,(D),(D)
+ "41003","Benton, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41003","Benton, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",111012,124683,124785,129717,132433,122070
+ "41003","Benton, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",604131,662696,669703,703953,687878,684084
+ "41003","Benton, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",571843,625098,625576,650786,620587,617018
+ "41003","Benton, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",32289,37585,43995,52899,66494,66266
+ "41003","Benton, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41003","Benton, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",193555,202257,208669,206370,211247,208726
+ "41003","Benton, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",30895,28237,29463,32706,37686,31740
+ "41003","Benton, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",138385,142617,143272,149584,169877,192555
+ "41003","Benton, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",699473,759996,788338,778124,814794,812122
+ "41003","Benton, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",133746,136465,136466,144245,146930,143614
+ "41003","Benton, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",565727,623754,652315,634085,668167,668951
+ "41003","Benton, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",467823,(D),(D),475878,543789,616031
+ "41003","Benton, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",292338,297968,303423,295146,337352,388965
+ "41003","Benton, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),139136,159881
+ "41003","Benton, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),68600,69656
+ "41003","Benton, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",563509,582940,588661,560139,558389,562863
+ "41003","Benton, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",27309,30227,32023,30697,29065,31928
+ "41003","Benton, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",536199,552703,556609,529410,529325,530890
+ "41003","Benton, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",146717,145946,146548,111277,132632,171198
+ "41003","Benton, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",20097,19207,19928,17065,22332,30776
+ "41003","Benton, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",126619,126737,126623,94228,110364,140628
+ "41003","Benton, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",102904,108912,111146,103600,109196,109563
+ "41003","Benton, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1088605,1110320,1134683,1087318,1094263,1133554
+ "41003","Benton, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",94321,100484,98386,106867,(D),(D)
+ "41003","Benton, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41003","Benton, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41003","Benton, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",742517,805384,813061,853655,856783,873667
+ "41003","Benton, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",809463,887919,892870,940383,(D),(D)
+ "41003","Benton, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",2420779,2521750,2574273,2493805,(D),(D)
+ "41005","Clackamas, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",20089591,21350378,21452103,21068338,22327764,22708731
+ "41005","Clackamas, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",18517146,19736534,19742337,19381653,20545028,20910873
+ "41005","Clackamas, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",144374,233413,209052,192902,221663,253770
+ "41005","Clackamas, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",7521,6961,5111,6440,6992,3790
+ "41005","Clackamas, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",71605,62054,64826,73567,66338,67348
+ "41005","Clackamas, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",1195706,1340008,1409247,1376242,1436036,1410130
+ "41005","Clackamas, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",2887844,2921303,2749389,2788699,2863004,2836761
+ "41005","Clackamas, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",2346998,2323534,2218138,2229139,2269927,2234394
+ "41005","Clackamas, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",540846,598282,531470,559173,591960,601292
+ "41005","Clackamas, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1889902,1955806,2004495,2018585,2160511,2150182
+ "41005","Clackamas, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1271908,1356170,1394601,1423547,1400845,1378338
+ "41005","Clackamas, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",362488,337060,334339,334612,382898,371184
+ "41005","Clackamas, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",593287,716870,675920,641007,638678,732855
+ "41005","Clackamas, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",4458029,4925091,4870953,4764982,4911947,4684272
+ "41005","Clackamas, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",956665,974633,985231,1050587,1107825,1006720
+ "41005","Clackamas, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",3501364,3952577,3886889,3713072,3802057,3678628
+ "41005","Clackamas, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",2466829,2641470,2691084,2753977,3207801,3565582
+ "41005","Clackamas, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",1540378,1643169,1673192,1722659,1992659,2139982
+ "41005","Clackamas, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",282161,324013,330814,355503,436362,462606
+ "41005","Clackamas, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",644290,674547,687353,678234,783297,956282
+ "41005","Clackamas, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",1935163,1961669,2055314,1998783,2129501,2178660
+ "41005","Clackamas, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",121784,129827,123931,109698,120743,131268
+ "41005","Clackamas, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",1813379,1831807,1931523,1889440,2009049,2047528
+ "41005","Clackamas, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",744754,775338,763599,555359,646693,851656
+ "41005","Clackamas, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",161903,159644,156305,117121,159219,208207
+ "41005","Clackamas, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",582851,615669,607263,438234,487868,643884
+ "41005","Clackamas, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",487735,506035,511813,464434,502871,509067
+ "41005","Clackamas, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1572445,1614150,1709093,1685814,1782002,1797267
+ "41005","Clackamas, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",151895,240227,213951,199296,228572,257379
+ "41005","Clackamas, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",3161810,3311652,3398637,3441294,3559057,3525965
+ "41005","Clackamas, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",434093,399144,399138,407901,449105,438379
+ "41005","Clackamas, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",3481131,3636322,3423519,3429468,3502543,3558969
+ "41005","Clackamas, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",4235445,4500752,4376896,4366834,4531688,4512028
+ "41005","Clackamas, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",14281701,15235759,15364569,15015297,16011501,16396646
+ "41007","Clatsop, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1843207,1906315,1896455,1912128,1989357,1956801
+ "41007","Clatsop, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1573474,1634031,1612789,1636741,1701884,1664028
+ "41007","Clatsop, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",49809,48875,41107,43020,40396,33703
+ "41007","Clatsop, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",1906,1687,1490,1259,1321,1018
+ "41007","Clatsop, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",10967,9842,10539,11240,9633,9439
+ "41007","Clatsop, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",78161,80872,88764,92002,94677,80898
+ "41007","Clatsop, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",253327,256735,255020,312638,292314,276559
+ "41007","Clatsop, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",48498,47757,46721,50151,55606,52372
+ "41007","Clatsop, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",204829,209011,208364,263209,234773,222463
+ "41007","Clatsop, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",30358,29670,29253,29412,30471,27194
+ "41007","Clatsop, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",157987,173391,180594,179101,180007,176083
+ "41007","Clatsop, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",43188,56805,62106,59070,60639,57591
+ "41007","Clatsop, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",22618,22185,21447,19629,23782,25888
+ "41007","Clatsop, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",368929,370911,331355,365036,363009,344432
+ "41007","Clatsop, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",45468,46757,49197,45733,46253,41994
+ "41007","Clatsop, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",323461,324122,281709,319099,316535,302352
+ "41007","Clatsop, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",79433,73470,75230,70607,90067,95222
+ "41007","Clatsop, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",34990,35027,35868,34036,44287,46757
+ "41007","Clatsop, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",4179,3868,3472,3095,4623,4178
+ "41007","Clatsop, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",40265,34581,35869,33452,41251,44265
+ "41007","Clatsop, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",182370,193578,211883,208976,215437,211588
+ "41007","Clatsop, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",3820,4231,4647,4668,4917,5503
+ "41007","Clatsop, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",178550,189346,207236,204306,210517,206073
+ "41007","Clatsop, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",257870,277855,265558,210836,264699,290464
+ "41007","Clatsop, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",17040,17126,17184,14496,20709,26506
+ "41007","Clatsop, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",240830,260722,248377,196333,243942,264066
+ "41007","Clatsop, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",36549,37983,38679,36616,38281,37976
+ "41007","Clatsop, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",269733,272309,283601,275532,287605,293124
+ "41007","Clatsop, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",51715,50559,42596,44272,41721,34711
+ "41007","Clatsop, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",188346,203019,209737,208415,210364,203230
+ "41007","Clatsop, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",54156,66667,72670,70300,70282,67038
+ "41007","Clatsop, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",275945,278931,276499,332580,315920,301671
+ "41007","Clatsop, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",383203,388189,386792,448533,428828,391978
+ "41007","Clatsop, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1190270,1245807,1226022,1189924,1273696,1272639
+ "41009","Columbia, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1313142,1324581,1331528,1367738,1436489,1434757
+ "41009","Columbia, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1119164,1126766,1124889,1184982,1243307,1231603
+ "41009","Columbia, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",28622,21339,21883,19095,22392,25269
+ "41009","Columbia, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",15032,15011,15610,20661,18291,17638
+ "41009","Columbia, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),114755,141031,143953,171517,160644
+ "41009","Columbia, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",70706,66752,66435,64595,72402,67402
+ "41009","Columbia, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",171085,176105,169081,188018,187425,174516
+ "41009","Columbia, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",113466,115856,107142,107317,109555,103477
+ "41009","Columbia, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",57619,60255,62039,81629,78454,71372
+ "41009","Columbia, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",55905,56987,65496,69886,74436,72710
+ "41009","Columbia, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",81131,85225,86736,86875,86262,84388
+ "41009","Columbia, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",50619,46219,45820,44327,47263,44206
+ "41009","Columbia, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",7686,8904,9903,10687,12183,13373
+ "41009","Columbia, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",313223,313415,274273,307921,301412,287096
+ "41009","Columbia, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",35571,35247,35018,35920,38518,36096
+ "41009","Columbia, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",277651,278178,239054,271880,262685,250836
+ "41009","Columbia, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),59944,63807,74127,84425,108262
+ "41009","Columbia, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),33722,35785,37969,(D),46084
+ "41009","Columbia, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),3117,4241,4227,(D),4629
+ "41009","Columbia, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",21327,23113,23846,31777,36767,56311
+ "41009","Columbia, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",73053,74791,77201,81659,87041,86697
+ "41009","Columbia, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",5279,5266,4971,4516,6611,7518
+ "41009","Columbia, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",67775,69526,72236,77159,80426,79164
+ "41009","Columbia, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",45568,47312,48419,36227,39734,51983
+ "41009","Columbia, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",4001,3652,3056,2208,3239,5051
+ "41009","Columbia, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",41567,43657,45352,34009,36520,47035
+ "41009","Columbia, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",38211,40025,39239,37679,39383,41752
+ "41009","Columbia, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",193978,197810,206611,183200,193629,204072
+ "41009","Columbia, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",43654,36408,37557,39987,40680,42713
+ "41009","Columbia, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",137035,142199,152425,157042,160931,157327
+ "41009","Columbia, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),160957,186699,188062,218464,204552
+ "41009","Columbia, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",178771,184989,178898,198631,199348,187210
+ "41009","Columbia, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",285445,279306,273118,292343,300422,284667
+ "41009","Columbia, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",833719,847437,851697,892615,942808,947109
+ "41011","Coos, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2260617,2308811,2383920,2293511,2406848,2398801
+ "41011","Coos, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1745572,1773856,1816719,1766233,1860563,1853221
+ "41011","Coos, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",157570,138643,125337,151366,117199,98180
+ "41011","Coos, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",3225,3265,3312,3570,3549,3564
+ "41011","Coos, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",6096,6531,6377,7028,6003,6346
+ "41011","Coos, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",89693,90747,99188,101140,94038,85899
+ "41011","Coos, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",174920,184079,180429,194673,225862,223837
+ "41011","Coos, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",145125,144652,139705,151133,187065,181364
+ "41011","Coos, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",29795,39716,41105,43923,36697,41996
+ "41011","Coos, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",49231,51281,55538,59361,62178,57620
+ "41011","Coos, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",170994,178457,189793,187253,182110,178507
+ "41011","Coos, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",88739,88115,77334,74224,78973,75167
+ "41011","Coos, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",24502,25737,29142,25811,26870,28390
+ "41011","Coos, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",454735,458201,496037,434651,480595,494707
+ "41011","Coos, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",78783,79957,79615,74052,79760,72831
+ "41011","Coos, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",375952,378230,416724,360745,401036,422496
+ "41011","Coos, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",131023,143600,152422,150878,166974,168311
+ "41011","Coos, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",49381,53445,54422,52332,61937,63189
+ "41011","Coos, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",8896,10389,12972,11256,13608,14065
+ "41011","Coos, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",72746,79775,85117,87209,91597,91317
+ "41011","Coos, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",200659,200831,201903,198295,213578,212804
+ "41011","Coos, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",6340,8954,9653,10400,12910,4886
+ "41011","Coos, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",194320,191863,192226,187853,200588,208005
+ "41011","Coos, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",134987,141814,138901,123812,144527,164574
+ "41011","Coos, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",7411,9126,11124,11424,15197,22546
+ "41011","Coos, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",127576,132700,127835,112432,129359,142380
+ "41011","Coos, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",59198,62166,60326,55997,57692,58789
+ "41011","Coos, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",515045,534924,567064,527531,546621,545990
+ "41011","Coos, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",160796,141919,128679,154947,120808,101838
+ "41011","Coos, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",220225,229736,245366,246769,244376,236282
+ "41011","Coos, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",94834,94642,83692,81202,84945,81476
+ "41011","Coos, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",199422,209815,209359,220717,253628,252547
+ "41011","Coos, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",425408,417223,409487,450762,446166,418717
+ "41011","Coos, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1320163,1356596,1406967,1316017,1416462,1440153
+ "41013","Crook, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",750856,788935,848933,893818,1022378,1148830
+ "41013","Crook, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",635252,669175,722007,767354,887994,1009992
+ "41013","Crook, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",25034,(D),(D),(D),16714,21646
+ "41013","Crook, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",1090,1379,1393,1631,(D),(D)
+ "41013","Crook, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",626,3967,4309,4731,(D),(D)
+ "41013","Crook, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",99003,107905,122521,110232,109557,116666
+ "41013","Crook, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",41603,47941,47678,48874,53495,52787
+ "41013","Crook, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",38210,37533,37393,37653,41111,41269
+ "41013","Crook, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",3393,10622,10495,11473,12693,11619
+ "41013","Crook, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",39731,41951,41514,56449,54490,57539
+ "41013","Crook, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",32045,34382,36887,36046,36354,36156
+ "41013","Crook, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",34550,(D),(D),(D),(D),(D)
+ "41013","Crook, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",93551,103606,132457,178757,255347,374390
+ "41013","Crook, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",131233,152147,158145,156757,169008,(D)
+ "41013","Crook, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",15870,17325,18622,16473,17396,16142
+ "41013","Crook, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",115364,134856,139523,140354,151698,(D)
+ "41013","Crook, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",29967,33442,38355,44610,56529,57773
+ "41013","Crook, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",14859,17558,20544,22993,31350,32268
+ "41013","Crook, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",2894,3172,2688,3432,2912,1279
+ "41013","Crook, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",12214,12717,15086,18136,22146,23834
+ "41013","Crook, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",46877,47673,48616,51718,54155,56105
+ "41013","Crook, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",2637,2629,2829,2598,2748,3143
+ "41013","Crook, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",44240,45043,45786,49122,51409,52964
+ "41013","Crook, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",39986,41038,39922,33999,39188,42640
+ "41013","Crook, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",982,886,1177,973,819,831
+ "41013","Crook, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",39004,40152,38746,33028,38384,41826
+ "41013","Crook, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",19957,21293,20745,20585,21911,21493
+ "41013","Crook, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",115604,119770,126957,126645,134846,139385
+ "41013","Crook, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",26123,(D),(D),(D),(D),(D)
+ "41013","Crook, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",71776,76329,78324,92652,91018,93835
+ "41013","Crook, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",35176,(D),(D),(D),(D),(D)
+ "41013","Crook, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",135154,151610,179232,224875,300961,404821
+ "41013","Crook, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",166730,(D),(D),(D),(D),(D)
+ "41013","Crook, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",468522,(D),(D),(D),(D),(D)
+ "41015","Curry, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",643191,658265,688273,665974,701617,701808
+ "41015","Curry, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",527434,537789,563590,547337,580565,581797
+ "41015","Curry, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),39374,45421,32955,31255
+ "41015","Curry, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",2702,2451,2585,3543,3912,3839
+ "41015","Curry, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),6601
+ "41015","Curry, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",30629,33646,35200,34192,39316,38000
+ "41015","Curry, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",59640,64278,72532,86793,96789,87114
+ "41015","Curry, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",56133,59507,68503,83817,93861,84210
+ "41015","Curry, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",3507,4811,3997,2854,2698,2853
+ "41015","Curry, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41015","Curry, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",51049,53050,56014,58006,54921,54192
+ "41015","Curry, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",8592,10041,10266,10549,10840,10665
+ "41015","Curry, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",7196,7485,6794,5915,7574,8089
+ "41015","Curry, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",170738,169574,181728,152092,166764,(D)
+ "41015","Curry, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",20538,19891,19575,16821,19442,18827
+ "41015","Curry, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",150199,149700,162275,135357,147385,(D)
+ "41015","Curry, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",40783,36945,34932,35041,39943,46269
+ "41015","Curry, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",24805,17826,19206,20754,24660,27067
+ "41015","Curry, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",6315,9672,5957,4611,(D),8129
+ "41015","Curry, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",9663,9445,9650,9493,(D),11161
+ "41015","Curry, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",36880,37762,41879,42394,45358,49085
+ "41015","Curry, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",571,765,(D),(D),(D),(D)
+ "41015","Curry, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",36309,36996,(D),(D),(D),(D)
+ "41015","Curry, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",52586,52629,49185,40357,47237,50900
+ "41015","Curry, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1886,2065,2083,1795,2286,2915
+ "41015","Curry, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",50700,50565,47104,38564,44950,48004
+ "41015","Curry, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",18024,18636,18229,17726,18172,18190
+ "41015","Curry, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",115756,120473,124683,118666,121022,119897
+ "41015","Curry, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),41953,48970,36962,35204
+ "41015","Curry, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41015","Curry, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),17275
+ "41015","Curry, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",66836,71773,79452,93084,104531,94833
+ "41015","Curry, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),149786,169966,175313,161595
+ "41015","Curry, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),413722,377119,405452,423506
+ "41017","Deschutes, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",9523750,9881699,10463829,10479459,11519814,11781026
+ "41017","Deschutes, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",8626526,8947896,9490575,9527073,10530659,10753226
+ "41017","Deschutes, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",138548,106345,79485,84179,95804,63389
+ "41017","Deschutes, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",8575,9059,8545,11000,11317,10310
+ "41017","Deschutes, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",38231,40108,44478,51393,43266,39921
+ "41017","Deschutes, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",858358,952549,983329,1049472,1214545,1163999
+ "41017","Deschutes, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",527749,575341,597984,608808,644630,662795
+ "41017","Deschutes, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",354862,360991,379060,393027,423292,428442
+ "41017","Deschutes, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",172887,214817,219331,216345,221900,235464
+ "41017","Deschutes, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",319204,306104,351905,355681,376603,323024
+ "41017","Deschutes, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",712882,752231,766387,731646,759401,751730
+ "41017","Deschutes, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",161458,177136,184802,173809,194244,186530
+ "41017","Deschutes, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",375312,438599,500037,537903,622240,685482
+ "41017","Deschutes, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",2310886,2305738,2526358,2513137,2769318,2762419
+ "41017","Deschutes, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",350203,351350,371110,400591,453186,418216
+ "41017","Deschutes, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1960684,1954339,2155854,2112088,2315182,2345411
+ "41017","Deschutes, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",1105294,1109469,1182517,1243072,1431926,1607045
+ "41017","Deschutes, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",638794,649905,701738,738058,890415,1001259
+ "41017","Deschutes, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",138710,126787,128128,163653,161827,221111
+ "41017","Deschutes, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",327790,332616,352230,343549,380494,392017
+ "41017","Deschutes, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",1235200,1298759,1372870,1403192,1492522,1546517
+ "41017","Deschutes, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",45536,48955,54069,54615,61696,68534
+ "41017","Deschutes, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",1189664,1249798,1318757,1348547,1430702,1477748
+ "41017","Deschutes, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",581525,614620,625772,516464,608516,720969
+ "41017","Deschutes, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",110840,116602,116543,95203,123915,142954
+ "41017","Deschutes, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",470685,498016,509215,421260,484367,577629
+ "41017","Deschutes, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",253302,261970,265085,253360,280070,283510
+ "41017","Deschutes, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",897224,933788,973390,953040,991591,1030275
+ "41017","Deschutes, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",147124,115484,88203,95498,107395,74027
+ "41017","Deschutes, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",1032086,1058045,1119312,1088775,1137418,1077046
+ "41017","Deschutes, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",199689,217246,229252,224953,237412,226353
+ "41017","Deschutes, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",903062,1013549,1096392,1144138,1260687,1336819
+ "41017","Deschutes, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1533231,1644512,1672507,1757824,1972804,1903568
+ "41017","Deschutes, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",7093295,7303315,7818493,7768980,8557049,8855712
+ "41019","Douglas, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",3675246,3688572,3744794,3732943,3933859,3823050
+ "41019","Douglas, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",3001289,3001712,3025622,3030302,3200662,3094750
+ "41019","Douglas, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",113615,116624,122246,130089,141033,121380
+ "41019","Douglas, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",19235,17983,17123,22286,23374,22009
+ "41019","Douglas, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",60284,46571,49405,48406,40610,44267
+ "41019","Douglas, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",145429,151182,152757,152903,165031,145192
+ "41019","Douglas, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",518120,507848,474890,551811,616268,551931
+ "41019","Douglas, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",492187,477761,446041,525349,587077,522181
+ "41019","Douglas, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",25934,30254,29037,26376,28994,31334
+ "41019","Douglas, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",79009,78099,84604,103321,102841,100094
+ "41019","Douglas, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",230605,243028,260039,267683,262264,258880
+ "41019","Douglas, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",140254,137688,129043,129331,142210,132648
+ "41019","Douglas, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",42788,41134,43541,44917,48966,52582
+ "41019","Douglas, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",758160,745999,772480,690580,692517,671733
+ "41019","Douglas, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",150827,132415,123324,120245,128199,131456
+ "41019","Douglas, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",607333,614042,650375,571086,564849,540325
+ "41019","Douglas, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",282230,297129,277897,262682,288517,307578
+ "41019","Douglas, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",89317,94745,100208,94176,106501,111922
+ "41019","Douglas, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",41426,45669,48535,44648,49601,58234
+ "41019","Douglas, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",151487,156744,129545,124106,132847,138668
+ "41019","Douglas, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",386665,394251,419880,431646,448284,461280
+ "41019","Douglas, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",10886,10963,11308,9998,10607,11728
+ "41019","Douglas, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",375779,383288,408577,421682,437707,449571
+ "41019","Douglas, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",132460,130479,128079,104848,128171,143667
+ "41019","Douglas, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",14134,13143,12429,10774,13331,15417
+ "41019","Douglas, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",118326,117332,115640,94071,114841,128281
+ "41019","Douglas, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",92434,94351,95138,91585,97635,97609
+ "41019","Douglas, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",673956,686858,719106,702725,733104,729494
+ "41019","Douglas, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",132850,134591,139325,152374,164344,143574
+ "41019","Douglas, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",309614,321074,344623,371396,365469,359360
+ "41019","Douglas, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",200538,184331,178422,177744,183019,177053
+ "41019","Douglas, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",560909,549008,518133,596917,665748,601668
+ "41019","Douglas, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",796400,793470,766505,856582,946354,842415
+ "41019","Douglas, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",2204889,2208281,2259431,2173052,2248539,2263204
+ "41021","Gilliam, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",240260,245284,240735,326732,277713,269482
+ "41021","Gilliam, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",208803,213589,212153,311000,261071,252031
+ "41021","Gilliam, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",47435,40308,(D),(D),50358,44944
+ "41021","Gilliam, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,8,(D),16,(D),(D)
+ "41021","Gilliam, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",95755,102410,93922,148448,132932,123709
+ "41021","Gilliam, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),10890,17825,6521,11388
+ "41021","Gilliam, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41021","Gilliam, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41021","Gilliam, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41021","Gilliam, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41021","Gilliam, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",2762,2902,3447,(D),(D),(D)
+ "41021","Gilliam, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",12545,11702,12097,12495,12975,12486
+ "41021","Gilliam, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41021","Gilliam, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",13807,15369,15577,15045,15174,(D)
+ "41021","Gilliam, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),2394,2160,2319,(D)
+ "41021","Gilliam, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),13192,12898,12865,12427
+ "41021","Gilliam, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",25648,29835,33002,30636,32823,34144
+ "41021","Gilliam, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41021","Gilliam, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),331,(D),(D)
+ "41021","Gilliam, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",24466,28694,31796,(D),31353,32251
+ "41021","Gilliam, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",1954,1841,2129,2335,2533,3451
+ "41021","Gilliam, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",124,64,121,165,261,755
+ "41021","Gilliam, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",1830,1777,2008,2171,2274,2707
+ "41021","Gilliam, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(D),1984,(D),1595,1843,2146
+ "41021","Gilliam, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41021","Gilliam, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41021","Gilliam, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(D),(D),797,(D),(D),1822
+ "41021","Gilliam, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",31457,31698,28612,16412,17269,18260
+ "41021","Gilliam, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",47435,40315,(D),(D),(D),(D)
+ "41021","Gilliam, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),4292,4235,4012
+ "41021","Gilliam, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",108300,114094,106044,160640,145670,135978
+ "41021","Gilliam, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",3165,3272,3102,2702,2755,2811
+ "41021","Gilliam, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",52240,45239,47174,99146,59471,58106
+ "41021","Gilliam, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",156564,168033,164880,215114,203124,195334
+ "41023","Grant, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",260339,257051,258658,257819,267525,280068
+ "41023","Grant, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",166064,160599,161285,162482,166658,174214
+ "41023","Grant, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",37743,26761,(D),22864,23869,31430
+ "41023","Grant, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,6,(D),147,143,(D)
+ "41023","Grant, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",2767,2850,2950,3426,2749,2285
+ "41023","Grant, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",3828,(D),(D),(D),(D),(D)
+ "41023","Grant, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",12229,(D),(D),(D),(D),13655
+ "41023","Grant, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",10808,(D),(D),(D),12382,(D)
+ "41023","Grant, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",1421,1081,904,916,(D),(D)
+ "41023","Grant, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",2664,(D),(D),(D),2779,4042
+ "41023","Grant, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",13333,13462,14005,14043,13037,12639
+ "41023","Grant, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41023","Grant, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",10117,10719,11436,11299,12528,13370
+ "41023","Grant, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",52884,58514,58725,58700,58341,(D)
+ "41023","Grant, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),7006,6695,5610,5366,5443
+ "41023","Grant, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),51526,52071,53172,53062,(D)
+ "41023","Grant, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),6800,7819,7936,(D),8984
+ "41023","Grant, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",5091,4067,4648,4787,5244,5516
+ "41023","Grant, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41023","Grant, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41023","Grant, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",9367,9212,9910,10038,10443,11102
+ "41023","Grant, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),74,291,318
+ "41023","Grant, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),9964,10149,10781
+ "41023","Grant, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",7244,7552,7763,(D),7022,7648
+ "41023","Grant, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1898,2203,2080,(D),2239,2316
+ "41023","Grant, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",5346,5350,5684,4102,4776,5324
+ "41023","Grant, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",4695,4626,4850,4802,4919,5044
+ "41023","Grant, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",94275,96429,97345,95348,100861,105846
+ "41023","Grant, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",37743,26768,22773,22982,23985,(D)
+ "41023","Grant, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",15996,(D),(D),(D),15815,16647
+ "41023","Grant, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41023","Grant, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",22346,(D),(D),(D),(D),26836
+ "41023","Grant, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",53799,42249,38729,39947,42929,48952
+ "41023","Grant, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",112265,118253,122366,122376,123510,124580
+ "41025","Harney, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",245012,259971,271210,276785,309275,308031
+ "41025","Harney, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",153619,167325,173993,181231,208526,204674
+ "41025","Harney, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",33765,48109,47832,56407,77846,75808
+ "41025","Harney, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,8,15,16,12,(D)
+ "41025","Harney, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",2950,2916,2820,5759,6164,5489
+ "41025","Harney, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",6744,(D),(D),(D),7249,6858
+ "41025","Harney, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",660,(D),(D),(D),552,622
+ "41025","Harney, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),4,42,(D)
+ "41025","Harney, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),517,(D)
+ "41025","Harney, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",5403,5631,6507,7508,7028,6110
+ "41025","Harney, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",20975,22626,24213,25181,24897,25269
+ "41025","Harney, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41025","Harney, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),1237,1262,1180,1351,1441
+ "41025","Harney, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",42863,39525,42730,37790,39158,(D)
+ "41025","Harney, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",5913,5546,5531,4393,4180,4247
+ "41025","Harney, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",36951,33975,37228,33443,35036,(D)
+ "41025","Harney, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",4829,6045,8172,8595,9712,12560
+ "41025","Harney, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",2576,3093,4866,4385,4709,5624
+ "41025","Harney, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "41025","Harney, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",2253,2951,3314,4198,4979,6879
+ "41025","Harney, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",9716,10511,11048,12170,(D),12217
+ "41025","Harney, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),1273,1689,2011,(D),2668
+ "41025","Harney, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),9237,9354,10151,(D),9531
+ "41025","Harney, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",16096,16403,15029,12372,15478,14446
+ "41025","Harney, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",421,396,371,297,491,454
+ "41025","Harney, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",15675,16007,14658,12075,14985,13991
+ "41025","Harney, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",4845,4882,5091,4785,4753,4747
+ "41025","Harney, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",91393,92682,97242,95724,100904,103937
+ "41025","Harney, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",33765,48116,47846,56422,77861,(D)
+ "41025","Harney, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",26378,28255,30736,32726,31967,31443
+ "41025","Harney, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41025","Harney, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),1902,2065
+ "41025","Harney, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",41169,(D),(D),(D),85340,(D)
+ "41025","Harney, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",112450,(D),(D),(D),124358,(D)
+ "41027","Hood River, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1136151,1256688,1248946,1179563,1324522,1290832
+ "41027","Hood River, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1019123,1137021,1123411,1057592,1198147,1159232
+ "41027","Hood River, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",44791,82623,76446,56293,98546,59262
+ "41027","Hood River, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,8,15,16,12,6
+ "41027","Hood River, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",6253,5857,6466,7398,6548,6421
+ "41027","Hood River, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",44970,53638,54213,54412,51848,48652
+ "41027","Hood River, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",167207,185822,169406,157700,167366,170847
+ "41027","Hood River, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",86057,93844,95400,93759,102265,99540
+ "41027","Hood River, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",81150,92007,73814,63744,64842,71607
+ "41027","Hood River, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",43174,46475,57114,67364,72891,64764
+ "41027","Hood River, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",70091,77031,87401,83038,79178,82385
+ "41027","Hood River, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",13144,12510,11149,9942,11451,10102
+ "41027","Hood River, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",26704,28930,28257,24796,26877,30160
+ "41027","Hood River, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",175615,192773,185714,182445,206308,199512
+ "41027","Hood River, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",29450,31277,29845,28310,30622,27578
+ "41027","Hood River, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",146165,161529,155917,154225,175838,172227
+ "41027","Hood River, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",147894,169915,169561,159527,204400,190352
+ "41027","Hood River, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",132808,154524,153067,142160,185299,170136
+ "41027","Hood River, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",3527,3352,3493,(D),3992,3940
+ "41027","Hood River, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",11559,12031,12985,(D),15135,16161
+ "41027","Hood River, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",124351,131199,135002,130992,140482,147396
+ "41027","Hood River, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",5297,5502,5868,5321,5686,6745
+ "41027","Hood River, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",119055,125697,129132,125676,134801,140644
+ "41027","Hood River, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",125405,119364,110568,91424,107909,130720
+ "41027","Hood River, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",52935,46043,39149,(D),39487,54429
+ "41027","Hood River, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",72470,73295,71344,(D),68349,76513
+ "41027","Hood River, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",29523,31623,32455,30626,26406,27005
+ "41027","Hood River, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",117028,119730,125503,121845,126559,131870
+ "41027","Hood River, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",44791,82630,76460,56306,98558,59267
+ "41027","Hood River, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",113265,123497,144632,150790,152367,147603
+ "41027","Hood River, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",19398,18368,17596,17269,17988,16491
+ "41027","Hood River, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",193911,214757,197611,182546,194238,200608
+ "41027","Hood River, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",256967,321788,299987,269714,317867,274152
+ "41027","Hood River, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",762156,815518,823329,787538,879894,886711
+ "41029","Jackson, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",9087979,9236535,9383009,9381689,10014915,10021222
+ "41029","Jackson, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",8059531,8188565,8295701,8298268,8906767,8892462
+ "41029","Jackson, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),228424,187968,212501,248249,208559
+ "41029","Jackson, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",15211,16921,15670,20273,23109,24392
+ "41029","Jackson, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),56336,64664,83338,77794,59223
+ "41029","Jackson, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",416997,453647,446482,444901,488869,464470
+ "41029","Jackson, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",811242,833322,834743,875567,883128,836467
+ "41029","Jackson, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",493649,491342,488006,512793,523712,489713
+ "41029","Jackson, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",317593,342191,347037,363017,358845,347283
+ "41029","Jackson, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),332523,329970,342082,339477,326780
+ "41029","Jackson, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",852243,890155,928475,930795,947398,960791
+ "41029","Jackson, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",325677,322019,317740,314325,355303,335962
+ "41029","Jackson, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",266613,272935,293251,289840,331587,376938
+ "41029","Jackson, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",2004789,1926016,1914679,1967746,2140635,2081256
+ "41029","Jackson, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",349318,351852,348144,355393,404906,356114
+ "41029","Jackson, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1655471,1573751,1566195,1612071,1734982,1726393
+ "41029","Jackson, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",694866,758700,796694,811668,953640,1014562
+ "41029","Jackson, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",329086,358672,376297,370262,422803,458468
+ "41029","Jackson, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",120822,145182,155877,187110,254393,254803
+ "41029","Jackson, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",244958,255041,264893,256898,283273,306587
+ "41029","Jackson, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",1329141,1323371,1414678,1414612,1501010,1513810
+ "41029","Jackson, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",44784,45660,47928,48300,52723,58642
+ "41029","Jackson, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",1284356,1277705,1366758,1366311,1448250,1455005
+ "41029","Jackson, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",505752,524924,505313,365354,396668,493339
+ "41029","Jackson, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",114952,115287,112657,74214,87486,121954
+ "41029","Jackson, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",390799,409607,392661,290967,309264,372643
+ "41029","Jackson, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",243796,250530,249190,235055,244683,243149
+ "41029","Jackson, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1028448,1047955,1087055,1083250,1108836,1129813
+ "41029","Jackson, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),245358,203714,232952,271532,233479
+ "41029","Jackson, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),1222614,1257807,1272513,1286632,1287695
+ "41029","Jackson, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),378342,382248,396973,432527,394692
+ "41029","Jackson, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",1077855,1106272,1127242,1165570,1210139,1196303
+ "41029","Jackson, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),1532299,1486296,1552668,1640694,1532731
+ "41029","Jackson, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),6656266,6809206,6745768,7266823,7368405
+ "41031","Jefferson, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",699540,731101,744586,738707,751080,762611
+ "41031","Jefferson, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",505164,534894,544476,546331,561309,575679
+ "41031","Jefferson, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",22388,37341,45804,(D),45048,52533
+ "41031","Jefferson, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",335,659,918,155,(D),(D)
+ "41031","Jefferson, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",63645,47686,53653,52208,46012,48533
+ "41031","Jefferson, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",15015,17403,20945,20623,20377,20800
+ "41031","Jefferson, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",113433,116335,103920,110509,116736,115636
+ "41031","Jefferson, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",91602,91003,78780,87217,94079,95963
+ "41031","Jefferson, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",21831,25369,25208,23240,22312,18719
+ "41031","Jefferson, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",19336,18788,18556,19400,18498,17276
+ "41031","Jefferson, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",33120,34243,35678,36264,36024,35820
+ "41031","Jefferson, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41031","Jefferson, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",4963,5915,7423,8027,9120,10455
+ "41031","Jefferson, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",120245,133252,137549,135713,140756,(D)
+ "41031","Jefferson, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",10953,11513,12314,11855,13341,13024
+ "41031","Jefferson, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",109292,121756,125233,123863,127403,(D)
+ "41031","Jefferson, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",17766,(D),(D),18654,21932,22242
+ "41031","Jefferson, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",7487,(D),(D),7441,9784,10493
+ "41031","Jefferson, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",532,(D),(D),1034,1213,1474
+ "41031","Jefferson, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",9747,14871,10726,10232,11027,10435
+ "41031","Jefferson, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),43456,43602,48397,47413,54417
+ "41031","Jefferson, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),370,388,466
+ "41031","Jefferson, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),48028,47026,53953
+ "41031","Jefferson, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",26027,28146,28695,24190,29892,31737
+ "41031","Jefferson, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",3398,3274,3685,2638,3896,4836
+ "41031","Jefferson, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",22629,24871,25010,21561,25991,26921
+ "41031","Jefferson, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",16585,18601,18887,17313,17619,17526
+ "41031","Jefferson, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",194376,196210,200111,192507,189907,186652
+ "41031","Jefferson, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",22723,38004,46734,(D),(D),(D)
+ "41031","Jefferson, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",52456,53021,54193,55634,54502,53097
+ "41031","Jefferson, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41031","Jefferson, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",118396,122222,111196,118368,125549,125370
+ "41031","Jefferson, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",151171,171353,170741,(D),(D),(D)
+ "41031","Jefferson, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",353993,363495,373638,(D),(D),(D)
+ "41033","Josephine, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2650085,2764830,2946930,2897886,3049886,3055792
+ "41033","Josephine, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",2364452,2465365,2638940,2595494,2746029,2746860
+ "41033","Josephine, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",37393,34823,22259,31744,35947,28848
+ "41033","Josephine, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",2998,3264,2745,4042,4515,5033
+ "41033","Josephine, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",10816,9997,9677,12210,10404,9409
+ "41033","Josephine, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",118621,127748,130503,125693,125261,113216
+ "41033","Josephine, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",260263,275947,275017,304115,319202,311201
+ "41033","Josephine, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",192727,198168,194224,219998,239276,232848
+ "41033","Josephine, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",67536,77801,80816,84117,79595,78057
+ "41033","Josephine, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",105628,100768,100598,103449,100855,87687
+ "41033","Josephine, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",290191,313499,343868,328062,319173,309168
+ "41033","Josephine, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",39258,41007,42269,41219,42853,44849
+ "41033","Josephine, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",44983,48296,51450,57199,71170,79750
+ "41033","Josephine, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",670835,679341,736770,681666,746950,777397
+ "41033","Josephine, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",140396,141779,146387,147826,158201,156477
+ "41033","Josephine, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",530438,537572,590667,533817,588774,621159
+ "41033","Josephine, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",160904,170614,210531,182062,215276,218477
+ "41033","Josephine, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",60969,65495,67892,69621,86534,94330
+ "41033","Josephine, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",20996,22483,31988,32876,50474,52063
+ "41033","Josephine, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",78939,82640,110753,80340,80780,75096
+ "41033","Josephine, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",365805,366878,397327,416602,443980,474033
+ "41033","Josephine, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",8045,8824,9009,7367,8385,9287
+ "41033","Josephine, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",357760,358050,388322,409274,435627,464775
+ "41033","Josephine, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",175730,209515,232519,232401,238049,223399
+ "41033","Josephine, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",17507,15826,12027,10967,16982,20859
+ "41033","Josephine, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",158224,193669,220422,221357,221091,202848
+ "41033","Josephine, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",81027,83684,83237,76780,79734,79880
+ "41033","Josephine, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",285633,299458,308093,302504,304246,309393
+ "41033","Josephine, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",40391,38099,25042,35846,40523,34101
+ "41033","Josephine, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",395819,414133,443970,431226,419746,396807
+ "41033","Josephine, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",50074,51000,51938,53425,53193,54091
+ "41033","Josephine, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",305246,324235,326339,361155,388996,387804
+ "41033","Josephine, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",419275,441870,431151,465003,483976,457240
+ "41033","Josephine, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1945177,2023516,2207448,2130585,2262118,2290310
+ "41035","Klamath, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2285268,2343100,2393915,2368105,2460807,2461052
+ "41035","Klamath, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1826581,1874857,1913215,1913826,2000284,1994000
+ "41035","Klamath, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",49919,117967,109028,127837,120560,128374
+ "41035","Klamath, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",2369,2182,2080,6879,9910,8406
+ "41035","Klamath, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",103973,102472,137807,121180,124615,109780
+ "41035","Klamath, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",78206,78870,80390,82690,87784,84227
+ "41035","Klamath, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",190743,171520,167420,189094,210361,197387
+ "41035","Klamath, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",176511,156687,153649,173737,195607,182487
+ "41035","Klamath, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",14231,14922,13816,15397,14219,14971
+ "41035","Klamath, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",76683,75808,75176,79342,79852,73750
+ "41035","Klamath, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",167496,178761,190386,195936,189892,188076
+ "41035","Klamath, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",68474,68297,63353,68760,65511,63898
+ "41035","Klamath, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",18150,17252,17383,17246,19342,21146
+ "41035","Klamath, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",472200,440912,453321,428501,438365,433410
+ "41035","Klamath, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",90599,89987,84125,85864,91564,93835
+ "41035","Klamath, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",381601,350813,369350,342676,346805,339517
+ "41035","Klamath, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",144350,149985,141623,142417,164202,180241
+ "41035","Klamath, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",61061,69767,70315,78754,91684,100770
+ "41035","Klamath, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",29548,29799,30039,31425,39430,47807
+ "41035","Klamath, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",53741,50413,41396,32630,33961,33349
+ "41035","Klamath, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",276769,283746,299179,296720,307501,322321
+ "41035","Klamath, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",12681,10896,9893,9596,10623,10011
+ "41035","Klamath, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",264088,272858,289312,287152,296896,312342
+ "41035","Klamath, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",119224,129580,117727,102545,123018,131317
+ "41035","Klamath, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",6274,6590,6539,5712,8334,11139
+ "41035","Klamath, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",112951,122989,111190,96835,114663,120242
+ "41035","Klamath, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",58025,59792,60072,58099,62103,62527
+ "41035","Klamath, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",458687,468245,480686,454634,460793,467824
+ "41035","Klamath, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",52288,120051,111024,135049,130935,137416
+ "41035","Klamath, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",244179,254512,265321,275076,269504,261701
+ "41035","Klamath, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",172447,170771,200858,190044,190172,173648
+ "41035","Klamath, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",208893,188736,184731,206496,229842,217481
+ "41035","Klamath, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",321237,368090,357029,403463,427758,416950
+ "41035","Klamath, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1505344,1506375,1555730,1510240,1571733,1578687
+ "41037","Lake, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",256293,294826,315184,305497,309106,315993
+ "41037","Lake, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",151980,187209,205641,194075,197177,205038
+ "41037","Lake, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",17001,55648,59960,46918,52491,64483
+ "41037","Lake, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",3868,3136,2591,1084,47,7
+ "41037","Lake, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",2283,2730,2998,9691,10301,11380
+ "41037","Lake, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",6978,8431,19136,15155,9436,6109
+ "41037","Lake, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",14780,14370,15066,17495,19183,17744
+ "41037","Lake, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",14347,13837,14439,17000,(D),(D)
+ "41037","Lake, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",433,538,636,490,(D),(D)
+ "41037","Lake, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),7136,6821,7912,6850
+ "41037","Lake, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",14068,14369,14924,14932,14267,14330
+ "41037","Lake, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",11304,(D),(D),(D),(D),8395
+ "41037","Lake, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",3028,3411,3572,3802,3563,3806
+ "41037","Lake, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",48136,44289,48126,45585,45320,43450
+ "41037","Lake, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",5386,5194,5123,4351,4007,3724
+ "41037","Lake, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",42750,39086,43030,41280,41368,39788
+ "41037","Lake, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",6858,6846,(D),7880,8413,8731
+ "41037","Lake, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",4110,3903,4298,4470,4891,4880
+ "41037","Lake, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),0,0,0
+ "41037","Lake, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),3385,3500,3817
+ "41037","Lake, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),5972,5800,6068,6027,6089
+ "41037","Lake, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),475,(D),410,459,(D)
+ "41037","Lake, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),5497,(D),5659,5568,(D)
+ "41037","Lake, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",6712,7051,6465,(D),(D),7716
+ "41037","Lake, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",560,(D),(D),(D),(D),(D)
+ "41037","Lake, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",6152,(D),(D),(D),(D),(D)
+ "41037","Lake, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",4060,4270,4497,4523,4819,4716
+ "41037","Lake, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",104313,107639,109662,111350,111827,110366
+ "41037","Lake, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",20868,58525,62211,47642,52079,63929
+ "41037","Lake, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),22054,21740,22147,21170
+ "41037","Lake, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",13588,(D),(D),(D),(D),19546
+ "41037","Lake, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",17808,17763,18619,21309,22910,21498
+ "41037","Lake, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",42626,80552,96139,80719,81246,88487
+ "41037","Lake, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",109354,106698,109859,113052,115572,115190
+ "41039","Lane, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",15867405,16302256,16363906,16258193,17375993,17551013
+ "41039","Lane, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",13455192,13833949,13803684,13778348,14888914,14939418
+ "41039","Lane, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",216437,206948,195568,230635,171539,155220
+ "41039","Lane, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",33339,35929,34064,37015,41724,45449
+ "41039","Lane, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",56644,42203,44413,45931,39933,40456
+ "41039","Lane, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",635973,671394,670585,680823,693084,665389
+ "41039","Lane, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",1591804,1603837,1484030,1661375,1876248,1823753
+ "41039","Lane, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",1009961,1000424,937335,1052923,1223935,1147859
+ "41039","Lane, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",581843,603683,546668,608290,647521,681339
+ "41039","Lane, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",748846,766954,756824,763978,765970,716307
+ "41039","Lane, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1142898,1187566,1218303,1209208,1208926,1179266
+ "41039","Lane, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",349825,336606,336282,297772,339730,339994
+ "41039","Lane, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",619855,589058,583038,625915,677831,756838
+ "41039","Lane, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",3350631,3454972,3422700,3425668,3769276,3735775
+ "41039","Lane, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",650742,634633,648676,668912,711593,699177
+ "41039","Lane, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",2699889,2821261,2774128,2756332,3057861,3037122
+ "41039","Lane, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",1453129,1562984,1616698,1612292,1882141,1967710
+ "41039","Lane, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",620579,673201,696379,691063,812795,871663
+ "41039","Lane, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",318503,345452,374643,406861,543976,571810
+ "41039","Lane, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",514047,544375,546567,518190,538573,539686
+ "41039","Lane, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",2001002,2048680,2129420,2151356,2275958,2280984
+ "41039","Lane, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",117753,117556,119898,103868,108804,113861
+ "41039","Lane, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",1883249,1931139,2009567,2047834,2167541,2167432
+ "41039","Lane, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",819371,864356,843768,624414,727779,853532
+ "41039","Lane, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",114217,117058,111224,87943,119111,161199
+ "41039","Lane, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",705154,747279,732480,536525,609292,694774
+ "41039","Lane, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",435438,461864,469232,428662,445508,440590
+ "41039","Lane, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",2412213,2468357,2559424,2480529,2491417,2617165
+ "41039","Lane, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",249776,242927,229682,267645,213457,200995
+ "41039","Lane, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",1891744,1954427,1974189,1972514,1974197,1895443
+ "41039","Lane, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",406469,378823,380692,343577,379470,380271
+ "41039","Lane, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",2211658,2193468,2066188,2287851,2558584,2564201
+ "41039","Lane, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",2477553,2518418,2385539,2607987,2787719,2695514
+ "41039","Lane, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",10977639,11315548,11418025,11169874,12101511,12254560
+ "41041","Lincoln, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1928285,1996663,1941518,1922642,2001354,2013519
+ "41041","Lincoln, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1581920,1638293,1568301,1577455,1636767,1641481
+ "41041","Lincoln, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),92776,80574
+ "41041","Lincoln, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",3708,3387,3686,4611,(D),(D)
+ "41041","Lincoln, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41041","Lincoln, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",80627,84152,78605,75174,75966,70472
+ "41041","Lincoln, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",165355,173347,161587,181843,165455,166358
+ "41041","Lincoln, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",15908,17761,16053,18558,23513,24014
+ "41041","Lincoln, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",149447,155561,145531,163242,140219,140459
+ "41041","Lincoln, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41041","Lincoln, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",152350,156772,170907,162988,165071,162168
+ "41041","Lincoln, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",24716,25168,25386,25430,32734,34120
+ "41041","Lincoln, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",24558,24974,20976,21416,24026,26171
+ "41041","Lincoln, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",484612,497448,443676,494712,510034,498892
+ "41041","Lincoln, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",50605,51145,50226,45406,49709,48616
+ "41041","Lincoln, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",434008,446328,393201,449417,460351,450309
+ "41041","Lincoln, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",87817,94083,90482,86843,106285,114854
+ "41041","Lincoln, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",39838,45887,42330,42595,57134,60918
+ "41041","Lincoln, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",1507,2142,2122,1876,1815,1856
+ "41041","Lincoln, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",46471,46069,46031,42400,47475,52170
+ "41041","Lincoln, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",162425,164518,166981,155793,161955,168702
+ "41041","Lincoln, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",5840,6868,7995,7071,8296,8760
+ "41041","Lincoln, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",156585,157646,158973,148714,153638,159920
+ "41041","Lincoln, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",232571,240157,231609,185790,226412,249253
+ "41041","Lincoln, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",10829,11167,11866,8155,9951,12643
+ "41041","Lincoln, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",221742,228990,219773,177650,216478,236755
+ "41041","Lincoln, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",43972,44133,43901,41661,43288,42344
+ "41041","Lincoln, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",346365,358371,373053,345540,364816,372317
+ "41041","Lincoln, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41041","Lincoln, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41041","Lincoln, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41041","Lincoln, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",189913,198330,182634,203420,189305,192052
+ "41041","Lincoln, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41041","Lincoln, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41043","Linn, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",4505965,4802294,4921026,4788775,4893295,4996612
+ "41043","Linn, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",3939587,4218101,4323540,4223416,4304937,4384836
+ "41043","Linn, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",119872,177639,(D),(D),179500,201391
+ "41043","Linn, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",1109,1858,(D),1714,1831,1977
+ "41043","Linn, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",44398,37014,30744,(D),35695,37589
+ "41043","Linn, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",246662,267011,280962,252444,256458,256746
+ "41043","Linn, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",969392,1036184,1074122,1086384,1009770,1040015
+ "41043","Linn, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",701778,743456,800574,779105,718890,751975
+ "41043","Linn, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",267614,292969,272519,305178,289261,284608
+ "41043","Linn, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",229292,238378,236912,256964,273872,265666
+ "41043","Linn, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",326613,340214,359459,357661,346481,335075
+ "41043","Linn, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",242368,248226,237551,251816,282252,269743
+ "41043","Linn, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",67748,67417,72288,67731,72718,80453
+ "41043","Linn, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",816436,883386,922132,872267,882629,871996
+ "41043","Linn, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",120088,123793,121108,102199,95261,89210
+ "41043","Linn, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",696347,759735,801473,770784,788248,783915
+ "41043","Linn, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",232435,253323,275256,276376,306528,329761
+ "41043","Linn, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",103754,119480,121368,120576,130850,145252
+ "41043","Linn, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",23216,27073,44565,45593,56661,55468
+ "41043","Linn, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",105464,106846,110055,110968,120504,130095
+ "41043","Linn, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",407958,420930,413793,403119,441662,452042
+ "41043","Linn, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",35646,36558,39105,27863,32522,32852
+ "41043","Linn, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",372312,384373,374663,375327,409197,419252
+ "41043","Linn, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",134524,141651,139382,(D),119949,150632
+ "41043","Linn, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",16565,17014,16652,(D),20383,25282
+ "41043","Linn, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",117959,124635,122728,93808,99679,125473
+ "41043","Linn, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",100780,105309,106964,100841,101124,102665
+ "41043","Linn, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",566378,584171,597464,565913,588673,612438
+ "41043","Linn, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",120981,179500,174995,(D),181327,203357
+ "41043","Linn, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",555905,578589,595960,614630,620071,600455
+ "41043","Linn, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",286766,285270,268356,(D),317693,307220
+ "41043","Linn, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",1037141,1103785,1146462,1154236,1081693,1118430
+ "41043","Linn, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1337035,1481579,1529495,(D),1444324,1496123
+ "41043","Linn, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",2602552,2735862,2793296,(D),2858014,2885062
+ "41045","Malheur, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1242988,1255014,1263737,1262480,1163021,1229190
+ "41045","Malheur, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",958667,965916,960963,966089,854738,908338
+ "41045","Malheur, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",203582,229138,226172,235529,117489,157188
+ "41045","Malheur, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",16192,16658,16195,21584,20532,21362
+ "41045","Malheur, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",15748,13852,(D),(D),(D),15531
+ "41045","Malheur, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",20212,22546,23295,20356,19378,17935
+ "41045","Malheur, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",94774,100837,94170,99617,105602,113486
+ "41045","Malheur, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",6956,6858,7253,7489,9069,9967
+ "41045","Malheur, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",87818,93985,86904,92116,96510,103467
+ "41045","Malheur, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",74727,66510,56496,50525,46847,43860
+ "41045","Malheur, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",102573,105688,112195,120260,121231,120819
+ "41045","Malheur, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",36693,35327,32919,31559,35094,33351
+ "41045","Malheur, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",43928,31575,27884,27012,21901,23611
+ "41045","Malheur, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",156164,151107,160573,154337,150249,147969
+ "41045","Malheur, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",30058,30984,30188,27955,26911,25597
+ "41045","Malheur, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",126106,120071,130465,126490,123451,122531
+ "41045","Malheur, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",28651,30416,33424,31886,37367,38447
+ "41045","Malheur, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),20147,22940,20810,22854,25061
+ "41045","Malheur, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),673,1711,2109,2020
+ "41045","Malheur, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",9564,(D),9798,9437,12449,11459
+ "41045","Malheur, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",97195,90258,91423,95317,97989,99487
+ "41045","Malheur, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",2493,2715,(D),(D),(D),(D)
+ "41045","Malheur, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",94702,87542,(D),(D),(D),(D)
+ "41045","Malheur, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",43239,46235,(D),(D),(D),48173
+ "41045","Malheur, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1500,1412,(D),(D),(D),1553
+ "41045","Malheur, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",41738,44822,(D),(D),(D),46630
+ "41045","Malheur, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",24990,26455,26521,26474,25020,22117
+ "41045","Malheur, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",284321,289071,302424,296329,307609,319876
+ "41045","Malheur, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",219774,245738,242288,257546,138744,179701
+ "41045","Malheur, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",177300,172116,168208,170072,167433,164105
+ "41045","Malheur, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",52441,49183,(D),(D),(D),48844
+ "41045","Malheur, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",138702,132437,122108,126828,128300,137946
+ "41045","Malheur, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",334760,369084,359641,376824,263526,314291
+ "41045","Malheur, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",623908,597565,601614,590777,591321,592577
+ "41047","Marion, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",15149535,16015491,16530337,16550594,17569879,18076500
+ "41047","Marion, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",11310851,12094260,12375949,12486515,13276101,13548077
+ "41047","Marion, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),560206,568832,505401
+ "41047","Marion, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",45718,45518,(D),47526,52300,53468
+ "41047","Marion, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),(D),50440,46119,45013
+ "41047","Marion, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",844625,955649,1015782,1050612,1044825,997112
+ "41047","Marion, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",1044699,1048608,977080,1010988,1035264,1028798
+ "41047","Marion, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",559489,562020,525169,540922,539083,524064
+ "41047","Marion, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",485210,486584,451886,470060,496914,506950
+ "41047","Marion, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),616777,663255,679797
+ "41047","Marion, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",991646,1039353,1084261,1085610,1100505,1078583
+ "41047","Marion, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",422850,445405,463957,529557,550670,484369
+ "41047","Marion, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",187151,207146,228070,220598,271710,297535
+ "41047","Marion, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",2802103,2935025,2989159,3180958,3298189,3425185
+ "41047","Marion, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",697720,709919,696376,689149,698080,799857
+ "41047","Marion, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",2104383,2225548,2294094,2494135,2602706,2626107
+ "41047","Marion, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",1065869,1167556,1237811,1204136,1400551,1464256
+ "41047","Marion, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",513290,562722,602099,586361,692672,729380
+ "41047","Marion, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",132166,139009,147741,136529,152580,170486
+ "41047","Marion, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",420412,465739,487958,480570,554089,565204
+ "41047","Marion, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",1943002,2012918,2114285,2066797,2210752,2282294
+ "41047","Marion, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",179425,179575,177802,166548,177180,187813
+ "41047","Marion, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",1763577,1833377,1936678,1900587,2033954,2094777
+ "41047","Marion, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",548179,651097,680705,542475,701246,906350
+ "41047","Marion, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",105486,192641,226454,196154,317736,423789
+ "41047","Marion, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",442693,458799,454881,346979,385919,486513
+ "41047","Marion, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",317224,333391,333261,318367,340804,336828
+ "41047","Marion, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",3838684,3922006,4154002,4066110,4296555,4532713
+ "41047","Marion, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),607865,621500,559119
+ "41047","Marion, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),1701706,1762578,1756668
+ "41047","Marion, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),579992,596410,529458
+ "41047","Marion, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",1231850,1255528,1203789,1231075,1301634,1316654
+ "41047","Marion, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),2674302,2705574,2583313
+ "41047","Marion, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),9811923,10571096,10977142
+ "41049","Morrow, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1380636,1393260,1469870,1388936,1309827,1399868
+ "41049","Morrow, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1253515,1268338,1333389,1297435,1212103,1301397
+ "41049","Morrow, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",469104,444734,419900,372550,294353,283815
+ "41049","Morrow, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",1093,1390,1026,1524,1807,1709
+ "41049","Morrow, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",288975,262006,350619,331502,284000,288905
+ "41049","Morrow, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",15293,13059,11749,6920,10829,19008
+ "41049","Morrow, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",180136,199509,179764,165938,163827,188374
+ "41049","Morrow, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",3202,3143,2486,2769,3231,3144
+ "41049","Morrow, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",176933,196379,177306,163178,160516,185374
+ "41049","Morrow, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",25526,26461,26028,27124,23899,22709
+ "41049","Morrow, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",14220,15282,15110,16211,16273,16303
+ "41049","Morrow, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",20707,21033,22331,17856,18723,18198
+ "41049","Morrow, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41049","Morrow, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",61239,67141,70593,72840,79656,(D)
+ "41049","Morrow, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",9044,8097,8474,7178,8127,7663
+ "41049","Morrow, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",52195,59099,62179,65775,71647,(D)
+ "41049","Morrow, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",25092,36631,40804,58061,25552,26520
+ "41049","Morrow, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41049","Morrow, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41049","Morrow, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",3955,4613,6772,13628,13060,13385
+ "41049","Morrow, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",11054,12858,13563,13769,15226,16537
+ "41049","Morrow, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",4,174,8,24,112,123
+ "41049","Morrow, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",11050,12684,13557,13746,15114,16414
+ "41049","Morrow, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(D),7864,(D),(D),(D),9337
+ "41049","Morrow, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41049","Morrow, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41049","Morrow, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",6567,(D),6841,6898,6569,6459
+ "41049","Morrow, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",127121,124992,136328,94186,99743,100394
+ "41049","Morrow, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",470198,446139,420912,374135,296242,285605
+ "41049","Morrow, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",39747,41738,41130,43317,40181,39035
+ "41049","Morrow, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",309682,283055,372836,349094,302518,306923
+ "41049","Morrow, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41049","Morrow, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",665626,659002,612301,546951,471362,487639
+ "41049","Morrow, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",587889,608996,716254,742814,734030,809000
+ "41051","Multnomah, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",64359522,67221894,68925535,66815187,70119159,72341927
+ "41051","Multnomah, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",55334274,57885417,59281816,57297313,60284993,62366505
+ "41051","Multnomah, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",135995,187648,175684,172102,158630,126204
+ "41051","Multnomah, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",10475,11383,9661,11716,11042,12227
+ "41051","Multnomah, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",449481,396557,434249,581021,552710,482412
+ "41051","Multnomah, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",2588909,2779220,2798821,2876373,2858271,2761613
+ "41051","Multnomah, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",4347207,4507560,4486352,4136091,3933953,4110982
+ "41051","Multnomah, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",2806262,2943169,2981098,2633855,2420718,2581149
+ "41051","Multnomah, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",1540946,1564523,1505785,1499844,1507395,1526908
+ "41051","Multnomah, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",4292740,4341283,4331684,4433145,4418976,4294283
+ "41051","Multnomah, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",2797845,2925008,2977106,2870705,2897458,2891920
+ "41051","Multnomah, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",3233239,3341848,3475385,2963188,3643657,3743377
+ "41051","Multnomah, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",3074618,3293286,3629128,3830214,4639276,5077706
+ "41051","Multnomah, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",12960436,13290317,13447884,13530126,13695965,13627238
+ "41051","Multnomah, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",4511397,4484731,4445453,4615308,4726484,4301039
+ "41051","Multnomah, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",8449038,8808369,9007917,8917688,8971427,9337267
+ "41051","Multnomah, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",10406744,11415106,11984537,11812102,12588674,13601008
+ "41051","Multnomah, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",6209955,6871293,7218211,7023050,7519222,8012179
+ "41051","Multnomah, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",2559718,2789943,2926067,3067439,3124549,3294397
+ "41051","Multnomah, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1637070,1753834,1840145,1735220,1943133,2271149
+ "41051","Multnomah, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",6225895,6410712,6543133,6343671,6578962,6803760
+ "41051","Multnomah, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",869106,867266,874524,790191,785407,808952
+ "41051","Multnomah, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",5356789,5543591,5668906,5554852,5795675,5997059
+ "41051","Multnomah, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",3331247,3443110,3452353,2387662,2981948,3681103
+ "41051","Multnomah, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",946966,970398,937525,635099,749466,967342
+ "41051","Multnomah, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",2384281,2472640,2513895,1751550,2229369,2714133
+ "41051","Multnomah, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",1479444,1553520,1575052,1417717,1486083,1498362
+ "41051","Multnomah, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",9025248,9336956,9643313,9512302,9835095,9980582
+ "41051","Multnomah, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",146470,198939,185200,183829,169702,138481
+ "41051","Multnomah, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",7090585,7265505,7306394,7304909,7317929,7189003
+ "41051","Multnomah, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",3682720,3737958,3909198,3544351,4190993,4214500
+ "41051","Multnomah, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",7421825,7799149,8103502,7943211,8509397,9103125
+ "41051","Multnomah, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",7082587,7484751,7470853,7211787,6983910,7013503
+ "41051","Multnomah, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",48251687,50400389,51811634,50086102,53298530,55356604
+ "41053","Polk, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1936051,2024409,2061246,1999925,2160474,2144067
+ "41053","Polk, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1509544,1591141,1606098,1565061,1702690,1655494
+ "41053","Polk, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",131251,124320,(D),115844,128928,93773
+ "41053","Polk, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",295,389,(D),111,117,85
+ "41053","Polk, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",8695,8864,9036,12106,9364,8826
+ "41053","Polk, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",90958,98616,114205,122481,128223,113393
+ "41053","Polk, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",205582,213793,179413,190392,223921,208601
+ "41053","Polk, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",126997,125933,102051,127429,148255,142654
+ "41053","Polk, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",78584,87840,77300,63422,76059,66972
+ "41053","Polk, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",43982,48485,46001,40828,40361,37013
+ "41053","Polk, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",89817,96518,102247,104811,99722,97761
+ "41053","Polk, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",34397,37864,38516,37002,43092,43005
+ "41053","Polk, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",12391,12620,13441,13722,17119,19090
+ "41053","Polk, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",489853,528703,554494,495933,532541,519261
+ "41053","Polk, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",49335,49337,48500,44285,46075,43982
+ "41053","Polk, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",440518,479469,506250,451853,486721,475582
+ "41053","Polk, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",107108,112763,120337,120807,141681,147893
+ "41053","Polk, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",46528,51298,58011,59920,73642,79535
+ "41053","Polk, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",14730,15290,14905,14280,16750,18110
+ "41053","Polk, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",45851,46183,47414,46593,51451,50716
+ "41053","Polk, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",171639,179605,189734,194419,208847,223879
+ "41053","Polk, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",8544,8197,8463,7627,7829,8657
+ "41053","Polk, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",163095,171409,181274,186802,201030,215234
+ "41053","Polk, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",67605,69197,72139,58647,68872,84971
+ "41053","Polk, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",9621,9988,10097,8357,10840,15349
+ "41053","Polk, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",57984,59209,62040,50291,58067,69814
+ "41053","Polk, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",55972,59026,58476,57811,62849,62613
+ "41053","Polk, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",426508,433359,455076,434947,458266,488915
+ "41053","Polk, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",131546,124712,105371,115949,129039,93853
+ "41053","Polk, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",133799,145014,148093,145340,139775,134528
+ "41053","Polk, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",43091,46732,47555,49021,52411,51786
+ "41053","Polk, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",217973,226415,192786,204071,240937,227369
+ "41053","Polk, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",428085,437265,400545,430353,481909,414087
+ "41053","Polk, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1081458,1153689,1204209,1134721,1221457,1240402
+ "41055","Sherman, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",629976,544928,518076,555184,477451,572795
+ "41055","Sherman, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",522641,456709,442447,521176,444120,539275
+ "41055","Sherman, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),41288,55888
+ "41055","Sherman, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,8,15,16,(D),(D)
+ "41055","Sherman, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",451747,361144,336851,397192,340813,418814
+ "41055","Sherman, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",6706,6863,8301,8216,5707,5817
+ "41055","Sherman, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41055","Sherman, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",288,646,408,282,192,298
+ "41055","Sherman, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41055","Sherman, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41055","Sherman, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",3912,6081,6586,7779,6744,6547
+ "41055","Sherman, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",8338,8294,8353,10653,12117,13931
+ "41055","Sherman, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",203,(D),(D),(D),(D),(D)
+ "41055","Sherman, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",11557,12745,(D),14117,15397,(D)
+ "41055","Sherman, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41055","Sherman, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),12009,(D),(D),13798
+ "41055","Sherman, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",3496,3763,3990,(D),(D),(D)
+ "41055","Sherman, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",225,299,254,(D),(D),(D)
+ "41055","Sherman, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41055","Sherman, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41055","Sherman, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),1548,845,734,663,721
+ "41055","Sherman, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",154,165,149,217,192,209
+ "41055","Sherman, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),1384,695,516,471,511
+ "41055","Sherman, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",5954,6761,6885,4452,4898,6219
+ "41055","Sherman, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41055","Sherman, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41055","Sherman, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",1572,1868,2006,2379,2603,2410
+ "41055","Sherman, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",107335,88217,75652,35119,34381,33839
+ "41055","Sherman, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41055","Sherman, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41055","Sherman, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",460085,369436,345200,407845,352836,432694
+ "41055","Sherman, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),2107,6357,5987,4631,5212
+ "41055","Sherman, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),46847,57709,74982,50526,66066
+ "41055","Sherman, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),410566,386363,448756,395423,474819
+ "41057","Tillamook, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1179185,1202290,1195572,1254861,1211597,1170939
+ "41057","Tillamook, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1016269,1035032,1018288,1083036,1032918,985843
+ "41057","Tillamook, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",133358,122331,137751,154135,92758,71374
+ "41057","Tillamook, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,8,15,76,14,7
+ "41057","Tillamook, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",585,512,583,768,709,559
+ "41057","Tillamook, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",47253,50523,51649,52730,57141,54523
+ "41057","Tillamook, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",242420,266783,259079,301620,282268,268566
+ "41057","Tillamook, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",46979,46289,44339,50959,58580,54720
+ "41057","Tillamook, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",195442,220728,215002,250995,221013,211901
+ "41057","Tillamook, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",13441,14149,13853,13273,14292,14135
+ "41057","Tillamook, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",56042,57586,61239,60857,62694,61743
+ "41057","Tillamook, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",23848,22996,21393,21006,20959,19917
+ "41057","Tillamook, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",7321,7063,6710,6755,7890,8437
+ "41057","Tillamook, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",269272,265658,235020,259971,256072,246386
+ "41057","Tillamook, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",23187,22170,22019,18293,19224,19537
+ "41057","Tillamook, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",246085,243510,212877,241764,236900,226818
+ "41057","Tillamook, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",42950,44218,45528,45928,58284,59753
+ "41057","Tillamook, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",19912,21787,22454,23195,29127,29656
+ "41057","Tillamook, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",3858,4328,5247,5690,11162,10455
+ "41057","Tillamook, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",19181,18110,17875,17141,18614,20102
+ "41057","Tillamook, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",85973,85579,91862,88343,86632,91402
+ "41057","Tillamook, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",3023,3155,3518,2735,3196,10100
+ "41057","Tillamook, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",82950,82424,88341,85618,83434,81178
+ "41057","Tillamook, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",71434,74456,71885,56639,70427,70697
+ "41057","Tillamook, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",2999,2925,2673,1983,3027,2652
+ "41057","Tillamook, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",68435,71530,69209,54654,67382,68014
+ "41057","Tillamook, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",22373,22935,23280,23511,25326,24806
+ "41057","Tillamook, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",162916,167248,177084,172041,178746,185580
+ "41057","Tillamook, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",133358,122338,137764,154185,92771,71380
+ "41057","Tillamook, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",69482,71738,75050,74076,76920,75811
+ "41057","Tillamook, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",24433,23509,21973,21762,21658,20470
+ "41057","Tillamook, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",249742,273858,265807,308480,290027,276696
+ "41057","Tillamook, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",423030,440035,448098,508123,433358,393376
+ "41057","Tillamook, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",593238,595130,570845,576736,602205,596167
+ "41059","Umatilla, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",3145790,3309106,3347764,3348999,3333101,3515227
+ "41059","Umatilla, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",2463556,2621731,2636074,2722245,2673141,2825829
+ "41059","Umatilla, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",123124,214077,215837,273074,163049,275813
+ "41059","Umatilla, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",3512,4198,3787,4218,5140,4319
+ "41059","Umatilla, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",424147,421780,442817,467188,439836,455170
+ "41059","Umatilla, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",98614,110161,105123,120831,121104,114773
+ "41059","Umatilla, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",326687,344204,281899,276460,290473,297479
+ "41059","Umatilla, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",120211,118497,95230,103445,114381,116173
+ "41059","Umatilla, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",206477,225777,186725,173316,176366,181633
+ "41059","Umatilla, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",121329,122348,137772,149410,159050,148325
+ "41059","Umatilla, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",179235,186074,197927,202393,204559,203345
+ "41059","Umatilla, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",243726,240506,225980,217679,236653,212149
+ "41059","Umatilla, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",27001,30388,68005,78788,98910,127476
+ "41059","Umatilla, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",411565,429004,443012,432371,422059,408504
+ "41059","Umatilla, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",78501,78079,76762,75370,79834,74179
+ "41059","Umatilla, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",333064,351023,366531,357264,342366,334604
+ "41059","Umatilla, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",105991,116085,109827,110297,124273,132203
+ "41059","Umatilla, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",49892,55644,56883,56462,64433,67859
+ "41059","Umatilla, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",8354,8425,7457,7928,9277,6388
+ "41059","Umatilla, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",47744,52006,45492,45941,50675,57452
+ "41059","Umatilla, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",243134,245703,250549,261216,269486,287116
+ "41059","Umatilla, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",2080,2172,2472,2404,2817,3054
+ "41059","Umatilla, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",241053,243531,248075,258812,266664,284056
+ "41059","Umatilla, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",92511,93408,90720,74405,84463,101362
+ "41059","Umatilla, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",6014,6803,5411,3836,5386,6523
+ "41059","Umatilla, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",86497,86607,85299,70558,79080,94846
+ "41059","Umatilla, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",62980,65569,64907,61863,63836,64925
+ "41059","Umatilla, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",682233,687488,711666,628803,661634,690779
+ "41059","Umatilla, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",126636,218233,219555,277161,168215,280166
+ "41059","Umatilla, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",300565,308392,335881,352161,363889,352099
+ "41059","Umatilla, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",667873,662278,668511,684127,675769,667062
+ "41059","Umatilla, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",353688,374579,348837,353559,386131,418169
+ "41059","Umatilla, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",551938,672273,605959,671699,577219,700619
+ "41059","Umatilla, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1911618,1950602,2028772,2050918,2095217,2124205
+ "41061","Union, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",945670,969373,946236,956267,1002047,1026574
+ "41061","Union, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",763527,781727,754263,770382,805386,826382
+ "41061","Union, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),18462,38094
+ "41061","Union, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",64,100,172,269,(D),7
+ "41061","Union, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),(D),13910,(D),13269
+ "41061","Union, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",36988,35201,35034,37313,38883,39555
+ "41061","Union, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",152657,159365,130670,152302,173254,177313
+ "41061","Union, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",147665,154973,126775,148464,169358,173366
+ "41061","Union, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",4992,4381,3887,3837,3889,3940
+ "41061","Union, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),30791,(D),(D)
+ "41061","Union, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",70651,74310,76651,74612,74610,72743
+ "41061","Union, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",44902,44525,40394,(D),40689,38992
+ "41061","Union, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",13714,14456,14427,14184,14735,16153
+ "41061","Union, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",158556,169147,175150,168623,168637,163810
+ "41061","Union, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",31433,30469,30039,28292,30788,28941
+ "41061","Union, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",127123,138761,145274,140507,137974,135043
+ "41061","Union, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",35623,47951,43337,44955,51511,54139
+ "41061","Union, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",19619,30945,25512,26447,30173,31679
+ "41061","Union, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",4502,5486,7180,6746,9110,10054
+ "41061","Union, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",11501,11521,10741,11789,12444,12715
+ "41061","Union, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",122738,125445,124989,121911,126123,(D)
+ "41061","Union, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",1249,1231,1521,1368,1492,(D)
+ "41061","Union, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",121489,124215,123465,120542,124628,124503
+ "41061","Union, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",29419,31626,31997,26675,28852,34817
+ "41061","Union, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",5201,5187,4791,3443,4255,5065
+ "41061","Union, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",24218,26438,27203,23229,24599,29750
+ "41061","Union, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",20032,21015,20554,20304,20885,21019
+ "41061","Union, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",182143,187643,191877,185967,196724,200242
+ "41061","Union, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),37978
+ "41061","Union, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),105465,(D),(D)
+ "41061","Union, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),52183
+ "41061","Union, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",166371,173818,145013,166520,188165,193502
+ "41061","Union, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),255277
+ "41061","Union, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),572062
+ "41063","Wallowa, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",361833,325524,338959,314030,331200,338681
+ "41063","Wallowa, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",292279,257947,270596,256486,268194,270206
+ "41063","Wallowa, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",32408,(D),(D),(D),31883,26944
+ "41063","Wallowa, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,8,15,16,(D),(D)
+ "41063","Wallowa, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",91021,69075,75574,65945,49344,54645
+ "41063","Wallowa, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",15783,14433,13046,12649,11328,12369
+ "41063","Wallowa, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",10596,11066,11109,10996,10916,11790
+ "41063","Wallowa, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",5347,5170,5691,5838,5633,6133
+ "41063","Wallowa, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",5249,5918,5412,5170,5295,5660
+ "41063","Wallowa, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",14153,15811,17174,17964,18424,17403
+ "41063","Wallowa, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",14073,14976,15641,15375,13706,13052
+ "41063","Wallowa, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",5305,(D),(D),(D),(D),(D)
+ "41063","Wallowa, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",3626,3626,4033,4154,4963,5377
+ "41063","Wallowa, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",60953,64850,66691,61450,65536,(D)
+ "41063","Wallowa, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",11237,11144,11717,10163,11309,10158
+ "41063","Wallowa, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",49716,53731,54985,51319,54251,(D)
+ "41063","Wallowa, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",9679,10364,10895,11192,13013,13059
+ "41063","Wallowa, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",6620,6959,7319,7639,9235,9201
+ "41063","Wallowa, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "41063","Wallowa, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",3059,3405,3576,3558,3803,3878
+ "41063","Wallowa, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",16964,17395,18730,18613,19898,21010
+ "41063","Wallowa, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",427,245,359,288,347,417
+ "41063","Wallowa, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",16537,17151,18371,18326,19552,20592
+ "41063","Wallowa, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",11014,11701,11056,10350,13902,14871
+ "41063","Wallowa, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1448,1586,1536,1643,2616,3335
+ "41063","Wallowa, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",9565,10115,9520,8705,11277,11549
+ "41063","Wallowa, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",6706,7057,7273,7491,8144,8691
+ "41063","Wallowa, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",69554,67559,68351,57650,63084,68815
+ "41063","Wallowa, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",32408,(D),(D),(D),(D),(D)
+ "41063","Wallowa, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",28226,30792,32835,33377,32144,30470
+ "41063","Wallowa, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",96325,(D),(D),(D),(D),(D)
+ "41063","Wallowa, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",14222,14696,15129,15134,15798,17076
+ "41063","Wallowa, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",58787,(D),(D),(D),(D),(D)
+ "41063","Wallowa, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",233492,(D),(D),(D),(D),(D)
+ "41065","Wasco, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1323922,1395619,1519547,1550173,1658852,1743916
+ "41065","Wasco, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1095398,1175686,1306186,1369425,1473162,1547459
+ "41065","Wasco, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",29067,42976,29539,24513,46267,22325
+ "41065","Wasco, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",2053,2203,2011,2022,1717,1855
+ "41065","Wasco, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",256569,226720,205035,243756,206534,253436
+ "41065","Wasco, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",48942,49284,47477,38902,35994,41267
+ "41065","Wasco, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",62723,61143,62293,68914,73546,74238
+ "41065","Wasco, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",25306,25994,32866,30477,28084,28490
+ "41065","Wasco, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",37417,35079,29002,37574,44626,44871
+ "41065","Wasco, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",28447,28410,27941,28666,28449,26574
+ "41065","Wasco, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",98651,101925,104686,104352,99130,98053
+ "41065","Wasco, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",13422,14430,15573,16643,17689,16907
+ "41065","Wasco, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",98984,160180,331475,395803,511943,568544
+ "41065","Wasco, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",162105,181940,187430,185683,194435,185964
+ "41065","Wasco, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",26828,26144,26337,23545,27810,25072
+ "41065","Wasco, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",135277,155922,161258,162394,166806,161197
+ "41065","Wasco, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",45926,58551,58662,51199,60633,65181
+ "41065","Wasco, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",23315,26502,27614,26801,31372,35213
+ "41065","Wasco, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",4562,12198,12391,7386,9554,7226
+ "41065","Wasco, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",18049,19949,18778,16839,19597,22178
+ "41065","Wasco, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",165649,168381,169345,164661,164602,156816
+ "41065","Wasco, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",4099,4211,4720,4719,4423,3725
+ "41065","Wasco, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",161550,164170,164622,159938,160176,153091
+ "41065","Wasco, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",59093,57756,55968,44201,49330,60350
+ "41065","Wasco, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",9025,8170,7968,5291,6579,8761
+ "41065","Wasco, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",50068,49583,47997,38899,42750,51634
+ "41065","Wasco, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",23769,24115,22950,20577,21865,21418
+ "41065","Wasco, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",228524,220045,213861,182495,187852,198720
+ "41065","Wasco, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",31120,45158,31567,26573,47825,24158
+ "41065","Wasco, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",127098,130325,132571,132984,127528,124611
+ "41065","Wasco, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",269991,241166,220676,260396,224362,270326
+ "41065","Wasco, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",161706,220414,388727,458515,575722,630566
+ "41065","Wasco, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",142784,155348,141666,134236,155907,137095
+ "41065","Wasco, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",952614,1020338,1164356,1234764,1316687,1411759
+ "41067","Washington, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",46266273,47486023,49033854,49840704,52259349,52568892
+ "41067","Washington, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",43950061,45074299,46503737,47453803,49807635,49946297
+ "41067","Washington, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),116929,106138
+ "41067","Washington, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",42395,39066,37371,47230,(D),(D)
+ "41067","Washington, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",88838,93817,102620,116022,97536,91385
+ "41067","Washington, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",1721101,1822751,1907264,1897456,1985085,1869203
+ "41067","Washington, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",14253227,14316042,14287456,14980303,14471517,15119065
+ "41067","Washington, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",13499875,13524013,13502533,14187582,13677570,14491773
+ "41067","Washington, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",753352,791803,784837,793898,793371,649257
+ "41067","Washington, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",3008597,3031590,3073370,3135438,3150542,2976795
+ "41067","Washington, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",2188163,2331081,2409571,2349409,2355337,2370703
+ "41067","Washington, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41067","Washington, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",2188721,2205810,2353436,2554154,3099387,3512082
+ "41067","Washington, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",7451352,7670750,7874330,8079705,8357484,(D)
+ "41067","Washington, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",1949706,1983418,2156381,2225945,2260138,2133368
+ "41067","Washington, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",5501646,5687834,5715064,5850605,6094457,(D)
+ "41067","Washington, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",7357398,7727280,8496203,8888165,10633771,9814569
+ "41067","Washington, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",2134455,2341873,2487885,2302326,2576294,2750960
+ "41067","Washington, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",3654790,3730692,4328678,4911200,6251185,5011450
+ "41067","Washington, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1568152,1653906,1687427,1702800,1873036,2030833
+ "41067","Washington, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",2829301,2880141,3002972,2888799,3019661,3076496
+ "41067","Washington, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",361288,364356,362749,316286,338181,359420
+ "41067","Washington, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",2468013,2515806,2640524,2573540,2682366,2717629
+ "41067","Washington, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",1227042,1266441,1240946,916138,1055150,1394286
+ "41067","Washington, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",266039,271112,264825,190329,249318,330919
+ "41067","Washington, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",961003,995319,976106,725760,806396,1064204
+ "41067","Washington, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",879479,932042,971993,909489,963461,983684
+ "41067","Washington, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",2316212,2411305,2528556,2394910,2463858,2625121
+ "41067","Washington, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41067","Washington, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",5196760,5361679,5480721,5484648,5505618,5349645
+ "41067","Washington, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41067","Washington, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",16441949,16521825,16638971,17530667,17547384,18588659
+ "41067","Washington, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41067","Washington, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41069","Wheeler, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",39434,34779,33180,34355,33146,34239
+ "41069","Wheeler, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",31936,27065,24907,26181,24846,25695
+ "41069","Wheeler, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),3235,4079,2645,887
+ "41069","Wheeler, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,8,15,16,(D),6
+ "41069","Wheeler, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",0,0,0,0,(D),0
+ "41069","Wheeler, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),672,429,(D),(D),(D)
+ "41069","Wheeler, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),318,500,(D),787,(D)
+ "41069","Wheeler, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",74,(D),(D),(D),(D),(D)
+ "41069","Wheeler, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),514,(D),(D)
+ "41069","Wheeler, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41069","Wheeler, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",2021,1766,1742,(D),(D),(D)
+ "41069","Wheeler, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),1299,1370
+ "41069","Wheeler, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",50,303,198,243,(D),(D)
+ "41069","Wheeler, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",9870,10956,(D),10856,10417,(D)
+ "41069","Wheeler, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",968,(D),(D),(D),(D),(D)
+ "41069","Wheeler, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",8902,(D),10264,(D),(D),11793
+ "41069","Wheeler, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),812,(D)
+ "41069","Wheeler, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),632,(D)
+ "41069","Wheeler, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "41069","Wheeler, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",111,130,124,164,189,209
+ "41069","Wheeler, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",2446,2579,2468,2631,(D),(D)
+ "41069","Wheeler, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41069","Wheeler, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "41069","Wheeler, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",1567,1641,1742,831,(D),1347
+ "41069","Wheeler, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1003,(D),1243,(D),(D),828
+ "41069","Wheeler, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",564,(D),503,(D),457,535
+ "41069","Wheeler, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",(D),900,838,(D),(D),619
+ "41069","Wheeler, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",7498,7695,8230,8146,8262,8506
+ "41069","Wheeler, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),3249,4095,(D),893
+ "41069","Wheeler, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),3992,3789,3910
+ "41069","Wheeler, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),1370
+ "41069","Wheeler, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),619,704,(D),(D),(D)
+ "41069","Wheeler, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),4225,5380,4035,2135
+ "41069","Wheeler, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),20406,20616,20610,23601
+ "41071","Yamhill, OR",8,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",3452939,3667901,3733286,3634904,3857477,3928228
+ "41071","Yamhill, OR",8,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",3051418,3262711,3303435,3214620,3417155,3477009
+ "41071","Yamhill, OR",8,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",221613,241801,(D),201657,196592,186131
+ "41071","Yamhill, OR",8,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",12353,13360,12941,12522,10930,11376
+ "41071","Yamhill, OR",8,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",6116,6130,(D),7659,7948,8001
+ "41071","Yamhill, OR",8,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",191626,198059,194967,177928,193970,188127
+ "41071","Yamhill, OR",8,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",634645,718194,724758,731318,774500,786435
+ "41071","Yamhill, OR",8,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",410378,465973,485113,498897,532372,531368
+ "41071","Yamhill, OR",8,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",224267,252192,239156,232116,241739,255873
+ "41071","Yamhill, OR",8,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",102693,106089,101174,112878,120111,123347
+ "41071","Yamhill, OR",8,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",216009,227945,233914,238696,237050,235008
+ "41071","Yamhill, OR",8,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",50653,55478,51578,50788,50436,50295
+ "41071","Yamhill, OR",8,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",42635,53742,54695,66422,84527,85025
+ "41071","Yamhill, OR",8,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",703517,746042,782340,734632,802834,794361
+ "41071","Yamhill, OR",8,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",129166,127836,127150,124495,134438,126823
+ "41071","Yamhill, OR",8,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",574351,618407,655639,610468,668771,668104
+ "41071","Yamhill, OR",8,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",197567,208984,219162,232391,251720,272382
+ "41071","Yamhill, OR",8,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",115415,124028,130285,141469,153932,168842
+ "41071","Yamhill, OR",8,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",15011,16002,19779,28287,20576,24343
+ "41071","Yamhill, OR",8,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",67141,68959,69262,63587,76973,79419
+ "41071","Yamhill, OR",8,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",443334,451032,461760,441536,455805,470985
+ "41071","Yamhill, OR",8,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",125369,126574,125325,110817,111619,117319
+ "41071","Yamhill, OR",8,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",317964,324460,336471,330831,344326,353799
+ "41071","Yamhill, OR",8,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",145540,150399,152689,125715,148404,185781
+ "41071","Yamhill, OR",8,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",16047,15361,14529,13050,14255,19913
+ "41071","Yamhill, OR",8,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",129493,135030,138130,112659,134110,165988
+ "41071","Yamhill, OR",8,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",83116,85760,84732,81408,85020,85756
+ "41071","Yamhill, OR",8,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",401521,405304,429753,420140,440318,451271
+ "41071","Yamhill, OR",8,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",233966,255157,(D),214286,207547,197520
+ "41071","Yamhill, OR",8,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",318702,334012,334823,351522,357001,358113
+ "41071","Yamhill, OR",8,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",56770,61607,(D),58445,58404,58325
+ "41071","Yamhill, OR",8,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",677280,771830,779324,796984,856649,869185
+ "41071","Yamhill, OR",8,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1060237,1171450,(D),1124894,1178208,1172670
+ "41071","Yamhill, OR",8,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1991180,2091441,(D),2089405,2238471,2305103
+"Note: See the included footnote file."
+"CAGDP9: Real GDP by county and metropolitan area 1/"
+"Last updated: December 7, 2023 -- new statistics for 2022, revised statistics for 2017-2021."
+"U.S. Bureau of Economic Analysis"

@@ -1,0 +1,515 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2017,2018,2019,2020,2021,2022
+ "50000","Vermont",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",32589227,32827757,33207568,32307106,33860799,34609392
+ "50000","Vermont",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",27990847,28221952,28578661,27688634,29215773,29898965
+ "50000","Vermont",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",421934,400396,476259,401304,372411,436786
+ "50000","Vermont",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",175469,107170,94739,148689,124992,120153
+ "50000","Vermont",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",611144,639300,614989,691256,669789,644884
+ "50000","Vermont",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",1195383,1162781,1147152,1077637,1141584,1050895
+ "50000","Vermont",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",2939948,3089897,3027729,2991778,3171294,3096706
+ "50000","Vermont",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",1856013,1981300,1866393,1797104,2024872,2075907
+ "50000","Vermont",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",1083935,1108549,1161382,1194600,1147535,1022034
+ "50000","Vermont",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1617563,1628158,1659924,1681951,1625185,1530463
+ "50000","Vermont",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",2589038,2674883,2696240,2628978,2573518,2509245
+ "50000","Vermont",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",559254,555857,556041,528263,556729,532071
+ "50000","Vermont",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",832075,804747,906561,898934,1010890,1106690
+ "50000","Vermont",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",6456969,6177404,6208985,6136120,6336256,6469954
+ "50000","Vermont",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",1844240,1801266,1858744,1701614,1699577,1753656
+ "50000","Vermont",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",4612729,4375468,4348367,4434345,4637259,4716533
+ "50000","Vermont",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",3242206,3401713,3573374,3617746,4277768,4731064
+ "50000","Vermont",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",2109929,2220712,2316651,2385992,2863122,3146742
+ "50000","Vermont",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",259102,261363,307081,310921,349243,367480
+ "50000","Vermont",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",873175,919527,950798,923869,1069521,1216408
+ "50000","Vermont",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",4486468,4590383,4624472,4460682,4478696,4609371
+ "50000","Vermont",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",947483,943506,912449,803563,765550,804148
+ "50000","Vermont",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",3538985,3647005,3712648,3659074,3715924,3807811
+ "50000","Vermont",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",2122880,2207508,2229235,1741566,2224946,2484093
+ "50000","Vermont",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",342992,362035,353925,275952,381969,489429
+ "50000","Vermont",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",1779887,1845514,1875130,1465466,1841834,1995604
+ "50000","Vermont",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",740517,785482,780380,705357,741240,748570
+ "50000","Vermont",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",4598380,4605951,4629403,4616129,4648289,4713891
+ "50000","Vermont",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",597403,505993,567037,552330,499001,560056
+ "50000","Vermont",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",4206600,4302679,4356339,4312420,4200410,4042303
+ "50000","Vermont",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",1170398,1195099,1171123,1218356,1225398,1175899
+ "50000","Vermont",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",3772023,3895358,3931475,3887768,4174714,4182551
+ "50000","Vermont",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",4732734,4759170,4739591,4617078,4806329,4713056
+ "50000","Vermont",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",23258112,23462687,23837877,23070716,24407854,25186014
+ "50001","Addison, VT",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1642746,1664091,1681968,1585128,1679034,1724774
+ "50001","Addison, VT",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1496148,1516584,1537253,1439801,1537646,1580915
+ "50001","Addison, VT",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",83195,68934,98313,93558,75684,93105
+ "50001","Addison, VT",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",7516,6117,6156,8324,6685,6698
+ "50001","Addison, VT",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "50001","Addison, VT",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",82170,80273,81613,75530,70165,66845
+ "50001","Addison, VT",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",205559,233842,235564,228626,284322,274234
+ "50001","Addison, VT",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",119033,139577,134335,126250,173665,177440
+ "50001","Addison, VT",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",86526,94258,101143,102123,111241,97540
+ "50001","Addison, VT",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "50001","Addison, VT",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",149859,154342,137568,137465,133585,131016
+ "50001","Addison, VT",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",23834,23114,23292,22102,21846,21202
+ "50001","Addison, VT",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",15721,16398,19902,19089,24058,27316
+ "50001","Addison, VT",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",260043,239709,239631,228767,255956,247471
+ "50001","Addison, VT",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",61573,63734,64164,58419,59559,58417
+ "50001","Addison, VT",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",198470,175838,175318,170238,196320,188962
+ "50001","Addison, VT",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",107454,112573,112899,111475,143396,165442
+ "50001","Addison, VT",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",79485,82198,82030,81064,110659,126262
+ "50001","Addison, VT",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),939,3209
+ "50001","Addison, VT",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),32215,36706
+ "50001","Addison, VT",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",390351,395824,396102,354860,334587,348832
+ "50001","Addison, VT",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),243551,(D),(D),(D),(D)
+ "50001","Addison, VT",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),152287,(D),(D),(D),(D)
+ "50001","Addison, VT",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",76175,83756,88466,65376,91567,103586
+ "50001","Addison, VT",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",19047,20962,21920,14559,21187,30010
+ "50001","Addison, VT",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",57129,62794,66540,50812,70363,73931
+ "50001","Addison, VT",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",37657,40059,41405,38553,40410,41052
+ "50001","Addison, VT",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",146597,147514,144793,145126,141548,144013
+ "50001","Addison, VT",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",90711,75047,104314,101909,82395,100099
+ "50001","Addison, VT",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "50001","Addison, VT",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "50001","Addison, VT",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",221280,250250,255401,247662,308290,301052
+ "50001","Addison, VT",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",378440,389388,420393,404650,433363,442701
+ "50001","Addison, VT",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1117708,1127280,1117769,1036451,1105756,1139692
+ "50003","Bennington, VT",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1687136,1703357,1717922,1631016,1721101,1742201
+ "50003","Bennington, VT",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1516819,1528719,1538410,1451952,1543745,1561262
+ "50003","Bennington, VT",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",13942,18257,13266,10247,10068,7906
+ "50003","Bennington, VT",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,0,0,0,(D),(D)
+ "50003","Bennington, VT",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",11049,27744,27006,33632,32864,31149
+ "50003","Bennington, VT",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",58072,52263,54838,57696,56940,(D)
+ "50003","Bennington, VT",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",181432,190625,190858,195392,176022,167449
+ "50003","Bennington, VT",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",111473,119046,116725,107170,98264,96617
+ "50003","Bennington, VT",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",69959,71579,74135,88325,77865,71177
+ "50003","Bennington, VT",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",32697,33204,40250,38813,38908,35278
+ "50003","Bennington, VT",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",186208,188449,187841,180126,179492,178316
+ "50003","Bennington, VT",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "50003","Bennington, VT",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",55076,51845,55975,51478,56364,58904
+ "50003","Bennington, VT",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",335546,307999,301565,285072,320227,(D)
+ "50003","Bennington, VT",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",60531,60431,57464,54606,53214,55236
+ "50003","Bennington, VT",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",275014,247439,244054,230412,267280,(D)
+ "50003","Bennington, VT",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),248966
+ "50003","Bennington, VT",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "50003","Bennington, VT",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "50003","Bennington, VT",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",51585,56360,58355,53820,58251,68536
+ "50003","Bennington, VT",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",300038,302644,298465,281215,285205,299711
+ "50003","Bennington, VT",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",75927,79814,76494,66920,66354,69396
+ "50003","Bennington, VT",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",224111,222815,221982,214383,218965,230440
+ "50003","Bennington, VT",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",126561,132193,134661,104766,130609,141237
+ "50003","Bennington, VT",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",34606,35344,34337,25963,34265,37477
+ "50003","Bennington, VT",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",91955,96844,100299,78803,96249,103665
+ "50003","Bennington, VT",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",32136,34211,33693,28284,28672,30019
+ "50003","Bennington, VT",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",170317,174621,179454,178793,177439,181022
+ "50003","Bennington, VT",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",13942,18257,13266,10247,(D),(D)
+ "50003","Bennington, VT",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",218905,221654,228378,219221,218678,213944
+ "50003","Bennington, VT",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "50003","Bennington, VT",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",236508,242541,246759,247121,231918,225228
+ "50003","Bennington, VT",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",253446,260995,259177,263931,(D),222428
+ "50003","Bennington, VT",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1263373,1267749,1279231,1188128,(D),1337936
+ "50005","Caledonia, VT",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1104195,1121255,1134810,1140410,1174147,1171143
+ "50005","Caledonia, VT",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",959588,977790,989593,994186,1020957,1014935
+ "50005","Caledonia, VT",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",28583,23802,27471,16694,19780,25730
+ "50005","Caledonia, VT",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",3684,1104,2162,3170,2544,(D)
+ "50005","Caledonia, VT",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",65267,63450,51001,65891,64451,(D)
+ "50005","Caledonia, VT",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",54821,56585,56256,50804,55054,52037
+ "50005","Caledonia, VT",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",99575,101411,106769,115315,108085,96975
+ "50005","Caledonia, VT",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",54318,56338,53884,50478,52322,47620
+ "50005","Caledonia, VT",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",45257,45082,52933,65352,55975,49524
+ "50005","Caledonia, VT",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",26603,26366,26179,(D),(D),(D)
+ "50005","Caledonia, VT",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",104327,110942,112338,113562,108168,101559
+ "50005","Caledonia, VT",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",22835,21779,19996,19942,19430,18478
+ "50005","Caledonia, VT",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",25141,26600,31202,(D),(D),34810
+ "50005","Caledonia, VT",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",222361,236072,235718,240326,245722,249386
+ "50005","Caledonia, VT",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",39411,50386,64372,60278,61770,61898
+ "50005","Caledonia, VT",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",182950,185464,170593,179397,183284,186829
+ "50005","Caledonia, VT",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",63448,62613,64093,67529,78920,91877
+ "50005","Caledonia, VT",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",38452,(D),(D),39470,(D),53839
+ "50005","Caledonia, VT",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),2279,(D),3512
+ "50005","Caledonia, VT",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),25720,26058,25910,(D),34709
+ "50005","Caledonia, VT",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",177275,179127,185333,187133,188636,185014
+ "50005","Caledonia, VT",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",50981,49722,47863,42449,43450,42851
+ "50005","Caledonia, VT",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",126294,129415,137531,144864,145353,142322
+ "50005","Caledonia, VT",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",36724,40364,43685,32050,41515,44216
+ "50005","Caledonia, VT",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",7267,8368,9365,5641,8362,10791
+ "50005","Caledonia, VT",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",29457,31999,34332,26383,33163,33620
+ "50005","Caledonia, VT",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",28943,27461,28097,(D),(D),28312
+ "50005","Caledonia, VT",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",144607,143482,145235,146233,153135,156205
+ "50005","Caledonia, VT",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",32267,24842,29626,20040,22476,(D)
+ "50005","Caledonia, VT",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",130930,137287,138476,(D),(D),(D)
+ "50005","Caledonia, VT",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",88102,85228,71020,85731,83781,(D)
+ "50005","Caledonia, VT",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",124717,127998,137842,(D),(D),130872
+ "50005","Caledonia, VT",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",186663,183001,192522,186531,186430,(D)
+ "50005","Caledonia, VT",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",772925,794753,797106,807560,834290,(D)
+ "50007","Chittenden, VT",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",11419598,11640769,11793311,11334932,12250896,12699864
+ "50007","Chittenden, VT",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",9844742,10059955,10197697,9760108,10608252,11004349
+ "50007","Chittenden, VT",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",25115,(D),(D),23794,24260,26212
+ "50007","Chittenden, VT",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",13695,8331,6945,11004,8810,7359
+ "50007","Chittenden, VT",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",137866,130768,125719,145453,150808,139581
+ "50007","Chittenden, VT",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",321051,306086,251990,260278,311321,290066
+ "50007","Chittenden, VT",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",1076495,1185933,1072292,1001009,1197077,1218874
+ "50007","Chittenden, VT",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",833315,929326,810684,737336,932731,993418
+ "50007","Chittenden, VT",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",243180,256636,261309,262827,266333,230039
+ "50007","Chittenden, VT",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",699860,702098,711453,737806,736358,702370
+ "50007","Chittenden, VT",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",862230,892135,899704,842352,833824,815302
+ "50007","Chittenden, VT",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",198923,(D),(D),194375,218997,223076
+ "50007","Chittenden, VT",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",453920,429227,461076,(D),(D),535394
+ "50007","Chittenden, VT",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",2000416,1904521,1992646,1873361,1974985,2061780
+ "50007","Chittenden, VT",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",658162,644862,662435,615334,634515,663728
+ "50007","Chittenden, VT",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1342254,1259283,1330200,1258176,1341105,1398658
+ "50007","Chittenden, VT",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",1666455,1760314,1845403,1891682,2168332,2389358
+ "50007","Chittenden, VT",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",1202941,1277210,1341335,1413039,1606114,1750931
+ "50007","Chittenden, VT",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",93272,99313,112078,111333,124912,139567
+ "50007","Chittenden, VT",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",370242,383862,392539,369639,438524,498411
+ "50007","Chittenden, VT",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",1541505,1588926,1640021,1614806,1654907,1723506
+ "50007","Chittenden, VT",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",203228,201216,199856,179991,181171,189550
+ "50007","Chittenden, VT",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",1338277,1387757,1440337,1435353,1474369,1534596
+ "50007","Chittenden, VT",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",616508,681815,709455,499938,644504,712364
+ "50007","Chittenden, VT",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",143747,157591,152151,106166,144250,176607
+ "50007","Chittenden, VT",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",472761,524216,557107,393636,500061,536405
+ "50007","Chittenden, VT",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",230704,247432,241558,(D),(D),231483
+ "50007","Chittenden, VT",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1574856,1580991,1595888,1573832,1643906,1697012
+ "50007","Chittenden, VT",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",38810,(D),(D),34995,33160,33780
+ "50007","Chittenden, VT",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",1562090,1594067,1611078,1581417,1571369,1519089
+ "50007","Chittenden, VT",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",336789,(D),(D),339559,369530,362241
+ "50007","Chittenden, VT",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",1530414,1615609,1532354,(D),(D),1751830
+ "50007","Chittenden, VT",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1436356,(D),(D),1296229,1541141,1538902
+ "50007","Chittenden, VT",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",8408386,(D),(D),8461458,9068551,9464884
+ "50009","Essex, VT",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",148327,146161,144208,136394,139307,141811
+ "50009","Essex, VT",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",118774,114908,112655,104848,108076,110413
+ "50009","Essex, VT",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",6640,(D),(D),(D),7619,7816
+ "50009","Essex, VT",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",130,0,0,0,(D),0
+ "50009","Essex, VT",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",7009,5897,6037,7218,6495,6956
+ "50009","Essex, VT",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",6964,6390,5908,(D),3824,(D)
+ "50009","Essex, VT",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",11666,10274,9785,9655,(D),(D)
+ "50009","Essex, VT",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),9493,(D),(D)
+ "50009","Essex, VT",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),(D),154,(D),(D)
+ "50009","Essex, VT",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "50009","Essex, VT",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",(D),(D),4042,3750,3129,3032
+ "50009","Essex, VT",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",4348,5071,4841,2635,3165,2688
+ "50009","Essex, VT",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "50009","Essex, VT",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",54940,54036,49617,52367,51519,(D)
+ "50009","Essex, VT",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",1638,1246,1040,(D),1215,(D)
+ "50009","Essex, VT",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",53302,52801,48594,(D),50317,49783
+ "50009","Essex, VT",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",5826,5032,5391,5332,7546,8867
+ "50009","Essex, VT",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",4218,3535,3845,3991,5775,(D)
+ "50009","Essex, VT",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "50009","Essex, VT",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1608,1497,1546,1348,1785,(D)
+ "50009","Essex, VT",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),5699,(D),(D)
+ "50009","Essex, VT",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "50009","Essex, VT",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "50009","Essex, VT",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(D),(D),4611,(D),(D),6003
+ "50009","Essex, VT",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),(D),1988,(D),(D),(D)
+ "50009","Essex, VT",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),(D),2654,(D),(D),(D)
+ "50009","Essex, VT",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",4461,5170,5038,(D),4427,4357
+ "50009","Essex, VT",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",29553,31249,31546,31528,31206,31354
+ "50009","Essex, VT",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",6769,(D),(D),(D),(D),7810
+ "50009","Essex, VT",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",5743,6442,(D),(D),(D),(D)
+ "50009","Essex, VT",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",11357,10978,10882,9773,9590,9585
+ "50009","Essex, VT",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),8937,8826
+ "50009","Essex, VT",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",25399,(D),(D),18961,19816,20158
+ "50009","Essex, VT",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",93375,(D),(D),85836,88196,90206
+ "50011","Franklin, VT",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2085381,2101555,2195614,2160092,2132107,2108763
+ "50011","Franklin, VT",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1646014,1646607,1742751,1712614,1757404,1759004
+ "50011","Franklin, VT",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",110404,107640,119877,108488,97400,112040
+ "50011","Franklin, VT",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",7028,4158,3435,7202,5822,5564
+ "50011","Franklin, VT",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",31760,27902,29486,31285,26396,35059
+ "50011","Franklin, VT",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",36193,46191,53696,46435,44573,40213
+ "50011","Franklin, VT",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",323458,329356,339959,346374,336962,308743
+ "50011","Franklin, VT",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",72631,78401,76808,85046,84407,88893
+ "50011","Franklin, VT",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",250827,250950,263198,261235,252474,219552
+ "50011","Franklin, VT",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",131516,143160,167459,185714,195839,187547
+ "50011","Franklin, VT",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",171103,174476,181605,179383,168741,165208
+ "50011","Franklin, VT",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",54147,58136,57522,49321,49594,48198
+ "50011","Franklin, VT",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",13304,13981,16671,16295,19833,22090
+ "50011","Franklin, VT",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",373212,335378,362443,345002,372106,379875
+ "50011","Franklin, VT",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",38944,39801,37672,38338,37217,34045
+ "50011","Franklin, VT",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",334268,295434,324905,306711,335031,346240
+ "50011","Franklin, VT",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",122717,126377,126848,129617,155452,166701
+ "50011","Franklin, VT",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",47862,54151,(D),(D),71955,80606
+ "50011","Franklin, VT",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,(D),(D),575,946
+ "50011","Franklin, VT",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",74855,72246,71979,70926,83230,85823
+ "50011","Franklin, VT",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",186204,190231,190368,185141,191955,187269
+ "50011","Franklin, VT",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",4550,3372,3374,3278,3880,5208
+ "50011","Franklin, VT",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",181654,186865,187001,181869,188072,182033
+ "50011","Franklin, VT",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",45883,48182,50223,40774,50614,53230
+ "50011","Franklin, VT",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",4375,4477,4826,3320,5020,6198
+ "50011","Franklin, VT",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",41508,43705,45398,37459,45592,47070
+ "50011","Franklin, VT",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",39085,41560,42972,40713,42896,44233
+ "50011","Franklin, VT",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",439367,454838,453122,447693,375613,350060
+ "50011","Franklin, VT",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",117432,111689,123077,115978,103443,117950
+ "50011","Franklin, VT",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",302619,317706,349609,366020,365295,353503
+ "50011","Franklin, VT",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",85907,86049,87011,80535,75909,83312
+ "50011","Franklin, VT",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",336762,343331,356529,362617,356320,329858
+ "50011","Franklin, VT",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",477082,487549,516975,509299,485431,472724
+ "50011","Franklin, VT",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1168932,1159214,1225973,1203558,1271208,1285436
+ "50013","Grand Isle, VT",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",199187,190710,203826,186002,201697,211193
+ "50013","Grand Isle, VT",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",180160,170271,182941,164893,180462,189167
+ "50013","Grand Isle, VT",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",9438,7159,9264,(D),6169,8018
+ "50013","Grand Isle, VT",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",218,124,107,161,(D),(D)
+ "50013","Grand Isle, VT",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),1859,1926,1938,1766,1556
+ "50013","Grand Isle, VT",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",13156,11514,10983,(D),9816,10616
+ "50013","Grand Isle, VT",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",1935,1849,2081,1303,(D),(D)
+ "50013","Grand Isle, VT",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",973,999,(D),733,486,(D)
+ "50013","Grand Isle, VT",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",962,849,(D),567,(D),(D)
+ "50013","Grand Isle, VT",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "50013","Grand Isle, VT",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",(D),(D),11926,10013,9135,8763
+ "50013","Grand Isle, VT",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",9465,9297,8745,6963,8355,6495
+ "50013","Grand Isle, VT",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),4969
+ "50013","Grand Isle, VT",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",83287,73622,80238,76377,84951,86689
+ "50013","Grand Isle, VT",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",5509,5194,5498,5950,6912,6998
+ "50013","Grand Isle, VT",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",77778,68423,74736,70421,78032,79684
+ "50013","Grand Isle, VT",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",10877,11273,13337,13568,17408,21548
+ "50013","Grand Isle, VT",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",6492,6667,8001,(D),(D),(D)
+ "50013","Grand Isle, VT",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,(D),(D),(D)
+ "50013","Grand Isle, VT",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",4384,4605,5337,5218,5644,8067
+ "50013","Grand Isle, VT",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),3867,(D),(D)
+ "50013","Grand Isle, VT",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "50013","Grand Isle, VT",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),3414,3466
+ "50013","Grand Isle, VT",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(D),14267,16693,12616,17521,20236
+ "50013","Grand Isle, VT",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),2694,4217,2184,3528,5135
+ "50013","Grand Isle, VT",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),11575,12502,10479,14028,15167
+ "50013","Grand Isle, VT",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",6246,7277,6719,5651,4696,4681
+ "50013","Grand Isle, VT",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",19027,20431,20880,21068,21229,22016
+ "50013","Grand Isle, VT",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",9656,7282,9364,(D),(D),(D)
+ "50013","Grand Isle, VT",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",21931,23547,(D),(D),(D),(D)
+ "50013","Grand Isle, VT",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),11155,10664,8886,10094,8026
+ "50013","Grand Isle, VT",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),5336,(D)
+ "50013","Grand Isle, VT",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",24747,20669,22309,17922,17187,21016
+ "50013","Grand Isle, VT",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",155413,149570,160599,146869,163195,167674
+ "50015","Lamoille, VT",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1174708,1187865,1150198,1104955,1190386,1213884
+ "50015","Lamoille, VT",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1051432,1064459,1025886,983538,1069095,1089398
+ "50015","Lamoille, VT",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",17867,(D),(D),16835,18212,21826
+ "50015","Lamoille, VT",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",2012,1165,1052,1424,1237,(D)
+ "50015","Lamoille, VT",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",12704,12630,12441,14571,12339,11316
+ "50015","Lamoille, VT",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",59574,71400,70723,62262,64779,47830
+ "50015","Lamoille, VT",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",51077,57676,67061,77078,91182,80649
+ "50015","Lamoille, VT",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),39503,40976,49981,61824,56769
+ "50015","Lamoille, VT",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),18191,26196,27205,29528,23980
+ "50015","Lamoille, VT",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",28851,29056,30779,28160,26057,25294
+ "50015","Lamoille, VT",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",93185,97438,101736,104403,103810,103196
+ "50015","Lamoille, VT",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "50015","Lamoille, VT",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",30260,31197,33535,33579,43536,46937
+ "50015","Lamoille, VT",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",213364,225585,216587,216696,223903,(D)
+ "50015","Lamoille, VT",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",35453,38850,43406,40158,42105,44727
+ "50015","Lamoille, VT",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",177911,186698,172847,176303,181539,(D)
+ "50015","Lamoille, VT",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),102754,112076,(D),(D),167702
+ "50015","Lamoille, VT",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",56924,61793,71491,71328,92881,111031
+ "50015","Lamoille, VT",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),3805,3144,(D),(D),8548
+ "50015","Lamoille, VT",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),37129,37425,(D),(D),48990
+ "50015","Lamoille, VT",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",139676,143365,143725,132883,135637,142979
+ "50015","Lamoille, VT",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",13073,12332,11799,11513,11115,11746
+ "50015","Lamoille, VT",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",126604,131038,131938,121371,124533,131245
+ "50015","Lamoille, VT",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",261481,226770,172496,144940,171067,189337
+ "50015","Lamoille, VT",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",9666,9992,11312,7915,11325,16591
+ "50015","Lamoille, VT",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",251816,216796,161290,137157,159782,172880
+ "50015","Lamoille, VT",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",34279,36095,34799,31341,32953,32982
+ "50015","Lamoille, VT",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",123276,123410,124287,121345,121548,124749
+ "50015","Lamoille, VT",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",19880,(D),(D),18275,19447,(D)
+ "50015","Lamoille, VT",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",122036,126482,132519,132477,129813,128451
+ "50015","Lamoille, VT",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "50015","Lamoille, VT",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",81336,88906,100728,111109,134964,127024
+ "50015","Lamoille, VT",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",130530,(D),(D),157507,175005,(D)
+ "50015","Lamoille, VT",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",920902,(D),(D),826304,894363,(D)
+ "50017","Orange, VT",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",808172,820848,818744,824215,818787,832385
+ "50017","Orange, VT",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",681910,691876,683344,689143,678400,694234
+ "50017","Orange, VT",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",39894,38451,43080,38064,36961,40854
+ "50017","Orange, VT",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",3531,2132,1856,2967,2529,2320
+ "50017","Orange, VT",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",3972,(D),4897,5973,5721,5443
+ "50017","Orange, VT",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",63547,66682,67787,62728,58532,55943
+ "50017","Orange, VT",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",44433,45743,51430,51181,53675,50740
+ "50017","Orange, VT",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),40994,39821,(D),(D)
+ "50017","Orange, VT",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),10430,11375,(D),(D)
+ "50017","Orange, VT",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",35441,34717,31146,29594,28628,25820
+ "50017","Orange, VT",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",50441,52238,52784,50642,49549,46930
+ "50017","Orange, VT",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "50017","Orange, VT",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),8268,(D),6766,8152,8998
+ "50017","Orange, VT",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",186438,182544,172888,207782,186696,(D)
+ "50017","Orange, VT",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",22492,22147,21289,(D),19266,(D)
+ "50017","Orange, VT",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",163946,160394,151580,(D),167530,170559
+ "50017","Orange, VT",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",59035,66067,66825,62670,73409,85932
+ "50017","Orange, VT",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",44890,47760,47666,45335,52830,59870
+ "50017","Orange, VT",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),2338
+ "50017","Orange, VT",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),23553
+ "50017","Orange, VT",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",120142,121027,118774,117169,114694,118342
+ "50017","Orange, VT",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",14263,13327,13740,13811,13828,14725
+ "50017","Orange, VT",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",105878,107702,105033,103356,100863,103615
+ "50017","Orange, VT",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",34202,(D),32286,(D),(D),35008
+ "50017","Orange, VT",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",3996,(D),4817,(D),(D),(D)
+ "50017","Orange, VT",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",30206,(D),27491,(D),(D),(D)
+ "50017","Orange, VT",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",20118,22639,22909,20614,21450,21903
+ "50017","Orange, VT",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",126262,128968,135339,135038,140198,137894
+ "50017","Orange, VT",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",43425,40541,44848,41081,39516,43215
+ "50017","Orange, VT",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",85881,86939,83805,80110,78058,72663
+ "50017","Orange, VT",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "50017","Orange, VT",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),54018,(D),58040,61828,59546
+ "50017","Orange, VT",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",151405,153052,163964,154990,151588,150410
+ "50017","Orange, VT",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",530505,538820,519570,534177,526838,544158
+ "50019","Orleans, VT",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1048704,1052965,1073195,1065742,1106889,1129192
+ "50019","Orleans, VT",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",898640,904852,925042,915674,952132,967612
+ "50019","Orleans, VT",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",42324,33800,51904,39753,35234,45516
+ "50019","Orleans, VT",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",412,303,260,457,(D),(D)
+ "50019","Orleans, VT",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",40897,38157,(D),(D),(D),(D)
+ "50019","Orleans, VT",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",47590,52594,54613,48839,49788,45922
+ "50019","Orleans, VT",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",106183,108908,106027,111600,103080,99338
+ "50019","Orleans, VT",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",79206,84584,79375,85125,77013,76703
+ "50019","Orleans, VT",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",26977,24359,26679,26441,26118,22592
+ "50019","Orleans, VT",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",29831,(D),(D),(D),(D),(D)
+ "50019","Orleans, VT",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",105704,108089,106211,109490,103016,101540
+ "50019","Orleans, VT",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",28833,28505,28921,28271,28392,26545
+ "50019","Orleans, VT",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",9336,(D),9919,9187,12839,13553
+ "50019","Orleans, VT",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",220616,219253,206482,217228,226044,225964
+ "50019","Orleans, VT",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",31900,30467,30213,28283,27123,29474
+ "50019","Orleans, VT",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",188716,188823,176224,189015,199069,196476
+ "50019","Orleans, VT",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",35600,(D),(D),41274,48757,47495
+ "50019","Orleans, VT",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),26593,27921
+ "50019","Orleans, VT",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),1849,1571
+ "50019","Orleans, VT",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",14573,15106,16851,18630,20347,18147
+ "50019","Orleans, VT",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",125248,122662,128282,124468,137012,138962
+ "50019","Orleans, VT",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",8879,9042,9022,8290,8438,7953
+ "50019","Orleans, VT",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",116369,113619,119263,116185,128592,131032
+ "50019","Orleans, VT",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",82140,90875,96538,77053,100844,109150
+ "50019","Orleans, VT",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",9512,10243,9703,5952,8339,10511
+ "50019","Orleans, VT",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",72628,80630,86799,71118,92499,98671
+ "50019","Orleans, VT",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",23926,26560,25863,24221,25997,26429
+ "50019","Orleans, VT",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",150064,148124,148185,150039,154750,161691
+ "50019","Orleans, VT",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",42736,34102,52145,40224,(D),(D)
+ "50019","Orleans, VT",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",135534,(D),(D),(D),(D),(D)
+ "50019","Orleans, VT",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",69731,66669,(D),(D),(D),(D)
+ "50019","Orleans, VT",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",115519,(D),115893,120830,115409,112175
+ "50019","Orleans, VT",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",196509,195897,211846,200800,(D),(D)
+ "50019","Orleans, VT",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",702131,708942,713371,714895,(D),(D)
+ "50021","Rutland, VT",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2641197,2587944,2598667,2511587,2614060,2645533
+ "50021","Rutland, VT",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",2339705,2286458,2299878,2214506,2320048,2351497
+ "50021","Rutland, VT",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",4486,10125,7778,4330,4443,7873
+ "50021","Rutland, VT",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",93889,56463,47922,73863,63237,(D)
+ "50021","Rutland, VT",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",66177,66764,63521,69952,60952,54807
+ "50021","Rutland, VT",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",132843,121572,113838,101097,106600,102502
+ "50021","Rutland, VT",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",240681,228926,237812,238828,233576,234259
+ "50021","Rutland, VT",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",206694,193922,201831,202863,201280,204399
+ "50021","Rutland, VT",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",33986,34973,35951,35924,32192,29856
+ "50021","Rutland, VT",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),124674,(D),(D),(D),112137
+ "50021","Rutland, VT",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",247742,256114,254945,245117,227012,219508
+ "50021","Rutland, VT",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),52695,(D),(D),(D),(D)
+ "50021","Rutland, VT",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",36620,37018,43426,47250,54767,58208
+ "50021","Rutland, VT",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",490285,442776,434606,408185,448705,(D)
+ "50021","Rutland, VT",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",73298,72640,70465,63032,62129,62666
+ "50021","Rutland, VT",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",416988,369972,364017,345123,386715,(D)
+ "50021","Rutland, VT",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",194680,206575,239955,239256,274562,308778
+ "50021","Rutland, VT",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",83006,84982,81346,81128,98603,109151
+ "50021","Rutland, VT",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",46229,48657,81551,79318,74584,84893
+ "50021","Rutland, VT",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",65445,72920,78270,79816,100449,113793
+ "50021","Rutland, VT",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",381808,394740,380785,368566,380442,386771
+ "50021","Rutland, VT",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",30096,32118,22261,13246,14112,15083
+ "50021","Rutland, VT",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",351712,362617,358620,355541,366549,371901
+ "50021","Rutland, VT",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",210730,224041,238383,192733,248795,273037
+ "50021","Rutland, VT",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",20743,16951,14651,10633,12605,14489
+ "50021","Rutland, VT",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",189986,207045,223625,182055,236200,258562
+ "50021","Rutland, VT",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",60489,64625,63240,54905,56326,57254
+ "50021","Rutland, VT",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",301492,301465,298791,296906,294210,294199
+ "50021","Rutland, VT",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",98376,66450,55625,78536,67890,(D)
+ "50021","Rutland, VT",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),380737,(D),(D),(D),331737
+ "50021","Rutland, VT",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),119456,(D),(D),(D),(D)
+ "50021","Rutland, VT",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",277301,265904,280964,285552,286975,290592
+ "50021","Rutland, VT",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",471900,416844,407074,417138,406829,(D)
+ "50021","Rutland, VT",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1867806,1869700,1892930,1797317,1913471,(D)
+ "50023","Washington, VT",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",3686037,3671070,3748276,3678466,3764941,3868214
+ "50023","Washington, VT",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",2991812,2988553,3065000,2979367,3056133,3145959
+ "50023","Washington, VT",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",8190,5127,14947,13303,12382,15605
+ "50023","Washington, VT",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",17181,10473,10092,16684,14626,14938
+ "50023","Washington, VT",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",43306,65417,73863,69404,54371,(D)
+ "50023","Washington, VT",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",104523,86341,107252,109337,105672,95899
+ "50023","Washington, VT",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",202365,201497,207643,210497,204459,201355
+ "50023","Washington, VT",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",68804,69054,65606,65128,67641,67153
+ "50023","Washington, VT",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",133560,132437,142156,145527,136755,134063
+ "50023","Washington, VT",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",141463,152740,142195,143269,130467,122163
+ "50023","Washington, VT",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",259937,266476,278503,276230,273493,257259
+ "50023","Washington, VT",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",51425,49649,49668,50712,45994,38022
+ "50023","Washington, VT",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",49711,49038,63867,67165,80619,(D)
+ "50023","Washington, VT",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1046258,1003550,1014864,943010,952706,991435
+ "50023","Washington, VT",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",669018,626468,655487,571906,552938,574771
+ "50023","Washington, VT",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",377240,377224,359478,370892,399146,415998
+ "50023","Washington, VT",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",324365,333879,343173,354064,419671,444959
+ "50023","Washington, VT",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",188094,196228,201048,198127,250855,280993
+ "50023","Washington, VT",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",70740,65049,63167,70609,81655,(D)
+ "50023","Washington, VT",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",65532,72491,78631,85146,87667,(D)
+ "50023","Washington, VT",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",481314,492593,489230,473868,466566,481763
+ "50023","Washington, VT",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",133269,134761,130981,120398,115478,122351
+ "50023","Washington, VT",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",348044,357841,358297,353635,351309,359585
+ "50023","Washington, VT",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",159599,167807,167913,155803,202880,242127
+ "50023","Washington, VT",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",25814,29649,29434,45703,63130,89206
+ "50023","Washington, VT",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",133785,138166,138486,109743,139193,152840
+ "50023","Washington, VT",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",102175,104229,103447,99264,103032,100916
+ "50023","Washington, VT",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",694225,682550,683433,698563,708480,721989
+ "50023","Washington, VT",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",25371,15597,24730,29901,26912,30446
+ "50023","Washington, VT",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",401400,419284,420252,419103,403726,379214
+ "50023","Washington, VT",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",94732,114925,123276,119982,100352,(D)
+ "50023","Washington, VT",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",252075,250539,271112,277121,283255,(D)
+ "50023","Washington, VT",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",332259,303260,339925,349860,337106,327892
+ "50023","Washington, VT",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",2659554,2685119,2725089,2629506,2719075,2818467
+ "50025","Windham, VT",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2338728,2322986,2316695,2293886,2310556,2329838
+ "50025","Windham, VT",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",2137691,2124317,2121994,2097540,2110213,2128449
+ "50025","Windham, VT",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",19894,14911,23465,17844,20195,19592
+ "50025","Windham, VT",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",9584,5811,4972,7347,6038,(D)
+ "50025","Windham, VT",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",120018,125833,104801,110213,124345,101344
+ "50025","Windham, VT",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",92889,89256,88527,83442,86306,84191
+ "50025","Windham, VT",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",233901,227814,237890,226375,215918,204178
+ "50025","Windham, VT",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",132259,134628,147797,140025,139250,138557
+ "50025","Windham, VT",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",101642,93130,89891,86177,76176,64563
+ "50025","Windham, VT",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",177152,172550,180055,169384,140064,120783
+ "50025","Windham, VT",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",163044,169341,173560,180802,182286,182177
+ "50025","Windham, VT",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",43372,41933,41196,40955,45265,(D)
+ "50025","Windham, VT",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",32800,32237,37705,(D),(D),42726
+ "50025","Windham, VT",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",452465,444793,425400,494703,466985,(D)
+ "50025","Windham, VT",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",70963,70197,72389,72673,70094,69266
+ "50025","Windham, VT",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",381502,374586,352752,422075,396897,(D)
+ "50025","Windham, VT",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",148133,158640,166015,163083,196617,229567
+ "50025","Windham, VT",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",82424,(D),(D),(D),(D),146762
+ "50025","Windham, VT",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",414,(D),(D),(D),(D),1358
+ "50025","Windham, VT",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",65296,66859,67560,(D),70014,82025
+ "50025","Windham, VT",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",368251,370384,363084,337197,316694,323492
+ "50025","Windham, VT",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",124428,120506,115253,102687,88834,91657
+ "50025","Windham, VT",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",243823,249896,247874,234600,228051,232021
+ "50025","Windham, VT",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",224901,217033,219787,182436,219405,253262
+ "50025","Windham, VT",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",17873,15526,10413,15102,25656,35420
+ "50025","Windham, VT",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",207029,201488,209232,167001,192904,216975
+ "50025","Windham, VT",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",51286,53916,56838,(D),(D),53403
+ "50025","Windham, VT",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",201037,198672,194718,196297,200235,201275
+ "50025","Windham, VT",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",29478,20702,28315,25204,26152,(D)
+ "50025","Windham, VT",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",340196,341817,353610,349884,322387,303306
+ "50025","Windham, VT",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",163390,167743,146085,151191,169627,(D)
+ "50025","Windham, VT",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",266701,260048,275452,(D),(D),245486
+ "50025","Windham, VT",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",356268,337783,354537,334886,328450,(D)
+ "50025","Windham, VT",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1781423,1786437,1767557,1762719,1781800,(D)
+ "50027","Windsor, VT",1,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2605111,2616695,2631354,2653609,2762621,2802347
+ "50027","Windsor, VT",1,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",2127410,2147106,2157657,2180123,2278905,2313195
+ "50027","Windsor, VT",1,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",11963,21775,5482,4504,4279,4563
+ "50027","Windsor, VT",1,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",16589,11006,9815,16092,13220,15509
+ "50027","Windsor, VT",1,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",48798,44792,48156,56253,48059,48683
+ "50027","Windsor, VT",1,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",121990,115634,129127,107259,118213,107632
+ "50027","Windsor, VT",1,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",161190,166698,161818,175793,162668,156923
+ "50027","Windsor, VT",1,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",93670,90788,86097,94174,92117,89470
+ "50027","Windsor, VT",1,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",67520,76017,75876,81769,70221,67051
+ "50027","Windsor, VT",1,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",138048,127650,127143,119831,102619,95826
+ "50027","Windsor, VT",1,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",181439,190045,193475,195642,198278,195439
+ "50027","Windsor, VT",1,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",36831,33960,31054,35734,36841,31577
+ "50027","Windsor, VT",1,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",98548,97604,123104,121756,144958,161480
+ "50027","Windsor, VT",1,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",517738,507525,476154,546709,524626,524944
+ "50027","Windsor, VT",1,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",75347,74422,72865,70160,69828,70303
+ "50027","Windsor, VT",1,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",442390,433088,403121,476779,454947,454769
+ "50027","Windsor, VT",1,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",232665,238292,245503,251528,331733,351142
+ "50027","Windsor, VT",1,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",164228,167266,171251,173693,234420,233094
+ "50027","Windsor, VT",1,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",8800,7480,(D),10453,16589,18695
+ "50027","Windsor, VT",1,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",59637,63520,(D),67601,81626,99507
+ "50027","Windsor, VT",1,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",260578,276123,279638,274478,262965,263417
+ "50027","Windsor, VT",1,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",41285,40868,39732,38933,38834,41620
+ "50027","Windsor, VT",1,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",219292,235267,239938,235576,224140,221778
+ "50027","Windsor, VT",1,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",232022,242187,254540,207397,271169,302696
+ "50027","Windsor, VT",1,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",43606,44925,44820,27833,36111,45180
+ "50027","Windsor, VT",1,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",188416,197257,209653,179686,235233,257861
+ "50027","Windsor, VT",1,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",69014,74249,73801,67695,70148,71546
+ "50027","Windsor, VT",1,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",477700,469632,473730,473586,483982,489417
+ "50027","Windsor, VT",1,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",28552,32586,15515,21065,17840,20530
+ "50027","Windsor, VT",1,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",319487,317564,320408,315090,300761,291234
+ "50027","Windsor, VT",1,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",85629,78752,79184,91950,84858,80316
+ "50027","Windsor, VT",1,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",259737,264362,283962,297180,304222,311975
+ "50027","Windsor, VT",1,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",311731,314877,307290,303954,298769,285151
+ "50027","Windsor, VT",1,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1815679,1832229,1850378,1876282,1980857,2029978
+"Note: See the included footnote file."
+"CAGDP9: Real GDP by county and metropolitan area 1/"
+"Last updated: December 7, 2023 -- new statistics for 2022, revised statistics for 2017-2021."
+"U.S. Bureau of Economic Analysis"

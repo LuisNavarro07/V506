@@ -1,0 +1,855 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2017,2018,2019,2020,2021,2022
+ "24000","Maryland",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",399714534,402480892,402346194,388532286,405905303,412282552
+ "24000","Maryland",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",318880699,321955592,321600758,306374420,323308222,328526073
+ "24000","Maryland",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",1059056,961388,1054349,734402,1000028,1065216
+ "24000","Maryland",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",257827,226190,279121,268041,256518,231267
+ "24000","Maryland",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",7283282,7116331,6673370,6631511,5534729,5081449
+ "24000","Maryland",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",24317102,24008909,23969804,23247843,23349714,21450770
+ "24000","Maryland",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",21032381,21443427,21503567,22390725,22910628,22027868
+ "24000","Maryland",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",9700051,10108502,10281659,9889121,10354697,10113440
+ "24000","Maryland",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",11332330,11337815,11227585,12509379,12571131,11944492
+ "24000","Maryland",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",17541750,17523379,17619030,17430273,17228346,15824378
+ "24000","Maryland",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",21082557,21490753,21534338,20465966,20522042,19974865
+ "24000","Maryland",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",8734819,8976910,8772043,8514613,9386529,9252120
+ "24000","Maryland",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",17289662,16240623,14917126,13647126,18964226,22897164
+ "24000","Maryland",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",83430117,82595486,80891654,78205511,80879776,82501228
+ "24000","Maryland",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",21293371,21032328,20970533,18716237,19542590,18490699
+ "24000","Maryland",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",62136746,61565466,59911096,59516889,61360092,64107045
+ "24000","Maryland",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",55313508,58784461,61099879,60001585,65417323,68859584
+ "24000","Maryland",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",38777015,41598737,43617951,43521102,47216353,49587002
+ "24000","Maryland",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",4222942,4630918,4998142,4713388,5111042,5433720
+ "24000","Maryland",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",12313551,12559393,12507448,11805193,13111268,13858424
+ "24000","Maryland",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",36438093,37263450,37777950,35619251,36734241,37893564
+ "24000","Maryland",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",6360220,6626859,6597312,6006410,6076673,6288744
+ "24000","Maryland",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",30077873,30635930,31181697,29618072,30665615,31612705
+ "24000","Maryland",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",15798935,15807785,16139470,10963125,13577070,15170142
+ "24000","Maryland",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",4489050,4448783,4154660,2662199,3641046,4292151
+ "24000","Maryland",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",11309885,11358774,11979301,8297731,9933113,10884940
+ "24000","Maryland",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",9301613,9539985,9434173,8457698,8639794,8840328
+ "24000","Maryland",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",80833835,80530512,80747450,82077240,82588737,83751227
+ "24000","Maryland",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",1316882,1187413,1334963,1008515,1263132,1307443
+ "24000","Maryland",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",38624307,39011467,39152225,37907718,37764489,35827388
+ "24000","Maryland",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",16018100,16092233,15444086,15144722,14883263,14280167
+ "24000","Maryland",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",38322043,37695993,36461698,36129623,41715634,44311448
+ "24000","Maryland",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",46666365,46639880,46796675,46609671,47466226,44708630
+ "24000","Maryland",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",272214334,275316007,274803345,259749856,275840650,283992059
+ "24001","Allegany, MD",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",3068263,3092803,3066344,2857439,2830897,2708986
+ "24001","Allegany, MD",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",2352376,2359159,2306707,2080260,2154498,2167413
+ "24001","Allegany, MD",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),902,2912,876
+ "24001","Allegany, MD",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",28177,24815,20312,16082,18467,(D)
+ "24001","Allegany, MD",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),138316,132034,113821,127980,133430
+ "24001","Allegany, MD",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",117511,106044,118150,91238,110270,88198
+ "24001","Allegany, MD",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",295698,317803,277596,248751,223193,211872
+ "24001","Allegany, MD",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",140215,156283,132732,146570,135238,120892
+ "24001","Allegany, MD",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",155483,161575,144940,100652,86435,89557
+ "24001","Allegany, MD",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),61800,64492,68023,73068,83749
+ "24001","Allegany, MD",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",236707,244807,249102,250307,267839,269334
+ "24001","Allegany, MD",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",125892,(D),(D),(D),98647,(D)
+ "24001","Allegany, MD",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",81725,81151,79427,58530,67454,79078
+ "24001","Allegany, MD",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",404239,439943,428586,384710,370156,(D)
+ "24001","Allegany, MD",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",92832,92722,93516,77307,70611,66073
+ "24001","Allegany, MD",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",311407,347451,335173,307662,299885,(D)
+ "24001","Allegany, MD",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",130891,130986,131370,(D),141252,159325
+ "24001","Allegany, MD",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",64367,62383,55434,57551,59640,59610
+ "24001","Allegany, MD",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",14571,12816,19644,(D),20411,21778
+ "24001","Allegany, MD",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",51953,55757,56530,(D),61330,77460
+ "24001","Allegany, MD",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",472494,479956,480534,445904,452049,446656
+ "24001","Allegany, MD",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",17997,18628,18281,17575,18104,18834
+ "24001","Allegany, MD",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",454498,461326,462256,428321,433932,427794
+ "24001","Allegany, MD",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",144456,151982,151941,111675,135889,151669
+ "24001","Allegany, MD",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",9869,9620,9352,6295,9620,9752
+ "24001","Allegany, MD",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",134587,142361,142587,105399,126199,141842
+ "24001","Allegany, MD",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",65095,66354,65839,61125,63435,63251
+ "24001","Allegany, MD",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",715886,733581,759278,775698,676316,539391
+ "24001","Allegany, MD",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),16990,21303,(D)
+ "24001","Allegany, MD",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),306646,313692,318517,341103,353056
+ "24001","Allegany, MD",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),226806,(D)
+ "24001","Allegany, MD",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",377423,399008,356826,307672,290024,288491
+ "24001","Allegany, MD",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),356984,356458,(D)
+ "24001","Allegany, MD",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),1722893,1797249,(D)
+ "24003","Anne Arundel, MD",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",50214633,50232911,50256244,48568269,51162190,51814364
+ "24003","Anne Arundel, MD",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",34117470,34349052,34421530,32418253,34942796,35510662
+ "24003","Anne Arundel, MD",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",15771,20910,28764,31690,15431,14085
+ "24003","Anne Arundel, MD",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",18726,25126,24248,32071,31329,25023
+ "24003","Anne Arundel, MD",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",661984,625843,343402,209315,330260,292955
+ "24003","Anne Arundel, MD",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",2978596,2849285,2851707,3057390,2856246,2487417
+ "24003","Anne Arundel, MD",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",2815569,2750353,2878213,2834365,3288412,3213696
+ "24003","Anne Arundel, MD",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",2538851,2487814,2607207,2581047,3030865,2942682
+ "24003","Anne Arundel, MD",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",276719,262645,271240,253947,260679,271488
+ "24003","Anne Arundel, MD",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",2882217,2771841,2795433,2771604,2668823,2442848
+ "24003","Anne Arundel, MD",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",2425053,2468924,2431899,2310195,2352424,2279637
+ "24003","Anne Arundel, MD",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",2326933,2389741,2348908,1598704,2239728,2496249
+ "24003","Anne Arundel, MD",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",673576,688901,691351,669134,899431,1134795
+ "24003","Anne Arundel, MD",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",7323264,7210812,7116693,6936315,7565748,7780035
+ "24003","Anne Arundel, MD",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",1241799,1156111,1215828,1155603,1364936,1228486
+ "24003","Anne Arundel, MD",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",6081464,6056214,5899983,5780377,6198605,6556957
+ "24003","Anne Arundel, MD",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",6375313,6836138,7055779,7012049,7294889,7777655
+ "24003","Anne Arundel, MD",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",4556624,4974830,5126811,5157263,5349543,5666153
+ "24003","Anne Arundel, MD",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",478633,468339,474890,432228,369483,373194
+ "24003","Anne Arundel, MD",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1340056,1393151,1453600,1422093,1564229,1718213
+ "24003","Anne Arundel, MD",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",2748977,2813772,2938169,2683584,2777617,2937074
+ "24003","Anne Arundel, MD",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",237572,238283,239866,201462,199046,218502
+ "24003","Anne Arundel, MD",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",2511405,2575519,2698483,2482695,2579409,2719257
+ "24003","Anne Arundel, MD",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",1904419,1908167,1946494,1372529,1785263,1936882
+ "24003","Anne Arundel, MD",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",512425,558834,438832,299447,451582,495043
+ "24003","Anne Arundel, MD",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",1391995,1349371,1507650,1073339,1332240,1440327
+ "24003","Anne Arundel, MD",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",967071,996970,995849,914612,950178,978368
+ "24003","Anne Arundel, MD",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",16097163,15885691,15837468,16134573,16225348,16312579
+ "24003","Anne Arundel, MD",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",34498,46037,52890,63708,45761,38666
+ "24003","Anne Arundel, MD",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",5307270,5239755,5227738,5083987,5024793,4727759
+ "24003","Anne Arundel, MD",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",2988917,3014728,2686852,1803245,2568749,2772580
+ "24003","Anne Arundel, MD",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",3489146,3439124,3569723,3503846,4184825,4331104
+ "24003","Anne Arundel, MD",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",5828663,5644851,5777513,5962005,6154502,5674320
+ "24003","Anne Arundel, MD",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",28288807,28703629,28644037,26456896,28786693,29834043
+ "24005","Baltimore, MD",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",52810820,54065637,54773560,51971826,54031025,54869055
+ "24005","Baltimore, MD",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",45560857,46699231,47558091,44753637,46919291,48053749
+ "24005","Baltimore, MD",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",26284,11606,(D),(D),36106,7413
+ "24005","Baltimore, MD",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",25810,16014,32100,34537,(D),25528
+ "24005","Baltimore, MD",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",275757,256598,(D),(D),(D),172394
+ "24005","Baltimore, MD",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",3333499,3459475,3349036,3123853,3256644,3179956
+ "24005","Baltimore, MD",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",3174458,3197081,3126406,3180229,3274537,3151695
+ "24005","Baltimore, MD",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",1167486,1297920,1390002,1373899,1469195,1384710
+ "24005","Baltimore, MD",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",2006973,1900152,1738767,1808745,1809856,1769157
+ "24005","Baltimore, MD",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",2134006,2150470,(D),(D),(D),1830507
+ "24005","Baltimore, MD",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",3398381,3540786,3554241,3331014,3287698,3197967
+ "24005","Baltimore, MD",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",853966,939192,1052456,1176067,1278094,1228824
+ "24005","Baltimore, MD",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",2253740,2205706,2432232,1994320,2691105,3268272
+ "24005","Baltimore, MD",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",14753435,15012092,15811601,14930013,15220999,15735142
+ "24005","Baltimore, MD",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",5615179,5884776,5850570,4644338,4811249,4772127
+ "24005","Baltimore, MD",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",9138256,9124600,9964979,10303780,10426142,10984303
+ "24005","Baltimore, MD",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",6525217,7076269,7079041,6832972,7483029,7981606
+ "24005","Baltimore, MD",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",3871469,4145979,4214531,4128866,4415113,4722252
+ "24005","Baltimore, MD",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",598670,714154,598043,589783,689332,717963
+ "24005","Baltimore, MD",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",2055078,2216781,2262809,2114096,2377591,2538637
+ "24005","Baltimore, MD",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",5413384,5468704,5475869,5155802,5260084,5424489
+ "24005","Baltimore, MD",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",675277,664620,643200,564027,596573,624032
+ "24005","Baltimore, MD",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",4738107,4804168,4833045,4592861,4664204,4801008
+ "24005","Baltimore, MD",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",2173622,2109638,2054519,1560346,1872671,1974954
+ "24005","Baltimore, MD",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",996584,938098,863491,663802,823932,856664
+ "24005","Baltimore, MD",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",1177038,1171358,1189946,895924,1049357,1117842
+ "24005","Baltimore, MD",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",1219297,1257412,1248667,1125997,1159185,1184232
+ "24005","Baltimore, MD",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",7249962,7366703,7218662,7214372,7116338,6824020
+ "24005","Baltimore, MD",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",52094,27687,(D),(D),(D),32793
+ "24005","Baltimore, MD",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",5532388,5690644,(D),(D),(D),5030585
+ "24005","Baltimore, MD",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",1129723,1195867,(D),(D),(D),1402302
+ "24005","Baltimore, MD",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",5428198,5403254,5553505,5182931,5941647,6337591
+ "24005","Baltimore, MD",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",6560052,6684980,(D),(D),(D),6347400
+ "24005","Baltimore, MD",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",39000806,40014226,(D),(D),(D),41719676
+ "24009","Calvert, MD",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",5282884,4491774,4449274,4510387,4162937,4172196
+ "24009","Calvert, MD",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",4874197,4078826,4035174,4096430,3741471,3716232
+ "24009","Calvert, MD",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",1791,(D),1917,4910,1829,1822
+ "24009","Calvert, MD",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,(D),0,0,0,0
+ "24009","Calvert, MD",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",2282648,1730314,1782747,1910554,1579346,1623107
+ "24009","Calvert, MD",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),343403,278218,281230,288892,207641
+ "24009","Calvert, MD",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),109074,108808,90461,95480
+ "24009","Calvert, MD",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",99281,129049,105101,101407,81705,86986
+ "24009","Calvert, MD",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),3971,7572,9020,8795
+ "24009","Calvert, MD",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",85486,94389,92371,87316,86900,74723
+ "24009","Calvert, MD",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",194045,209853,205789,197841,197609,190132
+ "24009","Calvert, MD",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24009","Calvert, MD",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",48524,46388,43236,37448,48940,64657
+ "24009","Calvert, MD",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",711717,720059,719353,749325,699800,(D)
+ "24009","Calvert, MD",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",69282,73188,75502,70850,83729,68269
+ "24009","Calvert, MD",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",642435,646786,643652,678496,615615,(D)
+ "24009","Calvert, MD",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),246202
+ "24009","Calvert, MD",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",142231,142436,147694,140545,142477,155539
+ "24009","Calvert, MD",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24009","Calvert, MD",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24009","Calvert, MD",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",280263,289798,296227,273796,281777,283126
+ "24009","Calvert, MD",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",11011,11889,11394,10371,10491,11889
+ "24009","Calvert, MD",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",269251,277906,284841,263436,271301,271227
+ "24009","Calvert, MD",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",152966,148787,152757,118021,134363,140707
+ "24009","Calvert, MD",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",30438,30045,31083,23294,28641,31731
+ "24009","Calvert, MD",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",122528,118743,121675,94737,105712,109008
+ "24009","Calvert, MD",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",97107,109158,95779,84783,88833,90172
+ "24009","Calvert, MD",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",408687,412893,414042,414014,421268,457870
+ "24009","Calvert, MD",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",1791,(D),1917,4910,1829,1822
+ "24009","Calvert, MD",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",279530,304261,298172,285135,284490,265014
+ "24009","Calvert, MD",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24009","Calvert, MD",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),152272,146483,138131,156933
+ "24009","Calvert, MD",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",762233,481972,388628,394160,381181,303775
+ "24009","Calvert, MD",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",4111964,3596601,3646570,3702304,3360298,3411961
+ "24011","Caroline, MD",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1339398,1277612,1193522,1064628,1210357,1247049
+ "24011","Caroline, MD",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1189908,1128703,1046126,915716,1062728,1094409
+ "24011","Caroline, MD",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",124034,123836,97098,5325,104889,155215
+ "24011","Caroline, MD",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",1435,1408,1650,1825,1868,2485
+ "24011","Caroline, MD",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",11127,11187,11936,14353,11639,10786
+ "24011","Caroline, MD",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",82398,90212,100212,110954,102252,86445
+ "24011","Caroline, MD",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",128600,133341,122312,109802,124910,122280
+ "24011","Caroline, MD",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",44155,48938,39865,(D),62886,53574
+ "24011","Caroline, MD",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",84445,84423,82510,(D),60686,68011
+ "24011","Caroline, MD",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24011","Caroline, MD",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",103302,104916,111310,111258,110332,106698
+ "24011","Caroline, MD",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",107369,103831,103783,102680,135287,128077
+ "24011","Caroline, MD",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24011","Caroline, MD",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",212649,217531,214016,192343,191385,(D)
+ "24011","Caroline, MD",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",21818,21716,19872,17771,18309,16373
+ "24011","Caroline, MD",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",190831,195840,194265,174684,173168,(D)
+ "24011","Caroline, MD",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",44762,51095,49944,49447,58627,(D)
+ "24011","Caroline, MD",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",24576,29090,26014,(D),(D),30061
+ "24011","Caroline, MD",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,(D),(D),(D)
+ "24011","Caroline, MD",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",20186,22004,23903,27025,33563,(D)
+ "24011","Caroline, MD",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",47458,(D),45530,44485,(D),49530
+ "24011","Caroline, MD",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24011","Caroline, MD",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24011","Caroline, MD",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(D),16932,17582,15112,16931,18564
+ "24011","Caroline, MD",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),2597,3087,2177,3049,(D)
+ "24011","Caroline, MD",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),14336,14502,12935,13894,(D)
+ "24011","Caroline, MD",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",37666,37706,37688,36395,38097,39207
+ "24011","Caroline, MD",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",149491,148845,147158,148032,147475,152479
+ "24011","Caroline, MD",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",125469,125243,98793,7340,107186,158359
+ "24011","Caroline, MD",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24011","Caroline, MD",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",118497,115014,115699,116920,146883,138824
+ "24011","Caroline, MD",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24011","Caroline, MD",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",336467,348984,323392,238916,341087,379922
+ "24011","Caroline, MD",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",853441,780058,723047,675108,722997,714530
+ "24013","Carroll, MD",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",6476375,6356730,6460183,6076395,6231087,6285057
+ "24013","Carroll, MD",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",5757087,5637850,5747823,5365210,5511699,5486347
+ "24013","Carroll, MD",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),45955,14639
+ "24013","Carroll, MD",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",7635,6358,9296,8234,(D),7831
+ "24013","Carroll, MD",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),806,5704,10255,8187,8097
+ "24013","Carroll, MD",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",631258,626528,648776,626721,663038,601879
+ "24013","Carroll, MD",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",471894,476971,464744,449252,464014,451807
+ "24013","Carroll, MD",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",339210,364467,352027,331428,336101,320682
+ "24013","Carroll, MD",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",132683,112419,112693,118168,128613,132373
+ "24013","Carroll, MD",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",421705,444737,441618,438601,419349,407596
+ "24013","Carroll, MD",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",579712,581121,566965,534024,524862,505781
+ "24013","Carroll, MD",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),118705
+ "24013","Carroll, MD",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",74676,80061,77411,82508,116851,152626
+ "24013","Carroll, MD",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1502112,1427714,1486695,1317964,1343910,1356258
+ "24013","Carroll, MD",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",312985,338773,366520,280467,286677,278047
+ "24013","Carroll, MD",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1189127,1087972,1118725,1037079,1056793,1078178
+ "24013","Carroll, MD",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",796628,730484,757501,749556,739221,806777
+ "24013","Carroll, MD",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",492234,466230,492527,502415,468359,521032
+ "24013","Carroll, MD",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",10226,6715,6566,6508,10422,9712
+ "24013","Carroll, MD",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",294168,257732,259024,242429,259768,276387
+ "24013","Carroll, MD",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",676215,669207,666553,626208,642799,650214
+ "24013","Carroll, MD",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",60866,61357,62393,56005,56895,60835
+ "24013","Carroll, MD",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",615349,607845,604142,570220,585930,589364
+ "24013","Carroll, MD",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",234478,236779,239680,184372,216069,230414
+ "24013","Carroll, MD",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",25364,28458,32733,22915,33639,39208
+ "24013","Carroll, MD",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",209114,208321,206943,161469,182479,191369
+ "24013","Carroll, MD",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",218424,227528,224973,201734,204403,211752
+ "24013","Carroll, MD",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",719288,718810,712442,710538,718938,799138
+ "24013","Carroll, MD",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),21274
+ "24013","Carroll, MD",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",1001417,1026032,1008955,973411,945100,914182
+ "24013","Carroll, MD",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),126619
+ "24013","Carroll, MD",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",546570,556985,542128,531261,577222,595094
+ "24013","Carroll, MD",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),1067511
+ "24013","Carroll, MD",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),4422943
+ "24015","Cecil, MD",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",4432511,4779546,4811135,4754756,4896274,5055208
+ "24015","Cecil, MD",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",3671108,3981195,3980838,3913408,4015679,4114541
+ "24015","Cecil, MD",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",52736,39319,(D),(D),66814,42060
+ "24015","Cecil, MD",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",23937,19451,31907,29347,(D),(D)
+ "24015","Cecil, MD",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24015","Cecil, MD",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",340793,195107,(D),(D),(D),(D)
+ "24015","Cecil, MD",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",1060666,1107231,1145200,1032457,948829,943202
+ "24015","Cecil, MD",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",445790,523076,562271,583128,571250,590639
+ "24015","Cecil, MD",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",614876,584435,583431,449935,378723,356751
+ "24015","Cecil, MD",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",124034,120121,129488,144659,148355,170030
+ "24015","Cecil, MD",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",252049,264962,281464,298549,303901,300277
+ "24015","Cecil, MD",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",253848,257294,291900,306133,388374,319518
+ "24015","Cecil, MD",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",66567,74578,54767,38692,58812,88132
+ "24015","Cecil, MD",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",643050,717330,650364,725926,648132,(D)
+ "24015","Cecil, MD",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",56582,55682,58736,58279,59704,47526
+ "24015","Cecil, MD",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",586468,661877,591450,667633,588298,(D)
+ "24015","Cecil, MD",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),(D),142954,(D),153346,169713
+ "24015","Cecil, MD",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),72774,(D),73709,81812
+ "24015","Cecil, MD",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),1848,(D),1903,2586
+ "24015","Cecil, MD",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",72705,76639,68379,72896,77716,85384
+ "24015","Cecil, MD",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",297571,300111,300333,284734,299568,323901
+ "24015","Cecil, MD",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",37263,36623,35352,26130,25392,32747
+ "24015","Cecil, MD",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",260308,263492,265001,258739,274356,291273
+ "24015","Cecil, MD",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",199875,202880,201787,158313,187609,201821
+ "24015","Cecil, MD",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",65141,67858,67967,51072,60930,62452
+ "24015","Cecil, MD",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",134734,135027,133828,107251,126695,139238
+ "24015","Cecil, MD",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",103999,107895,108558,105499,109573,111440
+ "24015","Cecil, MD",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",761403,798483,830197,840954,879989,940979
+ "24015","Cecil, MD",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",76673,58807,(D),(D),(D),(D)
+ "24015","Cecil, MD",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",376083,384989,410912,443333,452369,469974
+ "24015","Cecil, MD",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24015","Cecil, MD",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",1127233,1181757,1200723,1072476,1007054,1026547
+ "24015","Cecil, MD",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1478133,1359840,(D),1327222,(D),1346125
+ "24015","Cecil, MD",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",2192975,2619549,(D),2584141,(D),2764330
+ "24017","Charles, MD",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",6317642,6062349,6031473,5739215,5874961,5884327
+ "24017","Charles, MD",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",4993367,4738239,4673409,4346862,4502825,4415306
+ "24017","Charles, MD",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),2349,(D),1356,811
+ "24017","Charles, MD",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",2367,1935,1905,1894,1838,(D)
+ "24017","Charles, MD",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),695585,(D),572493,568631
+ "24017","Charles, MD",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",582291,584951,526883,540653,557263,409800
+ "24017","Charles, MD",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",73519,82246,92911,89905,91035,74402
+ "24017","Charles, MD",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",36129,38329,39090,36171,42336,34562
+ "24017","Charles, MD",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",37390,43829,53542,53686,47901,39222
+ "24017","Charles, MD",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),202337,(D),(D),(D)
+ "24017","Charles, MD",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",598104,565572,548352,523005,534355,517062
+ "24017","Charles, MD",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",87377,87399,83915,87409,81046,86393
+ "24017","Charles, MD",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",79434,69228,69405,64390,(D),81242
+ "24017","Charles, MD",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1340970,1265778,1337170,1188044,1299540,(D)
+ "24017","Charles, MD",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",123790,123902,117441,105167,108770,105030
+ "24017","Charles, MD",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1217180,1141678,1220184,1083255,1191308,(D)
+ "24017","Charles, MD",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",344127,367428,367334,374951,421909,455257
+ "24017","Charles, MD",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",213449,232673,231673,242651,308893,333839
+ "24017","Charles, MD",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",11070,29033,30530,35638,11176,15510
+ "24017","Charles, MD",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",119608,106024,105480,97812,102435,107190
+ "24017","Charles, MD",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",364221,372236,384644,348281,374190,396131
+ "24017","Charles, MD",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",18608,18621,20502,17574,18560,18834
+ "24017","Charles, MD",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",345613,353618,364124,330712,355644,377330
+ "24017","Charles, MD",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",209133,205290,207589,162436,199019,215704
+ "24017","Charles, MD",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",20825,20024,18712,10222,15213,19134
+ "24017","Charles, MD",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",188308,185265,188866,152189,183816,196702
+ "24017","Charles, MD",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",156789,158151,154661,135559,136509,136539
+ "24017","Charles, MD",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1324275,1323929,1357688,1390997,1370844,1471182
+ "24017","Charles, MD",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),4288,(D),3231,(D)
+ "24017","Charles, MD",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),750838,(D),(D),(D)
+ "24017","Charles, MD",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),779313,(D),653252,654408
+ "24017","Charles, MD",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",152953,151816,163017,154984,(D),152108
+ "24017","Charles, MD",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),624286,(D),652224,(D)
+ "24017","Charles, MD",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),4049646,(D),3850066,(D)
+ "24019","Dorchester, MD",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1286721,1254251,1291430,1274627,1376580,1392173
+ "24019","Dorchester, MD",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1064453,1043145,1081123,1063232,1166847,1173642
+ "24019","Dorchester, MD",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),53051,80429
+ "24019","Dorchester, MD",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",1438,(D),0,0,0,0
+ "24019","Dorchester, MD",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",7783,4978,4462,4506,(D),4024
+ "24019","Dorchester, MD",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),(D),(D),92599,56673
+ "24019","Dorchester, MD",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",239187,260758,260183,248632,245958,255093
+ "24019","Dorchester, MD",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",58822,69299,74883,67823,65358,60086
+ "24019","Dorchester, MD",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",180365,191402,185089,180677,180473,195714
+ "24019","Dorchester, MD",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24019","Dorchester, MD",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",69779,73816,75134,75045,75014,73353
+ "24019","Dorchester, MD",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",40031,41915,40716,41518,43822,40324
+ "24019","Dorchester, MD",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",20463,21389,20668,16617,22791,32008
+ "24019","Dorchester, MD",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",270549,273230,270288,263824,260984,(D)
+ "24019","Dorchester, MD",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",37047,34567,34796,32430,28559,29380
+ "24019","Dorchester, MD",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",233501,238745,235550,231484,232557,(D)
+ "24019","Dorchester, MD",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),56723,70499
+ "24019","Dorchester, MD",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",28277,(D),24951,(D),(D),(D)
+ "24019","Dorchester, MD",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24019","Dorchester, MD",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),17673,27317,33221
+ "24019","Dorchester, MD",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",92786,87828,105332,155358,159069,153696
+ "24019","Dorchester, MD",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),2749,2764,2750
+ "24019","Dorchester, MD",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),152641,156338,150977
+ "24019","Dorchester, MD",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",59152,61808,82580,53845,71544,80307
+ "24019","Dorchester, MD",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",7790,7469,7375,4873,6640,7134
+ "24019","Dorchester, MD",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",51362,54336,75190,48959,64871,73146
+ "24019","Dorchester, MD",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",35965,36867,35265,30320,29357,29308
+ "24019","Dorchester, MD",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",222268,211153,210456,211453,210363,219187
+ "24019","Dorchester, MD",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),53067,80453
+ "24019","Dorchester, MD",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24019","Dorchester, MD",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",47814,46899,45185,46033,(D),44353
+ "24019","Dorchester, MD",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",259650,282152,280877,265496,268350,285676
+ "24019","Dorchester, MD",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),360418,331085,395625,398750
+ "24019","Dorchester, MD",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),720044,731070,770898,774564
+ "24021","Frederick, MD",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",13461065,13829488,14085158,13459401,14265785,14379015
+ "24021","Frederick, MD",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",11302469,11666494,11871658,11218253,11978091,11987020
+ "24021","Frederick, MD",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",54291,(D),(D),95112,75223,40482
+ "24021","Frederick, MD",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",11623,(D),15712,14952,13620,(D)
+ "24021","Frederick, MD",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),29861,33335,(D),(D)
+ "24021","Frederick, MD",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24021","Frederick, MD",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),1055697,(D),(D),982619
+ "24021","Frederick, MD",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),301952,(D),(D),270117
+ "24021","Frederick, MD",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",739025,718073,753886,791046,781689,715396
+ "24021","Frederick, MD",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",516875,534505,544859,556660,535416,518571
+ "24021","Frederick, MD",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",(D),1039540,1073759,1031380,1017037,984005
+ "24021","Frederick, MD",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",148953,133853,(D),(D),137837,129454
+ "24021","Frederick, MD",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",483635,486235,(D),(D),(D),884833
+ "24021","Frederick, MD",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",2907208,2949034,(D),2559219,2772010,(D)
+ "24021","Frederick, MD",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24021","Frederick, MD",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),2107387,(D),(D),2208650
+ "24021","Frederick, MD",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",1606151,1776639,1879232,1883534,2119859,2301377
+ "24021","Frederick, MD",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24021","Frederick, MD",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),72583,(D)
+ "24021","Frederick, MD",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",368072,370636,392699,375897,(D),456012
+ "24021","Frederick, MD",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",1056398,(D),1133562,1055726,(D),1147113
+ "24021","Frederick, MD",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24021","Frederick, MD",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24021","Frederick, MD",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(D),495099,519902,381823,461957,512480
+ "24021","Frederick, MD",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),82827,94405,57699,84982,(D)
+ "24021","Frederick, MD",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),412278,425521,324203,377088,(D)
+ "24021","Frederick, MD",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",401574,413807,407352,371535,391195,400266
+ "24021","Frederick, MD",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",2158597,2163206,2213622,2238909,2287074,2392244
+ "24021","Frederick, MD",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",65914,58180,(D),109822,88721,(D)
+ "24021","Frederick, MD",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),1574001,1618351,1588522,1553096,1503188
+ "24021","Frederick, MD",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24021","Frederick, MD",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),(D),1497772,1701754,1810957
+ "24021","Frederick, MD",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",2679902,2713608,2748223,2799514,2839977,2380296
+ "24021","Frederick, MD",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",8622567,8953214,9123982,8419113,9140217,9652311
+ "24023","Garrett, MD",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1233098,1277868,1290622,1269546,1328812,1244145
+ "24023","Garrett, MD",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1099082,1144699,1160672,1142984,1201853,1112244
+ "24023","Garrett, MD",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",33061,43273,(D),45463,35333,27734
+ "24023","Garrett, MD",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",53211,42594,53087,45198,38837,48871
+ "24023","Garrett, MD",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",85037,(D),(D),67640,56654,56538
+ "24023","Garrett, MD",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",96460,112445,111108,131280,157901,109020
+ "24023","Garrett, MD",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",82524,93143,109336,118181,101061,93819
+ "24023","Garrett, MD",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),92930,(D),(D),77223
+ "24023","Garrett, MD",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),16399,(D),(D),17085
+ "24023","Garrett, MD",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",37930,39049,38794,33522,47208,42476
+ "24023","Garrett, MD",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",124214,125885,126352,119007,116356,113677
+ "24023","Garrett, MD",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",54906,54713,50507,46521,49316,(D)
+ "24023","Garrett, MD",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",25099,21371,22943,26605,33227,37651
+ "24023","Garrett, MD",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",233705,266434,(D),245851,269166,(D)
+ "24023","Garrett, MD",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24023","Garrett, MD",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),235647,(D),(D),210923
+ "24023","Garrett, MD",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",69473,(D),78438,72422,84699,91351
+ "24023","Garrett, MD",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",33108,37584,37105,(D),41224,44487
+ "24023","Garrett, MD",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24023","Garrett, MD",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),(D),23965,(D),(D)
+ "24023","Garrett, MD",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",104409,103336,101570,100087,104996,109580
+ "24023","Garrett, MD",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),3993,3950,4134
+ "24023","Garrett, MD",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),96090,101044,105445
+ "24023","Garrett, MD",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",61828,63974,69789,54291,68719,72116
+ "24023","Garrett, MD",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",19299,20252,20833,14493,21789,23466
+ "24023","Garrett, MD",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",42529,43722,48958,39819,46940,48675
+ "24023","Garrett, MD",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",37224,38058,38845,37796,39662,40648
+ "24023","Garrett, MD",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",134016,133201,130021,126660,127150,132619
+ "24023","Garrett, MD",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",86273,85843,(D),90584,74059,74890
+ "24023","Garrett, MD",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",162144,164940,165138,152443,163251,155929
+ "24023","Garrett, MD",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",139943,(D),(D),114003,105812,(D)
+ "24023","Garrett, MD",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",107623,114662,132566,144987,133211,128919
+ "24023","Garrett, MD",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",265257,291690,(D),341604,335645,280940
+ "24023","Garrett, MD",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",833825,853123,(D),802509,867276,834151
+ "24025","Harford, MD",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",12891816,13046785,13286042,12986893,13427074,13275589
+ "24025","Harford, MD",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",9261864,9418228,9587474,9220998,9657142,9527238
+ "24025","Harford, MD",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",6911,9133,24199,18272,22619,5447
+ "24025","Harford, MD",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",28168,25477,33711,31542,29109,21598
+ "24025","Harford, MD",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",316889,317465,274822,236072,247255,231583
+ "24025","Harford, MD",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",800364,827311,824304,887783,857781,737029
+ "24025","Harford, MD",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",842522,846664,839472,826362,818708,799319
+ "24025","Harford, MD",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",364187,350465,371303,345123,342989,326576
+ "24025","Harford, MD",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",478334,496123,468227,481574,475976,472357
+ "24025","Harford, MD",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",647475,664624,721023,720980,692629,588255
+ "24025","Harford, MD",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",831077,844244,908371,836793,849676,820626
+ "24025","Harford, MD",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",333649,360212,298602,334259,353942,334294
+ "24025","Harford, MD",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",223624,177799,178753,190338,236262,285027
+ "24025","Harford, MD",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",2203615,2162686,2205425,2131209,2365433,2426031
+ "24025","Harford, MD",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",375447,358619,340719,321617,337345,331604
+ "24025","Harford, MD",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",1828168,1804386,1866218,1811278,2030521,2097831
+ "24025","Harford, MD",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",1401167,1517666,1576833,1498598,1593704,1664321
+ "24025","Harford, MD",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",1078569,1204928,1272327,1186070,1274390,1305084
+ "24025","Harford, MD",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",37865,37446,37634,41415,39887,48238
+ "24025","Harford, MD",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",284733,275514,267647,271092,279965,309716
+ "24025","Harford, MD",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",921145,948380,991533,926467,940103,1007330
+ "24025","Harford, MD",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",64940,68478,72826,67120,66843,69441
+ "24025","Harford, MD",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",856204,879894,918681,859340,873280,937950
+ "24025","Harford, MD",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",400197,403449,402292,306752,366996,372615
+ "24025","Harford, MD",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",69459,70505,72979,47476,69330,76093
+ "24025","Harford, MD",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",330738,332944,329313,259358,297711,296723
+ "24025","Harford, MD",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",305061,313252,311356,278546,293176,296342
+ "24025","Harford, MD",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",3629952,3628802,3698780,3764147,3769463,3748155
+ "24025","Harford, MD",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",35079,34567,57453,49582,51407,26280
+ "24025","Harford, MD",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",1478552,1508921,1629604,1559031,1543970,1411681
+ "24025","Harford, MD",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",650538,677681,573455,570433,601255,565847
+ "24025","Harford, MD",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",1066146,1025224,1018884,1016830,1051834,1073434
+ "24025","Harford, MD",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1677964,1708622,1721183,1767174,1730496,1557402
+ "24025","Harford, MD",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",7583900,7709601,7866381,7454152,7926461,7974944
+ "24027","Howard, MD",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",26193676,26775883,27549464,27325666,28968473,28625939
+ "24027","Howard, MD",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",24360368,24942764,25722271,25511799,27186062,26703490
+ "24027","Howard, MD",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),11534,(D),(D),5268,4170
+ "24027","Howard, MD",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",10439,10558,13281,12408,(D),10030
+ "24027","Howard, MD",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",22940,23862,81180,137117,103394,54231
+ "24027","Howard, MD",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",1785811,1719484,1658560,1720254,1815801,1503787
+ "24027","Howard, MD",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",1316268,1420977,1387769,1346324,1267210,1160417
+ "24027","Howard, MD",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",765695,836699,835114,760301,684110,628878
+ "24027","Howard, MD",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",550573,584311,552836,585041,580414,529201
+ "24027","Howard, MD",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",3144328,3246795,3482135,3436324,3264660,2956884
+ "24027","Howard, MD",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1354904,1385060,1373255,1350262,1342839,1309403
+ "24027","Howard, MD",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),382730,(D),(D),(D),407317
+ "24027","Howard, MD",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",1588681,1531977,1711274,1905875,2339696,2686552
+ "24027","Howard, MD",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",5174380,5110292,4915129,4817135,5136465,4938132
+ "24027","Howard, MD",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",1378453,1388984,1312821,1251977,1228132,1029244
+ "24027","Howard, MD",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",3795927,3720736,3602507,3566011,3911356,3918153
+ "24027","Howard, MD",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",6705947,7185854,7743049,7905317,8885845,9071200
+ "24027","Howard, MD",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",5059096,5516988,6085027,6401229,7044244,7316363
+ "24027","Howard, MD",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",550076,546905,586538,537722,694543,610640
+ "24027","Howard, MD",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1096775,1122245,1076247,977099,1156477,1153906
+ "24027","Howard, MD",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",1560018,1566535,1614139,1506695,1592259,1661527
+ "24027","Howard, MD",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",216601,214150,213848,200071,197510,206947
+ "24027","Howard, MD",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",1343417,1352406,1400432,1306744,1395252,1455083
+ "24027","Howard, MD",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",828194,861198,902157,586847,690170,794591
+ "24027","Howard, MD",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",330270,359478,361563,173372,183834,224379
+ "24027","Howard, MD",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",497923,501813,540441,412478,504675,569139
+ "24027","Howard, MD",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",476724,490632,494393,453764,468048,479609
+ "24027","Howard, MD",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",1833308,1833442,1828546,1815140,1791243,1924907
+ "24027","Howard, MD",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),22044,(D),(D),(D),14342
+ "24027","Howard, MD",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",4499232,4631988,4859117,4790377,4612010,4272381
+ "24027","Howard, MD",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),406588,(D),(D),(D),459363
+ "24027","Howard, MD",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",2904948,2953730,3096604,3243386,3578618,3791631
+ "24027","Howard, MD",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),3161086,(D),(D),(D),2676801
+ "24027","Howard, MD",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),21781706,(D),(D),(D),24053745
+ "24029","Kent, MD",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",943989,931234,962273,913575,931898,896847
+ "24029","Kent, MD",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",855775,843269,874897,826287,846007,806629
+ "24029","Kent, MD",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),59542,24314
+ "24029","Kent, MD",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,0,1666,1673,(D),(D)
+ "24029","Kent, MD",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",2506,2197,2216,3403,3268,3145
+ "24029","Kent, MD",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",58151,57659,58771,53297,(D),(D)
+ "24029","Kent, MD",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",147738,151845,164714,168519,168496,168063
+ "24029","Kent, MD",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",46790,55698,60577,54126,53173,52537
+ "24029","Kent, MD",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",100948,96210,104201,114986,115949,116142
+ "24029","Kent, MD",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",45628,45681,43004,41212,39911,36144
+ "24029","Kent, MD",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",(D),59721,61657,62069,58838,58929
+ "24029","Kent, MD",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24029","Kent, MD",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",(D),14645,(D),11260,(D),(D)
+ "24029","Kent, MD",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",215304,208688,206226,190685,191184,186377
+ "24029","Kent, MD",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",30286,29324,29457,26396,27108,27182
+ "24029","Kent, MD",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",185018,179367,176747,164298,164063,159136
+ "24029","Kent, MD",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",67464,76389,(D),(D),75604,82363
+ "24029","Kent, MD",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",36822,35903,(D),(D),(D),(D)
+ "24029","Kent, MD",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24029","Kent, MD",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),(D),21508,23933,(D),28649
+ "24029","Kent, MD",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",119382,118454,112880,98887,98317,105784
+ "24029","Kent, MD",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",52413,52663,50327,40362,38657,45085
+ "24029","Kent, MD",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",66969,65790,62549,58554,59702,60718
+ "24029","Kent, MD",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",48603,49058,50286,35352,48373,52170
+ "24029","Kent, MD",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",18788,19709,20114,15107,22247,25515
+ "24029","Kent, MD",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",29815,29350,30173,20227,26066,26613
+ "24029","Kent, MD",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",28316,(D),(D),25738,27885,27662
+ "24029","Kent, MD",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",88213,87960,87400,87207,85867,90521
+ "24029","Kent, MD",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24029","Kent, MD",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),105386,104537,103117,98583,94978
+ "24029","Kent, MD",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24029","Kent, MD",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),166446,(D),179963,(D),(D)
+ "24029","Kent, MD",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),274375,228581
+ "24029","Kent, MD",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),572437,582372
+ "24031","Montgomery, MD",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",93542842,93381475,91753090,89002356,92605105,93746007
+ "24031","Montgomery, MD",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",75807063,75673124,73970324,70483883,74102102,75211902
+ "24031","Montgomery, MD",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",24607,(D),54007,46111,24764,19451
+ "24031","Montgomery, MD",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",12687,(D),15455,13061,13389,10163
+ "24031","Montgomery, MD",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",979931,(D),962723,898510,475822,142378
+ "24031","Montgomery, MD",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",4293699,4204598,4469799,3967211,3356258,3268732
+ "24031","Montgomery, MD",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",4162097,4301888,4547195,5682916,5932329,5652385
+ "24031","Montgomery, MD",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",1139601,1155837,1281226,1197649,1370759,1370123
+ "24031","Montgomery, MD",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",3022495,3145658,3267545,4480059,4562909,4291784
+ "24031","Montgomery, MD",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",2137289,2128793,2090640,2128363,2092623,1865609
+ "24031","Montgomery, MD",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",3775987,3773348,3714547,3450842,3526114,3444305
+ "24031","Montgomery, MD",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",513519,533009,563235,590286,614770,610509
+ "24031","Montgomery, MD",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",7325110,6112682,5036811,4286686,6566590,7463931
+ "24031","Montgomery, MD",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",23386966,22742412,21012202,20437916,20417559,20607245
+ "24031","Montgomery, MD",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",5390346,5327694,5482100,4985479,5429209,4941016
+ "24031","Montgomery, MD",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",17996620,17413062,15508545,15439912,14962879,15667202
+ "24031","Montgomery, MD",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",17208187,18190481,18640474,18110555,19678365,20334340
+ "24031","Montgomery, MD",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",12753095,13632484,14151636,13930943,15208160,15627283
+ "24031","Montgomery, MD",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",1516550,1636592,1685415,1443146,1514616,1678282
+ "24031","Montgomery, MD",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",2938542,2922800,2809643,2733505,2950817,3033102
+ "24031","Montgomery, MD",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",6676167,6913849,7082460,6714442,7181605,7381663
+ "24031","Montgomery, MD",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",886644,883329,887156,807918,869390,879206
+ "24031","Montgomery, MD",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",5789522,6030730,6195807,5907746,6313390,6504016
+ "24031","Montgomery, MD",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",2779480,2956656,3219758,1971539,2352129,2778708
+ "24031","Montgomery, MD",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",550331,610847,619946,386574,565752,733845
+ "24031","Montgomery, MD",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",2229149,2345885,2599570,1584757,1784585,2044477
+ "24031","Montgomery, MD",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",2531338,2599181,2547879,2243287,2299177,2349555
+ "24031","Montgomery, MD",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",17735779,17708298,17776044,18481760,18487653,18524918
+ "24031","Montgomery, MD",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",37294,(D),69024,58793,37787,29358
+ "24031","Montgomery, MD",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",5913276,5902080,5804978,5583004,5623566,5317690
+ "24031","Montgomery, MD",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",1493450,(D),1525640,1488558,1085642,738011
+ "24031","Montgomery, MD",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",11487207,10423649,9613394,10032238,12471832,12975657
+ "24031","Montgomery, MD",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",8493090,(D),9084395,9637131,9222314,8853154
+ "24031","Montgomery, MD",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",67313974,(D),64878630,60831969,64884760,66404284
+ "24033","Prince George's, MD",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",44874740,46019288,46392722,44430794,46256758,47313611
+ "24033","Prince George's, MD",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",31112568,32293645,32543642,30458985,31788726,32411288
+ "24033","Prince George's, MD",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",2600,4341,5803,3339,7163,3252
+ "24033","Prince George's, MD",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",12106,9659,10591,9299,9369,8620
+ "24033","Prince George's, MD",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",348143,609374,746838,811549,672366,641659
+ "24033","Prince George's, MD",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",3731915,4040464,4091883,3839447,4040160,4030336
+ "24033","Prince George's, MD",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",1041123,1050560,1013825,998865,903088,840046
+ "24033","Prince George's, MD",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",500509,524117,513931,501506,418916,417509
+ "24033","Prince George's, MD",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",540615,526772,500343,497951,485569,426023
+ "24033","Prince George's, MD",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",2012595,1971212,1956763,1934260,1941580,1810941
+ "24033","Prince George's, MD",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",2897662,2928363,2957911,2760479,2754969,2695942
+ "24033","Prince George's, MD",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",885709,920677,961992,1021013,975217,912457
+ "24033","Prince George's, MD",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",1370975,1228938,1149204,1075428,1315908,1487177
+ "24033","Prince George's, MD",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",7978398,8191126,8147921,7841591,8212450,8512911
+ "24033","Prince George's, MD",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",867472,798073,792855,727419,767431,670175
+ "24033","Prince George's, MD",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",7110926,7395945,7357995,7118124,7449030,7855108
+ "24033","Prince George's, MD",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",4912892,5243954,5304311,5074323,5510815,5903984
+ "24033","Prince George's, MD",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",3293533,3537888,3607553,3547107,3829472,4124601
+ "24033","Prince George's, MD",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",253825,290436,289211,272765,290663,316126
+ "24033","Prince George's, MD",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1365533,1416169,1408916,1261653,1395570,1472135
+ "24033","Prince George's, MD",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",2869847,3013093,3031987,2812586,2953554,2906756
+ "24033","Prince George's, MD",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",409386,485550,461458,428650,484308,415080
+ "24033","Prince George's, MD",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",2460461,2527217,2570633,2384019,2468488,2492426
+ "24033","Prince George's, MD",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",2063174,2064829,2145281,1370125,1657708,1917548
+ "24033","Prince George's, MD",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",181484,186933,209091,151330,221656,255681
+ "24033","Prince George's, MD",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",1881690,1877926,1936396,1218538,1434599,1660156
+ "24033","Prince George's, MD",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",985429,1012652,1008011,903013,888391,907166
+ "24033","Prince George's, MD",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",13762173,13727975,13851308,13962107,14459465,14893999
+ "24033","Prince George's, MD",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",14707,13976,16338,12651,16240,11775
+ "24033","Prince George's, MD",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",4910257,4899070,4913216,4695525,4697205,4509013
+ "24033","Prince George's, MD",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",1233852,1530459,1709360,1833007,1647857,1554542
+ "24033","Prince George's, MD",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",2412098,2280987,2165316,2077983,2207309,2289968
+ "24033","Prince George's, MD",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",4787745,5105314,5123530,4849925,4967041,4891671
+ "24033","Prince George's, MD",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",26324823,27187660,27419853,25607164,26822296,27532494
+ "24035","Queen Anne's, MD",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",1848599,1847306,1905006,1754622,2050122,1970524
+ "24035","Queen Anne's, MD",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1617629,1616605,1676489,1531558,1825658,1736747
+ "24035","Queen Anne's, MD",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",64152,(D),(D),30135,79616,62350
+ "24035","Queen Anne's, MD",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",2496,2431,2631,2808,1289,(D)
+ "24035","Queen Anne's, MD",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",7394,3515,4980,7759,6393,(D)
+ "24035","Queen Anne's, MD",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",180241,177271,203960,161514,229893,198832
+ "24035","Queen Anne's, MD",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",170926,178443,181970,185644,177148,189088
+ "24035","Queen Anne's, MD",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",129172,138129,143279,139209,133178,146001
+ "24035","Queen Anne's, MD",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",41754,40292,38632,46468,44003,43095
+ "24035","Queen Anne's, MD",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",179676,182005,173894,182113,313659,277513
+ "24035","Queen Anne's, MD",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",158677,163467,159458,144437,144505,141663
+ "24035","Queen Anne's, MD",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),60122,60465,(D)
+ "24035","Queen Anne's, MD",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",8475,9607,9796,9106,12673,20378
+ "24035","Queen Anne's, MD",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",356119,354301,351533,327473,325064,(D)
+ "24035","Queen Anne's, MD",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",55376,51262,51578,48718,43451,40232
+ "24035","Queen Anne's, MD",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",300742,303173,300049,278818,281806,(D)
+ "24035","Queen Anne's, MD",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),158830,176120,178025,191524,198060
+ "24035","Queen Anne's, MD",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",(D),101634,114612,117379,123111,121959
+ "24035","Queen Anne's, MD",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",(D),1117,1190,1434,1483,1878
+ "24035","Queen Anne's, MD",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",51617,56071,60355,59341,66829,73614
+ "24035","Queen Anne's, MD",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",84689,97018,84078,75548,84747,89561
+ "24035","Queen Anne's, MD",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",10732,10464,10218,8907,9400,11026
+ "24035","Queen Anne's, MD",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",73958,86568,73847,66638,75362,78513
+ "24035","Queen Anne's, MD",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",124348,128062,138960,105744,127602,122051
+ "24035","Queen Anne's, MD",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",22498,23790,25359,18832,22865,20635
+ "24035","Queen Anne's, MD",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",101850,104272,113601,86916,104741,101383
+ "24035","Queen Anne's, MD",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",66791,67414,68308,61189,66294,68320
+ "24035","Queen Anne's, MD",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",230970,230702,228584,222916,224979,234890
+ "24035","Queen Anne's, MD",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",66648,(D),(D),32991,81394,(D)
+ "24035","Queen Anne's, MD",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",338354,345453,333253,326844,457420,418768
+ "24035","Queen Anne's, MD",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),67849,66797,(D)
+ "24035","Queen Anne's, MD",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",179401,188042,191756,194802,189504,208190
+ "24035","Queen Anne's, MD",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",417815,(D),(D),381423,491992,(D)
+ "24035","Queen Anne's, MD",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",1199814,(D),(D),1150046,1334202,(D)
+ "24037","St. Mary's, MD",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",7354343,7391917,7535678,7859546,7844387,7671853
+ "24037","St. Mary's, MD",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",3995781,4044737,4084924,4355303,4327540,4233284
+ "24037","St. Mary's, MD",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),10765,2836
+ "24037","St. Mary's, MD",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",1929,510,0,0,(D),(D)
+ "24037","St. Mary's, MD",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),8607
+ "24037","St. Mary's, MD",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",431347,395656,362980,433632,428567,285681
+ "24037","St. Mary's, MD",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",70973,82595,107267,129969,130349,119132
+ "24037","St. Mary's, MD",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",57688,69871,95361,117977,117955,107511
+ "24037","St. Mary's, MD",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",13286,12761,12043,12106,12501,11681
+ "24037","St. Mary's, MD",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24037","St. Mary's, MD",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",307285,319276,315497,323399,318208,302210
+ "24037","St. Mary's, MD",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",245501,237703,229119,237988,204591,200543
+ "24037","St. Mary's, MD",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",43914,42638,43863,37549,48716,58195
+ "24037","St. Mary's, MD",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",881128,879748,852011,898180,815272,(D)
+ "24037","St. Mary's, MD",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",66793,66628,65793,63291,71691,57393
+ "24037","St. Mary's, MD",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",814335,813124,786151,835031,743334,(D)
+ "24037","St. Mary's, MD",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",1335598,1384863,1457929,1636934,1697412,1794115
+ "24037","St. Mary's, MD",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",1242739,1280277,1349132,1540503,1590369,1641895
+ "24037","St. Mary's, MD",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",11638,12538,13739,18379,11543,13065
+ "24037","St. Mary's, MD",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",81220,92008,95074,79550,95603,135480
+ "24037","St. Mary's, MD",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",360741,381654,396881,386055,394618,400880
+ "24037","St. Mary's, MD",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",39977,42778,41983,39965,37789,39895
+ "24037","St. Mary's, MD",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",320764,338873,354931,346138,356946,361071
+ "24037","St. Mary's, MD",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",149652,150602,156712,123250,147985,151126
+ "24037","St. Mary's, MD",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",12905,14082,15220,12174,16748,16766
+ "24037","St. Mary's, MD",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",136747,136522,141496,111079,131256,134366
+ "24037","St. Mary's, MD",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",108157,111262,111545,101580,104575,105204
+ "24037","St. Mary's, MD",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",3358562,3347407,3450323,3505586,3517736,3439469
+ "24037","St. Mary's, MD",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24037","St. Mary's, MD",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24037","St. Mary's, MD",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),209138
+ "24037","St. Mary's, MD",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",114888,125301,151461,168448,179495,176701
+ "24037","St. Mary's, MD",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24037","St. Mary's, MD",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24039","Somerset, MD",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",885671,879004,817971,792931,847677,981077
+ "24039","Somerset, MD",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",611950,633153,569868,537312,587587,711791
+ "24039","Somerset, MD",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",129276,(D),51285,(D),55601,164998
+ "24039","Somerset, MD",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,0,0,0,(D),0
+ "24039","Somerset, MD",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",2252,13247,16233,16796,14426,16047
+ "24039","Somerset, MD",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",40249,(D),30304,60295,51422,24291
+ "24039","Somerset, MD",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",50905,46108,46144,(D),(D),66585
+ "24039","Somerset, MD",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",45906,40630,37485,35736,33286,41474
+ "24039","Somerset, MD",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",4999,5483,8694,(D),(D),25147
+ "24039","Somerset, MD",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",92390,95464,93247,96013,(D),111727
+ "24039","Somerset, MD",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",(D),28400,31280,32276,30493,29964
+ "24039","Somerset, MD",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24039","Somerset, MD",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",3234,(D),(D),(D),(D),5775
+ "24039","Somerset, MD",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",146868,151473,(D),129117,137999,(D)
+ "24039","Somerset, MD",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24039","Somerset, MD",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",(D),(D),127328,(D),(D),125520
+ "24039","Somerset, MD",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",(D),16971,(D),17056,22245,(D)
+ "24039","Somerset, MD",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",9285,12570,(D),11573,(D),(D)
+ "24039","Somerset, MD",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",0,0,0,0,0,(D)
+ "24039","Somerset, MD",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",(D),4398,4907,5470,(D),(D)
+ "24039","Somerset, MD",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",65049,65574,81157,67594,(D),53823
+ "24039","Somerset, MD",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24039","Somerset, MD",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24039","Somerset, MD",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",(D),12115,11752,9077,10867,11500
+ "24039","Somerset, MD",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",(D),2148,2218,1576,2192,(D)
+ "24039","Somerset, MD",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",(D),9967,9535,7503,8676,(D)
+ "24039","Somerset, MD",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",18516,(D),(D),18117,17380,17713
+ "24039","Somerset, MD",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",273721,246129,247975,254984,259848,267969
+ "24039","Somerset, MD",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",129276,(D),51285,(D),(D),164998
+ "24039","Somerset, MD",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",(D),123852,124392,128148,(D),141420
+ "24039","Somerset, MD",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),(D)
+ "24039","Somerset, MD",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",54139,(D),(D),(D),53956,72354
+ "24039","Somerset, MD",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",220431,216488,129456,136337,162817,279820
+ "24039","Somerset, MD",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",391519,416396,436395,398197,422627,428577
+ "24041","Talbot, MD",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2115834,2121614,2060247,1891937,1978278,1993065
+ "24041","Talbot, MD",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",1932299,1939155,1876577,1706781,1789467,1797359
+ "24041","Talbot, MD",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",(D),(D),(D),(D),45979,29025
+ "24041","Talbot, MD",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",669,172,206,1071,(D),1155
+ "24041","Talbot, MD",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",3110,(D),(D),4538,(D),3032
+ "24041","Talbot, MD",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",110131,136956,140959,128137,137930,122281
+ "24041","Talbot, MD",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",(D),(D),114627,(D),(D),97331
+ "24041","Talbot, MD",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",(D),(D),51883,(D),(D),47975
+ "24041","Talbot, MD",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",63677,(D),62789,(D),52317,49234
+ "24041","Talbot, MD",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",83095,82453,78251,79918,(D),76958
+ "24041","Talbot, MD",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",167898,173790,175788,167170,163784,158584
+ "24041","Talbot, MD",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),27664
+ "24041","Talbot, MD",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",41741,54107,59109,44872,78168,125471
+ "24041","Talbot, MD",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",506607,480159,447272,424215,420640,414748
+ "24041","Talbot, MD",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",140298,116294,105161,91803,88855,83455
+ "24041","Talbot, MD",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",366309,364200,342522,332979,332425,332179
+ "24041","Talbot, MD",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",265217,259006,261406,271139,293000,307313
+ "24041","Talbot, MD",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",148547,150466,152228,157049,176393,193436
+ "24041","Talbot, MD",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",17603,12620,12221,8665,10382,15922
+ "24041","Talbot, MD",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",99066,95852,96864,104975,105977,98752
+ "24041","Talbot, MD",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",346683,357391,302166,219939,223000,232763
+ "24041","Talbot, MD",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",18322,19375,19692,17736,18538,19957
+ "24041","Talbot, MD",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",328361,338013,282416,202081,204323,212644
+ "24041","Talbot, MD",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",159569,160575,154101,120637,149556,149237
+ "24041","Talbot, MD",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",32841,32556,32385,25221,32555,34856
+ "24041","Talbot, MD",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",126728,128018,121724,95425,116992,114446
+ "24041","Talbot, MD",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",71007,74291,76985,70791,72660,73920
+ "24041","Talbot, MD",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",183535,182468,183620,184783,188515,195513
+ "24041","Talbot, MD",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),30052
+ "24041","Talbot, MD",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",250993,256211,253844,247027,(D),235456
+ "24041","Talbot, MD",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",(D),(D),(D),(D),(D),30635
+ "24041","Talbot, MD",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",(D),(D),173396,(D),(D),211770
+ "24041","Talbot, MD",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",(D),(D),(D),(D),283098,247733
+ "24041","Talbot, MD",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",(D),(D),(D),(D),1506385,1553322
+ "24043","Washington, MD",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",7205051,7269223,7064113,6609758,7106593,7150408
+ "24043","Washington, MD",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",6424769,6516790,6318207,5867574,6322096,6354589
+ "24043","Washington, MD",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",63065,114506,126881,138076,95260,62021
+ "24043","Washington, MD",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",10422,16179,6638,6395,5910,4408
+ "24043","Washington, MD",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",35002,35385,37343,41453,38375,33310
+ "24043","Washington, MD",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",317313,333575,383726,365477,462268,510273
+ "24043","Washington, MD",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",1111848,1158738,987733,863289,883990,882016
+ "24043","Washington, MD",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",724366,758522,563315,491822,488728,507542
+ "24043","Washington, MD",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",387482,400238,424517,371566,395368,375491
+ "24043","Washington, MD",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",506507,486977,473847,447159,485930,449938
+ "24043","Washington, MD",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",731142,759052,750526,734290,743461,724500
+ "24043","Washington, MD",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",332140,336903,335604,371068,367891,338562
+ "24043","Washington, MD",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",158928,190738,181775,123302,184603,242874
+ "24043","Washington, MD",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",1412122,1310360,1246627,1149870,1263570,1277984
+ "24043","Washington, MD",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",500937,464165,392213,331137,327242,307460
+ "24043","Washington, MD",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",911184,846232,857176,822389,941401,977208
+ "24043","Washington, MD",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",480589,488485,502525,512989,573090,575533
+ "24043","Washington, MD",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",170740,176483,190113,195027,224975,209675
+ "24043","Washington, MD",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",82973,86819,88352,80157,102644,116820
+ "24043","Washington, MD",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",226876,225234,224227,237073,246704,251206
+ "24043","Washington, MD",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",780130,807177,802228,733453,784672,798266
+ "24043","Washington, MD",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",43332,43984,46943,39650,39071,40356
+ "24043","Washington, MD",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",736798,763198,755245,693829,745700,757999
+ "24043","Washington, MD",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",323272,315806,315724,227526,279608,322334
+ "24043","Washington, MD",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",120145,116628,108869,59467,71490,105249
+ "24043","Washington, MD",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",203127,199173,206716,167716,207669,217779
+ "24043","Washington, MD",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",162289,167252,170441,156402,163987,171431
+ "24043","Washington, MD",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",780283,752606,745953,741388,783907,795439
+ "24043","Washington, MD",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",73487,130563,132328,143074,100279,65792
+ "24043","Washington, MD",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",1237649,1245716,1223848,1180605,1228107,1173620
+ "24043","Washington, MD",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",367142,372289,372919,412484,406293,371928
+ "24043","Washington, MD",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",1270776,1349255,1168649,988024,1065303,1113506
+ "24043","Washington, MD",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1502649,1621914,1504937,1371215,1448815,1453342
+ "24043","Washington, MD",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",4922120,4895853,4813151,4495878,4872037,4900089
+ "24045","Wicomico, MD",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",5156240,5112779,5024676,4903031,5278008,5439581
+ "24045","Wicomico, MD",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",4508021,4466657,4378311,4268872,4634359,4796664
+ "24045","Wicomico, MD",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",154627,143056,81478,15772,93205,176685
+ "24045","Wicomico, MD",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",471,406,611,577,860,684
+ "24045","Wicomico, MD",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",92395,87363,83510,93194,75696,73483
+ "24045","Wicomico, MD",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",231500,244555,242386,243794,246646,239374
+ "24045","Wicomico, MD",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",651932,647491,645227,721037,800019,769850
+ "24045","Wicomico, MD",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",124479,127263,115462,105898,105431,107884
+ "24045","Wicomico, MD",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",527453,520216,529761,614529,693346,660846
+ "24045","Wicomico, MD",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",318111,322726,323738,324968,331041,322712
+ "24045","Wicomico, MD",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",453538,463305,473615,461369,472813,458484
+ "24045","Wicomico, MD",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",116275,119488,115579,114372,113520,113998
+ "24045","Wicomico, MD",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",182026,181569,178069,155615,197598,245943
+ "24045","Wicomico, MD",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",827402,801731,764486,717741,797234,789077
+ "24045","Wicomico, MD",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",231924,222826,214506,159173,159551,155033
+ "24045","Wicomico, MD",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",595477,578990,549982,559512,638975,635419
+ "24045","Wicomico, MD",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",487507,437885,431882,434012,478281,509389
+ "24045","Wicomico, MD",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",153873,159645,165437,153728,156145,165997
+ "24045","Wicomico, MD",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",219155,156987,130433,145229,160814,182848
+ "24045","Wicomico, MD",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",114479,120644,134168,134267,160012,161091
+ "24045","Wicomico, MD",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",687570,709460,722132,714034,744034,778924
+ "24045","Wicomico, MD",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",13847,17818,19409,18069,13157,13569
+ "24045","Wicomico, MD",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",673722,691623,702685,695950,730994,765482
+ "24045","Wicomico, MD",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",177318,180922,179277,139180,161704,189333
+ "24045","Wicomico, MD",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",13909,14656,14423,9440,14044,17610
+ "24045","Wicomico, MD",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",163409,166268,164855,129742,147688,171809
+ "24045","Wicomico, MD",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",127349,126240,131728,122796,124063,128936
+ "24045","Wicomico, MD",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",648219,646095,646160,633865,644632,644017
+ "24045","Wicomico, MD",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",155098,143461,82127,16414,94151,177583
+ "24045","Wicomico, MD",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",771649,786013,797166,786344,803885,781196
+ "24045","Wicomico, MD",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",208670,206819,199056,207552,188608,186729
+ "24045","Wicomico, MD",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",833958,829055,823355,878805,997987,1010673
+ "24045","Wicomico, MD",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",1038530,1035977,974228,993118,1148122,1211928
+ "24045","Wicomico, MD",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",3469491,3430751,3403345,3275686,3487732,3586890
+ "24047","Worcester, MD",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",2881805,2900153,2834764,2547132,2913660,2994254
+ "24047","Worcester, MD",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",2549993,2572631,2519576,2249170,2614692,2684710
+ "24047","Worcester, MD",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",109607,106254,(D),12090,68947,147311
+ "24047","Worcester, MD",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",4078,1217,1256,1680,1914,1598
+ "24047","Worcester, MD",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",83,129,963,1225,1360,(D)
+ "24047","Worcester, MD",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",177735,175602,206131,182299,224497,183449
+ "24047","Worcester, MD",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",98317,104625,103917,100326,102636,106965
+ "24047","Worcester, MD",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",66085,62774,62557,60726,61467,65898
+ "24047","Worcester, MD",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",32232,41909,41414,39651,41246,41036
+ "24047","Worcester, MD",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",61025,64309,65227,62651,57385,48523
+ "24047","Worcester, MD",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",237628,241317,241114,235521,241348,231996
+ "24047","Worcester, MD",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",33769,28378,(D),24199,(D),(D)
+ "24047","Worcester, MD",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",47668,43802,34872,25827,32890,42480
+ "24047","Worcester, MD",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",810187,833841,803260,787649,887655,(D)
+ "24047","Worcester, MD",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",72656,71376,68578,67586,69726,62439
+ "24047","Worcester, MD",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",737531,762593,734817,720179,818314,(D)
+ "24047","Worcester, MD",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",153818,162742,175373,165214,(D),209182
+ "24047","Worcester, MD",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",96164,100182,95890,87985,(D),104954
+ "24047","Worcester, MD",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",5830,5345,6019,6185,(D),8460
+ "24047","Worcester, MD",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",51824,57202,73346,70927,83940,95424
+ "24047","Worcester, MD",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",170097,178788,178463,171143,173377,178778
+ "24047","Worcester, MD",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",12407,12402,13382,12254,13038,14606
+ "24047","Worcester, MD",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",157691,166389,165074,158890,160328,164145
+ "24047","Worcester, MD",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",567739,550949,531868,401485,534753,509650
+ "24047","Worcester, MD",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",78996,89122,92260,67222,90422,94199
+ "24047","Worcester, MD",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",488743,461852,439645,334380,444439,415517
+ "24047","Worcester, MD",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",78240,80708,80101,68386,67534,71003
+ "24047","Worcester, MD",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",331811,327550,315246,297773,299632,310246
+ "24047","Worcester, MD",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",113685,107355,(D),13949,71158,149679
+ "24047","Worcester, MD",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",298653,305652,306403,298204,298870,280800
+ "24047","Worcester, MD",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",33852,28508,(D),25432,(D),(D)
+ "24047","Worcester, MD",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",145985,148466,139037,126792,135581,148438
+ "24047","Worcester, MD",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",389737,387694,(D),305356,407175,461112
+ "24047","Worcester, MD",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",2160256,2184872,(D),1942947,2207500,2221497
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",47896519,48085621,47452079,45985408,48360542,51194064
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",39860245,40171444,39595787,38056722,40467551,42758723
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",254,1025,1546,2614,2939,3276
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,511,1906,2786,1244,2204
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",838181,793444,831219,778182,608128,538839
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",1677295,1584507,1455430,1329250,1377162,1385437
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",1785496,1772996,1726393,1749228,1710662,1637545
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",459132,438270,457741,404912,372747,384665
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",1326364,1334470,1268848,1344729,1338020,1254899
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1748699,1684952,1584628,1516035,1572526,1458842
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1105547,1131225,1146952,1125432,1087566,1060335
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",1634725,1678394,1412213,1560268,1609111,1559360
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",2237512,2715673,2225993,2278980,3182219,4289711
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",9228123,8871508,8595032,8860670,9266969,9702826
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",3753383,3507340,3439288,3490590,3469135,3480755
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",5474741,5367029,5156822,5373480,5818010,6256582
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",5826345,6206549,6926327,6632353,7446114,8035994
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",4002309,4173918,4549849,4361800,4930020,5262610
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",275793,483755,894173,965634,1056282,1203446
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",1548243,1551588,1502509,1334519,1490392,1610862
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",10242398,10378505,10450351,10017424,10030619,10377769
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",3367496,3557917,3558265,3286478,3213864,3390522
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",6874902,6819886,6891675,6732705,6820146,6989720
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",2533484,2371573,2284036,1384993,1894170,2262358
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1291674,1141341,990938,535770,781283,1023306
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",1241810,1229686,1290213,847020,1110310,1241119
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",1002184,999051,972951,848730,836197,858282
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",8036273,7914582,7856361,7922561,7897868,8439887
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",254,1638,3767,5935,4581,6114
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",2854247,2815628,2728767,2638207,2655900,2516084
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",2472907,2471817,2243260,2339084,2215080,2094624
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",4023008,4480696,3955899,4031207,4851047,5770425
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",3463045,3359527,3185118,3078621,3089061,3027077
+ "24510","Baltimore (Independent City), MD",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",36397200,36813032,36413434,34980635,37382509,39752503
+"Note: See the included footnote file."
+"CAGDP9: Real GDP by county and metropolitan area 1/"
+"Last updated: December 7, 2023 -- new statistics for 2022, revised statistics for 2017-2021."
+"U.S. Bureau of Economic Analysis"

@@ -1,0 +1,73 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2017,2018,2019,2020,2021,2022
+ "11000","District of Columbia",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",134298772,138056788,138867379,137762271,142676290,144029597
+ "11000","District of Columbia",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",90291370,93304646,94766817,92137461,96501494,98681992
+ "11000","District of Columbia",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",1968,1723,3163,3315,5359,4069
+ "11000","District of Columbia",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "11000","District of Columbia",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1307045,1429262,1395762,1489665,1583863,1293023
+ "11000","District of Columbia",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",1748978,1773022,1789467,1652157,1614137,1424445
+ "11000","District of Columbia",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",260062,257400,239040,244266,314175,313397
+ "11000","District of Columbia",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",122914,131844,123194,134247,138298,133873
+ "11000","District of Columbia",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",137149,125559,115850,110067,174870,178286
+ "11000","District of Columbia",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1258756,1217110,1367311,1438155,1398313,1327095
+ "11000","District of Columbia",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1700623,1761797,1779715,1570548,1440361,1389914
+ "11000","District of Columbia",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",761528,727094,689818,479475,454877,511791
+ "11000","District of Columbia",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",7193777,7806605,8860694,10006904,11455817,12343912
+ "11000","District of Columbia",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",16902156,17522681,17793051,17846670,18665662,18823999
+ "11000","District of Columbia",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",5818623,5930160,6065842,6184864,6383968,5786860
+ "11000","District of Columbia",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",11083534,11595622,11728401,11659795,12283750,13089719
+ "11000","District of Columbia",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",32651431,33375504,33349768,33441648,34953091,35790709
+ "11000","District of Columbia",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",28388273,29049089,28895128,28960618,30309692,30683571
+ "11000","District of Columbia",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",766017,840436,912266,1067506,1072935,1241628
+ "11000","District of Columbia",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",3497141,3486597,3546598,3430721,3583485,3896194
+ "11000","District of Columbia",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",10919990,11110272,11189451,10812194,10823370,11028048
+ "11000","District of Columbia",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",4567707,4633712,4622796,4358034,4202918,4349354
+ "11000","District of Columbia",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",6352282,6476619,6567207,6456332,6625370,6682841
+ "11000","District of Columbia",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",5959950,6258297,6307282,3371827,4400419,5683064
+ "11000","District of Columbia",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1264577,1326391,1315555,837183,1000725,1241036
+ "11000","District of Columbia",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",4695373,4931890,4991092,2536407,3399957,4437829
+ "11000","District of Columbia",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",9625106,10069081,10054723,9971503,9762786,9351462
+ "11000","District of Columbia",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",44007402,44754926,44114532,45618090,46184697,45391052
+ "11000","District of Columbia",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",1968,1723,3163,3315,5359,4069
+ "11000","District of Columbia",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",2959379,2978226,3150083,3016003,2844740,2723141
+ "11000","District of Columbia",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",2068573,2156769,2086001,1966491,2037113,1792153
+ "11000","District of Columbia",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",7453839,8063645,9097272,10246970,11768521,12651121
+ "11000","District of Columbia",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",2011009,2032206,2032414,1899016,1928112,1733998
+ "11000","District of Columbia",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",88280361,91272593,92735141,90241739,94579189,96975929
+ "11001","District of Columbia, DC",2,CAGDP9,1,"...","All industry total ","Thousands of chained 2017 dollars",134298772,138056788,138867379,137762271,142676290,144029597
+ "11001","District of Columbia, DC",2,CAGDP9,2,"..."," Private industries ","Thousands of chained 2017 dollars",90291370,93304646,94766817,92137461,96501494,98681992
+ "11001","District of Columbia, DC",2,CAGDP9,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of chained 2017 dollars",1968,1723,3163,3315,5359,4069
+ "11001","District of Columbia, DC",2,CAGDP9,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of chained 2017 dollars",0,0,0,0,0,0
+ "11001","District of Columbia, DC",2,CAGDP9,10,"22","  Utilities ","Thousands of chained 2017 dollars",1307045,1429262,1395762,1489665,1583863,1293023
+ "11001","District of Columbia, DC",2,CAGDP9,11,"23","  Construction ","Thousands of chained 2017 dollars",1748978,1773022,1789467,1652157,1614137,1424445
+ "11001","District of Columbia, DC",2,CAGDP9,12,"31-33","  Manufacturing ","Thousands of chained 2017 dollars",260062,257400,239040,244266,314175,313397
+ "11001","District of Columbia, DC",2,CAGDP9,13,"321,327-339","   Durable goods manufacturing ","Thousands of chained 2017 dollars",122914,131844,123194,134247,138298,133873
+ "11001","District of Columbia, DC",2,CAGDP9,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of chained 2017 dollars",137149,125559,115850,110067,174870,178286
+ "11001","District of Columbia, DC",2,CAGDP9,34,"42","  Wholesale trade ","Thousands of chained 2017 dollars",1258756,1217110,1367311,1438155,1398313,1327095
+ "11001","District of Columbia, DC",2,CAGDP9,35,"44-45","  Retail trade ","Thousands of chained 2017 dollars",1700623,1761797,1779715,1570548,1440361,1389914
+ "11001","District of Columbia, DC",2,CAGDP9,36,"48-49","  Transportation and warehousing ","Thousands of chained 2017 dollars",761528,727094,689818,479475,454877,511791
+ "11001","District of Columbia, DC",2,CAGDP9,45,"51","  Information ","Thousands of chained 2017 dollars",7193777,7806605,8860694,10006904,11455817,12343912
+ "11001","District of Columbia, DC",2,CAGDP9,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of chained 2017 dollars",16902156,17522681,17793051,17846670,18665662,18823999
+ "11001","District of Columbia, DC",2,CAGDP9,51,"52","   Finance and insurance ","Thousands of chained 2017 dollars",5818623,5930160,6065842,6184864,6383968,5786860
+ "11001","District of Columbia, DC",2,CAGDP9,56,"53","   Real estate and rental and leasing ","Thousands of chained 2017 dollars",11083534,11595622,11728401,11659795,12283750,13089719
+ "11001","District of Columbia, DC",2,CAGDP9,59,"54,55,56","  Professional and business services ","Thousands of chained 2017 dollars",32651431,33375504,33349768,33441648,34953091,35790709
+ "11001","District of Columbia, DC",2,CAGDP9,60,"54","   Professional, scientific, and technical services ","Thousands of chained 2017 dollars",28388273,29049089,28895128,28960618,30309692,30683571
+ "11001","District of Columbia, DC",2,CAGDP9,64,"55","   Management of companies and enterprises ","Thousands of chained 2017 dollars",766017,840436,912266,1067506,1072935,1241628
+ "11001","District of Columbia, DC",2,CAGDP9,65,"56","   Administrative and support and waste management and remediation services ","Thousands of chained 2017 dollars",3497141,3486597,3546598,3430721,3583485,3896194
+ "11001","District of Columbia, DC",2,CAGDP9,68,"61,62","  Educational services, health care, and social assistance ","Thousands of chained 2017 dollars",10919990,11110272,11189451,10812194,10823370,11028048
+ "11001","District of Columbia, DC",2,CAGDP9,69,"61","   Educational services ","Thousands of chained 2017 dollars",4567707,4633712,4622796,4358034,4202918,4349354
+ "11001","District of Columbia, DC",2,CAGDP9,70,"62","   Health care and social assistance ","Thousands of chained 2017 dollars",6352282,6476619,6567207,6456332,6625370,6682841
+ "11001","District of Columbia, DC",2,CAGDP9,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of chained 2017 dollars",5959950,6258297,6307282,3371827,4400419,5683064
+ "11001","District of Columbia, DC",2,CAGDP9,76,"71","   Arts, entertainment, and recreation ","Thousands of chained 2017 dollars",1264577,1326391,1315555,837183,1000725,1241036
+ "11001","District of Columbia, DC",2,CAGDP9,79,"72","   Accommodation and food services ","Thousands of chained 2017 dollars",4695373,4931890,4991092,2536407,3399957,4437829
+ "11001","District of Columbia, DC",2,CAGDP9,82,"81","  Other services (except government and government enterprises) ","Thousands of chained 2017 dollars",9625106,10069081,10054723,9971503,9762786,9351462
+ "11001","District of Columbia, DC",2,CAGDP9,83,"92","Government and government enterprises ","Thousands of chained 2017 dollars",44007402,44754926,44114532,45618090,46184697,45391052
+ "11001","District of Columbia, DC",2,CAGDP9,87,"11,21","Natural resources and mining ","Thousands of chained 2017 dollars",1968,1723,3163,3315,5359,4069
+ "11001","District of Columbia, DC",2,CAGDP9,88,"42,44-45","Trade ","Thousands of chained 2017 dollars",2959379,2978226,3150083,3016003,2844740,2723141
+ "11001","District of Columbia, DC",2,CAGDP9,89,"22,48-49","Transportation and utilities ","Thousands of chained 2017 dollars",2068573,2156769,2086001,1966491,2037113,1792153
+ "11001","District of Columbia, DC",2,CAGDP9,90,"31-33,51","Manufacturing and information ","Thousands of chained 2017 dollars",7453839,8063645,9097272,10246970,11768521,12651121
+ "11001","District of Columbia, DC",2,CAGDP9,91,"...","Private goods-producing industries 2/","Thousands of chained 2017 dollars",2011009,2032206,2032414,1899016,1928112,1733998
+ "11001","District of Columbia, DC",2,CAGDP9,92,"...","Private services-providing industries 3/","Thousands of chained 2017 dollars",88280361,91272593,92735141,90241739,94579189,96975929
+"Note: See the included footnote file."
+"CAGDP9: Real GDP by county and metropolitan area 1/"
+"Last updated: December 7, 2023 -- new statistics for 2022, revised statistics for 2017-2021."
+"U.S. Bureau of Economic Analysis"
