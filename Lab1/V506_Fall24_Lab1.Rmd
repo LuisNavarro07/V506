@@ -1,0 +1,489 @@
+---
+title: "V506 Lab 1"
+output: slidy_presentation
+#output: beamer_presentation
+author: Luis Navarro 
+date: Fall 2024 
+---
+
+# Welcome to V506!
+
+- The purpose of these labs is to learn how to use R and R studio for statistical analysis. 
+
+- **Ground Rules**: 2 hour labs. i) lecture (60 minutes); ii) in-class exercise (30 minutes); iii) Homework Q&A (with TAs) (30 minutes). 
+
+- Interactive settings. Ask as many questions as possible. Try running the code on your own computer in class. Verify how it works. 
+
+- Only 6 labs. **ALL REQUIRED**
+
+# Online R Resources 
+
+- [R Cookbook](https://rc2e.com/)
+- [Introduction to Data Exploration with R](https://bookdown.org/mikemahoney218/IDEAR/)
+- [R for Data Science](https://r4ds.had.co.nz/)
+- [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+- [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
+- [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
+- Check more [here](https://www.rstudio.com/resources/books/)
+
+# Why R? 
+
+- Fast and Free. 
+
+- Open source: R uses packages (written by users). 
+
+- Programming Language + Statistical Analysis (we'll use packages mostly focused on the latter)
+
+- Productivity improvement in the work place. 
+
+
+# Pipeline for today 
+
+- Intro to R and R studio 
+
+- Intro to R Markdown 
+
+- R packages 
+
+- Working with R: object types 
+
+- Intro to data manipulation 
+
+
+# Installing R 
+
+- You should have downloaded R and Rstudio before arriving to lab. 
+
+- For this class, you need both R and Rstudio. 
+
+- R is the programming language and the console runs the code. 
+
+- R studio is the user interface. 
+
+
+# R Markdown 
+
+- We will work mainly with R scripts and R markdown files. 
+
+- *R Scripts:* only code. File extension .R
+
+- *R Markdown:* allows you to create notebooks that integrate code into a document (pdf, slides, html, MS word). File extension: .Rmd
+
+- Excellent tool to present analysis in an organized and clean way. 
+
+- **You will use R Markdown to turn in the assignments** 
+
+```{r, eval = FALSE, echo = TRUE}
+install.packages("rmarkdown")
+library(rmarkdown)
+```
+
+
+# R Markdown Syntax 
+
+- With markdown you can add snippets of code to a document. 
+
+- To insert a line of code you need to open 
+
+```{r, eval = FALSE, echo = TRUE}
+'```{r} 
+"Here you write the code"
+``` '
+```
+
+- You can tell R whether it should evaluate (eval) and/or show (echo) the code in the document.
+
+```{r, eval = FALSE, echo = TRUE}
+'```{r, eval = TRUE, echo = TRUE} ``` '
+```
+# Introduction to Objects in R 
+
+- R is an object oriented programming language. 
+
+- Objects from different types: numbers, strings, atomic vectors, matrices, data frames, tibbles, functions, etc. 
+
+- Each object is assigned a name. 
+
+- '<-' is the assignment operator. 
+
+- For most cases you can also use "=" to assign a name to an object. 
+
+```{r, eval=TRUE, echo=TRUE}
+a = 10 
+b <- 5
+
+a + b 
+```
+
+
+# Quick introduction: functions 
+
+- **Definition**: A function is a set of statements organized together to perform a specific task. 
+
+- It is an input-output relationship. 
+
+- Remember from math: $y = f(x)$. For each value of $x$, there is one value of $y$ where $y$ equals to some transformation $f$ of $x$. 
+
+- R has several built-in functions and many more available at user-written packages. 
+
+- You can write your own functions too (more on this later!)
+
+- Example: what does the *print* function do? 
+
+- It takes an object $x$ as input and prints back a type $y$ as output. 
+
+```{r, eval=TRUE, echo=TRUE}
+text <- "Hello World"
+print(text)
+```
+
+# Packages in R
+
+- **Packages:** are a collection of R functions, compiled code and (sometimes) sample data. They are stored in R in *libraries*
+
+- Packages are downloaded from R repositories. Each package has some companionship documentation explaining the functions. Best source of information when debugging your code. 
+
+- To install packages in R you can to look for them at CRAN repository (install packages button) or just use the *install.packages* function. 
+
+- Once installed, you just need to call it using the *library* function. **Notice the syntax** 
+
+```{r, eval = FALSE, echo = TRUE}
+install.packages("rmarkdown")
+library(rmarkdown)
+```
+
+# R objects and data types 
+
+Let's explore some object types 
+
+```{r, eval=TRUE, echo=TRUE}
+a <- 5L 
+b <- "Welcome to V506"
+c <- TRUE 
+d <- 3.14159
+e <- c(1,2,3,4)
+```
+
+The function class or typeof gives you the object type. 
+
+```{r, eval=TRUE, echo=TRUE}
+class(a)
+typeof(a)
+
+```
+
+```{r, eval=TRUE, echo=TRUE}
+class(a)
+class(b)
+class(c)
+class(e)
+```
+
+# Data Structures 
+
+- Data sets are collections of observations of one or more variables.  
+
+- **Vectors**: contain one or more elements of the same data type. 
+
+```{r, eval=TRUE, echo=TRUE}
+vector1 <- c(1,2,3,4)
+print(vector1)
+```
+
+- **Matrices**: a table with elements of the same data type organized in rows and columns. 
+
+```{r, eval=TRUE, echo=TRUE}
+matrix1 <- matrix(data = vector1, nrow = 2)
+print(matrix1)
+```
+
+- **Lists**: contain one or more elements from potentially different data types. 
+
+```{r, eval=TRUE, echo=TRUE}
+list1 <- list(vector1, matrix1,  "Hello World")
+print(list1)
+```
+
+# Data Structures 
+
+- **Factors**: stores categorical information and assigns levels. 
+
+```{r, eval=TRUE, echo=TRUE}
+# Data on the ethnicity of 6 people
+eth_vec <- c("white", "white", "hispanic", "black", "asian", "black")
+ethnicities <- factor(eth_vec)
+ethnicities
+```
+
+- **Data Frames**: tabular, can contain different types of data and any number of rows and columns. 
+
+```{r, eval=TRUE, echo=TRUE}
+# Data on people
+names_students <- c("Abby", "Bob", "Cady", "Dany", "Emma", "George")
+wages <- c(10,8,5,11,6,9)
+gender <- factor(c("female","male", "female", "male", "female","male"))
+# Create a data frame 
+df <- data.frame(names_students, wages, gender,ethnicities )
+print(df)
+```
+
+
+
+# Main Packages we will use 
+
+- [Tidyverse](https://www.tidyverse.org/) is a collection of packages to perform data manipulation, analysis and visualization. Contains famous packages/libraries like dplyr and ggplot2. We will use these a lot.   
+
+- [Pacman](https://cran.r-project.org/web/packages/pacman/): simple library that allows you, among other things, to load multiple libraries into your session. Improves code readability and compiling. 
+
+- [Here](https://cran.r-project.org/web/packages/here/): simplifies how to locate and access files in your computer to import/export into your R session. 
+
+- [Rio](https://cran.r-project.org/web/packages/rio/): streamlined data import and export. Allows different file extensions. Extremely flexible. 
+
+*Coding Tip:* the following code installs the package if it was not previoulsy installed in your computer. Once installed, you always need to load it in order to access the functions. 
+
+```{r, eval=TRUE, echo=TRUE, message = FALSE, warning = FALSE, error = FALSE}
+# Install the packages 
+if(!require(pacman)) {install.packages("pacman")}
+if(!require(tidyverse)) {install.packages("tidyverse")}
+if(!require(rio)) {install.packages("rio")}
+if(!require(here)) {install.packages("here")}
+``` 
+
+- Use pacman's p_load function to load all these packages into the session. 
+
+```{r, eval=TRUE, echo=TRUE, message = FALSE, warning = FALSE, error = FALSE}
+# Load packages 
+library(pacman)
+p_load(tidyverse, rio, here)
+```
+
+# Intro to Tidyverse and Tibbles 
+
+- Tidyverse is useful package to perform analysis on data frames. We are going to use this a lot. 
+
+```{r, eval=TRUE, echo=TRUE, message = FALSE, warning = FALSE, error = FALSE}
+# standard load
+library(tidyverse)
+# alternatively use pacman p_load 
+p_load(tidyverse)
+``` 
+
+- **Tibbles**: are data frames, but with some tweaks that allow easier interactions with some functions.   
+
+```{r, eval=TRUE, echo=TRUE}
+tibble1 <- tibble(df)
+tibble1
+``` 
+- You can explore the variables of a data frame 
+
+```{r, eval=TRUE, echo=TRUE}
+names(tibble1)
+``` 
+
+- **Retrieving a variable from a data frame:** To access only one variable of the data frame, just write the name of the data frame followed by a dollar sign "$" and the name of the variable. 
+
+- For example, let's get the vector containing the variable *wages*. 
+
+```{r, eval=TRUE, echo=TRUE}
+tibble1$wages
+``` 
+
+- Explore its type 
+
+```{r, eval=TRUE, echo=TRUE}
+class(tibble1$gender)
+```
+
+- Explore some basic descriptive statistics (through the summmary function)
+
+```{r, eval=TRUE, echo=TRUE}
+summary(tibble1)
+```
+
+- **Create a new variable:** a simple way to add a new variable to the existing data frame is to use the dollar sign "$" syntax. First specify the data frame and then the variable name. 
+
+- Example: create a variable with wages squared. 
+
+```{r, eval=TRUE, echo=TRUE}
+tibble1$wages2 = (tibble1$wages)^2
+```
+
+- Verify that the data frame updated the number of variables. 
+
+```{r, eval=TRUE, echo=TRUE}
+head(tibble1)
+```
+
+
+# Help in R 
+
+- **Tip:** Always check the documentation of the function to see the parameters (inputs) it requires. You can check it by writing a question mark "?" before the name of the function. 
+
+```{r, eval=FALSE, echo=TRUE}
+# Help with the print function
+?print
+```
+
+- Stackoverflow and even ChatGPT help understanding when R gives you an error. 
+
+# Working in R: some best practices
+
+- When working in projects, try to keep your environment organized. Here are some useful tips. 
+
+- **Clean your working environment before beginning to work :** sometimes R will save your past sessions. This could (inadvertently) mix some projects. This code cleans all the objects at the general environment. 
+
+```{r, eval=FALSE, echo=TRUE}
+# Clean the working environment
+rm(list=ls())
+```
+
+- **Always comment your code:** explain what your code is doing at each line. Sometimes you'll revisit a script and won't remember what were you thinking at that time. Furthermore, helps others reviewing your code understanding what's the script doing. With "#" you can comment stuff. 
+
+```{r, eval=TRUE, echo=TRUE}
+#Define two integers 
+a = 5L
+b = 6L 
+# Add them up 
+c = a+b
+#Show the result 
+print(c)
+```
+
+
+# Accessing files: here and rio
+
+- When working in projects you need to keep your environment organized. Create folders. 
+
+- Library `here` allows you to tell the computer where to locate/drop files. 
+
+- We will use function `here`. This is equivalent and more flexible than base R `get_wd`
+
+```{r, eval=TRUE, echo=TRUE}
+# syntax: just paste as string the path of the folder where you are storing all the information for your project
+v506_path <- here('/Users/luisenriquenavarro/Library/CloudStorage/OneDrive-IndianaUniversity/V506')
+```
+
+- To access another folder, just reference the object you created with the `master` folder, and write the path to the sub-folder separating with commas. 
+
+```{r, eval=TRUE, echo=TRUE}
+# syntax: just paste as string the path of the folder where you are storing all the information for your project
+v506_lab1 <- here(v506_path, 'Fall24', 'Lab1')
+```
+
+# Loading data into R 
+
+- For a real task, the first thing to do is load your data set into R. 
+
+- rio's `import` function allows to read tabular data into R. It can read csv, txt, xlsx, dta, and several other data extensions. 
+
+- **Example**: load the banking.csv file available in Canvas 
+
+```{r, eval=TRUE, echo=TRUE}
+# Tell the computer where to find the file 
+banking_path <- here(v506_path, 'Fall24', 'Lab1', 'Banking.csv')
+# Read the data set into R
+banking_data <- rio::import(file = banking_path)
+# Show it 
+banking_data
+```
+
+*Coding tip:* the syntax `rio::import` is to tell the computer I want to access function import from the rio library. In general you can access functions writing `library::function`. This is helpful when two or more libraries have functions with the same name and R might get confused. 
+
+# Glimpse of data manipulation. 
+
+- For data manipulation and wrangling, we will use the *dplyr* library. 
+
+```{r, eval=FALSE, echo=TRUE, message = FALSE, warning = FALSE, error = FALSE}
+if(!require(dplyr)) {install.packages("dplyr")}
+library(dplyr)
+```
+
+- A common task when manipulating data is creating subsets of the data set. 
+
+- For that task, we can use the *filter* function. 
+
+- Suppose I want to export data only from debit transactions. 
+
+```{r, eval=TRUE, echo=TRUE}
+# syntax: from data set banking_data, keep only observations where variable Debit == 1
+banking_debit <- filter(banking_data, Debit == 1)
+```
+
+- Now, suppose I want to add another variable into the data set. 
+
+- Say, I want to create a variable that sums the number of ATM transactions and services. 
+
+- You can use the dollar sign syntax to add a new variable. 
+
+- In general, you create a variable and assign an object to it. You need to be careful and ensure the object you assign has the same order and number of observations of your data set. 
+
+```{r, eval=TRUE, echo=TRUE}
+# dollar sign syntax allows you to add a variable. 
+# I will add a variable called ATM_Services. 
+# This variable is the result of the sum of ATM and Services. 
+banking_debit$ATM_Services = banking_debit$ATM + banking_debit$Services
+```
+
+- More on this next lab! 
+
+
+# Exporting data from R 
+
+- Once you have completed data cleaning or your analysis you might want to export your data set. 
+
+- You can export your data as a csv, xlsx, Rds, or any other supported file extensions. 
+
+- If you intend to keep working with the data in R, you might want to save it as a Rds file (i.e. R data file extension). 
+
+- If you are ready to share your data with your peers, CSV is recommended (widely used and light). You can open it in a spreadsheet or other softwares. 
+
+- Now we can export the data using rio's export. 
+
+```{r, eval=TRUE, echo=TRUE}
+# Export using rio
+rio::export(banking_debit, 
+            file = here(v506_lab1,'clean_data', 'banking_debit.csv'))
+```
+
+- Verify in your folder, the data should be stored there. 
+
+*Extra:* if you want to save it with another file extension, just change it on the name of the file and rio's export takes care of the rest. 
+
+```{r, eval=TRUE, echo=TRUE}
+# Export using rio as a Rds file (R data)
+rio::export(banking_debit, 
+            file = here(v506_lab1,'clean_data', 'banking_debit.Rds'))
+```
+
+# Coding Exercise
+
+- Best way to learn R is to practice writing code! 
+
+- Perform all the tasks at the Lab Exercise. 
+
+- You are going to use the banking.csv file. 
+
+# Appendix: Accesing Elements of Data Structures 
+
+- You can retrieve only some elements of any data structures. 
+
+```{r, eval=TRUE, echo=TRUE}
+# Shows second element of vector1
+vector1[2]
+# Shows first 3 elements of vector1
+vector1[1:3]
+```
+
+- Notation could differ slightly for lists. Note the double brackets. 
+
+```{r, eval=TRUE, echo=TRUE}
+# Shows first element of list1
+list1[[1]]
+```
+
+- You can access full rows (or columns of a matrix)
+
+```{r, eval=TRUE, echo=TRUE}
+# Shows first row of the matrix stored in list1
+list1[[2]][1,]
+```

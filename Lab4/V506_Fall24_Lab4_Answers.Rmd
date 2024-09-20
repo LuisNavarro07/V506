@@ -1,0 +1,187 @@
+---
+title: "Lab 4 - In class exercise - Answers"
+author: "Luis Navarro"
+output:
+  html_document:
+    df_print: paged
+---
+
+
+
+
+1.	Import the fastfood data set explored in class.  Load the packages dplyr, ggplot2, and descriptr 
+
+```{r}
+# Clean the environment 
+rm(list=ls())
+
+# Set your working directory
+setwd("/Users/luisenriquenavarro/Library/CloudStorage/OneDrive-IndianaUniversity/V506/Fall24/Lab4")
+
+# New Packages
+if(!require(descriptr)){install.packages("descriptr")}
+
+# Packages Required for the session 
+library(pacman)
+p_load(dplyr, ggplot2, rmarkdown, 
+       descriptr, 
+       rio, here)
+
+# Load fast food
+fastfood <- rio::import(file = "fastfood.csv", header = TRUE) %>% tibble() 
+```
+
+
+2.	Following the code covered in class, write a function that takes as input a vector of data (say a variable from a data frame) The function should compute the mean, standard deviation, variance, and median of such variable. The output of the function should be a data frame with 4 columns: Mean, Median, SD, and Variance. 
+
+
+There are two potential answers for this. Using base R and summarize from dplyr. 
+
+```{r}
+# Base R
+descriptive_stats <- function(data){
+  
+  # Compute the Descriptive Statistics using base R functions
+  mean <- mean(data, na.rm = TRUE)
+  median <- median(data, na.rm = TRUE)
+  sd <- sd(data, na.rm = TRUE)
+  var <- var(data, na.rm = TRUE)
+  
+  # Save output as data frame (tibble object)
+  # note: I capitalize the variable names just to avoid confusion with the objects defined inside the function. 
+  # you can assign them the same name as the objects and it works fine 
+  table <- tibble(
+    Mean = mean,
+    Median = median,
+    SD = sd,
+    VAR = var
+    ) 
+
+  # Return Table 
+  return(table)
+}
+```
+
+
+```{r}
+# test the function 
+descriptive_stats(
+  data = fastfood$calories
+  )
+
+```
+
+```{r}
+# solution 2: using summarize from dplyr 
+desc_table2 <- function(data){
+  # the key difference here is that data is not a vector, but a data frame 
+  # verify the data used as input is a data frame object (tibble). 
+  df <- tibble(variable = data)
+  # create the table with desc stats
+  table <- df %>% 
+    summarize(
+      Mean = mean(variable, na.rm = TRUE), 
+      Median = median(variable, na.rm = TRUE), 
+      SD = sd(variable, na.rm = TRUE), 
+      VAR = var(variable, na.rm = TRUE)
+    ) 
+  
+  return(table)
+}
+
+```
+
+
+```{r}
+# test the function 
+desc_table2(
+  data = fastfood$calories
+)
+
+```
+
+
+
+3.	Use your user written function to obtain the descriptive statistics of the variables: i) calories, ii) cholesterol, iii) protein, and iv) sugar. Use lapply and bind_rows to visualize the output in one data frame. Add a column with the variable names to identify the output of each row. 
+
+```{r}
+# using base R
+data_list <- list(fastfood$calories, 
+                  fastfood$cholesterol, 
+                  fastfood$protein, 
+                  fastfood$sugar)
+
+# we can use lapply 
+data_summaries <- lapply(X = data_list, 
+                         FUN = desc_table2)
+
+# merge them using bind_rows
+data_summaries_table <- bind_rows(
+  data_summaries[[1]] %>% mutate(var = "calories"), 
+  data_summaries[[2]] %>% mutate(var = "cholesterol"), 
+  data_summaries[[3]] %>% mutate(var = "protein"), 
+  data_summaries[[4]] %>% mutate(var = "sugar")
+)
+
+data_summaries
+```
+
+
+4.	Use the function ds_summary_stats() from descriptr to compute the descriptive statistics of this new data frame. Compare the results with the output of your user written function. 
+
+```{r}
+descriptr::ds_summary_stats(fastfood %>% select(calories, cholesterol, protein, sugar))
+```
+
+5.	Create a box plot for the distribution of calories on the fast food items across restaturants. On the x-axis show the distribution of “calories” and on the y-axis represent the restaurant. Use appropriate labels, coloring, and other graphics best practices.
+
+```{r}
+boxplot_calories <- fastfood %>% 
+  ggplot(mapping = aes(x = calories, y = restaurant, 
+                       fill = restaurant)) + 
+  geom_boxplot() + 
+  labs(x = "Calories", 
+       title = "Distribution of Calories on Fast Food Items by Restaurant") + 
+  theme_classic()
+
+boxplot_calories
+```
+
+
+6.	Create a scatter plot that shows the correlation between sugar (x-axis) and protein (y-axis) by restaurants on the same panel. Add a specific color for the observations of each restaurant. Use appropriate labels, coloring, and other graphics best practices.  Save this graph in your environment. Hint: where in the aesthetic mapping should you specify that the graph will vary across restaurants? 
+
+```{r}
+scatter_sugar_protein <- fastfood %>% 
+  ggplot(mapping = aes(x = sugar, y = protein, 
+                       color = restaurant)) + 
+  geom_point(size = 1, alpha = 0.5) + 
+  labs(x = "Sugar", y = "Protein", 
+       title = "Correlation of Sugar and Protein on Fast Food by Restaurant")+ 
+  theme_classic()
+
+scatter_sugar_protein
+```
+
+
+7.	Add two lines to your previous scatterplot. A vertical line with the mean of variable sugar, and a horizontal line with the mean of variable cholesterol. Use geom_vline and geom_hline. For these functions you need to specify the xintercept and yintercept as parameters, respectively.
+
+```{r}
+mean_sugar <- fastfood$sugar %>% mean(na.rm = TRUE)
+mean_protein <- fastfood$protein %>% mean(na.rm = TRUE)
+
+scatter_sugar_protein_improved <- scatter_sugar_protein + 
+  geom_vline(xintercept = mean_sugar, color = "navy", linetype = "dashed") + 
+  geom_hline(yintercept = mean_protein, color = "maroon", linetype = "dashed") 
+
+scatter_sugar_protein_improved
+```
+
+
+8.	Export this graph using ggsave into your folder. 
+
+
+```{r}
+ggsave(filename = "scatter_protein_sugar.jpg", 
+       plot = scatter_sugar_protein_improved)
+```
+

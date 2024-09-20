@@ -1,0 +1,120 @@
+---
+title: "V506 R Introductory Lab 2 Exercise – Fall 2024 - Solution"
+author: "Luis Navarro"
+date: "August 2024"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r}
+# run this code on your computer to install all the packages required for the code below 
+if(!require(dplyr)) {install.packages("dplyr")}
+if(!require(pacman)) {install.packages("pacman")}
+if(!require(here)) {install.packages("here")}
+if(!require(rio)) {install.packages("rio")}
+
+library(pacman)
+p_load(dplyr, here, rio)
+
+# Clean the environment 
+rm(list=ls())
+```
+
+
+- 1. Install tidyverse
+
+```{r, echo = TRUE, eval = FALSE}
+install.packages("tidyverse", repos = "http://cran.us.r-project.org")
+library(tidyverse)
+```
+
+- 2. Set your working directory using base R or here. 
+
+```{r, echo = TRUE, eval = TRUE}
+# Base R 
+setwd('/Users/luisenriquenavarro/Library/CloudStorage/OneDrive-IndianaUniversity/V506/Fall24')
+# Verify it 
+getwd()
+```
+
+```{r, echo = TRUE, eval = TRUE}
+# Here 
+v506_path <- here('/Users/luisenriquenavarro/Library/CloudStorage/OneDrive-IndianaUniversity/V506/Fall24')
+# You can create the paths for each folder with this object easily
+lab2_path <- here(v506_path,'Lab2')
+```
+
+
+- 3. Load the autos data 
+
+```{r, echo = TRUE, eval = TRUE}
+# load the data using base R 
+filepath <- '/Users/luisenriquenavarro/Library/CloudStorage/OneDrive-IndianaUniversity/V506/Fall24/'
+filename <- "Lab2/autodata.csv"
+autos_path <- paste(filepath,filename, sep="")
+autos <- read.csv(file = autos_path)
+```
+
+```{r}
+# using here and rio 
+autos <- import(file = here(lab2_path, 'autodata.csv'))
+```
+
+
+- 4. Structure of the data set 
+
+```{r, echo = TRUE, eval = TRUE}
+str(autos)
+summary(autos)
+```
+
+- 5. Create a New Variable 
+
+```{r, echo = TRUE, eval = TRUE}
+autos2 = autos$Price/autos$MPG
+```
+
+- 6. Combine the data sets 
+
+```{r, echo = TRUE, eval = TRUE}
+autos = cbind(autos,autos2)
+names(autos)
+```
+
+- 7. Filter Data sets 
+
+```{r, echo = TRUE, eval = TRUE}
+filter(autos, Price >= 100000)
+subset(autos, Price >= 100000)
+```
+
+
+- 8. Scatter Plot 
+
+```{r, echo = TRUE, eval = TRUE}
+plot(autos$MaxSpeed, autos$Price, main = "Price and Maximum Speed by Car Model", 
+     ylab = "Price ($)", xlab="Maximum Speed (mph)", type="p", col = "red")
+```
+
+- 9. Summary of Statistics 
+
+```{r, echo = TRUE, eval = TRUE}
+mean(autos$MaxSpeed)
+median(autos$MaxSpeed)
+var(autos$MaxSpeed)
+sd(autos$MaxSpeed)
+```
+
+- 10. Export the data set 
+
+```{r, echo = TRUE, eval = TRUE}
+autos2_df <- data.frame(price_mpg = autos2)
+
+# use base R: note this code will save it on the address you set with setwd()
+write.csv(autos2_df, file = "autos2.csv")
+
+# Use rio 
+rio::export(autos2_df, file = here(lab2_path, 'autos2.csv'))
+```
+

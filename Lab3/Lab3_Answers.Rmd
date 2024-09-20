@@ -1,0 +1,196 @@
+---
+title: "V506 R Introductory Lab 3 Exercise – Fall 2024 - Solution"
+author: "Luis Navarro"
+date: "August 2024"
+output:
+  pdf_document:
+    df_print: paged
+---
+
+1.	Install DescTools library. Explore it. Read the help files for functions Freq and Mode. 
+
+```{r, echo = TRUE, eval = FALSE}
+# install DescTools
+install.packages("DescTools")
+?DescTools
+```
+
+
+2.	Load “dplyr”,“ggplot2”, “here” and “DescTools” libraries using “pacman” into your environment. 
+
+```{r}
+# run this code on your computer to install all the packages required for the code below 
+if(!require(dplyr)) {install.packages("dplyr")}
+if(!require(pacman)) {install.packages("pacman")}
+if(!require(here)) {install.packages("here")}
+if(!require(rio)) {install.packages("rio")}
+
+# Load the packages into your environment
+library(pacman)
+p_load(dplyr, ggplot2, here, DescTools)
+
+# Clean the environment 
+rm(list=ls())
+```
+
+
+3.	Ggplot includes the dataset diamonds which has 53940 rows and 10 variables. Load this data set and, using pipes, print out the summary statistics of this dataset. 
+
+```{r}
+# Load diamonds data 
+diamonds_data <- ggplot2::diamonds 
+
+diamonds_data %>% 
+  summary()
+```
+
+
+4.	Use the Freq function to build a frequency table of the variable `cut`. Look at the output and interpret it.
+
+
+```{r}
+# Get the frequency table using Freq from DescTools
+Freq(diamonds_data$cut)
+```
+
+Note that Freq produces as output a data frame with character variables. This is convenient for displaying the results of the analysis. It might be less convenient if you want to manipulate the output from the frequency table. 
+
+Also note you can use pipes for this syntax. Hint: you can use the function `pull` from dplyr to extract the values from cut as a vector (instead of using the dollar sign syntax)
+
+```{r, echo = TRUE, eval = FALSE}
+diamonds_data %>% 
+  # get the data from variable cut as a vector
+  pull(cut) %>% 
+  # compute the frequency table 
+  Freq()
+```
+
+
+An alternative for that, is to use the `tabyl` function from the `janitor` library. 
+
+```{r, echo = TRUE, eval = FALSE}
+# Extra 
+# Install Janitor 
+install.packages("janitor")
+```
+
+```{r}
+library(janitor)
+tabyl(diamonds_data$cut) %>% tibble()
+```
+
+```{r, echo = TRUE, eval = FALSE}
+# also with pipes 
+diamonds_data$cut %>% 
+  # do the frequency table
+  tabyl() %>% 
+  # conver the frequency table to a tibble (data frame) object
+  tibble()
+
+```
+
+
+5.	Find the mode of variable cut. Interpret it using the output from the frequency table computed in the previous question. 
+
+```{r}
+Mode(diamonds_data$cut)
+```
+
+
+6.	Find the mean diamond price and the mean diamond price. Are they different? 
+
+```{r}
+mean_price = mean(diamonds_data$price)
+median_price = median(diamonds_data$price)
+```
+```{r}
+# Show the results. Note you can use paste to create strings of text dependent on your analysis. 
+# Round justs limits the number of decimals of the number 
+paste("Average Price: ", round(mean_price,4), sep = "")
+paste("Median Price: ", round(median_price,4), sep = "")
+
+```
+
+
+7.	Using ggplot(), create a histogram of the price distribution of the diamonds. Does the shape of the distribution make sense given the mean and median price? This chart should follow chart best practices—labels on the axes, a title, an appropriate binwidth, etc.
+
+```{r}
+# note you can use pipes with ggplot. 
+# just be careful with the distinction between pipes and + signs 
+# pipes are for dplyr code 
+# + signs are for ggplot objects and layers 
+price_histogram <- diamonds_data %>% 
+  ggplot(mapping = aes(x = price)) + 
+  geom_histogram(color = "black", fill = "lightblue") + 
+  labs(x = "Price", y = "Count", title = "Distribution of Price") + 
+  theme_minimal()
+
+price_histogram
+```
+
+
+8.	Use the geom_vline layer of ggplot to add vertical lines to depict the mean and median price. Interpret the graph with these new features. 
+
+```{r}
+price_histogram + 
+  geom_vline(xintercept = mean_price, color = "red", linetype = "solid") + 
+  geom_vline(xintercept = median_price, color = "blue", linetype = "dashed") + 
+  # note you can overwrite the theme and other layers 
+  theme_classic()
+```
+
+
+9.	Save a new dataset called diamonds2 where you have added a variable that is equal to 1 if the price of the diamond greater than or equal to the median price. This variable will be equal to 0 if the price of the diamond is below the median price. Call this new variable high_price. (You should use ifelse(), mutate, and pipes to create this variable). 
+
+```{r}
+library(here)
+v506_path <- here("/Users/luisenriquenavarro/Library/CloudStorage/OneDrive-IndianaUniversity/V506/Fall24")
+
+diamonds2 <- diamonds %>% 
+  mutate(high_price = ifelse(price >= median_price, 1, 0))
+
+saveRDS(diamonds2, here(v506_path, 'Lab3', 'diamonds2.Rds'))
+```
+
+
+10.	Using ggplot(), create a scatterplot with carat on the x-axis, price on the y-axis. Use the facet_wrap() to create 5 separate plots for each “cut”.  Again, include the axis titles and a main title. 
+
+```{r}
+# note you can use ggplot without pipes as well 
+scatter_diamonds <- ggplot(data = diamonds_data, 
+         mapping = aes(x = carat, y = price, 
+                       # you can specify individual colors by categories on variable cut
+                       color = cut)) + 
+  geom_point(alpha = 0.5) + 
+  labs(x = "Carat", y = "Price", title = "Correlation between Diamond Price and Quality", subtitle = "Scatterplot of Price and Carat") + 
+  theme_classic() + 
+  facet_wrap(~cut, scales = "free", ncol = 2)
+
+scatter_diamonds
+```
+
+
+11.	Using ggplot(), create a bar chart where the x-axis is the “color” of the diamond. Again, include the axis titles and a main title. 
+
+```{r}
+diamonds_color_bar <- diamonds_data %>% 
+  ggplot(mapping = aes(x = color)) + 
+  # parameters inside are for formatting
+  geom_bar(color = "maroon", fill = "gold", alpha = 0.5) + 
+  labs(x = "Diamond Color", y = "Count of Observations", 
+       title = "Distribution of Diamonds by Color", 
+       subtitle = "Raw count of observations") + 
+  theme_bw()
+
+diamonds_color_bar
+```
+
+Extra: save your graphs 
+
+```{r}
+# Where to store the graph 
+file <- here(v506_path, 'Lab3','scatter_diamonds.jpg')
+# Save the graph 
+ggsave(filename = file, plot = scatter_diamonds)
+```
+

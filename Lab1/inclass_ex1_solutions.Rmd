@@ -1,0 +1,245 @@
+---
+title: "V506 R Introductory Lab Exercise – Fall 2024 - Solution"
+author: "Luis Navarro"
+date: "August 2024"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r, echo = FALSE}
+# Ignore this code. It is to show you how to change the working directory below. 
+setwd('/Users/luisenriquenavarro/Downloads')
+```
+
+
+In this document I lay out the solutions for the in-lab exercise. I strongly recommend for you to run *line-by-line* the code below and understand what is doing. After running each line see what appears in the console and any potential changes in your environment. 
+
+I will provide solutions using base R functions as well as more simple-elegant solutions using the packages described in the lab. 
+
+*1.	Set and confirm your working directory, preferably to your cloud storage folder that you will use for V506.*
+
+Using base R we can use the `getwd` and `setwd` commands. Hint: If your code shows error, check whether you wrote the backslashes correctly. 
+
+- getwd (get working directory): shows the current folder in which R is looking/dropping files. 
+
+- setwd (changes the working directory)
+
+```{r}
+# get wd shows my current directory 
+getwd()
+```
+
+Use setwd to change it to the folder where I store all the V506 materials. 
+
+```{r}
+setwd('/Users/luisenriquenavarro/Library/CloudStorage/OneDrive-IndianaUniversity/V506/Fall24/Lab1')
+```
+
+Verify it changed (or verify is the folder you are using): 
+
+```{r}
+getwd()
+```
+
+You can also use the `here` library to set your master data folder and just set the folder path using the here command. 
+
+```{r install_here, echo = TRUE, eval = FALSE}
+install.packages("here")
+```
+
+```{r}
+library(here)
+```
+
+
+```{r}
+# Create here object. R understands this is an address in your computer. 
+v506_path <- here('/Users/luisenriquenavarro/Library/CloudStorage/OneDrive-IndianaUniversity/V506')
+```
+The benefit of using here is that you can explore the folders easily with the syntax of the `here` function. 
+
+```{r}
+v506_lab1 <- here(v506_path, 'Fall24','Lab1')
+print(v506_lab1)
+```
+
+*2.	Install and load the packages, “rmarkdown”, “dplyr” , and “tidyverse” to R.*
+
+Let's install also the packages we discussed in class. 
+
+```{r eval = FALSE}
+# install packages 
+install.packages("rmarkdown")
+install.packages("tidyverse")
+# install rio: to import/export data. 
+install.packages("rio")
+# install pacman
+install.packages("pacman")
+```
+
+You can load the libraries using the library function. 
+
+```{r}
+library(rmarkdown)
+library(tidyverse)
+library(here)
+library(rio)
+```
+
+Alternatively, you can install `pacman` and use p_load to load all libraries together 
+
+```{r}
+
+# load pacman
+library(pacman)
+
+# use p_load to load all libraries
+p_load(rmarkdown, tidyverse, here, rio)
+```
+
+Verify on the packages tab. The loaded packages should have a checkmark. 
+
+
+*3.Import the Banking.csv file (download from the R Labs>Introductory Lab folder in Canvas and save to your working directory) to a data frame called atm. This file contains the variables indicated below. Confirm that the variables listed below are the same as what you imported using the names() or colnames() function.*
+
+We can load the data using base R read_csv function and creating the file path manually. 
+
+Let's name this data frame: `atm`
+
+```{r}
+# Base R solution 
+banking_filepath <- '/Users/luisenriquenavarro/Library/CloudStorage/OneDrive-IndianaUniversity/V506/Fall24/Lab1/banking.csv'
+
+atm <- read.csv(file = banking_filepath)
+```
+
+We can also do it with `rio` and `here`. Notice I will overwrite the previous objects (i.e. use the same names, and assign new information to them.)
+
+```{r}
+banking_filepath <- here(v506_lab1, 'banking.csv')
+
+atm <- rio::import(file = banking_filepath)
+```
+
+
+*4.	Confirm the structure of the data frame and, using the head() and tail() functions, print the first 8 and last 10 observations in the Console Window.*
+
+The head and tail functions create new data frames with the top or bottom observations in the data frame. 
+
+```{r}
+atm_top8 <- head(atm, n = 8)
+print(atm_top8)
+```
+
+```{r}
+atm_last10 <- tail(atm, n = 10)
+print(atm_last10)
+```
+
+
+*5.	Using the nrow() function, determine the number of rows in the data frame.*
+
+
+Function `nrow` shows the number of rows in the data frame. 
+
+```{r}
+nrow(atm)
+```
+
+
+*6.	Generate and print basic descriptive statistics for the atm data frame.*
+
+The `summary` shows the descriptive statistics of all the columns in a data frame.  
+
+```{r}
+summary(atm)
+```
+
+
+*7.	Create and print a new variable called balatm, which represents the balance per ATM transaction (i.e., balance divided by the number of ATM transactions per month). Make this into a data.frame with 1 column and 60 rows.* 
+
+We need to create a need variable. We can use the dollar sign syntax to do it. 
+
+
+
+```{r}
+# first create vectors of the variables, so you understand how the operation is taking place
+atm_balance <- atm$Balance
+atm_transactions <- atm$ATM
+
+# compute the balance per transaction 
+atm_balance_transcation <- atm_balance/atm_transactions
+
+# we can store this as an independent data frame. In this case, I named this new variable balance_atm in this data frame called atm_balance_transaction_df 
+atm_balance_transcation_df <- data.frame(balance_atm = atm_balance_transcation)
+```
+
+I can also add this variable to my existing data frame. 
+
+```{r}
+atm$balance_atm <- atm$Balance/atm$ATM
+```
+
+
+*8.	Write the balatm vector to your working directory as "balatm.R", and confirm its presence on your storage media.*
+
+We can export using both base R and libraries here and rio. 
+
+Task: export dataframe `atm_balance_transcation_df` to your folder. 
+
+Base R solution: 
+
+```{r}
+# check the help file to verify the syntax of the function
+# you need to specify object x (the data frame you want to export) and the file: where is going to be stored and which name will receive
+# In my case, I created a folder called clean data to store the output from this exercise. 
+export_path <- '/Users/luisenriquenavarro/Library/CloudStorage/OneDrive-IndianaUniversity/V506/Fall24/Lab1/clean_data/atm_balance_transcation_df.csv'
+write.csv(atm_balance_transcation_df, 
+          file = export_path)
+```
+
+Using `rio` and `here` 
+
+```{r}
+export_path <- here(v506_lab1, 'clean_data','atm_balance_transcation_df.csv')
+rio::export(atm_balance_transcation_df, 
+            file = export_path)
+```
+
+
+Extra: try exporting this to an excel and an Rds file. 
+
+Without rio: you will need install the library [writexl](https://cran.r-project.org/web/packages/writexl/writexl.pdf) and use the `write_xlsx` function, which has similar syntax to `write.csv.` For the Rds file, you can use `saveRDS`.
+
+With rio: just change the file extension at the end of the file. 
+
+
+```{r}
+# Excel 
+rio::export(atm_balance_transcation_df, 
+            file = here(v506_lab1, 'clean_data','atm_balance_transcation_df.xlsx'))
+# Rds
+rio::export(atm_balance_transcation_df, 
+            file = here(v506_lab1, 'clean_data','atm_balance_transcation_df.Rds'))
+```
+
+
+*9.	If you have time, transfer your code to an R Markdown program and generate an HTML Report that includes Steps 1-9 above, along with some comments that document various parts of the program.*
+
+If all your code is correct, then you should be able to knit this document into an HTML Report. 
+
+Extra: try knitting into a pdf file. For that, just change the YAML preamble at the top of this document. 
+
+```{r, echo = TRUE, eval = FALSE}
+---
+title: "V506 R Introductory Lab Exercise – Fall 2024 - Solution"
+author: Luis Navarro
+date: August 2024
+output: pdf_document
+---
+```
+
+
+
+
