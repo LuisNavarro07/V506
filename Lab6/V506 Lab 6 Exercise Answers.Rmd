@@ -1,0 +1,107 @@
+---
+title: "FA24 Lab 6 In Class Exercise"
+output:
+  pdf_document:
+---
+
+## Solutions to the Class Exercise 
+
+### 1. Install Packages 
+```{r}
+rm(list = ls())
+library(pacman)
+p_load(ggplot2, dplyr, modelsummary)
+```
+
+
+### 2. Load Data 
+```{r}
+txhousing <- ggplot2::txhousing %>% tibble()
+```
+
+### 3. Data Exploration 
+
+```{r}
+txhousing %>% summary()
+txhousing %>% str()
+```
+
+### 4. Replace NA in variables 
+
+```{r}
+# Before
+# Count missings manually 
+txhousing %>% mutate(sales = is.na(sales)) %>% 
+              mutate(volume = is.na(volume)) %>% 
+              mutate(median = is.na(median)) %>% 
+              mutate(listings = is.na(listings)) %>% 
+              mutate(inventory = is.na(inventory)) %>% 
+              summarize(sales     = sum(sales),
+                        volume    = sum(volume),
+                        median    = sum(median),
+                        listings  = sum(listings),
+                        inventory = sum(inventory)) %>% t()
+```
+
+
+```{r}
+# After
+txhousing_clean <- txhousing %>% replace(is.na(.),0)
+# Count missings manually 
+txhousing_clean %>% mutate(sales = is.na(sales)) %>% 
+              mutate(volume = is.na(volume)) %>% 
+              mutate(median = is.na(median)) %>% 
+              mutate(listings = is.na(listings)) %>% 
+              mutate(inventory = is.na(inventory)) %>% 
+              summarize(sales     = sum(sales),
+                        volume    = sum(volume),
+                        median    = sum(median),
+                        listings  = sum(listings),
+                        inventory = sum(inventory)) %>% t()
+```
+
+### 5. Summarize
+
+```{r}
+txhousing_year <- txhousing_clean %>% dplyr::group_by(city,year) %>% 
+                                      dplyr::summarize(sales     = mean(sales, na.rm =TRUE),
+                                                volume    = mean(volume, na.rm =TRUE),
+                                                median    = mean(median, na.rm =TRUE),
+                                                listings  = mean(listings, na.rm =TRUE),
+                                                inventory = mean(inventory, na.rm =TRUE))
+txhousing_year %>% head(n=10)
+```
+
+### 6. Scatterplot 
+
+```{r}
+txhousing_year %>% ggplot(mapping = aes(x = sales, y = median, color = year)) + 
+                   geom_point(alpha = 0.5) + 
+                   labs(x = "Sales", y = "Median Price", title = "Sales and Median Price") + 
+                   theme_bw()
+```
+
+### 7. Histogram 
+
+```{r}
+txhousing_year %>% ggplot(mapping = aes(x = median, fill = year, color = year)) + 
+                   geom_histogram() + facet_wrap(~year) +
+                   labs(x = "Median price", y = "Count", title = "Median Price by Year") + 
+                   theme_bw()
+```
+
+### 8. Filter by Year 
+
+```{r}
+txhousing_year07 <- txhousing_year %>% dplyr::filter(year >= 2007 & year <= 2009)
+txhousing_year07 %>% head(n=10)
+```
+
+
+### 9. Mean Estimation and Confidence Interval 
+
+```{r}
+t.test(txhousing_clean$median, mu = 0)
+lm(median ~ 1, data = txhousing_clean) %>% summary()
+```
+
